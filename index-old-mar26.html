@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AeroQuiz - Prácticas Gamificadas</title>
+
+  <link rel="icon" href="aeroquiz.png" type="image/png" />
+  <!-- o si usas formato .ico -->
+  <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
+
+  <!-- <link rel="stylesheet" href="./styles.css" /> -->
+  <style>
+    :root {
+      --bg-color: #ffffff;
+      --text-color: #000000;
+      --btn-bg: #0077cc;
+      --btn-text: #ffffff;
+      --card-bg: #cfcfcf;
+    }
+
+    body.dark {
+      --bg-color: #121212;
+      --text-color: #eaeaea;
+      --btn-bg: #3399ff;
+      --btn-text: #000000;
+      --card-bg: #192c46;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      font-family: Arial, sans-serif;
+      padding-top: 60px;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    .cortinilla-content {
+      display: none;
+      margin-top: 5px;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      padding: 8px;
+      border-radius: 4px;
+      font-size: 0.8rem;
+    }
+
+    input[type="radio"] {
+      accent-color: #0004ff;
+    }
+
+    input[type="radio"]:disabled {
+      accent-color: red;
+      border-color: red
+    }
+
+    label+input[type="radio"]:disabled {
+      color: #ff0000;
+    }
+
+    h3 {
+      color: var(--text-color);
+      font-family: sans-serif;
+      padding: 20px 0px 0 0;
+    }
+
+    h2 {
+      color: var(--text-color);
+      font-family: fantasy;
+      padding: 0 20px 0 0;
+    }
+
+    #cargarJSONBtn {
+      background: linear-gradient(135deg, #27ae60, #2ecc71);
+      font-weight: bold;
+      height: 40px;
+    }
+
+    #menubar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 98%;
+      background: var(--card-bg);
+      padding: 10px;
+      margin: 0px;
+      border-radius: 0 8px;
+      display: flex;
+      align-items: center;
+      z-index: 1000;
+      height: auto;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    #menubar button {
+      font-size: 0.9em;
+      cursor: pointer;
+      border-radius: 5px;
+      height: 40px;
+    }
+
+    button {
+      background-color: var(--btn-bg);
+      color: var(--btn-text);
+      border: none;
+      padding: 6px 12px;
+      margin: 4px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .pregunta {
+      background-color: var(--card-bg);
+      border-radius: 12px;
+      padding: 10px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .pregunta p {
+      font-size: 1.25em;
+      line-height: 1.5em;
+      margin: 0 0 15px 0;
+    }
+
+    .opcion {
+      margin-left: 20px;
+      font-size: 1.2em;
+      display: block;
+    }
+
+    .pregunta-buttons-container {
+      display: flex;
+      background-color: #0077cc57;
+      color: var(--btn-text);
+      border: none;
+      border-radius: 8px;
+      font-weight: bold;
+      cursor: pointer;
+      margin-top: 10px;
+      justify-content: space-between;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div id="menubar">
+
+    <h2>AeroQuiz</h2>
+
+
+    <input type="file" id="jsonFile" accept=".json" style="display: none" />
+
+    <button id="cargarJSONBtn" onclick="document.getElementById('jsonFile').click()">Cargar preguntas</button>
+
+
+    <button id="resetAllBtn">RESET-ALL</button>
+    <!-- <button id="newRoundBtn">NEW ROUND</button> -->
+    <div class="marcador">
+      ✅ <span id="aciertos">0</span> / ❌ <span id="errores">0</span>
+    </div>
+    <!-- Botón de tema -->
+    <button id="toggleThemeBtn">🌙</button>
+  </div>
+
+  <p id="mensajeJSON">
+    Selecciona tu archivo JSON para cargar las preguntas.
+  </p>
+
+  <div id="contenido"></div>
+
+  <script>
+    /* Estado global */
+    let currentJSONData = null;
+    let aciertos = 0;
+    let errores = 0;
+    /* Estructura: usados[qid] = { estado: "correcto"|"incorrecto", seleccion: "valor" } */
+    let usados = {};
+    let jsonKey = null;
+
+    /* Elementos DOM referenciados */
+    const aciertosSpan = document.getElementById("aciertos");
+    const erroresSpan = document.getElementById("errores");
+    const contenidoDiv = document.getElementById("contenido");
+    const mensajeJSON = document.getElementById("mensajeJSON");
+    const jsonInput = document.getElementById("jsonFile");
+    const toggleThemeBtn = document.getElementById("toggleThemeBtn");
+    const resetAllBtn = document.getElementById("resetAllBtn");
+    resetAllBtn.addEventListener("click", resetAll);
+
+    /* ---------- Cambiar tema ---------- */
+    function setTheme(theme) {
+      document.body.classList.toggle("dark", theme === "dark");
+      toggleThemeBtn.textContent = theme === "dark" ? "☀️" : "🌙";
+      localStorage.setItem("theme", theme);
+    }
+    toggleThemeBtn.addEventListener("click", () => {
+      const newTheme = document.body.classList.contains("dark")
+        ? "light"
+        : "dark";
+      setTheme(newTheme);
+    });
+    // Inicializar tema
+    const savedTheme = localStorage.getItem("theme") || "light";
+    setTheme(savedTheme);
+
+    function cargarPreguntas(data) {
+      contenidoDiv.innerHTML = "";
+      mensajeJSON.style.display = "none";
+
+      for (const seccion in data) {
+        const sec = document.createElement("section");
+        const h2 = document.createElement("h3");
+        h2.textContent = seccion;
+        sec.appendChild(h2);
+
+        const pregs = data[seccion];
+        for (let i = 0; i < pregs.length; i++) {
+          const p = pregs[i];
+          const qid = seccion + "-" + i;
+          const estadoPrevio = usados[qid];
+
+          const card = document.createElement("div");
+          card.className = "pregunta";
+
+          const preguntaP = document.createElement("p");
+          preguntaP.textContent = p.texto;
+          card.appendChild(preguntaP);
+
+          for (let j = 0; j < p.opciones.length; j++) {
+            const opt = p.opciones[j];
+            const label = document.createElement("label");
+            const input = document.createElement("input");
+            input.type = "radio";
+            input.name = qid;
+            input.value = opt;
+            if (estadoPrevio) {
+              if (estadoPrevio.seleccion === opt) {
+                input.checked = true;
+              }
+              if (estadoPrevio.estado === "correcto") {
+                input.disabled = true;
+              }
+            }
+            label.className = "opcion";
+            label.appendChild(input);
+            label.append(" " + opt);
+            card.appendChild(label);
+            card.appendChild(document.createElement("br"));
+          }
+
+          const btnDiv = document.createElement("div");
+          btnDiv.className = "pregunta-buttons-container";
+          const comprobarBtn = document.createElement("button");
+          comprobarBtn.textContent = "Comprobar";
+          comprobarBtn.addEventListener("click", () =>
+            verificar(qid, p.respuesta, p.referencia, p.explicacion)
+          );
+          btnDiv.appendChild(comprobarBtn);
+
+          // const redoBtn = document.createElement("button");
+          // redoBtn.textContent = "REDO";
+          // btnDiv.appendChild(redoBtn);
+          card.appendChild(btnDiv);
+
+          const resDiv = document.createElement("div");
+          resDiv.id = "res-" + qid;
+          resDiv.style.marginTop = "8px";
+          if (estadoPrevio) {
+            if (estadoPrevio.estado === "correcto") {
+              resDiv.textContent = "✔ Correcto";
+              resDiv.style.color = "green";
+            }
+            if (estadoPrevio.estado === "incorrecto") {
+              resDiv.textContent = "✘ Incorrecto";
+              resDiv.style.color = "red";
+            }
+          }
+          card.appendChild(resDiv);
+
+          if (p.referencia || p.explicacion) {
+            const cortinilla = document.createElement("div");
+            const toggleBtn = document.createElement("button");
+            toggleBtn.textContent = "Ver detalles";
+            toggleBtn.addEventListener("click", () => toggleCortinilla(qid));
+            cortinilla.appendChild(toggleBtn);
+
+            const cortContent = document.createElement("div");
+            cortContent.id = "cort-" + qid;
+            cortContent.className = "cortinilla-content";
+            if (estadoPrevio && estadoPrevio.estado === "correcto") {
+              cortContent.style.display = "block";
+            }
+            if (p.referencia) {
+              const refP = document.createElement("p");
+              refP.textContent = "Referencia: " + p.referencia;
+              cortContent.appendChild(refP);
+            }
+            if (p.explicacion) {
+              const expP = document.createElement("p");
+              expP.textContent = "Explicación: " + p.explicacion;
+              cortContent.appendChild(expP);
+            }
+            cortinilla.appendChild(cortContent);
+            card.appendChild(cortinilla);
+          }
+
+          sec.appendChild(card);
+        }
+
+        contenidoDiv.appendChild(sec);
+      }
+    }
+
+    /* ---------- VERIFICAR RESPUESTA (maneja transiciones de estado) ---------- */
+    function verificar(qid, correcta) {
+      // Selected input (value is escaped string from HTML)
+      const sel = document.querySelector(`input[name="${qid}"]:checked`);
+      const resDiv = document.getElementById("res-" + qid);
+      if (!sel) {
+        resDiv.innerHTML =
+          '<span class="incorrecto">Selecciona una opción</span>';
+        return;
+      }
+
+      const seleccion = unescapeHtml(sel.value);
+      const prev = usados[qid];
+
+      if (prev && prev.estado === "correcto") {
+        // Ya estaba correcta: no contar otra vez
+        resDiv.innerHTML = '<span class="correcto">✔ Correcto</span>';
+        return;
+      }
+
+      if (seleccion === correcta) {
+        // Nuevo acierto
+        if (prev && prev.estado === "incorrecto") {
+          // Corrige un error previo: decrementa errores y suma aciertos
+          errores = Math.max(0, errores - 1);
+          aciertos++;
+        } else if (!prev) {
+          aciertos++;
+        }
+        usados[qid] = { estado: "correcto", seleccion };
+        resDiv.innerHTML = '<span class="correcto">✔ Correcto</span>';
+
+        // desactivar todas las opciones de esa pregunta para evitar cambios
+        const inputs = document.getElementsByName(qid);
+        inputs.forEach((inp) => (inp.disabled = true));
+      } else {
+        // Respuesta incorrecta
+        if (!prev) {
+          // primer intento: sumar error
+          errores++;
+          usados[qid] = { estado: "incorrecto", seleccion };
+        } else if (prev.estado === "incorrecto") {
+          // ya era incorrecta: actualizar selección (no cambiar contador)
+          usados[qid].seleccion = seleccion;
+        } else {
+          // improbable: prev.correcto -> no entraría porque correctas están deshabilitadas
+          usados[qid] = { estado: "incorrecto", seleccion };
+        }
+        resDiv.innerHTML = '<span class="incorrecto">✘ Incorrecto</span>';
+        // dejar inputs activos para permitir reintentos
+      }
+
+      // actualizar vistas y persistir
+      aciertosSpan.textContent = aciertos;
+      erroresSpan.textContent = errores;
+      guardarEstado();
+    }
+
+    function toggleCortinilla(qid) {
+      const cort = document.getElementById("cort-" + qid);
+      if (!cort) {
+        return;
+      }
+      if (cort.style.display === "none" || cort.style.display === "") {
+        cort.style.display = "block";
+      } else {
+        cort.style.display = "none";
+      }
+    }
+
+    /* ---------- GUARDAR / RESTAURAR ESTADO ---------- */
+    function guardarEstado() {
+      if (!jsonKey) return;
+      localStorage.setItem(
+        jsonKey,
+        JSON.stringify({ aciertos, errores, usados })
+      );
+      localStorage.setItem("ultimoJSON", jsonKey);
+    }
+
+    function resetAll() {
+      console.log("RESET-ALL clicked");
+
+      usados = {};
+      aciertos = 0;
+      errores = 0;
+
+      aciertosSpan.textContent = aciertos;
+      erroresSpan.textContent = errores;
+
+      guardarEstado();
+
+      if (currentJSONData) {
+        cargarPreguntas(currentJSONData);
+      }
+
+      /*console.log("RESET-ALL clicked");
+      usados = {};
+      aciertos = 0;
+      errores = 0;
+      aciertosSpan.textContent = aciertos;
+      erroresSpan.textContent = errores;
+      guardarEstado();
+      // Re-render current loaded JSON if jsonKey available and file accessible via fetch
+      // (If loaded by input file, user can re-select to update UI)
+      if (jsonKey) {
+        const estado = JSON.parse(localStorage.getItem(jsonKey));
+        if (estado) {
+          aciertos = estado.aciertos || 0;
+          errores = estado.errores || 0;
+          usados = estado.usados || {};
+          aciertosSpan.textContent = aciertos;
+          erroresSpan.textContent = errores;
+        }
+        fetch("./" + jsonKey)
+          .then((resp) => {
+            if (!resp.ok)
+              throw new Error(resp.status + " " + resp.statusText);
+            return resp.json();
+          })
+          .then((data) => {
+            cargarPreguntas(data);
+          })
+          .catch((err) => {
+            console.log(
+              "No se pudo recargar automáticamente el JSON mediante fetch:",
+              err
+            );
+          });
+      }*/
+    }
+
+    /* ---------- Manejador de input file ---------- */
+    jsonInput.addEventListener("change", (event) => {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      jsonKey = file.name.trim();
+
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        try {
+          const data = JSON.parse(e.target.result);
+          currentJSONData = data;
+
+          // Restaurar estado previo (si existe)
+          const estadoPrevio = JSON.parse(localStorage.getItem(jsonKey));
+          if (estadoPrevio) {
+            aciertos = estadoPrevio.aciertos || 0;
+            errores = estadoPrevio.errores || 0;
+            usados = estadoPrevio.usados || {};
+          } else {
+            aciertos = 0;
+            errores = 0;
+            usados = {};
+          }
+          aciertosSpan.textContent = aciertos;
+          erroresSpan.textContent = errores;
+
+          cargarPreguntas(data);
+          guardarEstado();
+        } catch (err) {
+          alert("Error leyendo o parseando el JSON: " + err);
+          console.error(err);
+        }
+      };
+      reader.readAsText(file);
+    });
+
+    /* ---------- ONLOAD: intentar cargar último JSON vía fetch (si está disponible en servidor) ---------- */
+    window.onload = () => {
+      const ultimoJSON = localStorage.getItem("ultimoJSON");
+      console.log("ultimoJSON:", ultimoJSON);
+
+      if (!ultimoJSON) return;
+
+      jsonKey = ultimoJSON.trim();
+
+      // Restablecer contadores desde estado guardado (si existe)
+      const estado = JSON.parse(localStorage.getItem(jsonKey));
+      if (estado) {
+        aciertos = estado.aciertos || 0;
+        errores = estado.errores || 0;
+        usados = estado.usados || {};
+        aciertosSpan.textContent = aciertos;
+        erroresSpan.textContent = errores;
+      }
+
+      // Intentar fetch (solo funciona si el archivo está accesible en servidor)
+      fetch("./" + jsonKey)
+        .then((resp) => {
+          if (!resp.ok) throw new Error(resp.status + " " + resp.statusText);
+          return resp.json();
+        })
+        .then((data) => {
+          cargarPreguntas(data);
+          guardarEstado();
+        })
+        .catch((err) => {
+          // Si no puede hacer fetch (archivo local no accesible), solo informar en consola.
+          console.log("No se pudo cargar automáticamente el JSON mediante fetch:", err);
+          // La UI muestra el estado (contadores) pero NO las preguntas hasta que el usuario cargue el archivo manualmente.
+        });
+    };
+
+    /* ---------- Utilidades para escapar / des-escapar HTML en valores (seguridad y consistencia) ---------- */
+    function escapeHtml(str) {
+      if (typeof str !== "string") return str;
+      return str
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#39;");
+    }
+    function unescapeHtml(str) {
+      if (typeof str !== "string") return str;
+      return str
+        .replaceAll("&amp;", "&")
+        .replaceAll("&lt;", "<")
+        .replaceAll("&gt;", ">")
+        .replaceAll("&quot;", '"')
+        .replaceAll("&#39;", "'");
+    }
+    function escapeJs(str) {
+      // escapar comillas para inyección al construir onclick string
+      if (typeof str !== "string") return str;
+      return str.replace(/'/g, "\\'").replace(/"/g, '\\"');
+    }
+
+  </script>
+</body>
+
+</html>

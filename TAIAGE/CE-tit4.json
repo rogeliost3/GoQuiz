@@ -1,0 +1,1205 @@
+{
+  "CE. Título IV - Del Gobierno y de la Administración": [
+    {
+      "texto": "1. ¿Qué artículo de la Constitución abre el Título IV, 'Del Gobierno y de la Administración'?",
+      "opciones": [
+        "A) Artículo 96.",
+        "B) Artículo 97.",
+        "C) Artículo 98.",
+        "D) Artículo 103."
+      ],
+      "respuesta": "B) Artículo 97.",
+      "referencia": "Tit4, Art97, pág. 96",
+      "explicacion": "El Título IV comienza con el artículo 97, que define las funciones del Gobierno. Texto: 'Artículo 97. El Gobierno dirige la política interior y exterior...'"
+    },
+    {
+      "texto": "2. ¿Cuántos artículos comprende el Título IV de la Constitución Española?",
+      "opciones": [
+        "A) 9 artículos.",
+        "B) 10 artículos.",
+        "C) 11 artículos.",
+        "D) 12 artículos."
+      ],
+      "respuesta": "C) 11 artículos.",
+      "referencia": "Tit4, Art97-107, pág. 96-105",
+      "explicacion": "El Título IV abarca desde el artículo 97 hasta el 107 inclusive. Texto: 'TÍTULO IV. Del Gobierno y de la Administración'."
+    },
+    {
+      "texto": "3. Según el artículo 97, ¿quién ejerce la función ejecutiva y la potestad reglamentaria?",
+      "opciones": [
+        "A) El Jefe del Estado.",
+        "B) Las Cortes Generales.",
+        "C) El Gobierno.",
+        "D) La Administración Pública."
+      ],
+      "respuesta": "C) El Gobierno.",
+      "referencia": "Tit4, Art97, pág. 96",
+      "explicacion": "Al Gobierno le corresponde la función ejecutiva y la potestad reglamentaria. Texto: 'Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes'."
+    },
+    {
+      "texto": "4. ¿De qué miembros se compone necesariamente el Gobierno según el artículo 98.1?",
+      "opciones": [
+        "A) Presidente, Vicepresidentes y Secretarios de Estado.",
+        "B) Presidente, Ministros y demás miembros que establezca la ley.",
+        "C) Presidente, Vicepresidentes, Ministros y Portavoz.",
+        "D) Presidente y Consejo de Ministros exclusivamente."
+      ],
+      "respuesta": "B) Presidente, Ministros y demás miembros que establezca la ley.",
+      "referencia": "Tit4, Art98.1, pág. 96",
+      "explicacion": "Los Vicepresidentes son opcionales ('en su caso'). Texto: '1. El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley'."
+    },
+    {
+      "texto": "5. ¿A quién corresponde dirigir la acción del Gobierno y coordinar las funciones de sus miembros?",
+      "opciones": [
+        "A) Al Rey.",
+        "B) Al Vicepresidente primero.",
+        "C) Al Presidente del Gobierno.",
+        "D) Al Ministro de la Presidencia."
+      ],
+      "respuesta": "C) Al Presidente del Gobierno.",
+      "referencia": "Tit4, Art98.2, pág. 96",
+      "explicacion": "El Presidente lidera y coordina al equipo gubernamental. Texto: '2. El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo...'"
+    },
+    {
+      "texto": "6. ¿Qué función representativa pueden ejercer los miembros del Gobierno según el artículo 98.3?",
+      "opciones": [
+        "A) Ninguna, el cargo es de dedicación exclusiva.",
+        "B) Las propias del mandato parlamentario.",
+        "C) Cargos directivos en partidos políticos.",
+        "D) Representación en consejos de administración públicos."
+      ],
+      "respuesta": "B) Las propias del mandato parlamentario.",
+      "referencia": "Tit4, Art98.3, pág. 97",
+      "explicacion": "Solo se permite la compatibilidad con el acta de parlamentario. Texto: '3. Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario...'"
+    },
+    {
+      "texto": "7. ¿Quién propone al Rey el candidato a la Presidencia del Gobierno tras la renovación del Congreso?",
+      "opciones": [
+        "A) El Presidente del Congreso.",
+        "B) El Presidente del Senado.",
+        "C) El Rey.",
+        "D) La Junta Electoral Central."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit4, Art99.1, pág. 97",
+      "explicacion": "El Rey propone al candidato tras las consultas pertinentes. Texto: '1. ...el Rey, previa consulta con los representantes designados por los Grupos políticos... propondrá un candidato...'"
+    },
+    {
+      "texto": "8. ¿A través de qué autoridad propone el Rey el candidato a Presidente del Gobierno?",
+      "opciones": [
+        "A) Del Presidente del Gobierno saliente.",
+        "B) Del Presidente del Congreso.",
+        "C) Del Jefe de su Casa Real.",
+        "D) Del Ministro de Justicia como Notario Mayor."
+      ],
+      "respuesta": "B) Del Presidente del Congreso.",
+      "referencia": "Tit4, Art99.1, pág. 97",
+      "explicacion": "El cauce de comunicación es el Presidente de la Cámara Baja. Texto: '...y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno'."
+    },
+    {
+      "texto": "9. ¿Qué debe exponer el candidato propuesto ante el Congreso para solicitar la confianza?",
+      "opciones": [
+        "A) La lista de sus ministros.",
+        "B) El programa político del Gobierno.",
+        "C) El presupuesto del Estado.",
+        "D) Su currículum profesional."
+      ],
+      "respuesta": "B) El programa político del Gobierno.",
+      "referencia": "Tit4, Art99.2, pág. 98",
+      "explicacion": "Es el discurso de investidura. Texto: '2. El candidato propuesto... expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar...'"
+    },
+    {
+      "texto": "10. ¿Qué mayoría se requiere para que el candidato sea nombrado Presidente en la primera votación?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría de dos tercios.",
+        "C) Mayoría absoluta.",
+        "D) Mayoría de tres quintos."
+      ],
+      "respuesta": "C) Mayoría absoluta.",
+      "referencia": "Tit4, Art99.3, pág. 98",
+      "explicacion": "Se requiere el voto de la mitad más uno de los miembros. Texto: '3. Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza...'"
+    },
+    {
+      "texto": "11. Si no se alcanza mayoría absoluta, ¿cuánto tiempo debe transcurrir para una nueva votación?",
+      "opciones": [
+        "A) 24 horas.",
+        "B) 48 horas.",
+        "C) 72 horas.",
+        "D) 5 días."
+      ],
+      "respuesta": "B) 48 horas.",
+      "referencia": "Tit4, Art99.3, pág. 98",
+      "explicacion": "La segunda votación se realiza dos días después. Texto: '...se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior...'"
+    },
+    {
+      "texto": "12. ¿Qué mayoría se requiere en la segunda votación de investidura?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Mayoría simple.",
+        "C) Mayoría de un tercio.",
+        "D) La misma que en la primera."
+      ],
+      "respuesta": "B) Mayoría simple.",
+      "referencia": "Tit4, Art99.3, pág. 98",
+      "explicacion": "En segunda vuelta basta con más votos a favor que en contra. Texto: '...y la confianza se entenderá otorgada si obtuviere la mayoría simple'."
+    },
+    {
+      "texto": "13. ¿Qué plazo tiene el Congreso para elegir un Presidente antes de que el Rey disuelva las Cámaras?",
+      "opciones": [
+        "A) Un mes.",
+        "B) Dos meses.",
+        "C) Tres meses.",
+        "D) Seis meses."
+      ],
+      "respuesta": "B) Dos meses.",
+      "referencia": "Tit4, Art99.5, pág. 99",
+      "explicacion": "El plazo computa desde la primera votación. Texto: '5. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza...'"
+    },
+    {
+      "texto": "14. ¿Quién refrenda la disolución de las Cámaras si no se elige Presidente en plazo?",
+      "opciones": [
+        "A) El Presidente del Gobierno en funciones.",
+        "B) El Presidente del Congreso.",
+        "C) El Tribunal Supremo.",
+        "D) El Rey por sí mismo."
+      ],
+      "respuesta": "B) El Presidente del Congreso.",
+      "referencia": "Tit4, Art99.5, pág. 99",
+      "explicacion": "Es una función específica de refrendo parlamentario. Texto: '...el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso'."
+    },
+    {
+      "texto": "15. ¿A propuesta de quién son nombrados los Ministros del Gobierno?",
+      "opciones": [
+        "A) Del Rey.",
+        "B) Del Presidente del Gobierno.",
+        "C) Del Congreso de los Diputados.",
+        "D) Del Consejo de Estado."
+      ],
+      "respuesta": "B) Del Presidente del Gobierno.",
+      "referencia": "Tit4, Art100, pág. 99",
+      "explicacion": "La facultad de proponer el equipo es del Presidente. Texto: 'Artículo 100. Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente'."
+    },
+    {
+      "texto": "16. ¿En qué caso NO cesa el Gobierno según el artículo 101.1?",
+      "opciones": [
+        "A) Tras la celebración de elecciones generales.",
+        "B) Por dimisión de su Presidente.",
+        "C) Por aprobación de una ley orgánica.",
+        "D) Por fallecimiento de su Presidente."
+      ],
+      "respuesta": "C) Por aprobación de una ley orgánica.",
+      "referencia": "Tit4, Art101.1, pág. 100",
+      "explicacion": "El cese está vinculado a la confianza o a la figura del Presidente. Texto: '1. El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria... o por dimisión o fallecimiento de su Presidente'."
+    },
+    {
+      "texto": "17. ¿Hasta cuándo continúa en funciones un Gobierno cesante?",
+      "opciones": [
+        "A) Hasta el día de las elecciones.",
+        "B) Hasta la publicación del cese en el BOE.",
+        "C) Hasta la toma de posesión del nuevo Gobierno.",
+        "D) Durante un máximo de 30 días."
+      ],
+      "respuesta": "C) Hasta la toma de posesión del nuevo Gobierno.",
+      "referencia": "Tit4, Art101.2, pág. 100",
+      "explicacion": "Garantiza la continuidad del poder ejecutivo. Texto: '2. El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno'."
+    },
+    {
+      "texto": "18. ¿Ante qué órgano se exige la responsabilidad criminal del Presidente del Gobierno?",
+      "opciones": [
+        "A) La Audiencia Nacional.",
+        "B) El Tribunal Constitucional.",
+        "C) La Sala de lo Penal del Tribunal Supremo.",
+        "D) El Pleno del Congreso."
+      ],
+      "respuesta": "C) La Sala de lo Penal del Tribunal Supremo.",
+      "referencia": "Tit4, Art102.1, pág. 100",
+      "explicacion": "Es el aforamiento del ejecutivo. Texto: '1. La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo'."
+    },
+    {
+      "texto": "19. ¿Qué fracción de miembros del Congreso se requiere para plantear una acusación de traición contra el Presidente?",
+      "opciones": [
+        "A) Una décima parte.",
+        "B) Una cuarta parte.",
+        "C) La mitad más uno.",
+        "D) Dos tercios."
+      ],
+      "respuesta": "B) Una cuarta parte.",
+      "referencia": "Tit4, Art102.2, pág. 101",
+      "explicacion": "Se requiere un inicio de procedimiento reforzado. Texto: '2. Si la acusación fuere por traición... sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso...'"
+    },
+    {
+      "texto": "20. ¿Qué mayoría del Congreso debe aprobar la acusación por traición contra miembros del Gobierno?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría de dos tercios.",
+        "C) Mayoría absoluta.",
+        "D) Unanimidad."
+      ],
+      "respuesta": "C) Mayoría absoluta.",
+      "referencia": "Tit4, Art102.2, pág. 101",
+      "explicacion": "Tras la iniciativa de 1/4, se vota el acuerdo. Texto: '...y con la aprobación de la mayoría absoluta del mismo'."
+    },
+    {
+      "texto": "21. ¿Es aplicable el indulto real a la responsabilidad criminal de los miembros del Gobierno regulada en el art. 102?",
+      "opciones": [
+        "A) Sí, por prerrogativa de gracia.",
+        "B) No, no será aplicable.",
+        "C) Solo en delitos comunes.",
+        "D) Solo si lo autoriza el Congreso."
+      ],
+      "respuesta": "B) No, no será aplicable.",
+      "referencia": "Tit4, Art102.3, pág. 101",
+      "explicacion": "Se prohíbe el uso del derecho de gracia en estos casos. Texto: '3. La prerrogativa real de gracia no será aplicable a ninguno de los supuestos del presente artículo'."
+    },
+    {
+      "texto": "22. Según el artículo 103.1, ¿cómo sirve la Administración Pública a los intereses generales?",
+      "opciones": [
+        "A) Con discrecionalidad absoluta.",
+        "B) Con objetividad.",
+        "C) Según las directrices del partido mayoritario.",
+        "D) Bajo la supervisión del Rey."
+      ],
+      "respuesta": "B) Con objetividad.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "Es un principio básico de actuación administrativa. Texto: '1. La Administración Pública sirve con objetividad los intereses generales...'"
+    },
+    {
+      "texto": "23. ¿Cuál de estos NO es un principio de actuación de la Administración Pública (art. 103.1)?",
+      "opciones": [
+        "A) Eficacia.",
+        "B) Jerarquía.",
+        "C) Concentración absoluta.",
+        "D) Descentralización."
+      ],
+      "respuesta": "C) Concentración absoluta.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "La Constitución propugna lo contrario: desconcentración. Texto: '...y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación...'"
+    },
+    {
+      "texto": "24. ¿Qué principios rigen el acceso a la función pública según el artículo 103.3?",
+      "opciones": [
+        "A) Solidaridad e igualdad.",
+        "B) Mérito y capacidad.",
+        "C) Experiencia y formación.",
+        "D) Disponibilidad y jerarquía."
+      ],
+      "respuesta": "B) Mérito y capacidad.",
+      "referencia": "Tit4, Art103.3, pág. 102",
+      "explicacion": "Son los pilares del sistema de empleo público. Texto: '3. La ley regulará... el acceso a la función pública de acuerdo con los principios de mérito y capacidad...'"
+    },
+    {
+      "texto": "25. ¿Bajo qué dependencia se encuentran las Fuerzas y Cuerpos de seguridad?",
+      "opciones": [
+        "A) Del Ministerio de Defensa.",
+        "B) Del Gobierno.",
+        "C) Del Rey.",
+        "D) De las Cortes Generales."
+      ],
+      "respuesta": "B) Del Gobierno.",
+      "referencia": "Tit4, Art104.1, pág. 102",
+      "explicacion": "Dependen del poder ejecutivo. Texto: '1. Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno...'"
+    },
+    {
+      "texto": "26. ¿Cuál es la misión de las Fuerzas y Cuerpos de seguridad (art. 104.1)?",
+      "opciones": [
+        "A) Defender la integridad territorial.",
+        "B) Proteger el libre ejercicio de los derechos y libertades.",
+        "C) Dirigir la administración militar.",
+        "D) Garantizar el imperio de la ley penal."
+      ],
+      "respuesta": "B) Proteger el libre ejercicio de los derechos y libertades.",
+      "referencia": "Tit4, Art104.1, pág. 103",
+      "explicacion": "Su misión es la seguridad ciudadana y protección de derechos. Texto: '...tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana'."
+    },
+    {
+      "texto": "27. ¿Qué tipo de ley determinará las funciones de las Fuerzas y Cuerpos de seguridad?",
+      "opciones": [
+        "A) Ley ordinaria.",
+        "B) Ley orgánica.",
+        "C) Real Decreto.",
+        "D) Ley de bases."
+      ],
+      "respuesta": "B) Ley orgánica.",
+      "referencia": "Tit4, Art104.2, pág. 103",
+      "explicacion": "Al afectar a derechos fundamentales, se requiere ley orgánica. Texto: '2. Una ley orgánica determinará las funciones, principios básicos de actuación y estatutos...'"
+    },
+    {
+      "texto": "28. ¿Qué garantiza la ley respecto al acceso de los ciudadanos a archivos y registros administrativos?",
+      "opciones": [
+        "A) Acceso total y sin restricciones.",
+        "B) Acceso libre, salvo seguridad, defensa, delitos e intimidad.",
+        "C) Acceso previo pago de tasas de investigación.",
+        "D) Acceso solo a través de resolución judicial."
+      ],
+      "respuesta": "B) Acceso libre, salvo seguridad, defensa, delitos e intimidad.",
+      "referencia": "Tit4, Art105.b), pág. 104",
+      "explicacion": "Existen límites por intereses superiores. Texto: 'b) El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado...'"
+    },
+    {
+      "texto": "29. ¿Qué órganos controlan la potestad reglamentaria y la legalidad de la actuación administrativa?",
+      "opciones": [
+        "A) El Gobierno.",
+        "B) Las Cortes Generales.",
+        "C) Los Tribunales.",
+        "D) El Consejo de Estado."
+      ],
+      "respuesta": "C) Los Tribunales.",
+      "referencia": "Tit4, Art106.1, pág. 104",
+      "explicacion": "El control judicial es pleno. Texto: '1. Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa...'"
+    },
+    {
+      "texto": "30. ¿En qué caso NO tienen los particulares derecho a indemnización por lesión en sus bienes por servicios públicos?",
+      "opciones": [
+        "A) Por error judicial.",
+        "B) Por negligencia de un funcionario.",
+        "C) En los casos de fuerza mayor.",
+        "D) Por retraso administrativo."
+      ],
+      "respuesta": "C) En los casos de fuerza mayor.",
+      "referencia": "Tit4, Art106.2, pág. 105",
+      "explicacion": "La fuerza mayor excluye la responsabilidad patrimonial de la administración. Texto: '...salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos'."
+    },
+    {
+      "texto": "31. ¿Qué artículo define al Consejo de Estado como supremo órgano consultivo?",
+      "opciones": [
+        "A) Artículo 105.",
+        "B) Artículo 106.",
+        "C) Artículo 107.",
+        "D) Artículo 108."
+      ],
+      "respuesta": "C) Artículo 107.",
+      "referencia": "Tit4, Art107, pág. 105",
+      "explicacion": "Cierra el Título IV. Texto: 'Artículo 107. El Consejo de Estado es el supremo órgano consultivo del Gobierno'."
+    },
+    {
+      "texto": "32. ¿Qué norma regula la composición y competencia del Consejo de Estado?",
+      "opciones": [
+        "A) Ley ordinaria.",
+        "B) Ley orgánica.",
+        "C) Reglamento de las Cortes.",
+        "D) Real Decreto del Presidente."
+      ],
+      "respuesta": "B) Ley orgánica.",
+      "referencia": "Tit4, Art107, pág. 105",
+      "explicacion": "Se requiere el rango más alto de ley. Texto: 'Una ley orgánica regulará su composición y competencia'."
+    },
+    {
+      "texto": "33. ¿Cuál es el último artículo del Título IV?",
+      "opciones": [
+        "A) Artículo 101.",
+        "B) Artículo 104.",
+        "C) Artículo 107.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "C) Artículo 107.",
+      "referencia": "Tit4, Art107, pág. 105",
+      "explicacion": "El Título IV comprende hasta el artículo 107."
+    },
+    {
+      "texto": "34. ¿Qué artículo regula la audiencia de los ciudadanos en la elaboración de disposiciones administrativas?",
+      "opciones": [
+        "A) Artículo 103.",
+        "B) Artículo 104.",
+        "C) Artículo 105.",
+        "D) Artículo 106."
+      ],
+      "respuesta": "C) Artículo 105.",
+      "referencia": "Tit4, Art105.a), pág. 103",
+      "explicacion": "Establece la participación ciudadana en el proceso normativo. Texto: 'Artículo 105. La ley regulará: a) La audiencia de los ciudadanos...'"
+    },
+    {
+      "texto": "35. ¿A qué se somete plenamente la actuación de la Administración Pública?",
+      "opciones": [
+        "A) Al interés del Gobierno.",
+        "B) A la Constitución exclusivamente.",
+        "C) A la ley y al Derecho.",
+        "D) A las resoluciones del Rey."
+      ],
+      "respuesta": "C) A la ley y al Derecho.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "Es el principio de legalidad administrativa. Texto: '...con sometimiento pleno a la ley y al Derecho'."
+    },
+    {
+      "texto": "36. ¿Cómo se crean los órganos de la Administración del Estado?",
+      "opciones": [
+        "A) Por decisión real.",
+        "B) Por Reglamento del Consejo de Ministros.",
+        "C) De acuerdo con la ley.",
+        "D) Por iniciativa de las Cortes."
+      ],
+      "respuesta": "C) De acuerdo con la ley.",
+      "referencia": "Tit4, Art103.2, pág. 102",
+      "explicacion": "La creación de órganos requiere base legal. Texto: '2. Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley'."
+    },
+    {
+      "texto": "37. ¿Qué mayoría de investidura requiere el candidato si la primera votación fue el lunes a las 10:00 y la segunda es el miércoles a las 10:00?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Mayoría simple.",
+        "C) Dos tercios.",
+        "D) Un tercio de los votos."
+      ],
+      "respuesta": "B) Mayoría simple.",
+      "referencia": "Tit4, Art99.3, pág. 98",
+      "explicacion": "Habiendo pasado 48 horas, se aplica la mayoría simple. Texto: '...y la confianza se entenderá otorgada si obtuviere la mayoría simple'."
+    },
+    {
+      "texto": "38. ¿Qué artículo menciona que la ley regulará las peculiaridades del ejercicio del derecho a sindicación de los funcionarios?",
+      "opciones": [
+        "A) Artículo 7.",
+        "B) Artículo 28.",
+        "C) Artículo 103.3.",
+        "D) Artículo 127."
+      ],
+      "respuesta": "C) Artículo 103.3.",
+      "referencia": "Tit4, Art103.3, pág. 102",
+      "explicacion": "Se remite a la ley para los estatutos funcionariales. Texto: '3. La ley regulará... las peculiaridades del ejercicio de su derecho a sindicación...'"
+    },
+    {
+      "texto": "39. ¿Qué artículo garantiza la imparcialidad en el ejercicio de las funciones de los funcionarios?",
+      "opciones": [
+        "A) Artículo 103.1.",
+        "B) Artículo 103.2.",
+        "C) Artículo 103.3.",
+        "D) Artículo 105.c)."
+      ],
+      "respuesta": "C) Artículo 103.3.",
+      "referencia": "Tit4, Art103.3, pág. 102",
+      "explicacion": "La ley debe establecer garantías para evitar la arbitrariedad. Texto: '...y las garantías para la imparcialidad en el ejercicio de sus funciones'."
+    },
+    {
+      "texto": "40. ¿Quién nombra formalmente al Presidente del Gobierno tras obtener la confianza?",
+      "opciones": [
+        "A) El Presidente del Congreso.",
+        "B) El pueblo español.",
+        "C) El Rey.",
+        "D) El Pleno de las Cortes."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit4, Art99.3, pág. 98",
+      "explicacion": "El acto de nombramiento es una función regia. Texto: '...el Rey le nombrará Presidente'."
+    },
+    {
+      "texto": "41. ¿Cuántos apartados tiene el artículo 102?",
+      "opciones": [
+        "A) Un apartado.",
+        "B) Dos apartados.",
+        "C) Tres apartados.",
+        "D) Cuatro apartados."
+      ],
+      "respuesta": "C) Tres apartados.",
+      "referencia": "Tit4, Art102, pág. 100-101",
+      "explicacion": "El artículo 102 consta de los apartados 1, 2 y 3."
+    },
+    {
+      "texto": "42. ¿Qué cargo NO puede ejercer un miembro del Gobierno según el artículo 98.3?",
+      "opciones": [
+        "A) Mandato parlamentario.",
+        "B) Actividad profesional o mercantil.",
+        "C) Funciones del cargo de ministro.",
+        "D) Coordinación gubernamental."
+      ],
+      "respuesta": "B) Actividad profesional o mercantil.",
+      "referencia": "Tit4, Art98.3, pág. 97",
+      "explicacion": "Se prohíbe el lucro privado durante el cargo. Texto: '...ni actividad profesional o mercantil alguna'."
+    },
+    {
+      "texto": "43. El Gobierno dirige la política interior y exterior, la Administración civil y militar y:",
+      "opciones": [
+        "A) El Poder Judicial.",
+        "B) La Corona.",
+        "C) La defensa del Estado.",
+        "D) La legislación orgánica."
+      ],
+      "respuesta": "C) La defensa del Estado.",
+      "referencia": "Tit4, Art97, pág. 96",
+      "explicacion": "Es la tercera función directiva mencionada. Texto: '...y la defensa del Estado'."
+    },
+    {
+      "texto": "44. ¿Qué artículo del Título IV establece que la ley regulará el estatuto de los funcionarios?",
+      "opciones": [
+        "A) Artículo 101.",
+        "B) Artículo 102.",
+        "C) Artículo 103.",
+        "D) Artículo 104."
+      ],
+      "respuesta": "C) Artículo 103.",
+      "referencia": "Tit4, Art103.3, pág. 102",
+      "explicacion": "Contiene la reserva de ley para la función pública. Texto: '3. La ley regulará el estatuto de los funcionarios públicos...'"
+    },
+    {
+      "texto": "45. ¿Quién puede proponer sucesivos candidatos si la primera investidura falla?",
+      "opciones": [
+        "A) El Congreso.",
+        "B) El Rey.",
+        "C) El Presidente saliente.",
+        "D) El partido más votado."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit4, Art99.4, pág. 98",
+      "explicacion": "El proceso se reinicia con la propuesta real. Texto: '4. Si efectuadas las citadas votaciones no se otorgase la confianza... se tramitarán sucesivas propuestas...'"
+    },
+    {
+      "texto": "46. ¿Qué artículo trata sobre el cese del Gobierno?",
+      "opciones": [
+        "A) Artículo 98.",
+        "B) Artículo 99.",
+        "C) Artículo 101.",
+        "D) Artículo 102."
+      ],
+      "respuesta": "C) Artículo 101.",
+      "referencia": "Tit4, Art101, pág. 100",
+      "explicacion": "El artículo 101 enumera las causas de cese. Texto: 'Artículo 101. 1. El Gobierno cesa...'"
+    },
+    {
+      "texto": "47. ¿Qué principio administrativo se refiere a la distribución de competencias en órganos de un mismo ente?",
+      "opciones": [
+        "A) Descentralización.",
+        "B) Desconcentración.",
+        "C) Jerarquía.",
+        "D) Coordinación."
+      ],
+      "respuesta": "B) Desconcentración.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "Es la transferencia de funciones dentro de la misma administración. Texto: '...descentralización, desconcentración y coordinación...'"
+    },
+    {
+      "texto": "48. ¿En qué caso la acusación contra el Gobierno debe ser por iniciativa de la cuarta parte del Congreso?",
+      "opciones": [
+        "A) En cualquier delito común.",
+        "B) Por faltas administrativas graves.",
+        "C) Por traición o delito contra la seguridad del Estado.",
+        "D) Por desacato al Rey."
+      ],
+      "respuesta": "C) Por traición o delito contra la seguridad del Estado.",
+      "referencia": "Tit4, Art102.2, pág. 100",
+      "explicacion": "Se restringe a delitos de especial gravedad política. Texto: '2. Si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado...'"
+    },
+    {
+      "texto": "49. ¿Quién refrenda el nombramiento de los miembros del Gobierno propuestos por el Presidente?",
+      "opciones": [
+        "A) El Presidente del Congreso.",
+        "B) El Presidente del Gobierno.",
+        "C) No requieren refrendo por ser acto libre.",
+        "D) El Rey los refrenda a sí mismo."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit2, Art64.1 y Tit4, Art100, pág. 64, 99",
+      "explicacion": "Los actos del Rey son refrendados por el Presidente. Texto: 'Artículo 64. 1. Los actos del Rey serán refrendados por el Presidente del Gobierno...'."
+    },
+    {
+      "texto": "50. ¿A qué se refiere el artículo 106.1 al hablar de los fines que justifican la actuación administrativa?",
+      "opciones": [
+        "A) Al interés particular de los partidos.",
+        "B) Al sometimiento de la administración a sus fines.",
+        "C) Al control de los sindicatos.",
+        "D) A la soberanía nacional."
+      ],
+      "respuesta": "B) Al sometimiento de la administración a sus fines.",
+      "referencia": "Tit4, Art106.1, pág. 104",
+      "explicacion": "Control de legalidad y finalidad. Texto: '1. Los Tribunales controlan... el sometimiento de ésta a los fines que la justifican'."
+    },
+    {
+      "texto": "51. ¿Cuántos apartados tiene el artículo 105?",
+      "opciones": [
+        "A) Dos apartados.",
+        "B) Tres apartados (a, b y c).",
+        "C) Cuatro apartados.",
+        "D) Solo un párrafo."
+      ],
+      "respuesta": "B) Tres apartados (a, b y c).",
+      "referencia": "Tit4, Art105, pág. 103-104",
+      "explicacion": "El artículo 105 se divide en tres letras: a), b) y c)."
+    },
+    {
+      "texto": "52. ¿Qué artículo prohíbe los Tribunales de Honor en la Administración civil?",
+      "opciones": [
+        "A) Artículo 24.",
+        "B) Artículo 25.",
+        "C) Artículo 26.",
+        "D) Artículo 103."
+      ],
+      "respuesta": "C) Artículo 26.",
+      "referencia": "Tit1, Cap2, Sec1, Art26, pág. 31",
+      "explicacion": "Aunque es del Título I, se vincula a la Administración civil del Título IV. Texto: 'Artículo 26. Se prohíben los Tribunales de Honor en el ámbito de la Administración civil...'."
+    },
+    {
+      "texto": "53. ¿A qué artículo corresponde el principio de jerarquía administrativa?",
+      "opciones": [
+        "A) Artículo 97.",
+        "B) Artículo 98.",
+        "C) Artículo 103.",
+        "D) Artículo 107."
+      ],
+      "respuesta": "C) Artículo 103.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "La jerarquía es un principio del 103.1. Texto: '...actúa de acuerdo con los principios de eficacia, jerarquía...'"
+    },
+    {
+      "texto": "54. Según el artículo 98.4, ¿qué debe regular la ley respecto a los miembros del Gobierno?",
+      "opciones": [
+        "A) Sus vacaciones.",
+        "B) Su estatuto e incompatibilidades.",
+        "C) Su salario mensual.",
+        "D) Su protocolo oficial."
+      ],
+      "respuesta": "B) Su estatuto e incompatibilidades.",
+      "referencia": "Tit4, Art98.4, pág. 97",
+      "explicacion": "Remisión legal para regular su régimen. Texto: '4. La ley regulará el estatuto e incompatibilidades de los miembros del Gobierno'."
+    },
+    {
+      "texto": "55. ¿Qué artículo regula la composición del Gobierno?",
+      "opciones": [
+        "A) Artículo 97.",
+        "B) Artículo 98.",
+        "C) Artículo 99.",
+        "D) Artículo 100."
+      ],
+      "respuesta": "B) Artículo 98.",
+      "referencia": "Tit4, Art98, pág. 96",
+      "explicacion": "El artículo 98 detalla quiénes forman el Gobierno. Texto: 'Artículo 98. 1. El Gobierno se compone del Presidente...'"
+    },
+    {
+      "texto": "56. ¿Qué artículo establece que la ley regulará el procedimiento de los actos administrativos?",
+      "opciones": [
+        "A) Artículo 105.a).",
+        "B) Artículo 105.b).",
+        "C) Artículo 105.c).",
+        "D) Artículo 106.2."
+      ],
+      "respuesta": "C) Artículo 105.c).",
+      "referencia": "Tit4, Art105.c), pág. 104",
+      "explicacion": "Garantiza el debido proceso administrativo. Texto: 'c) El procedimiento a través del cual deben producirse los actos administrativos...'"
+    },
+    {
+      "texto": "57. ¿Quién coordina las funciones de los miembros del Gobierno?",
+      "opciones": [
+        "A) El Ministro de Administraciones Públicas.",
+        "B) El Presidente del Gobierno.",
+        "C) El Rey.",
+        "D) El Jefe de Gabinete."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit4, Art98.2, pág. 96",
+      "explicacion": "Es función directiva del Presidente. Texto: '...y coordina las funciones de los demás miembros del mismo...'"
+    },
+    {
+      "texto": "58. ¿Qué institución NO depende del Gobierno según el Título IV?",
+      "opciones": [
+        "A) La Administración civil.",
+        "B) Las Fuerzas y Cuerpos de seguridad.",
+        "C) El Consejo de Estado.",
+        "D) La Administración militar."
+      ],
+      "respuesta": "C) El Consejo de Estado.",
+      "referencia": "Tit4, Art107, pág. 105",
+      "explicacion": "Es un órgano consultivo, no dependiente jerárquicamente. Texto: 'Artículo 107. El Consejo de Estado es el supremo órgano consultivo del Gobierno'."
+    },
+    {
+      "texto": "59. ¿A qué se refiere el artículo 103.1 con el principio de coordinación?",
+      "opciones": [
+        "A) A la sumisión al Rey.",
+        "B) A la armonización de actuaciones administrativas.",
+        "C) Al control de los presupuestos.",
+        "D) Al nombramiento de cargos."
+      ],
+      "respuesta": "B) A la armonización de actuaciones administrativas.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "Asegura la unidad de acción. Texto: '...desconcentración y coordinación, con sometimiento pleno a la ley...'"
+    },
+    {
+      "texto": "60. ¿Cuál es el rango del Título IV dentro del índice general de la Constitución?",
+      "opciones": [
+        "A) Tercer Título.",
+        "B) Cuarto Título.",
+        "C) Quinto Título.",
+        "D) Sexto Título."
+      ],
+      "respuesta": "B) Cuarto Título.",
+      "referencia": "Índice, pág. 4",
+      "explicacion": "Sigue al Título III (Cortes) y precede al Título V (Relaciones). Texto: 'TÍTULO IV. Del Gobierno y de la Administración'."
+    },
+    {
+      "texto": "61. ¿Qué artículo del Título IV menciona el refrendo del Presidente del Congreso?",
+      "opciones": [
+        "A) Artículo 98.",
+        "B) Artículo 99.",
+        "C) Artículo 100.",
+        "D) Artículo 101."
+      ],
+      "respuesta": "B) Artículo 99.",
+      "referencia": "Tit4, Art99.5, pág. 99",
+      "explicacion": "Refrenda la disolución de Cámaras por falta de investidura. Texto: '...con el refrendo del Presidente del Congreso'."
+    },
+    {
+      "texto": "62. ¿A qué artículo corresponde el derecho de los particulares a ser indemnizados?",
+      "opciones": [
+        "A) Artículo 103.",
+        "B) Artículo 104.",
+        "C) Artículo 106.",
+        "D) Artículo 121."
+      ],
+      "respuesta": "C) Artículo 106.",
+      "referencia": "Tit4, Art106.2, pág. 104",
+      "explicacion": "Regula la responsabilidad patrimonial. Texto: '2. Los particulares... tendrán derecho a ser indemnizados...'"
+    },
+    {
+      "texto": "63. ¿Qué mayoría de investidura se requiere transcurridas 48 horas de la primera votación?",
+      "opciones": [
+        "A) Dos tercios.",
+        "B) Mayoría absoluta.",
+        "C) Mayoría simple.",
+        "D) Mayoría ponderada."
+      ],
+      "respuesta": "C) Mayoría simple.",
+      "referencia": "Tit4, Art99.3, pág. 98",
+      "explicacion": "Se rebaja la exigencia tras el primer intento. Texto: '...y la confianza se entenderá otorgada si obtuviere la mayoría simple'."
+    },
+    {
+      "texto": "64. ¿En qué artículo se menciona que la Administración Pública actúa con sometimiento pleno al Derecho?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 9.1.",
+        "C) Artículo 103.1.",
+        "D) Artículo 106.1."
+      ],
+      "respuesta": "C) Artículo 103.1.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "Define el bloque de legalidad administrativa. Texto: '...con sometimiento pleno a la ley y al Derecho'."
+    },
+    {
+      "texto": "65. ¿Qué artículo del Título IV se dedica a las Fuerzas y Cuerpos de seguridad?",
+      "opciones": [
+        "A) Artículo 8.",
+        "B) Artículo 30.",
+        "C) Artículo 104.",
+        "D) Artículo 105."
+      ],
+      "respuesta": "C) Artículo 104.",
+      "referencia": "Tit4, Art104, pág. 102",
+      "explicacion": "Regula su dependencia y misión. Texto: 'Artículo 104. 1. Las Fuerzas y Cuerpos de seguridad...'"
+    },
+    {
+      "texto": "66. ¿Quién elige el programa político del Gobierno que se presenta en investidura?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Congreso.",
+        "C) El candidato propuesto.",
+        "D) El partido con más escaños."
+      ],
+      "respuesta": "C) El candidato propuesto.",
+      "referencia": "Tit4, Art99.2, pág. 98",
+      "explicacion": "Es su propuesta de acción para ganar la confianza. Texto: '2. El candidato propuesto... expondrá... el programa político del Gobierno que pretenda formar...'"
+    },
+    {
+      "texto": "67. ¿Qué artículo regula las incompatibilidades de los miembros del Gobierno?",
+      "opciones": [
+        "A) Artículo 70.",
+        "B) Artículo 98.3.",
+        "C) Artículo 98.4.",
+        "D) Artículo 102."
+      ],
+      "respuesta": "B) Artículo 98.3.",
+      "referencia": "Tit4, Art98.3, pág. 97",
+      "explicacion": "Enumera las prohibiciones directas. Texto: '3. Los miembros del Gobierno no podrán ejercer otras funciones representativas...'"
+    },
+    {
+      "texto": "68. ¿En qué artículo se establece que la ley regulará la participación efectiva en los centros docentes (vinculado a la administración educativa)?",
+      "opciones": [
+        "A) Artículo 27.7.",
+        "B) Artículo 103.",
+        "C) Artículo 105.",
+        "D) Artículo 129."
+      ],
+      "respuesta": "A) Artículo 27.7.",
+      "referencia": "Tit1, Cap2, Sec1, Art27.7, pág. 33",
+      "explicacion": "Relativo a la gestión administrativa de centros públicos. Texto: '7. Los profesores, los padres y... los alumnos intervendrán en el control y gestión de todos los centros sostenidos por la Administración...'"
+    },
+    {
+      "texto": "69. ¿Quién pone fin a las funciones del Presidente del Gobierno tras su cese?",
+      "opciones": [
+        "A) El Congreso mediante voto.",
+        "B) El Rey.",
+        "C) El nuevo Presidente electo.",
+        "D) El Presidente de la Mesa."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit2, Art62.d) y Tit4, Art101, pág. 62, 100",
+      "explicacion": "El Rey formaliza el cese. Texto: 'Artículo 62. Corresponde al Rey: d) ...así como poner fin a sus funciones en los términos previstos en la Constitución'."
+    },
+    {
+      "texto": "70. ¿Qué artículo prohíbe las sanciones que impliquen privación de libertad por la Administración civil?",
+      "opciones": [
+        "A) Artículo 17.",
+        "B) Artículo 25.3.",
+        "C) Artículo 103.",
+        "D) Artículo 106."
+      ],
+      "respuesta": "B) Artículo 25.3.",
+      "referencia": "Tit1, Cap2, Sec1, Art25.3, pág. 31",
+      "explicacion": "Límite al poder sancionador administrativo. Texto: '3. La Administración civil no podrá imponer sanciones que... impliquen privación de libertad'."
+    },
+    {
+      "texto": "71. ¿A qué se refiere el artículo 103.1 con el principio de eficacia?",
+      "opciones": [
+        "A) Al ahorro económico exclusivamente.",
+        "B) Al cumplimiento de objetivos institucionales.",
+        "C) A la rapidez en los trámites.",
+        "D) A la obediencia al mando superior."
+      ],
+      "respuesta": "B) Al cumplimiento de objetivos institucionales.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "Asegura que la administración sea resolutiva. Texto: '...y actúa de acuerdo con los principios de eficacia...'"
+    },
+    {
+      "texto": "72. ¿Quién dirige la Administración civil y militar según el artículo 97?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Jefe del Estado Mayor.",
+        "C) El Gobierno.",
+        "D) El Ministro del Interior."
+      ],
+      "respuesta": "C) El Gobierno.",
+      "referencia": "Tit4, Art97, pág. 96",
+      "explicacion": "Es la dirección política de la maquinaria estatal. Texto: 'El Gobierno dirige... la Administración civil y militar...'"
+    },
+    {
+      "texto": "73. ¿Qué artículo del Título IV establece que los órganos de la administración son regidos de acuerdo con la ley?",
+      "opciones": [
+        "A) Artículo 102.",
+        "B) Artículo 103.1.",
+        "C) Artículo 103.2.",
+        "D) Artículo 103.3."
+      ],
+      "respuesta": "C) Artículo 103.2.",
+      "referencia": "Tit4, Art103.2, pág. 102",
+      "explicacion": "Reserva de ley para el funcionamiento orgánico. Texto: '2. Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley'."
+    },
+    {
+      "texto": "74. ¿Quién otorga la investidura al candidato propuesto por el Rey?",
+      "opciones": [
+        "A) Las Cortes Generales.",
+        "B) El Congreso de los Diputados.",
+        "C) El Senado.",
+        "D) El Presidente del Congreso."
+      ],
+      "respuesta": "B) El Congreso de los Diputados.",
+      "referencia": "Tit4, Art99.2, pág. 98",
+      "explicacion": "Solo el Congreso vota la investidura. Texto: '2. El candidato... solicitará la confianza de la Cámara [Congreso de los Diputados]'."
+    },
+    {
+      "texto": "75. ¿En qué artículo se menciona que la ley regulará las garantías para la audiencia del interesado en actos administrativos?",
+      "opciones": [
+        "A) Artículo 24.1.",
+        "B) Artículo 105.a).",
+        "C) Artículo 105.c).",
+        "D) Artículo 106.1."
+      ],
+      "respuesta": "C) Artículo 105.c).",
+      "referencia": "Tit4, Art105.c), pág. 104",
+      "explicacion": "Protege al ciudadano frente a decisiones administrativas. Texto: 'c) ...garantizando, cuando proceda, la audiencia del interesado'."
+    },
+    {
+      "texto": "76. ¿Qué artículo establece que el Gobierno ejerce la potestad reglamentaria?",
+      "opciones": [
+        "A) Artículo 66.",
+        "B) Artículo 86.",
+        "C) Artículo 97.",
+        "D) Artículo 103."
+      ],
+      "respuesta": "C) Artículo 97.",
+      "referencia": "Tit4, Art97, pág. 96",
+      "explicacion": "Es la capacidad de dictar normas de rango inferior a la ley. Texto: '...Ejerce la función ejecutiva y la potestad reglamentaria...'"
+    },
+    {
+      "texto": "77. ¿Quién consulta a los Grupos políticos antes de la propuesta de candidato a Presidente?",
+      "opciones": [
+        "A) El Presidente del Congreso.",
+        "B) El Rey.",
+        "C) El Presidente saliente.",
+        "D) El Consejo de Estado."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit4, Art99.1, pág. 97",
+      "explicacion": "Es la ronda de consultas real. Texto: '1. ...el Rey, previa consulta con los representantes designados por los Grupos políticos...'"
+    },
+    {
+      "texto": "78. ¿Qué artículo regula la responsabilidad criminal por delitos contra la seguridad del Estado cometidos por el Gobierno?",
+      "opciones": [
+        "A) Artículo 101.",
+        "B) Artículo 102.",
+        "C) Artículo 103.",
+        "D) Artículo 104."
+      ],
+      "respuesta": "B) Artículo 102.",
+      "referencia": "Tit4, Art102.2, pág. 100",
+      "explicacion": "Supuestos penales específicos para el ejecutivo. Texto: '2. Si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado...'"
+    },
+    {
+      "texto": "79. ¿De qué se compone la Administración según el artículo 97?",
+      "opciones": [
+        "A) Central y Autonómica.",
+        "B) Civil y Militar.",
+        "C) Ejecutiva y Reglamentaria.",
+        "D) General e Institucional."
+      ],
+      "respuesta": "B) Civil y Militar.",
+      "referencia": "Tit4, Art97, pág. 96",
+      "explicacion": "Son las dos vertientes administrativas dirigidas por el Gobierno. Texto: 'El Gobierno dirige... la Administración civil y militar...'"
+    },
+    {
+      "texto": "80. ¿Qué artículo del Título IV establece la jerarquía normativa aplicada a la Administración?",
+      "opciones": [
+        "A) Artículo 9.3.",
+        "B) Artículo 97.",
+        "C) Artículo 103.",
+        "D) Artículo 106."
+      ],
+      "respuesta": "B) Artículo 97.",
+      "referencia": "Tit4, Art97, pág. 96",
+      "explicacion": "El 97 sujeta la potestad reglamentaria a la ley. Texto: '...de acuerdo con la Constitución y las leyes'."
+    },
+    {
+      "texto": "81. ¿En qué artículo se regula la creación de los órganos administrativos?",
+      "opciones": [
+        "A) Artículo 103.1.",
+        "B) Artículo 103.2.",
+        "C) Artículo 103.3.",
+        "D) Artículo 105.a)."
+      ],
+      "respuesta": "B) Artículo 103.2.",
+      "referencia": "Tit4, Art103.2, pág. 102",
+      "explicacion": "Determina que su nacimiento es legal. Texto: '2. Los órganos de la Administración del Estado son creados... de acuerdo con la ley'."
+    },
+    {
+      "texto": "82. ¿A qué se refiere el artículo 103.1 con el principio de descentralización?",
+      "opciones": [
+        "A) Al traspaso de funciones entre órganos de un ente.",
+        "B) Al traspaso de competencias entre entes públicos diferentes.",
+        "C) A la jerarquía de mando.",
+        "D) A la coordinación ministerial."
+      ],
+      "respuesta": "B) Al traspaso de competencias entre entes públicos diferentes.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "Es el principio de reparto territorial o funcional del poder. Texto: '...descentralización, desconcentración y coordinación...'"
+    },
+    {
+      "texto": "83. ¿Qué artículo regula la inamovilidad de los miembros del Tribunal de Cuentas (vinculado al control administrativo)?",
+      "opciones": [
+        "A) Artículo 106.",
+        "B) Artículo 136.3.",
+        "C) Artículo 153.d).",
+        "D) Artículo 159."
+      ],
+      "respuesta": "B) Artículo 136.3.",
+      "referencia": "Tit7, Art136.3, pág. 136",
+      "explicacion": "Los fiscalizadores tienen estatus judicial. Texto: '3. Los miembros del Tribunal de Cuentas gozarán de la misma independencia e inamovilidad... que los Jueces'."
+    },
+    {
+      "texto": "84. ¿Qué artículo garantiza el principio de responsabilidad de los poderes públicos?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 9.3.",
+        "C) Artículo 106.2.",
+        "D) Artículo 121."
+      ],
+      "respuesta": "B) Artículo 9.3.",
+      "referencia": "Tit Preliminar, Art9.3, pág. 15",
+      "explicacion": "Es un principio general que sustenta el 106.2. Texto: '3. La Constitución garantiza... la responsabilidad y la interdicción de la arbitrariedad...'"
+    },
+    {
+      "texto": "85. ¿Cuántas veces aparece la palabra 'objetividad' en el artículo 103.1?",
+      "opciones": [
+        "A) Una vez.",
+        "B) Dos veces.",
+        "C) Tres veces.",
+        "D) Ninguna."
+      ],
+      "respuesta": "A) Una vez.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "Define el servicio a los intereses generales. Texto: '1. La Administración Pública sirve con objetividad los intereses generales...'"
+    },
+    {
+      "texto": "86. ¿En qué artículo se menciona que el Consejo de Estado es el supremo órgano consultivo?",
+      "opciones": [
+        "A) Artículo 104.",
+        "B) Artículo 105.",
+        "C) Artículo 107.",
+        "D) Artículo 115."
+      ],
+      "respuesta": "C) Artículo 107.",
+      "referencia": "Tit4, Art107, pág. 105",
+      "explicacion": "Es la única mención a este órgano en el Título IV. Texto: 'Artículo 107. El Consejo de Estado es el supremo órgano consultivo...'"
+    },
+    {
+      "texto": "87. ¿Qué artículo del Título IV establece la misión de las Fuerzas y Cuerpos de seguridad?",
+      "opciones": [
+        "A) Artículo 8.",
+        "B) Artículo 103.",
+        "C) Artículo 104.",
+        "D) Artículo 105."
+      ],
+      "respuesta": "C) Artículo 104.",
+      "referencia": "Tit4, Art104.1, pág. 103",
+      "explicacion": "Define su rol en democracia. Texto: '...tendrán como misión proteger el libre ejercicio de los derechos y libertades...'"
+    },
+    {
+      "texto": "88. ¿Qué institución nombra al Presidente del Tribunal Supremo a propuesta del CGPJ?",
+      "opciones": [
+        "A) El Gobierno.",
+        "B) El Rey.",
+        "C) Las Cortes Generales.",
+        "D) El Ministro de Justicia."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit6, Art123.2, pág. 119",
+      "explicacion": "Es función del monarca en el ámbito judicial. Texto: '2. El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial...'"
+    },
+    {
+      "texto": "89. ¿Qué artículo trata sobre el acceso a los archivos y registros administrativos?",
+      "opciones": [
+        "A) Artículo 103.",
+        "B) Artículo 104.",
+        "C) Artículo 105.b).",
+        "D) Artículo 106."
+      ],
+      "respuesta": "C) Artículo 105.b).",
+      "referencia": "Tit4, Art105.b), pág. 104",
+      "explicacion": "Es el derecho de acceso a la información administrativa. Texto: 'b) El acceso de los ciudadanos a los archivos y registros administrativos...'"
+    },
+    {
+      "texto": "90. ¿Quién dirige la acción del Gobierno según el artículo 98.2?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Presidente del Gobierno.",
+        "C) El Consejo de Ministros.",
+        "D) El Vicepresidente."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit4, Art98.2, pág. 96",
+      "explicacion": "Ejerce el liderazgo del ejecutivo. Texto: '2. El Presidente dirige la acción del Gobierno...'"
+    },
+    {
+      "texto": "91. ¿Qué mayoría de votos a favor requiere la cuestión de confianza según el Título V (vinculado al cese del art 101)?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Mayoría simple.",
+        "C) Dos tercios.",
+        "D) Unanimidad."
+      ],
+      "respuesta": "B) Mayoría simple.",
+      "referencia": "Tit5, Art112, pág. 107",
+      "explicacion": "Basta con el apoyo ordinario de la Cámara. Texto: '...La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados'."
+    },
+    {
+      "texto": "92. ¿Qué artículo regula la responsabilidad criminal de los miembros del Gobierno ante el Supremo?",
+      "opciones": [
+        "A) Artículo 100.",
+        "B) Artículo 101.",
+        "C) Artículo 102.",
+        "D) Artículo 103."
+      ],
+      "respuesta": "C) Artículo 102.",
+      "referencia": "Tit4, Art102.1, pág. 100",
+      "explicacion": "Establece el fuero especial. Texto: '1. La responsabilidad criminal del Presidente... será exigible... ante la Sala de lo Penal del Tribunal Supremo'."
+    },
+    {
+      "texto": "93. ¿Qué artículo establece que el Gobierno cesa tras las elecciones generales?",
+      "opciones": [
+        "A) Artículo 99.",
+        "B) Artículo 100.",
+        "C) Artículo 101.1.",
+        "D) Artículo 102.1."
+      ],
+      "respuesta": "C) Artículo 101.1.",
+      "referencia": "Tit4, Art101.1, pág. 100",
+      "explicacion": "Es la primera causa de cese mencionada. Texto: '1. El Gobierno cesa tras la celebración de elecciones generales...'"
+    },
+    {
+      "texto": "94. ¿En qué artículo se menciona que la ley orgánica determinará las bases de la organización militar?",
+      "opciones": [
+        "A) Artículo 8.2.",
+        "B) Artículo 97.",
+        "C) Artículo 103.",
+        "D) Artículo 104."
+      ],
+      "respuesta": "A) Artículo 8.2.",
+      "referencia": "Tit Preliminar, Art8.2, pág. 14",
+      "explicacion": "Aunque es Preliminar, afecta a la administración militar del Título IV. Texto: '2. Una ley orgánica regulará las bases de la organización militar...'"
+    },
+    {
+      "texto": "95. ¿Quién puede proponer al Rey el nombramiento de los miembros del Gobierno?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Presidente del Gobierno.",
+        "C) El Congreso.",
+        "D) El Vicepresidente."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit4, Art100, pág. 100",
+      "explicacion": "Es una facultad discrecional del Presidente. Texto: '...serán nombrados y separados por el Rey, a propuesta de su Presidente'."
+    },
+    {
+      "texto": "96. ¿A qué Cámara se presentan los Presupuestos Generales del Estado al menos tres meses antes de fin de año?",
+      "opciones": [
+        "A) Al Senado.",
+        "B) Al Congreso de los Diputados.",
+        "C) A las Cortes en sesión conjunta.",
+        "D) Al Rey para su sanción."
+      ],
+      "respuesta": "B) Al Congreso de los Diputados.",
+      "referencia": "Tit7, Art134.3, pág. 129",
+      "explicacion": "El Congreso tiene primacía presupuestaria. Texto: '3. El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado...'"
+    },
+    {
+      "texto": "97. ¿En qué artículo se establece que la Administración actúa de acuerdo con el principio de eficacia?",
+      "opciones": [
+        "A) Artículo 31.2.",
+        "B) Artículo 103.1.",
+        "C) Artículo 106.1.",
+        "D) Artículo 131."
+      ],
+      "respuesta": "B) Artículo 103.1.",
+      "referencia": "Tit4, Art103.1, pág. 101",
+      "explicacion": "La eficacia es principio motor de la administración. Texto: '...actúa de acuerdo con los principios de eficacia...'"
+    },
+    {
+      "texto": "98. ¿Qué artículo regula la composición del Consejo General del Poder Judicial (mencionado por la propuesta del art 123.2)?",
+      "opciones": [
+        "A) Artículo 117.",
+        "B) Artículo 122.",
+        "C) Artículo 124.",
+        "D) Artículo 159."
+      ],
+      "respuesta": "B) Artículo 122.",
+      "referencia": "Tit6, Art122.2, pág. 118",
+      "explicacion": "El CGPJ es el órgano de gobierno de los jueces. Texto: '2. El Consejo General del Poder Judicial es el órgano de gobierno del mismo'."
+    },
+    {
+      "texto": "99. ¿Qué artículo del Título IV somete la actuación administrativa al control de los Tribunales?",
+      "opciones": [
+        "A) Artículo 103.",
+        "B) Artículo 105.",
+        "C) Artículo 106.",
+        "D) Artículo 117."
+      ],
+      "respuesta": "C) Artículo 106.",
+      "referencia": "Tit4, Art106.1, pág. 104",
+      "explicacion": "Establece el control jurisdiccional de la legalidad. Texto: '1. Los Tribunales controlan la potestad reglamentaria y la legalidad...'"
+    },
+    {
+      "texto": "100. ¿Cómo se denomina el Título IV de la Constitución?",
+      "opciones": [
+        "A) De las Cortes Generales.",
+        "B) Del Gobierno y de la Administración.",
+        "C) Del Poder Judicial.",
+        "D) De la Organización Territorial."
+      ],
+      "respuesta": "B) Del Gobierno y de la Administración.",
+      "referencia": "Tit4, pág. 20",
+      "explicacion": "Es el nombre oficial del bloque regulador del ejecutivo. Texto: 'TÍTULO IV. Del Gobierno y de la Administración'."
+    }
+  ]
+}
+ 

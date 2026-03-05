@@ -1,0 +1,1204 @@
+{
+  "CE. Título IX - Del Tribunal Constitucional": [
+    {
+      "texto": "1. ¿De cuántos miembros se compone el Tribunal Constitucional según el artículo 159.1?",
+      "opciones": [
+        "A) 8 miembros.",
+        "B) 10 miembros.",
+        "C) 12 miembros.",
+        "D) 15 miembros."
+      ],
+      "respuesta": "C) 12 miembros.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey."
+    },
+    {
+      "texto": "2. ¿Cuántos miembros del Tribunal Constitucional son propuestos por el Congreso?",
+      "opciones": [
+        "A) Dos.",
+        "B) Cuatro.",
+        "C) Seis.",
+        "D) Ocho."
+      ],
+      "respuesta": "B) Cuatro.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "Cuatro miembros son propuestos por el Congreso por mayoría de tres quintos."
+    },
+    {
+      "texto": "3. ¿Qué mayoría se requiere en el Congreso y en el Senado para proponer miembros del TC?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Tres quintos de sus miembros.",
+        "D) Dos tercios de sus miembros."
+      ],
+      "respuesta": "C) Tres quintos de sus miembros.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "La propuesta tanto del Congreso como del Senado requiere mayoría de tres quintos."
+    },
+    {
+      "texto": "4. ¿Quiénes proponen a los dos miembros del TC que no son propuestos por las Cámaras ni por el Gobierno?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Consejo General del Poder Judicial.",
+        "C) El Tribunal Supremo.",
+        "D) El Fiscal General del Estado."
+      ],
+      "respuesta": "B) El Consejo General del Poder Judicial.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "Dos miembros son propuestos por el Consejo General del Poder Judicial."
+    },
+    {
+      "texto": "5. ¿Qué requisito de ejercicio profesional se exige para ser miembro del Tribunal Constitucional?",
+      "opciones": [
+        "A) Más de cinco años.",
+        "B) Más de diez años.",
+        "C) Más de quince años.",
+        "D) Veinte años."
+      ],
+      "respuesta": "C) Más de quince años.",
+      "referencia": "Tit9, Art159.2, pág. 173",
+      "explicacion": "Deben ser juristas de reconocida competencia con más de quince años de ejercicio profesional."
+    },
+    {
+      "texto": "6. ¿Por qué período de tiempo son designados los miembros del Tribunal Constitucional?",
+      "opciones": [
+        "A) Seis años.",
+        "B) Nueve años.",
+        "C) Doce años.",
+        "D) Vitalicio."
+      ],
+      "respuesta": "B) Nueve años.",
+      "referencia": "Tit9, Art159.3, pág. 174",
+      "explicacion": "Los miembros del Tribunal Constitucional serán designados por un período de nueve años."
+    },
+    {
+      "texto": "7. ¿Cómo se renueva el Tribunal Constitucional según el artículo 159.3?",
+      "opciones": [
+        "A) En su totalidad cada nueve años.",
+        "B) Por mitades cada cuatro años.",
+        "C) Por terceras partes cada tres años.",
+        "D) Cuando fallezca o dimita un miembro."
+      ],
+      "respuesta": "C) Por terceras partes cada tres años.",
+      "referencia": "Tit9, Art159.3, pág. 174",
+      "explicacion": "Se renovarán por terceras partes cada tres años."
+    },
+    {
+      "texto": "8. ¿Con qué cargo es incompatible la condición de miembro del Tribunal Constitucional (159.4)?",
+      "opciones": [
+        "A) Con el ejercicio de la abogacía.",
+        "B) Con todo mandato representativo.",
+        "C) Con funciones directivas en un partido o sindicato.",
+        "D) Todas las respuestas son correctas."
+      ],
+      "respuesta": "D) Todas las respuestas son correctas.",
+      "referencia": "Tit9, Art159.4, pág. 174",
+      "explicacion": "El artículo 159.4 establece incompatibilidades con mandatos representativos, cargos políticos, funciones directivas en partidos o sindicatos y actividad profesional."
+    },
+    {
+      "texto": "9. Según el artículo 159.5, ¿cómo son los miembros del TC en el ejercicio de su mandato?",
+      "opciones": [
+        "A) Dependientes del Gobierno.",
+        "B) Independientes e inamovibles.",
+        "C) Responsables ante el Congreso.",
+        "D) Sujetos a mandato imperativo."
+      ],
+      "respuesta": "B) Independientes e inamovibles.",
+      "referencia": "Tit9, Art159.5, pág. 175",
+      "explicacion": "Los miembros del Tribunal Constitucional serán independientes e inamovibles en el ejercicio de su mandato."
+    },
+    {
+      "texto": "10. ¿Quién nombra al Presidente del Tribunal Constitucional?",
+      "opciones": [
+        "A) El Congreso.",
+        "B) El Rey.",
+        "C) El propio Tribunal.",
+        "D) El Presidente del Gobierno."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit9, Art160, pág. 175",
+      "explicacion": "El Presidente del Tribunal Constitucional será nombrado entre sus miembros por el Rey."
+    },
+    {
+      "texto": "11. ¿A propuesta de quién es nombrado el Presidente del Tribunal Constitucional?",
+      "opciones": [
+        "A) Del Consejo General del Poder Judicial.",
+        "B) Del mismo Tribunal en pleno.",
+        "C) Del Gobierno.",
+        "D) Del Presidente del Tribunal Supremo."
+      ],
+      "respuesta": "B) Del mismo Tribunal en pleno.",
+      "referencia": "Tit9, Art160, pág. 175",
+      "explicacion": "El nombramiento es a propuesta del mismo Tribunal en pleno."
+    },
+    {
+      "texto": "12. ¿Por cuánto tiempo es nombrado el Presidente del Tribunal Constitucional?",
+      "opciones": [
+        "A) Tres años.",
+        "B) Cuatro años.",
+        "C) Seis años.",
+        "D) Nueve años."
+      ],
+      "respuesta": "A) Tres años.",
+      "referencia": "Tit9, Art160, pág. 175",
+      "explicacion": "El Presidente es nombrado por un período de tres años."
+    },
+    {
+      "texto": "13. ¿Cuál es el ámbito de jurisdicción del Tribunal Constitucional?",
+      "opciones": [
+        "A) Solo en la villa de Madrid.",
+        "B) En todo el territorio español.",
+        "C) Solo en las Comunidades Autónomas.",
+        "D) En la Unión Europea."
+      ],
+      "respuesta": "B) En todo el territorio español.",
+      "referencia": "Tit9, Art161.1, pág. 175",
+      "explicacion": "El Tribunal Constitucional tiene jurisdicción en todo el territorio español."
+    },
+    {
+      "texto": "14. ¿De qué recurso es competente el TC contra leyes y disposiciones con fuerza de ley?",
+      "opciones": [
+        "A) Recurso de amparo.",
+        "B) Recurso de inconstitucionalidad.",
+        "C) Recurso de casación.",
+        "D) Recurso de queja."
+      ],
+      "respuesta": "B) Recurso de inconstitucionalidad.",
+      "referencia": "Tit9, Art161.1.a), pág. 176",
+      "explicacion": "Es competente para conocer del recurso de inconstitucionalidad contra leyes y disposiciones con fuerza de ley."
+    },
+    {
+      "texto": "15. ¿Qué recurso protege contra la violación de los derechos y libertades referidos en el art. 53.2?",
+      "opciones": [
+        "A) Recurso de alzada.",
+        "B) Recurso de amparo.",
+        "C) Recurso de revisión.",
+        "D) Recurso de inconstitucionalidad."
+      ],
+      "respuesta": "B) Recurso de amparo.",
+      "referencia": "Tit9, Art161.1.b), pág. 176",
+      "explicacion": "El TC es competente para conocer del recurso de amparo por violación de los derechos y libertades."
+    },
+    {
+      "texto": "16. ¿Qué tipo de conflictos resuelve el Tribunal Constitucional según el artículo 161.1.c)?",
+      "opciones": [
+        "A) Conflictos laborales.",
+        "B) Conflictos de competencia entre el Estado y las CCAA.",
+        "C) Conflictos entre vecinos.",
+        "D) Conflictos de fe."
+      ],
+      "respuesta": "B) Conflictos de competencia entre el Estado y las CCAA.",
+      "referencia": "Tit9, Art161.1.c), pág. 177",
+      "explicacion": "Resuelve conflictos de competencia entre el Estado y las CCAA o de éstas entre sí."
+    },
+    {
+      "texto": "17. ¿Qué puede impugnar el Gobierno ante el Tribunal Constitucional según el artículo 161.2?",
+      "opciones": [
+        "A) Sentencias del Tribunal Supremo.",
+        "B) Disposiciones y resoluciones adoptadas por los órganos de las CCAA.",
+        "C) Leyes aprobadas por las Cortes Generales.",
+        "D) Tratados internacionales ya firmados."
+      ],
+      "respuesta": "B) Disposiciones y resoluciones adoptadas por los órganos de las CCAA.",
+      "referencia": "Tit9, Art161.2, pág. 177",
+      "explicacion": "El Gobierno podrá impugnar ante el TC las disposiciones y resoluciones adoptadas por los órganos de las CCAA."
+    },
+    {
+      "texto": "18. ¿Qué efecto produce la impugnación del Gobierno contra una resolución autonómica ante el TC?",
+      "opciones": [
+        "A) Ninguno hasta que haya sentencia.",
+        "B) La suspensión de la disposición o resolución recurrida.",
+        "C) Su anulación inmediata y definitiva.",
+        "D) La dimisión del cargo autonómico responsable."
+      ],
+      "respuesta": "B) La suspensión de la disposición o resolución recurrida.",
+      "referencia": "Tit9, Art161.2, pág. 177",
+      "explicacion": "La impugnación producirá la suspensión de la disposición o resolución recurrida."
+    },
+    {
+      "texto": "19. ¿En qué plazo debe el TC ratificar o levantar la suspensión de una norma autonómica impugnada por el Gobierno?",
+      "opciones": [
+        "A) Treinta días.",
+        "B) Tres meses.",
+        "C) Cinco meses.",
+        "D) Un año."
+      ],
+      "respuesta": "C) Cinco meses.",
+      "referencia": "Tit9, Art161.2, pág. 177",
+      "explicacion": "El Tribunal deberá ratificarla o levantarla en un plazo no superior a cinco meses."
+    },
+    {
+      "texto": "20. ¿Quiénes están legitimados para interponer el recurso de inconstitucionalidad?",
+      "opciones": [
+        "A) Cualquier ciudadano con interés.",
+        "B) Presidente del Gobierno, Defensor del Pueblo, 50 Diputados o 50 Senadores.",
+        "C) Los Ayuntamientos de capital de provincia.",
+        "D) Solo el Tribunal Supremo."
+      ],
+      "respuesta": "B) Presidente del Gobierno, Defensor del Pueblo, 50 Diputados o 50 Senadores.",
+      "referencia": "Tit9, Art162.1.a), pág. 178",
+      "explicacion": "También están legitimados los órganos ejecutivos y Asambleas de las CCAA."
+    },
+    {
+      "texto": "21. ¿Cuántos Diputados se requieren para interponer un recurso de inconstitucionalidad?",
+      "opciones": [
+        "A) 25 Diputados.",
+        "B) 50 Diputados.",
+        "C) 100 Diputados.",
+        "D) La mayoría absoluta."
+      ],
+      "respuesta": "B) 50 Diputados.",
+      "referencia": "Tit9, Art162.1.a), pág. 178",
+      "explicacion": "Se requiere la firma de al menos 50 Diputados."
+    },
+    {
+      "texto": "22. ¿Quiénes están legitimados para interponer el recurso de amparo?",
+      "opciones": [
+        "A) Toda persona natural o jurídica que invoque un interés legítimo.",
+        "B) El Defensor del Pueblo.",
+        "C) El Ministerio Fiscal.",
+        "D) Todas las respuestas son correctas."
+      ],
+      "respuesta": "D) Todas las respuestas son correctas.",
+      "referencia": "Tit9, Art162.1.b), pág. 178",
+      "explicacion": "El artículo 162.1.b) legitima a personas con interés, al Defensor del Pueblo y al Ministerio Fiscal."
+    },
+    {
+      "texto": "23. ¿Cómo se denomina el mecanismo cuando un juez duda de la constitucionalidad de una ley aplicable a un caso?",
+      "opciones": [
+        "A) Recurso de inconstitucionalidad.",
+        "B) Cuestión de inconstitucionalidad.",
+        "C) Amparo judicial.",
+        "D) Conflicto positivo."
+      ],
+      "respuesta": "B) Cuestión de inconstitucionalidad.",
+      "referencia": "Tit9, Art163, pág. 179",
+      "explicacion": "Se plantea ante el TC la cuestión de inconstitucionalidad cuando un órgano judicial duda de una norma con rango de ley."
+    },
+    {
+      "texto": "24. ¿Tienen efectos suspensivos los planteamientos de la cuestión de inconstitucionalidad?",
+      "opciones": [
+        "A) Sí, siempre.",
+        "B) En ningún caso serán suspensivos.",
+        "C) Solo si lo pide el fiscal.",
+        "D) Solo en procesos penales."
+      ],
+      "respuesta": "B) En ningún caso serán suspensivos.",
+      "referencia": "Tit9, Art163, pág. 179",
+      "explicacion": "El artículo 163 indica que los efectos en ningún caso serán suspensivos."
+    },
+    {
+      "texto": "25. ¿Dónde deben publicarse las sentencias del Tribunal Constitucional?",
+      "opciones": [
+        "A) En la web del Tribunal solamente.",
+        "B) En el Boletín Oficial del Estado (BOE).",
+        "C) En el tablón de anuncios de las Cortes.",
+        "D) En el diario de sesiones."
+      ],
+      "respuesta": "B) En el Boletín Oficial del Estado (BOE).",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Las sentencias del TC se publicarán en el BOE con los votos particulares si los hubiere."
+    },
+    {
+      "texto": "26. ¿Tienen las sentencias del TC valor de cosa juzgada?",
+      "opciones": [
+        "A) No, se pueden recurrir ante el Supremo.",
+        "B) Sí, a partir del día siguiente de su publicación.",
+        "C) Solo si hay unanimidad.",
+        "D) Tienen valor consultivo."
+      ],
+      "respuesta": "B) Sí, a partir del día siguiente de su publicación.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas."
+    },
+    {
+      "texto": "27. ¿Qué efecto tienen frente a todos las sentencias que declaren la inconstitucionalidad de una ley?",
+      "opciones": [
+        "A) Ningún efecto general.",
+        "B) Plenos efectos frente a todos.",
+        "C) Solo afectan al caso concreto del recurso.",
+        "D) Deben ser aprobadas por el Congreso para ser generales."
+      ],
+      "respuesta": "B) Plenos efectos frente a todos.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Las que declaren inconstitucionalidad tienen plenos efectos frente a todos."
+    },
+    {
+      "texto": "28. ¿Qué sucede con la vigencia de una ley en la parte no afectada por la declaración de inconstitucionalidad?",
+      "opciones": [
+        "A) Se anula la ley entera.",
+        "B) Subsistirá la vigencia de la parte no afectada.",
+        "C) Queda en suspenso hasta nueva ley.",
+        "D) Pasa a ser reglamentaria."
+      ],
+      "respuesta": "B) Subsistirá la vigencia de la parte no afectada.",
+      "referencia": "Tit9, Art164.2, pág. 180",
+      "explicacion": "Salvo que en el fallo se disponga otra cosa, subsistirá la vigencia de la parte no afectada."
+    },
+    {
+      "texto": "29. ¿Qué tipo de ley debe regular el funcionamiento del Tribunal Constitucional?",
+      "opciones": [
+        "A) Ley ordinaria.",
+        "B) Ley de bases.",
+        "C) Ley orgánica.",
+        "D) Reglamento del Congreso."
+      ],
+      "respuesta": "C) Ley orgánica.",
+      "referencia": "Tit9, Art165, pág. 180",
+      "explicacion": "Una ley orgánica regulará el funcionamiento, el estatuto de sus miembros y el procedimiento."
+    },
+    {
+      "texto": "30. ¿Quién nombra formalmente a los 12 miembros del Tribunal Constitucional?",
+      "opciones": [
+        "A) El Presidente del Gobierno.",
+        "B) El Rey.",
+        "C) El Presidente del Congreso.",
+        "D) El Presidente del Tribunal Supremo."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey."
+    },
+    {
+      "texto": "31. ¿Cuántos miembros del TC son propuestos por el Senado?",
+      "opciones": [
+        "A) Dos.",
+        "B) Cuatro.",
+        "C) Seis.",
+        "D) Ninguno."
+      ],
+      "respuesta": "B) Cuatro.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "Cuatro son a propuesta del Senado por mayoría de tres quintos."
+    },
+    {
+      "texto": "32. ¿Cuántos miembros del TC son propuestos por el Gobierno?",
+      "opciones": [
+        "A) Uno.",
+        "B) Dos.",
+        "C) Tres.",
+        "D) Cuatro."
+      ],
+      "respuesta": "B) Dos.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "El Gobierno propone directamente a dos miembros."
+    },
+    {
+      "texto": "33. ¿Cuál es el requisito profesional para que un abogado sea miembro del TC?",
+      "opciones": [
+        "A) Estar colegiado.",
+        "B) Ser de reconocida competencia con más de quince años de ejercicio profesional.",
+        "C) Haber sido decano de su colegio.",
+        "D) No tener antecedentes penales."
+      ],
+      "respuesta": "B) Ser de reconocida competencia con más de quince años de ejercicio profesional.",
+      "referencia": "Tit9, Art159.2, pág. 173",
+      "explicacion": "Se requiere ser jurista de reconocida competencia con más de 15 años de ejercicio."
+    },
+    {
+      "texto": "34. ¿Qué artículo del TC trata sobre la incompatibilidad con funciones directivas en sindicatos?",
+      "opciones": [
+        "A) Artículo 7.",
+        "B) Artículo 159.1.",
+        "C) Artículo 159.4.",
+        "D) Artículo 165."
+      ],
+      "respuesta": "C) Artículo 159.4.",
+      "referencia": "Tit9, Art159.4, pág. 174",
+      "explicacion": "El artículo 159.4 prohíbe el desempeño de funciones directivas en partidos o sindicatos."
+    },
+    {
+      "texto": "35. ¿Son los miembros del TC independientes?",
+      "opciones": [
+        "A) Sí, y también inamovibles.",
+        "B) No, dependen de quien los propuso.",
+        "C) Solo el Presidente es independiente.",
+        "D) Sí, pero no son inamovibles."
+      ],
+      "respuesta": "A) Sí, y también inamovibles.",
+      "referencia": "Tit9, Art159.5, pág. 175",
+      "explicacion": "El artículo 159.5 garantiza su independencia e inamovilidad."
+    },
+    {
+      "texto": "36. ¿A propuesta de quién nombra el Rey al Presidente del TC?",
+      "opciones": [
+        "A) Del Congreso.",
+        "B) Del Tribunal en pleno.",
+        "C) Del CGPJ.",
+        "D) Del Gobierno."
+      ],
+      "respuesta": "B) Del Tribunal en pleno.",
+      "referencia": "Tit9, Art160, pág. 175",
+      "explicacion": "El Presidente es nombrado por el Rey a propuesta del mismo Tribunal en pleno."
+    },
+    {
+      "texto": "37. ¿Qué tipo de recurso del TC se menciona expresamente en el artículo 53.2?",
+      "opciones": [
+        "A) Recurso de inconstitucionalidad.",
+        "B) Recurso de amparo.",
+        "C) Recurso de reforma.",
+        "D) Cuestión de inconstitucionalidad."
+      ],
+      "respuesta": "B) Recurso de amparo.",
+      "referencia": "Tit1, Cap4, Art53.2, pág. 51",
+      "explicacion": "El artículo 53.2 menciona que la tutela ante el TC se hace a través del recurso de amparo."
+    },
+    {
+      "texto": "38. ¿Qué sucede con los votos particulares en las sentencias del TC?",
+      "opciones": [
+        "A) Se guardan en secreto.",
+        "B) Se publican junto con la sentencia en el BOE.",
+        "C) Se envían al Rey únicamente.",
+        "D) No existen en el sistema español."
+      ],
+      "respuesta": "B) Se publican junto con la sentencia en el BOE.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Las sentencias se publicarán con los votos particulares si los hubiere."
+    },
+    {
+      "texto": "39. ¿Quién puede interponer un recurso de amparo en nombre de los ciudadanos?",
+      "opciones": [
+        "A) Solo los abogados de oficio.",
+        "B) El Defensor del Pueblo.",
+        "C) Solo el interesado personalmente.",
+        "D) El Presidente de su CCAA."
+      ],
+      "respuesta": "B) El Defensor del Pueblo.",
+      "referencia": "Tit9, Art162.1.b), pág. 178",
+      "explicacion": "El Defensor del Pueblo y el Ministerio Fiscal están legitimados para el recurso de amparo."
+    },
+    {
+      "texto": "40. ¿Qué se requiere para que un órgano judicial plantee la cuestión ante el TC (163)?",
+      "opciones": [
+        "A) Que el caso sea civil.",
+        "B) Que de la validez de la norma dependa el fallo.",
+        "C) Que haya permiso del Ministerio de Justicia.",
+        "D) Que el juez sea de carrera."
+      ],
+      "respuesta": "B) Que de la validez de la norma dependa el fallo.",
+      "referencia": "Tit9, Art163, pág. 179",
+      "explicacion": "Se plantea la cuestión cuando se considera que una norma aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución."
+    },
+    {
+      "texto": "41. ¿Cuál es el artículo final del Título IX?",
+      "opciones": [
+        "A) Artículo 161.",
+        "B) Artículo 163.",
+        "C) Artículo 165.",
+        "D) Artículo 166."
+      ],
+      "respuesta": "C) Artículo 165.",
+      "referencia": "Tit9, Art165, pág. 180",
+      "explicacion": "El Título IX finaliza con el artículo 165."
+    },
+    {
+      "texto": "42. ¿Quién resuelve los conflictos de competencia entre el Estado y las CCAA?",
+      "opciones": [
+        "A) El Tribunal Supremo.",
+        "B) El Tribunal Constitucional.",
+        "C) El Senado.",
+        "D) El Rey."
+      ],
+      "respuesta": "B) El Tribunal Constitucional.",
+      "referencia": "Tit9, Art161.1.c), pág. 177",
+      "explicacion": "Es competencia del TC conocer de los conflictos de competencia entre Estado y CCAA."
+    },
+    {
+      "texto": "43. ¿Tienen las sentencias del TC plenos efectos frente a todos?",
+      "opciones": [
+        "A) Solo las de amparo.",
+        "B) Las que declaren la inconstitucionalidad de una ley.",
+        "C) Solo las administrativas.",
+        "D) Ninguna, solo vinculan a las partes."
+      ],
+      "respuesta": "B) Las que declaren la inconstitucionalidad de una ley.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Las que declaren la inconstitucionalidad de una ley o norma con fuerza de ley tienen plenos efectos frente a todos."
+    },
+    {
+      "texto": "44. ¿A qué se refiere el artículo 161.1.d)?",
+      "opciones": [
+        "A) A las competencias que el Rey le asigne.",
+        "B) A las demás materias que le atribuyan la Constitución o las leyes orgánicas.",
+        "C) A la elección del Presidente del Gobierno.",
+        "D) Al control de los ayuntamientos."
+      ],
+      "respuesta": "B) A las demás materias que le atribuyan la Constitución o las leyes orgánicas.",
+      "referencia": "Tit9, Art161.1.d), pág. 177",
+      "explicacion": "Es una cláusula de apertura para otras competencias asignadas por ley orgánica o la CE."
+    },
+    {
+      "texto": "45. ¿Puede un magistrado del TC pertenecer a un sindicato según el 159.4?",
+      "opciones": [
+        "A) Sí, es un derecho fundamental.",
+        "B) No, es incompatible.",
+        "C) Solo si no tiene cargo directivo.",
+        "D) Sí, si es sindicato de magistrados."
+      ],
+      "respuesta": "B) No, es incompatible.",
+      "referencia": "Tit9, Art159.4, pág. 174",
+      "explicacion": "Es incompatible con funciones directivas en sindicatos y se les aplican las incompatibilidades del poder judicial."
+    },
+    {
+      "texto": "46. ¿Qué artículo regula la mayoría de tres quintos en el Senado para proponer miembros al TC?",
+      "opciones": [
+        "A) Artículo 69.",
+        "B) Artículo 159.1.",
+        "C) Artículo 161.",
+        "D) Artículo 165."
+      ],
+      "respuesta": "B) Artículo 159.1.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "Establece la mayoría de tres quintos para la propuesta del Senado."
+    },
+    {
+      "texto": "47. ¿Qué sucede si el Gobierno impugna una resolución de una CCAA (161.2)?",
+      "opciones": [
+        "A) La CCAA debe retirarla.",
+        "B) Produce la suspensión de la disposición recurrida.",
+        "C) El Tribunal Supremo debe avalarla.",
+        "D) Se celebra un referéndum autonómico."
+      ],
+      "respuesta": "B) Produce la suspensión de la disposición recurrida.",
+      "referencia": "Tit9, Art161.2, pág. 177",
+      "explicacion": "La impugnación produce la suspensión automática por un tiempo máximo de cinco meses."
+    },
+    {
+      "texto": "48. ¿En qué artículo se menciona que el TC conoce del recurso de amparo?",
+      "opciones": [
+        "A) Artículo 53.",
+        "B) Artículo 161.1.b).",
+        "C) Artículo 162.1.b).",
+        "D) En los tres artículos."
+      ],
+      "respuesta": "D) En los tres artículos.",
+      "referencia": "Tit1, 9, págs. 51, 176, 178",
+      "explicacion": "Se menciona como garantía en el 53.2, como competencia en el 161 y como legitimación en el 162."
+    },
+    {
+      "texto": "49. ¿Qué mayoría de votos se requiere para interponer el recurso de inconstitucionalidad por 50 Senadores?",
+      "opciones": [
+        "A) Mayoría simple de la firma.",
+        "B) No es una mayoría de la Cámara, basta con la firma de 50 de ellos.",
+        "C) Tres quintos.",
+        "D) Mayoría absoluta."
+      ],
+      "respuesta": "B) No es una mayoría de la Cámara, basta con la firma de 50 de ellos.",
+      "referencia": "Tit9, Art162.1.a), pág. 178",
+      "explicacion": "La legitimación es para un grupo de 50 Senadores, no requiere acuerdo del Pleno."
+    },
+    {
+      "texto": "50. ¿Qué artículo del TC trata sobre la inamovilidad de sus miembros?",
+      "opciones": [
+        "A) Artículo 159.1.",
+        "B) Artículo 159.5.",
+        "C) Artículo 117.",
+        "D) Artículo 165."
+      ],
+      "respuesta": "B) Artículo 159.5.",
+      "referencia": "Tit9, Art159.5, pág. 175",
+      "explicacion": "Garantiza que sean independientes e inamovibles."
+    },
+    {
+      "texto": "51. ¿Cuántos años de ejercicio se requieren para ser Magistrado del TC?",
+      "opciones": [
+        "A) 10 años.",
+        "B) 15 años.",
+        "C) 20 años.",
+        "D) No hay mínimo, solo reconocida competencia."
+      ],
+      "respuesta": "B) 15 años.",
+      "referencia": "Tit9, Art159.2, pág. 173",
+      "explicacion": "Se exige ser jurista con más de quince años de ejercicio profesional."
+    },
+    {
+      "texto": "52. ¿Qué órgano colegiado de una CCAA puede interponer un recurso de inconstitucionalidad?",
+      "opciones": [
+        "A) Los Ayuntamientos.",
+        "B) Los órganos colegiados ejecutivos (Gobiernos autonómicos).",
+        "C) Las Juntas de Distrito.",
+        "D) El Tribunal Superior de Justicia de la región."
+      ],
+      "respuesta": "B) Los órganos colegiados ejecutivos (Gobiernos autonómicos).",
+      "referencia": "Tit9, Art162.1.a), pág. 178",
+      "explicacion": "Están legitimados los órganos colegiados ejecutivos y las Asambleas de las CCAA."
+    },
+    {
+      "texto": "53. ¿Tienen las sentencias del TC valor de cosa juzgada contra la que cabe recurso?",
+      "opciones": [
+        "A) Sí, cabe recurso de casación.",
+        "B) No cabe recurso alguno.",
+        "C) Sí, ante el Tribunal de Estrasburgo únicamente.",
+        "D) Sí, ante el propio TC en súplica."
+      ],
+      "respuesta": "B) No cabe recurso alguno.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "La Constitución dice taxativamente que no cabe recurso alguno contra ellas."
+    },
+    {
+      "texto": "54. ¿Quién sanciona y promulga el Estatuto de autonomía aprobado por el procedimiento del 151?",
+      "opciones": [
+        "A) El Presidente de la CCAA.",
+        "B) El Rey.",
+        "C) El Presidente del Congreso.",
+        "D) El Ministro de Administraciones Públicas."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit8, Cap3, Art151.2.4, pág. 162",
+      "explicacion": "Aprobado el Estatuto, el Rey lo sancionará y lo promulgará como ley."
+    },
+    {
+      "texto": "55. ¿Cuál es la composición del Tribunal Constitucional?",
+      "opciones": [
+        "A) Magistrados, Fiscales, Profesores, Funcionarios y Abogados.",
+        "B) Solo Jueces de carrera.",
+        "C) Políticos de reconocida trayectoria.",
+        "D) Miembros elegidos por sorteo entre juristas."
+      ],
+      "respuesta": "A) Magistrados, Fiscales, Profesores, Funcionarios y Abogados.",
+      "referencia": "Tit9, Art159.2, pág. 173",
+      "explicacion": "El 159.2 enumera las categorías de juristas que pueden ser nombrados."
+    },
+    {
+      "texto": "56. ¿Qué artículo del Título IX regula al Presidente del TC?",
+      "opciones": [
+        "A) Artículo 159.",
+        "B) Artículo 160.",
+        "C) Artículo 161.",
+        "D) Artículo 164."
+      ],
+      "respuesta": "B) Artículo 160.",
+      "referencia": "Tit9, Art160, pág. 175",
+      "explicacion": "El 160 se dedica exclusivamente al nombramiento y mandato del Presidente del TC."
+    },
+    {
+      "texto": "57. ¿En qué artículo se establece la publicidad de las sentencias del TC?",
+      "opciones": [
+        "A) Artículo 120.",
+        "B) Artículo 164.1.",
+        "C) Artículo 165.",
+        "D) Artículo 161."
+      ],
+      "respuesta": "B) Artículo 164.1.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Establece que las sentencias se publicarán en el BOE."
+    },
+    {
+      "texto": "58. ¿Qué sucede si una sentencia del TC declara la inconstitucionalidad de una norma con rango de ley (161.1.a)?",
+      "opciones": [
+        "A) Desaparece la ley retroactivamente en todos los casos.",
+        "B) Afectará a la jurisprudencia, pero las sentencias anteriores no pierden valor de cosa juzgada.",
+        "C) No afecta a la jurisprudencia.",
+        "D) Las sentencias dictadas con esa ley deben repetirse."
+      ],
+      "respuesta": "B) Afectará a la jurisprudencia, pero las sentencias anteriores no pierden valor de cosa juzgada.",
+      "referencia": "Tit9, Art161.1.a), pág. 176",
+      "explicacion": "La declaración afectará a la jurisprudencia, pero las sentencias recaídas no perderán valor de cosa juzgada."
+    },
+    {
+      "texto": "59. ¿Quién puede requerir al TC para declarar si existe contradicción entre un tratado y la Constitución (95.2)?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Gobierno o cualquiera de las Cámaras.",
+        "C) El Tribunal Supremo.",
+        "D) Solo 50 Diputados."
+      ],
+      "respuesta": "B) El Gobierno o cualquiera de las Cámaras.",
+      "referencia": "Tit3, Cap3, Art95.2, pág. 94",
+      "explicacion": "El Gobierno o cualquiera de las Cámaras puede requerir al TC sobre tratados internacionales."
+    },
+    {
+      "texto": "60. ¿A qué se refiere el artículo 162.2 del TC?",
+      "opciones": [
+        "A) A la jubilación de los miembros.",
+        "B) A que la ley orgánica determinará otros legitimados en otros casos.",
+        "C) Al presupuesto del Tribunal.",
+        "D) A la sede de sus reuniones."
+      ],
+      "respuesta": "B) A que la ley orgánica determinará otros legitimados en otros casos.",
+      "referencia": "Tit9, Art162.2, pág. 178",
+      "explicacion": "Remite a la ley orgánica la determinación de legitimados para casos distintos a amparo o inconstitucionalidad."
+    },
+    {
+      "texto": "61. ¿De quién depende directamente el Tribunal de Cuentas según el artículo 136?",
+      "opciones": [
+        "A) Del Tribunal Constitucional.",
+        "B) De las Cortes Generales.",
+        "C) Del Gobierno.",
+        "D) Del Tribunal Supremo."
+      ],
+      "respuesta": "B) De las Cortes Generales.",
+      "referencia": "Tit7, Art136.1, pág. 135",
+      "explicacion": "Aunque es del Título VII, el TC controla sus actos cuando corresponde. Depende de las Cortes."
+    },
+    {
+      "texto": "62. ¿Cuántos capítulos tiene el Título IX?",
+      "opciones": [
+        "A) Un capítulo.",
+        "B) Dos capítulos.",
+        "C) Ninguno.",
+        "D) Tres capítulos."
+      ],
+      "respuesta": "C) Ninguno.",
+      "referencia": "Tit9, pág. 173 e índice",
+      "explicacion": "El Título IX no está dividido en capítulos."
+    },
+    {
+      "texto": "63. ¿Qué mayoría se requiere para proponer miembros del TC por el CGPJ?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) No se especifica en la Constitución.",
+        "C) Mayoría de tres quintos.",
+        "D) Unanimidad."
+      ],
+      "respuesta": "B) No se especifica en la Constitución.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "La Constitución exige 3/5 para Congreso y Senado, pero no especifica la mayoría para el CGPJ ni el Gobierno."
+    },
+    {
+      "texto": "64. ¿Tienen los miembros del TC el mismo régimen de incompatibilidades que los Jueces?",
+      "opciones": [
+        "A) No, es más flexible.",
+        "B) Sí, en lo no previsto específicamente en el 159.4.",
+        "C) No, es más estricto.",
+        "D) Solo el Presidente."
+      ],
+      "respuesta": "B) Sí, en lo no previsto específicamente en el 159.4.",
+      "referencia": "Tit9, Art159.4, pág. 175",
+      "explicacion": "El artículo 159.4 dice: 'En lo demás los miembros... tendrán las incompatibilidades propias de los miembros del poder judicial'."
+    },
+    {
+      "texto": "65. ¿Cuándo entran en vigor los plenos efectos de las sentencias del TC?",
+      "opciones": [
+        "A) El mismo día de su firma.",
+        "B) A partir del día siguiente de su publicación en el BOE.",
+        "C) A los veinte días de su publicación.",
+        "D) Cuando lo notifiquen al Congreso."
+      ],
+      "respuesta": "B) A partir del día siguiente de su publicación en el BOE.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Tienen el valor de cosa juzgada a partir del día siguiente de su publicación."
+    },
+    {
+      "texto": "66. ¿Qué artículo regula la forma de plantear la cuestión de inconstitucionalidad por los órganos judiciales?",
+      "opciones": [
+        "A) Artículo 161.",
+        "B) Artículo 163.",
+        "C) Artículo 165.",
+        "D) Artículo 117."
+      ],
+      "respuesta": "B) Artículo 163.",
+      "referencia": "Tit9, Art163, pág. 179",
+      "explicacion": "El 163 establece los requisitos para que un órgano judicial plantee la cuestión ante el TC."
+    },
+    {
+      "texto": "67. ¿Quién resuelve los recursos de amparo?",
+      "opciones": [
+        "A) El Defensor del Pueblo.",
+        "B) El Tribunal Constitucional.",
+        "C) El Tribunal Supremo.",
+        "D) Los Juzgados de Primera Instancia."
+      ],
+      "respuesta": "B) El Tribunal Constitucional.",
+      "referencia": "Tit9, Art161.1.b), pág. 176",
+      "explicacion": "Es competencia del TC conocer del recurso de amparo."
+    },
+    {
+      "texto": "68. ¿Cuántos años dura el mandato del Presidente del TC?",
+      "opciones": [
+        "A) Nueve años.",
+        "B) Tres años.",
+        "C) Seis años.",
+        "D) Tres años, prorrogables por otros tres."
+      ],
+      "respuesta": "B) Tres años.",
+      "referencia": "Tit9, Art160, pág. 175",
+      "explicacion": "El Presidente es nombrado por un período de tres años."
+    },
+    {
+      "texto": "69. ¿Qué artículo establece que el TC es competente para conocer conflictos entre CCAA?",
+      "opciones": [
+        "A) Artículo 153.",
+        "B) Artículo 161.1.c).",
+        "C) Artículo 162.",
+        "D) Artículo 145."
+      ],
+      "respuesta": "B) Artículo 161.1.c).",
+      "referencia": "Tit9, Art161.1.c), pág. 177",
+      "explicacion": "El TC conoce de los conflictos de competencia entre CCAA entre sí."
+    },
+    {
+      "texto": "70. ¿Qué se requiere para ser Magistrado o Fiscal miembro del TC?",
+      "opciones": [
+        "A) Estar en activo.",
+        "B) Ser jurista de reconocida competencia con más de 15 años de ejercicio.",
+        "C) Tener plaza en el Supremo.",
+        "D) Ser propuesto por unanimidad."
+      ],
+      "respuesta": "B) Ser jurista de reconocida competencia con más de 15 años de ejercicio.",
+      "referencia": "Tit9, Art159.2, pág. 173",
+      "explicacion": "Es el requisito general de competencia y antigüedad para todos los miembros."
+    },
+    {
+      "texto": "71. ¿Puede el TC anular una sentencia anterior firme de un tribunal ordinario por recurso de inconstitucionalidad?",
+      "opciones": [
+        "A) Sí, queda anulada.",
+        "B) No, las sentencias recaídas no perderán el valor de cosa juzgada.",
+        "C) Sí, pero debe indemnizar.",
+        "D) Solo en el orden penal."
+      ],
+      "respuesta": "B) No, las sentencias recaídas no perderán el valor de cosa juzgada.",
+      "referencia": "Tit9, Art161.1.a), pág. 176",
+      "explicacion": "La declaración de inconstitucionalidad no hace perder el valor de cosa juzgada a las sentencias ya recaídas."
+    },
+    {
+      "texto": "72. ¿Quién nombra a los miembros propuestos por el Gobierno al TC?",
+      "opciones": [
+        "A) El propio Gobierno.",
+        "B) El Rey.",
+        "C) El Presidente del Gobierno.",
+        "D) El Congreso."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "Todos los 12 miembros, independientemente de quién los proponga, son nombrados por el Rey."
+    },
+    {
+      "texto": "73. ¿Qué artículo prohíbe el mandato representativo para los miembros del TC?",
+      "opciones": [
+        "A) Artículo 67.",
+        "B) Artículo 159.4.",
+        "C) Artículo 165.",
+        "D) Artículo 159.5."
+      ],
+      "respuesta": "B) Artículo 159.4.",
+      "referencia": "Tit9, Art159.4, pág. 174",
+      "explicacion": "La condición de miembro es incompatible con todo mandato representativo."
+    },
+    {
+      "texto": "74. ¿Qué artículo regula la inconstitucionalidad de los tratados?",
+      "opciones": [
+        "A) Artículo 161.",
+        "B) Artículo 95.",
+        "C) Artículo 163.",
+        "D) Artículo 96."
+      ],
+      "respuesta": "B) Artículo 95.",
+      "referencia": "Tit3, Cap3, Art95, pág. 94",
+      "explicacion": "El artículo 95 trata sobre la revisión constitucional previa a la celebración de un tratado."
+    },
+    {
+      "texto": "75. ¿Qué ley regula el estatuto de los miembros del TC?",
+      "opciones": [
+        "A) Ley de Régimen Jurídico.",
+        "B) Ley Orgánica del Tribunal Constitucional.",
+        "C) Reglamento de las Cortes.",
+        "D) Estatuto de los Funcionarios."
+      ],
+      "respuesta": "B) Ley Orgánica del Tribunal Constitucional.",
+      "referencia": "Tit9, Art165, pág. 180",
+      "explicacion": "Una ley orgánica regulará su estatuto, el procedimiento y el funcionamiento."
+    },
+    {
+      "texto": "76. ¿A qué se refiere el término 'inamovibles' en el artículo 159.5?",
+      "opciones": [
+        "A) A que no pueden cambiar de despacho.",
+        "B) A que no pueden ser cesados sino por las causas legales.",
+        "C) A que su sueldo no puede bajar.",
+        "D) A que no pueden viajar al extranjero."
+      ],
+      "respuesta": "B) A que no pueden ser cesados sino por las causas legales.",
+      "referencia": "Tit9, Art159.5, pág. 175",
+      "explicacion": "Es una garantía de independencia."
+    },
+    {
+      "texto": "77. ¿Cuál es el plazo de renovación del TC?",
+      "opciones": [
+        "A) Cada 9 años.",
+        "B) Cada 3 años (por tercios).",
+        "C) Cada legislatura.",
+        "D) No tiene plazo fijo."
+      ],
+      "respuesta": "B) Cada 3 años (por tercios).",
+      "referencia": "Tit9, Art159.3, pág. 174",
+      "explicacion": "Se renovarán por terceras partes cada tres años."
+    },
+    {
+      "texto": "78. ¿Qué se requiere para que 50 Diputados impugnen una ley ante el TC?",
+      "opciones": [
+        "A) Un aval del Presidente del Congreso.",
+        "B) Estar legitimados por el artículo 162.1.a).",
+        "C) Un depósito de fianza.",
+        "D) Que la ley sea orgánica."
+      ],
+      "respuesta": "B) Estar legitimados por el artículo 162.1.a).",
+      "referencia": "Tit9, Art162.1.a), pág. 178",
+      "explicacion": "El artículo 162 otorga legitimación directa a 50 Diputados."
+    },
+    {
+      "texto": "79. ¿Qué artículo del TC trata sobre la cosa juzgada?",
+      "opciones": [
+        "A) Artículo 161.",
+        "B) Artículo 164.1.",
+        "C) Artículo 163.",
+        "D) Artículo 159."
+      ],
+      "respuesta": "B) Artículo 164.1.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Las sentencias tienen el valor de cosa juzgada a partir de su publicación."
+    },
+    {
+      "texto": "80. ¿A propuesta de quién son nombrados los 2 miembros del TC que corresponden al CGPJ?",
+      "opciones": [
+        "A) Del Rey.",
+        "B) Del Consejo General del Poder Judicial.",
+        "C) Del Pleno del Supremo.",
+        "D) Del Ministro de Justicia."
+      ],
+      "respuesta": "B) Del Consejo General del Poder Judicial.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "Corresponde al CGPJ proponer a dos de los doce miembros."
+    },
+    {
+      "texto": "81. ¿Cuántos años debe ejercer un Profesor de Universidad para ser miembro del TC?",
+      "opciones": [
+        "A) 10 años.",
+        "B) 15 años.",
+        "C) 20 años.",
+        "D) No se especifica antigüedad para profesores."
+      ],
+      "respuesta": "B) 15 años.",
+      "referencia": "Tit9, Art159.2, pág. 173",
+      "explicacion": "El requisito de 'más de quince años de ejercicio profesional' se aplica a todos los grupos mencionados."
+    },
+    {
+      "texto": "82. ¿Qué artículo establece que el TC es competente para conocer conflictos entre el Estado y las CCAA?",
+      "opciones": [
+        "A) Artículo 149.",
+        "B) Artículo 161.1.c).",
+        "C) Artículo 153.a).",
+        "D) Artículo 162."
+      ],
+      "respuesta": "B) Artículo 161.1.c).",
+      "referencia": "Tit9, Art161.1.c), pág. 177",
+      "explicacion": "Establece la competencia para resolver conflictos territoriales de competencia."
+    },
+    {
+      "texto": "83. ¿Pueden los órganos ejecutivos de las CCAA interponer recursos de inconstitucionalidad?",
+      "opciones": [
+        "A) No, solo el Congreso.",
+        "B) Sí, están legitimados por el 162.1.a).",
+        "C) Solo si hay permiso del Rey.",
+        "D) Solo contra leyes de su propio Estatuto."
+      ],
+      "respuesta": "B) Sí, están legitimados por el 162.1.a).",
+      "referencia": "Tit9, Art162.1.a), pág. 178",
+      "explicacion": "Los órganos colegiados ejecutivos de las CCAA tienen legitimación activa."
+    },
+    {
+      "texto": "84. ¿Tienen las sentencias del TC plenos efectos frente a todos si estiman un derecho subjetivo?",
+      "opciones": [
+        "A) Sí, todas las sentencias del TC.",
+        "B) Las que no se limiten a la estimación subjetiva de un derecho.",
+        "C) No, esas solo afectan a las partes.",
+        "D) Depende de si hay votos particulares."
+      ],
+      "respuesta": "B) Las que no se limiten a la estimación subjetiva de un derecho.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Tienen efectos erga omnes las de inconstitucionalidad y las que no se limiten a estimación subjetiva."
+    },
+    {
+      "texto": "85. ¿Qué artículo del Título IX menciona los tratados internacionales?",
+      "opciones": [
+        "A) Artículo 159.",
+        "B) Artículo 161.1.d) [indirectamente].",
+        "C) No se mencionan en el Título IX.",
+        "D) Artículo 165."
+      ],
+      "respuesta": "B) Artículo 161.1.d) [indirectamente].",
+      "referencia": "Tit9, Art161.1, pág. 177",
+      "explicacion": "Se remite a 'las demás materias que le atribuyan la Constitución', como la del artículo 95."
+    },
+    {
+      "texto": "86. ¿En qué artículo se menciona que el Presidente del TC es nombrado por tres años?",
+      "opciones": [
+        "A) Artículo 159.",
+        "B) Artículo 160.",
+        "C) Artículo 161.",
+        "D) Artículo 165."
+      ],
+      "respuesta": "B) Artículo 160.",
+      "referencia": "Tit9, Art160, pág. 175",
+      "explicacion": "El artículo 160 fija la duración del mandato del Presidente."
+    },
+    {
+      "texto": "87. ¿Puede un funcionario público ser miembro del TC?",
+      "opciones": [
+        "A) No, por separación de poderes.",
+        "B) Sí, si es jurista de reconocida competencia con más de 15 años.",
+        "C) Solo si está en excedencia.",
+        "D) Solo si es funcionario de las Cortes."
+      ],
+      "respuesta": "B) Sí, si es jurista de reconocida competencia con más de 15 años.",
+      "referencia": "Tit9, Art159.2, pág. 173",
+      "explicacion": "Los funcionarios públicos juristas son una de las categorías elegibles."
+    },
+    {
+      "texto": "88. ¿Qué artículo establece que la ley orgánica regulará el procedimiento ante el TC?",
+      "opciones": [
+        "A) Artículo 161.",
+        "B) Artículo 165.",
+        "C) Artículo 159.",
+        "D) Artículo 163."
+      ],
+      "respuesta": "B) Artículo 165.",
+      "referencia": "Tit9, Art165, pág. 180",
+      "explicacion": "Reserva a la ley orgánica la regulación de los procedimientos ante el TC."
+    },
+    {
+      "texto": "89. ¿Cuántos miembros del TC proponen conjuntamente el Gobierno y el CGPJ?",
+      "opciones": [
+        "A) Dos.",
+        "B) Cuatro (dos cada uno).",
+        "C) Seis.",
+        "D) Ocho."
+      ],
+      "respuesta": "B) Cuatro (dos cada uno).",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "Dos a propuesta del Gobierno y dos a propuesta del CGPJ."
+    },
+    {
+      "texto": "90. ¿Qué se requiere para que 50 Senadores interpongan el recurso (162)?",
+      "opciones": [
+        "A) Que sean del mismo grupo.",
+        "B) Basta con que sean 50 Senadores.",
+        "C) Que lo apruebe la Mesa del Senado.",
+        "D) Que el acto impugnado les afecte directamente."
+      ],
+      "respuesta": "B) Basta con que sean 50 Senadores.",
+      "referencia": "Tit9, Art162.1.a), pág. 178",
+      "explicacion": "Es un derecho de minoría parlamentaria."
+    },
+    {
+      "texto": "91. ¿En qué artículo se menciona que no cabe recurso contra las sentencias del TC?",
+      "opciones": [
+        "A) Artículo 161.",
+        "B) Artículo 164.1.",
+        "C) Artículo 165.",
+        "D) Artículo 123."
+      ],
+      "respuesta": "B) Artículo 164.1.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "La irrecurribilidad de las sentencias del TC está en el 164.1."
+    },
+    {
+      "texto": "92. ¿Qué artículo regula la mayoría de tres quintos en el Congreso para proponer miembros al TC?",
+      "opciones": [
+        "A) Artículo 159.1.",
+        "B) Artículo 162.",
+        "C) Artículo 72.",
+        "D) Artículo 165."
+      ],
+      "respuesta": "A) Artículo 159.1.",
+      "referencia": "Tit9, Art159.1, pág. 173",
+      "explicacion": "Fija el quorum reforzado para la elección de magistrados."
+    },
+    {
+      "texto": "93. ¿A quién corresponde velar por la independencia de los Tribunales (124)?",
+      "opciones": [
+        "A) Al TC.",
+        "B) Al Ministerio Fiscal.",
+        "C) Al Rey.",
+        "D) Al Gobierno."
+      ],
+      "respuesta": "B) Al Ministerio Fiscal.",
+      "referencia": "Tit6, Art124.1, pág. 120",
+      "explicacion": "Aunque es del Título VI, el TC lo garantiza en última instancia. El 124 lo asigna al Fiscal."
+    },
+    {
+      "texto": "94. ¿Qué artículo del TC trata sobre los plenos efectos erga omnes?",
+      "opciones": [
+        "A) Artículo 161.",
+        "B) Artículo 164.1.",
+        "C) Artículo 165.",
+        "D) Artículo 159."
+      ],
+      "respuesta": "B) Artículo 164.1.",
+      "referencia": "Tit9, Art164.1, pág. 179",
+      "explicacion": "Establece los efectos generales de las sentencias."
+    },
+    {
+      "texto": "95. ¿Quién puede proponer al TC lo que indica el artículo 162.2?",
+      "opciones": [
+        "A) Nadie, no existe el 162.2.",
+        "B) La ley orgánica determinará las personas y órganos legitimados.",
+        "C) El Presidente del Gobierno.",
+        "D) Los Jueces de Paz."
+      ],
+      "respuesta": "B) La ley orgánica determinará las personas y órganos legitimados.",
+      "referencia": "Tit9, Art162.2, pág. 178",
+      "explicacion": "Remisión legal para otros supuestos de legitimación."
+    },
+    {
+      "texto": "96. ¿De qué se encarga el artículo 163?",
+      "opciones": [
+        "A) Del recurso de amparo.",
+        "B) De la cuestión de inconstitucionalidad.",
+        "C) De la reforma de la CE.",
+        "D) Del nombramiento del Fiscal General."
+      ],
+      "respuesta": "B) De la cuestión de inconstitucionalidad.",
+      "referencia": "Tit9, Art163, pág. 179",
+      "explicacion": "Regula el planteamiento de dudas de constitucionalidad por los jueces."
+    },
+    {
+      "texto": "97. ¿Cuál es el rango jerárquico del TC según el artículo 123.1?",
+      "opciones": [
+        "A) Inferior al Supremo.",
+        "B) Superior en todos los órdenes, salvo garantías constitucionales.",
+        "C) El Supremo es superior salvo lo dispuesto en materia de garantías constitucionales.",
+        "D) Son iguales."
+      ],
+      "respuesta": "C) El Supremo es superior salvo lo dispuesto en materia de garantías constitucionales.",
+      "referencia": "Tit6, Art123.1, pág. 119",
+      "explicacion": "El Supremo es el superior, excepto en lo que compete al TC (garantías constitucionales)."
+    },
+    {
+      "texto": "98. ¿Qué artículo establece las incompatibilidades de los miembros del TC?",
+      "opciones": [
+        "A) Artículo 159.4.",
+        "B) Artículo 122.",
+        "C) Artículo 127.",
+        "D) Artículo 165."
+      ],
+      "respuesta": "A) Artículo 159.4.",
+      "referencia": "Tit9, Art159.4, pág. 174",
+      "explicacion": "El 159.4 detalla el régimen estricto de incompatibilidades."
+    },
+    {
+      "texto": "99. ¿A qué artículo corresponde el control de constitucionalidad de las leyes autonómicas?",
+      "opciones": [
+        "A) Artículo 153.",
+        "B) Artículo 161.1.a).",
+        "C) Artículo 161.2.",
+        "D) Ambos A y B."
+      ],
+      "respuesta": "D) Ambos A y B.",
+      "referencia": "Tit8, 9, págs. 167, 176",
+      "explicacion": "El 153.a) lo menciona como forma de control y el 161.1.a) como competencia del TC."
+    },
+    {
+      "texto": "100. ¿Cómo se denomina oficialmente el Título IX?",
+      "opciones": [
+        "A) De la Justicia Constitucional.",
+        "B) Del Tribunal Constitucional.",
+        "C) De las Garantías Constitucionales.",
+        "D) Del Poder Judicial Constitucional."
+      ],
+      "respuesta": "B) Del Tribunal Constitucional.",
+      "referencia": "Tit9, pág. 173",
+      "explicacion": "Es el nombre oficial que encabeza el título."
+    }
+  ]
+}

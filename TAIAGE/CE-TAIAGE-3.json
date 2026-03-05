@@ -1,0 +1,1205 @@
+
+{
+  "CE-TAIAGE-3": [
+    {
+      "texto": "1. ¿Cuál de los siguientes conceptos se define como un valor superior del ordenamiento jurídico español para propugnar la convivencia democrática?",
+      "opciones": [
+        "A) La solidaridad interregional.",
+        "B) El pluralismo político.",
+        "C) La unidad de la nación.",
+        "D) El derecho a la autonomía."
+      ],
+      "respuesta": "B) El pluralismo político.",
+      "referencia": "TitPrelim, Art1, pág.10",
+      "explicacion": "El artículo 1.1 establece los cuatro valores fundamentales sobre los que se asienta el Estado de Derecho. Texto: 'España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.'"
+    },
+    {
+      "texto": "2. Respecto a la soberanía nacional, ¿qué principio constitucional rige sobre el origen de los poderes del Estado?",
+      "opciones": [
+        "A) Emanan de la Constitución Española.",
+        "B) Residen en las Cortes Generales.",
+        "C) Emanan del pueblo español.",
+        "D) Residen en la Corona de España."
+      ],
+      "respuesta": "C) Emanan del pueblo español.",
+      "referencia": "TitPrelim, Art1, pág.10",
+      "explicacion": "Se establece que el pueblo es el titular único de la soberanía. Texto: '2. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.'"
+    },
+    {
+      "texto": "3. En relación con el castellano como lengua oficial del Estado, ¿qué obligación constitucional se impone a los ciudadanos españoles?",
+      "opciones": [
+        "A) El derecho exclusivo de usarla.",
+        "B) El deber de conocerla.",
+        "C) La obligación de estudiarla.",
+        "D) El deber de proteger su pureza."
+      ],
+      "respuesta": "B) El deber de conocerla.",
+      "referencia": "TitPrelim, Art3, pág.11",
+      "explicacion": "La Constitución distingue entre el deber de conocimiento del castellano y el derecho a su uso. Texto: '1. El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.'"
+    },
+    {
+      "texto": "4. ¿Qué misión fundamental asigna la Constitución a las Fuerzas Armadas en relación con el territorio nacional?",
+      "opciones": [
+        "A) Velar por la seguridad ciudadana.",
+        "B) Defender su integridad territorial.",
+        "C) Mantener el orden público interno.",
+        "D) Proteger el libre uso de derechos."
+      ],
+      "respuesta": "B) Defender su integridad territorial.",
+      "referencia": "TitPrelim, Art8, pág.14",
+      "explicacion": "El artículo define la función defensiva externa y constitucional de los ejércitos. Texto: '1. Las Fuerzas Armadas... tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.'"
+    },
+    {
+      "texto": "5. ¿Cuál es la consecuencia jurídica de la irretroactividad de las disposiciones sancionadoras no favorables según los principios de legalidad?",
+      "opciones": [
+        "A) La seguridad de que no se aplicarán leyes nuevas a hechos pasados si estas perjudican.",
+        "B) La obligación de publicar las normas en el BOE para su entrada en vigor.",
+        "C) La responsabilidad patrimonial de la administración por actos arbitrarios.",
+        "D) La imposibilidad de modificar leyes penales durante una misma legislatura."
+      ],
+      "respuesta": "A) La seguridad de que no se aplicarán leyes nuevas a hechos pasados si estas perjudican.",
+      "referencia": "TitPrelim, Art9, pág.15",
+      "explicacion": "Es una garantía de seguridad jurídica para el ciudadano. Texto: '3. La Constitución garantiza... la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales...'"
+    },
+    {
+      "texto": "6. ¿Qué elemento se considera el fundamento del orden político y de la paz social en el sistema constitucional español?",
+      "opciones": [
+        "A) La unidad indisoluble de la Nación.",
+        "B) La dignidad de la persona.",
+        "C) La supremacía de las leyes.",
+        "D) El sufragio universal libre."
+      ],
+      "respuesta": "B) La dignidad de la persona.",
+      "referencia": "Tit1, Art10, pág.16",
+      "explicacion": "La dignidad humana es el núcleo sobre el que se construyen los derechos. Texto: '1. La dignidad de la persona, los derechos inviolables que le son inherentes... son fundamento del orden político y de la paz social.'"
+    },
+    {
+      "texto": "7. ¿De qué manera deben interpretarse las normas relativas a los derechos fundamentales reconocidos en la Constitución?",
+      "opciones": [
+        "A) Según los criterios del Tribunal Supremo.",
+        "B) Conforme a los tratados internacionales ratificados.",
+        "C) Según la voluntad original del legislador.",
+        "D) Conforme a la analogía con leyes civiles."
+      ],
+      "respuesta": "B) Conforme a los tratados internacionales ratificados.",
+      "referencia": "Tit1, Art10, pág.16",
+      "explicacion": "Se establece una remisión a textos internacionales para la interpretación de derechos. Texto: '2. Las normas relativas a los derechos fundamentales... se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados... ratificados por España.'"
+    },
+    {
+      "texto": "8. Respecto a la nacionalidad, ¿cuál es la principal garantía que ofrece la Constitución a un español de origen?",
+      "opciones": [
+        "A) El derecho a la doble nacionalidad.",
+        "B) Que no podrá ser privado de ella.",
+        "C) La opción de renunciar libremente.",
+        "D) El derecho a la protección consular."
+      ],
+      "respuesta": "B) Que no podrá ser privado de ella.",
+      "referencia": "Tit1, Cap1, Art11, pág.17",
+      "explicacion": "Protección absoluta para evitar la apatridia forzosa de nacionales. Texto: '2. Ningún español de origen podrá ser privado de su nacionalidad.'"
+    },
+    {
+      "texto": "9. ¿En qué supuesto se permite la extradición de una persona según el principio de reciprocidad?",
+      "opciones": [
+        "A) Por delitos de carácter político.",
+        "B) En cumplimiento de un tratado o ley.",
+        "C) Por simple orden administrativa externa.",
+        "D) En casos de asilo político concedido."
+      ],
+      "respuesta": "B) En cumplimiento de un tratado o ley.",
+      "referencia": "Tit1, Cap1, Art13, pág.18",
+      "explicacion": "La extradición está reglada y sujeta a condiciones de legalidad. Texto: '3. La extradición sólo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad.'"
+    },
+    {
+      "texto": "10. ¿Qué prohíbe el principio de igualdad ante la ley según el texto constitucional?",
+      "opciones": [
+        "A) La existencia de diferentes tribunales ordinarios.",
+        "B) Prevalecer discriminación por cualquier circunstancia.",
+        "C) La aplicación de leyes autonómicas diversas.",
+        "D) El trato preferencial a menores de edad."
+      ],
+      "respuesta": "B) Prevalecer discriminación por cualquier circunstancia.",
+      "referencia": "Tit1, Cap2, Art14, pág.19",
+      "explicacion": "Impide el trato desigual injustificado por causas subjetivas. Texto: 'Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión...'"
+    },
+    {
+      "texto": "11. ¿Cuál es la única excepción constitucional que permitiría la existencia de la pena de muerte?",
+      "opciones": [
+        "A) En delitos de terrorismo con víctimas múltiples.",
+        "B) Lo dispuesto en leyes militares para tiempos de guerra.",
+        "C) Por traición al Rey o a la Corona.",
+        "D) No existe ninguna excepción, está abolida siempre."
+      ],
+      "respuesta": "B) Lo dispuesto en leyes militares para tiempos de guerra.",
+      "referencia": "Tit1, Cap2, Sec1, Art15, pág.20",
+      "explicacion": "Abolición general con reserva militar específica. Texto: 'Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.'"
+    },
+    {
+      "texto": "12. En relación con la libertad religiosa, ¿qué posición adopta el Estado español respecto a las confesiones?",
+      "opciones": [
+        "A) El Estado es oficialmente católico.",
+        "B) Ninguna confesión tendrá carácter estatal.",
+        "C) El Estado prohíbe la financiación religiosa.",
+        "D) Todas las religiones son obligatorias en la educación."
+      ],
+      "respuesta": "B) Ninguna confesión tendrá carácter estatal.",
+      "referencia": "Tit1, Cap2, Sec1, Art16, pág.20",
+      "explicacion": "Define la naturaleza aconfesional del Estado. Texto: '3. Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española...'"
+    },
+    {
+      "texto": "13. ¿Cuál es el límite temporal máximo establecido para la detención preventiva antes de la puesta a disposición judicial?",
+      "opciones": [
+        "A) Veinticuatro horas improrrogables.",
+        "B) Setenta y dos horas.",
+        "C) Cuarenta y ocho horas naturales.",
+        "D) El tiempo que decida la policía."
+      ],
+      "respuesta": "B) Setenta y dos horas.",
+      "referencia": "Tit1, Cap2, Sec1, Art17, pág.21",
+      "explicacion": "Garantía de libertad personal frente a la detención gubernativa. Texto: '2. ...y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.'"
+    },
+    {
+      "texto": "14. ¿Qué condición se requiere para que una entrada en un domicilio sea constitucionalmente válida sin consentimiento del titular?",
+      "opciones": [
+        "A) La existencia de sospechas fundadas.",
+        "B) La existencia de una resolución judicial.",
+        "C) La presencia de un agente de la autoridad.",
+        "D) El acompañamiento de dos testigos vecinos."
+      ],
+      "respuesta": "B) La existencia de una resolución judicial.",
+      "referencia": "Tit1, Cap2, Sec1, Art18, pág.23",
+      "explicacion": "La inviolabilidad del domicilio solo cede ante mandato judicial o delito actual. Texto: '2. El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.'"
+    },
+    {
+      "texto": "15. ¿Qué derecho garantiza el secreto de las comunicaciones postales y telefónicas frente a terceros?",
+      "opciones": [
+        "A) El derecho a la libertad de expresión.",
+        "B) El derecho a la intimidad personal.",
+        "C) El derecho a la integridad física.",
+        "D) El derecho al honor familiar."
+      ],
+      "respuesta": "B) El derecho a la intimidad personal.",
+      "referencia": "Tit1, Cap2, Sec1, Art18, pág.23",
+      "explicacion": "Forma parte de la esfera privada protegida. Texto: '3. Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial.'"
+    },
+    {
+      "texto": "16. ¿Qué restricción impone la Constitución al legislador respecto al derecho de los españoles a entrar y salir libremente de España?",
+      "opciones": [
+        "A) Puede limitarse por razones de salud pública.",
+        "B) No puede limitarse por motivos políticos.",
+        "C) Se limita por deudas con la Hacienda Pública.",
+        "D) Solo es válido para mayores de edad."
+      ],
+      "respuesta": "B) No puede limitarse por motivos políticos.",
+      "referencia": "Tit1, Cap2, Sec1, Art19, pág.24",
+      "explicacion": "Garantía de que la ideología no impida el movimiento. Texto: '...Este derecho no podrá ser limitado por motivos políticos o ideológicos.'"
+    },
+    {
+      "texto": "17. En el ejercicio de la libertad de expresión, ¿qué figura queda expresamente prohibida por la Constitución?",
+      "opciones": [
+        "A) El secuestro de publicaciones.",
+        "B) La censura previa.",
+        "C) La crítica al Gobierno.",
+        "D) La propaganda electoral."
+      ],
+      "respuesta": "B) La censura previa.",
+      "referencia": "Tit1, Cap2, Sec1, Art20, pág.25",
+      "explicacion": "Protección contra el control preventivo de la información. Texto: '2. El ejercicio de estos derechos no puede restringirse mediante ningún tipo de censura previa.'"
+    },
+    {
+      "texto": "18. Respecto al derecho de reunión en lugares de tránsito público y manifestaciones, ¿qué requisito formal se exige?",
+      "opciones": [
+        "A) Autorización gubernativa expresa.",
+        "B) Comunicación previa a la autoridad.",
+        "C) Pago de una tasa de seguridad pública.",
+        "D) Presencia obligatoria de notario."
+      ],
+      "respuesta": "B) Comunicación previa a la autoridad.",
+      "referencia": "Tit1, Cap2, Sec1, Art21, pág.27",
+      "explicacion": "No es una autorización, sino un aviso para coordinar el orden. Texto: '2. En los casos de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad...'"
+    },
+    {
+      "texto": "19. ¿Qué tipo de asociaciones se declaran ilegales según el texto constitucional?",
+      "opciones": [
+        "A) Aquellas que no se inscriban en el registro.",
+        "B) Las que utilicen medios tipificados como delito.",
+        "C) Las que tengan fines puramente lucrativos.",
+        "D) Las de carácter exclusivamente religioso."
+      ],
+      "respuesta": "B) Las que utilicen medios tipificados como delito.",
+      "referencia": "Tit1, Cap2, Sec1, Art22, pág.27",
+      "explicacion": "El límite de la libertad de asociación es el Código Penal. Texto: '2. Las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales.'"
+    },
+    {
+      "texto": "20. ¿Qué garantía procesal asegura que nadie pueda ser juzgado por un tribunal creado 'ad hoc' para un caso concreto?",
+      "opciones": [
+        "A) El derecho a la defensa letrada.",
+        "B) El derecho al Juez ordinario predeterminado.",
+        "C) La presunción de inocencia.",
+        "D) El derecho a un proceso público."
+      ],
+      "respuesta": "B) El derecho al Juez ordinario predeterminado.",
+      "referencia": "Tit1, Cap2, Sec1, Art24, pág.29",
+      "explicacion": "Evita la creación de tribunales especiales de represalia. Texto: '2. Asimismo, todos tienen derecho al Juez ordinario predeterminado por la ley...'"
+    },
+    {
+      "texto": "21. ¿Hacia qué objetivo principal deben orientarse las penas privativas de libertad según la Constitución?",
+      "opciones": [
+        "A) Al castigo físico del delincuente.",
+        "B) A la reeducación y reinserción social.",
+        "C) Al aislamiento definitivo del sujeto.",
+        "D) A la realización de trabajos forzados."
+      ],
+      "respuesta": "B) A la reeducación y reinserción social.",
+      "referencia": "Tit1, Cap2, Sec1, Art25, pág.30",
+      "explicacion": "Establece el fin humanista y social de la prisión. Texto: '2. Las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia la reeducación y reinserción social...'"
+    },
+    {
+      "texto": "22. En el ámbito de la educación, ¿qué derecho se garantiza expresamente a los padres?",
+      "opciones": [
+        "A) A elegir el salario de los profesores.",
+        "B) A que sus hijos reciban formación religiosa.",
+        "C) A diseñar el currículo escolar nacional.",
+        "D) A eximir a sus hijos de la enseñanza básica."
+      ],
+      "respuesta": "B) A que sus hijos reciban formación religiosa.",
+      "referencia": "Tit1, Cap2, Sec1, Art27, pág.32",
+      "explicacion": "Garantía de libertad de conciencia en la formación. Texto: '3. Los poderes públicos garantizan el derecho que asiste a los padres para que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones.'"
+    },
+    {
+      "texto": "23. ¿Qué limitación puede imponer la ley respecto al derecho de sindicación libre?",
+      "opciones": [
+        "A) Prohibirlo a todos los funcionarios civiles.",
+        "B) Exceptuar su ejercicio a las Fuerzas Armadas.",
+        "C) Limitarlo a trabajadores por cuenta ajena.",
+        "D) Impedir la afiliación a sindicatos extranjeros."
+      ],
+      "respuesta": "B) Exceptuar su ejercicio a las Fuerzas Armadas.",
+      "referencia": "Tit1, Cap2, Sec1, Art28, pág.34",
+      "explicacion": "La disciplina militar justifica la restricción del derecho sindical. Texto: '1. ...La ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados...'"
+    },
+    {
+      "texto": "24. ¿Qué requisito formal se exige para el ejercicio del derecho de petición por parte de los españoles?",
+      "opciones": [
+        "A) Comparecencia personal obligatoria.",
+        "B) Realizarse siempre por escrito.",
+        "C) Mediante manifestación en la vía pública.",
+        "D) Firma de un abogado y procurador."
+      ],
+      "respuesta": "B) Realizarse siempre por escrito.",
+      "referencia": "Tit1, Cap2, Sec1, Art29, pág.35",
+      "explicacion": "La forma escrita es esencial para la validez de la petición. Texto: '1. Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito...'"
+    },
+    {
+      "texto": "25. ¿Cuál es la base del sistema tributario justo que deben seguir los ciudadanos para el gasto público?",
+      "opciones": [
+        "A) La proporcionalidad estricta.",
+        "B) La igualdad y progresividad.",
+        "C) La voluntad del contribuyente.",
+        "D) El beneficio recibido del Estado."
+      ],
+      "respuesta": "B) La igualdad y progresividad.",
+      "referencia": "Tit1, Cap2, Sec2, Art31, pág.37",
+      "explicacion": "Principios que aseguran la justicia en la carga fiscal. Texto: '1. ...mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.'"
+    },
+    {
+      "texto": "26. ¿Qué principio rige el derecho de propiedad privada en cuanto a su alcance y límites?",
+      "opciones": [
+        "A) Es un derecho absoluto e ilimitado.",
+        "B) La función social delimita su contenido.",
+        "C) Solo puede existir sobre bienes muebles.",
+        "D) Depende exclusivamente del título de compra."
+      ],
+      "respuesta": "B) La función social delimita su contenido.",
+      "referencia": "Tit1, Cap2, Sec2, Art33, pág.38",
+      "explicacion": "El interés general afecta a la definición del derecho de propiedad. Texto: '2. La función social de estos derechos delimitará su contenido, de acuerdo con las leyes.'"
+    },
+    {
+      "texto": "27. ¿Qué garantía se establece para el funcionamiento de los Colegios Profesionales?",
+      "opciones": [
+        "A) Deben estar dirigidos por el Gobierno.",
+        "B) Su estructura interna debe ser democrática.",
+        "C) Son de afiliación voluntaria siempre.",
+        "D) No pueden cobrar cuotas a sus miembros."
+      ],
+      "respuesta": "B) Su estructura interna debe ser democrática.",
+      "referencia": "Tit1, Cap2, Sec2, Art36, pág.40",
+      "explicacion": "Exigencia de democracia interna para entes corporativos. Texto: '...La estructura interna y el funcionamiento de los Colegios deberán ser democráticos.'"
+    },
+    {
+      "texto": "28. ¿Cuál es el marco económico en el que se reconoce la libertad de empresa en España?",
+      "opciones": [
+        "A) De la economía planificada estatal.",
+        "B) De la economía de mercado.",
+        "C) Del monopolio público esencial.",
+        "D) De la autarquía económica local."
+      ],
+      "respuesta": "B) De la economía de mercado.",
+      "referencia": "Tit1, Cap2, Sec2, Art38, pág.41",
+      "explicacion": "Define el sistema económico constitucional. Texto: 'Se reconoce la libertad de empresa en el marco de la economía de mercado.'"
+    },
+    {
+      "texto": "29. ¿Qué obligación tienen los padres respecto a los hijos habidos fuera del matrimonio?",
+      "opciones": [
+        "A) No tienen obligaciones legales si no los reconocen.",
+        "B) Deben prestar asistencia de todo orden.",
+        "C) Solo asistencia económica mínima.",
+        "D) Las obligaciones dependen de la filiación."
+      ],
+      "respuesta": "B) Deben prestar asistencia de todo orden.",
+      "referencia": "Tit1, Cap3, Art39, pág.42",
+      "explicacion": "Igualdad de los hijos ante las cargas parentales. Texto: '3. Los padres deben prestar asistencia de todo orden a los hijos habidos dentro o fuera del matrimonio...'"
+    },
+    {
+      "texto": "30. ¿Hacia qué política específica deben orientar los poderes públicos sus actuaciones según el artículo 40?",
+      "opciones": [
+        "A) Al subsidio universal.",
+        "B) Al pleno empleo.",
+        "C) A la nacionalización industrial.",
+        "D) A la reducción del gasto social."
+      ],
+      "respuesta": "B) Al pleno empleo.",
+      "referencia": "Tit1, Cap3, Art40, pág.43",
+      "explicacion": "Es un objetivo prioritario de la política económica social. Texto: '1. ...De manera especial realizarán una política orientada al pleno empleo.'"
+    },
+    {
+      "texto": "31. ¿Qué carácter tiene el régimen de Seguridad Social que los poderes públicos deben mantener?",
+      "opciones": [
+        "A) Carácter privado y voluntario.",
+        "B) Carácter público para todos.",
+        "C) Carácter exclusivo para trabajadores.",
+        "D) Carácter benéfico asistencial."
+      ],
+      "respuesta": "B) Carácter público para todos.",
+      "referencia": "Tit1, Cap3, Art41, pág.44",
+      "explicacion": "Garantía de un sistema prestacional estatal. Texto: 'Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos...'"
+    },
+    {
+      "texto": "32. ¿Qué deber constitucional tienen los ciudadanos respecto al medio ambiente?",
+      "opciones": [
+        "A) El deber de disfrutarlo solamente.",
+        "B) El deber de conservarlo.",
+        "C) El deber de denunciar a las empresas.",
+        "D) No existe deber, solo derecho."
+      ],
+      "respuesta": "B) El deber de conservarlo.",
+      "referencia": "Tit1, Cap3, Art45, pág.46",
+      "explicacion": "Vinculación mutua de derecho y deber ambiental. Texto: '1. Todos tienen el derecho a disfrutar de un medio ambiente adecuado... así como el deber de conservarlo.'"
+    },
+    {
+      "texto": "33. ¿Qué sanción específica debe prever la ley para los atentados contra el patrimonio histórico y artístico?",
+      "opciones": [
+        "A) Sanciones administrativas leves.",
+        "B) La ley penal sancionará estos actos.",
+        "C) Solo la obligación de reparar daños.",
+        "D) Multas coercitivas de las CC.AA."
+      ],
+      "respuesta": "B) La ley penal sancionará estos actos.",
+      "referencia": "Tit1, Cap3, Art46, pág.47",
+      "explicacion": "Protección de máximo rango para el patrimonio cultural. Texto: '...La ley penal sancionará los atentados contra este patrimonio.'"
+    },
+    {
+      "texto": "34. ¿Qué fin debe perseguir la regulación de la utilización del suelo por los poderes públicos?",
+      "opciones": [
+        "A) El fomento de la propiedad privada.",
+        "B) Impedir la especulación.",
+        "C) El aumento de los ingresos locales.",
+        "D) La construcción de zonas industriales."
+      ],
+      "respuesta": "B) Impedir la especulación.",
+      "referencia": "Tit1, Cap3, Art47, pág.47",
+      "explicacion": "Control del urbanismo para el interés general. Texto: '...regulando la utilización del suelo de acuerdo con el interés general para impedir la especulación.'"
+    },
+    {
+      "texto": "35. ¿Cómo garantizan los poderes públicos la suficiencia económica en la tercera edad?",
+      "opciones": [
+        "A) Mediante donaciones de caridad.",
+        "B) Mediante pensiones adecuadas.",
+        "C) Mediante exenciones fiscales totales.",
+        "D) Mediante el trabajo obligatorio senior."
+      ],
+      "respuesta": "B) Mediante pensiones adecuadas.",
+      "referencia": "Tit1, Cap3, Art50, pág.49",
+      "explicacion": "Mandato prestacional para los mayores. Texto: 'Los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica...'"
+    },
+    {
+      "texto": "36. ¿A qué sujetos vinculan directamente los derechos y libertades del Capítulo II del Título I?",
+      "opciones": [
+        "A) Solo a la administración judicial.",
+        "B) A todos los poderes públicos.",
+        "C) Exclusivamente a los ciudadanos.",
+        "D) Solo al Gobierno de la Nación."
+      ],
+      "respuesta": "B) A todos los poderes públicos.",
+      "referencia": "Tit1, Cap4, Art53, pág.51",
+      "explicacion": "Eficacia jurídica inmediata de los derechos. Texto: '1. Los derechos y libertades reconocidos en el Capítulo segundo del presente Título vinculan a todos los poderes públicos.'"
+    },
+    {
+      "texto": "37. ¿Cuál es el rango normativo necesario para regular el ejercicio de los derechos y libertades del Capítulo II?",
+      "opciones": [
+        "A) Real Decreto del Gobierno.",
+        "B) Sólo por ley.",
+        "C) Orden Ministerial específica.",
+        "D) Reglamento del Congreso."
+      ],
+      "respuesta": "B) Sólo por ley.",
+      "referencia": "Tit1, Cap4, Art53, pág.51",
+      "explicacion": "Reserva de ley para la regulación de derechos fundamentales. Texto: '1. ...Sólo por ley, que en todo caso deberá respetar su contenido esencial, podrá regularse el ejercicio...'"
+    },
+    {
+      "texto": "38. ¿Cuál es la función constitucional del Defensor del Pueblo?",
+      "opciones": [
+        "A) Juzgar las infracciones administrativas.",
+        "B) Defender los derechos del Título I.",
+        "C) Dictar leyes de carácter social.",
+        "D) Representar al Rey ante las Cortes."
+      ],
+      "respuesta": "B) Defender los derechos del Título I.",
+      "referencia": "Tit1, Cap4, Art54, pág.52",
+      "explicacion": "Su misión es la supervisión para proteger derechos ciudadanos. Texto: 'Artículo 54. ...designado por éstas para la defensa de los derechos comprendidos en este Título...'"
+    },
+    {
+      "texto": "39. ¿Qué derechos pueden ser suspendidos de forma individual en investigaciones sobre bandas armadas?",
+      "opciones": [
+        "A) El derecho a la vida y educación.",
+        "B) El plazo de detención e inviolabilidad del domicilio.",
+        "C) La libertad de expresión y sindicación.",
+        "D) El derecho de huelga y matrimonio."
+      ],
+      "respuesta": "B) El plazo de detención e inviolabilidad del domicilio.",
+      "referencia": "Tit1, Cap5, Art55, pág.54",
+      "explicacion": "Excepciones en la lucha contra el terrorismo. Texto: '2. ...los derechos reconocidos en los artículos 17, apartado 2 [detención], y 18, apartados 2 y 3 [domicilio y comunicaciones], pueden ser suspendidos...'"
+    },
+    {
+      "texto": "40. ¿Cuál es el papel del Rey en relación con el funcionamiento de las instituciones?",
+      "opciones": [
+        "A) Dirigir la política del Gobierno.",
+        "B) Arbitrar y moderar el funcionamiento.",
+        "C) Resolver conflictos entre tribunales.",
+        "D) Sancionar decretos autonómicos."
+      ],
+      "respuesta": "B) Arbitrar y moderar el funcionamiento.",
+      "referencia": "Tit2, Art56, pág.55",
+      "explicacion": "Define la función institucional de la Jefatura del Estado. Texto: '1. El Rey es el Jefe del Estado... arbitra y modera el funcionamiento regular de las instituciones...'"
+    },
+    {
+      "texto": "41. ¿Qué se requiere para que los actos del Rey tengan validez jurídica?",
+      "opciones": [
+        "A) Firma del propio Monarca únicamente.",
+        "B) El refrendo de la autoridad competente.",
+        "C) Autorización previa del Senado.",
+        "D) Ratificación por el Tribunal Supremo."
+      ],
+      "respuesta": "B) El refrendo de la autoridad competente.",
+      "referencia": "Tit2, Art56, pág.56",
+      "explicacion": "La irresponsabilidad del Rey exige el refrendo de un cargo responsable. Texto: '3. ...Sus actos estarán siempre refrendados... careciendo de validez sin dicho refrendo...'"
+    },
+    {
+      "texto": "42. ¿Cuál es el criterio de preferencia en la sucesión al trono cuando hay igualdad de grado y sexo?",
+      "opciones": [
+        "A) La persona de menos edad.",
+        "B) La persona de más edad.",
+        "C) El que elijan las Cortes Generales.",
+        "D) La línea más próxima al Rey actual."
+      ],
+      "respuesta": "B) La persona de más edad.",
+      "referencia": "Tit2, Art57, pág.56",
+      "explicacion": "Regla de primogenitura dentro del mismo grado. Texto: '1. ...en el mismo sexo, la persona de más edad a la de menos.'"
+    },
+    {
+      "texto": "43. ¿Qué ocurre con el derecho sucesorio de una persona que se casa contra la prohibición del Rey y las Cortes?",
+      "opciones": [
+        "A) Mantiene sus derechos pero pierde su sueldo.",
+        "B) Queda excluida de la sucesión.",
+        "C) Necesita el perdón del Congreso.",
+        "D) Sus hijos mantienen el derecho al trono."
+      ],
+      "respuesta": "B) Queda excluida de la sucesión.",
+      "referencia": "Tit2, Art57, pág.57",
+      "explicacion": "Sanción constitucional por contravenir la voluntad política y real. Texto: '4. ...quedarán excluidas en la sucesión a la Corona por sí y sus descendientes.'"
+    },
+    {
+      "texto": "44. ¿Qué limitación constitucional tiene la Reina consorte respecto a las funciones del Estado?",
+      "opciones": [
+        "A) Puede presidir el Consejo de Ministros.",
+        "B) No podrá asumir funciones constitucionales.",
+        "C) Tiene el mando de la Armada española.",
+        "D) Ejerce el derecho de gracia en ausencia del Rey."
+      ],
+      "respuesta": "B) No podrá asumir funciones constitucionales.",
+      "referencia": "Tit2, Art58, pág.58",
+      "explicacion": "La consorte no tiene competencias propias del Jefe del Estado. Texto: 'La Reina consorte... no podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia.'"
+    },
+    {
+      "texto": "45. ¿Quién ejercerá la Regencia si el Rey es menor de edad y no hay previsión testamentaria?",
+      "opciones": [
+        "A) El Presidente del Gobierno.",
+        "B) El padre o la madre del Rey.",
+        "C) El Presidente del Tribunal Supremo.",
+        "D) Una comisión de tres diputados."
+      ],
+      "respuesta": "B) El padre o la madre del Rey.",
+      "referencia": "Tit2, Art59, pág.58",
+      "explicacion": "Orden de llamamiento legal para la Regencia. Texto: '1. Cuando el Rey fuere menor de edad, el padre o la madre del Rey... entrará a ejercer inmediatamente la Regencia...'"
+    },
+    {
+      "texto": "46. ¿Qué condición de nacionalidad se exige para poder ejercer la Regencia de España?",
+      "opciones": [
+        "A) Ser español de nacimiento.",
+        "B) Ser español.",
+        "C) Ser ciudadano europeo.",
+        "D) Ser de la dinastía histórica."
+      ],
+      "respuesta": "B) Ser español.",
+      "referencia": "Tit2, Art59, pág.60",
+      "explicacion": "Requisito básico de vínculo con el Estado. Texto: '4. Para ejercer la Regencia es preciso ser español y mayor de edad.'"
+    },
+    {
+      "texto": "47. ¿En qué situación se prohíbe acumular los cargos de Regente y de tutor del Rey menor?",
+      "opciones": [
+        "A) Siempre está prohibido acumularlos.",
+        "B) Salvo en el padre, madre o ascendientes directos.",
+        "C) Excepto si lo autoriza el Senado.",
+        "D) Únicamente en caso de guerra exterior."
+      ],
+      "respuesta": "B) Salvo en el padre, madre o ascendientes directos.",
+      "referencia": "Tit2, Art60, pág.60",
+      "explicacion": "Excepción por proximidad familiar directa. Texto: '1. ...no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey.'"
+    },
+    {
+      "texto": "48. ¿Cuál es el compromiso que adquiere el Rey mediante su juramento ante las Cortes?",
+      "opciones": [
+        "A) Gobernar el país con justicia social.",
+        "B) Guardar y hacer guardar la Constitución.",
+        "C) Elegir a los mejores ministros posibles.",
+        "D) Expandir la influencia de España en el mundo."
+      ],
+      "respuesta": "B) Guardar y hacer guardar la Constitución.",
+      "referencia": "Tit2, Art61, pág.61",
+      "explicacion": "Compromiso de sumisión al orden constitucional. Texto: '1. El Rey... prestará juramento de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes...'"
+    },
+    {
+      "texto": "49. ¿Quién propone formalmente el nombramiento de los miembros del Gobierno para que el Rey lo efectúe?",
+      "opciones": [
+        "A) El Congreso de los Diputados.",
+        "B) El Presidente del Gobierno.",
+        "C) El Consejo de Estado.",
+        "D) El partido mayoritario."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit2, Art62, pág.62",
+      "explicacion": "Es una facultad del Jefe del Ejecutivo. Texto: 'e) Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.'"
+    },
+    {
+      "texto": "50. ¿Qué límite tiene el Rey en el ejercicio del derecho de gracia?",
+      "opciones": [
+        "A) Solo puede indultar delitos políticos.",
+        "B) No podrá autorizar indultos generales.",
+        "C) Necesita el voto del Tribunal Supremo.",
+        "D) Solo es válido en tiempos de paz."
+      ],
+      "respuesta": "B) No podrá autorizar indultos generales.",
+      "referencia": "Tit2, Art62, pág.63",
+      "explicacion": "Restricción a la prerrogativa de gracia individual. Texto: 'i) Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales.'"
+    },
+    {
+      "texto": "51. ¿Quién ostenta la máxima representación del Estado español en las relaciones internacionales?",
+      "opciones": [
+        "A) El Ministro de Asuntos Exteriores.",
+        "B) El Rey.",
+        "C) El Presidente del Gobierno.",
+        "D) El Cuerpo Diplomático."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit2, Art56, pág.55",
+      "explicacion": "Función simbólica y diplomática suprema. Texto: '1. El Rey... asume la más alta representación del Estado español en las relaciones internacionales...'"
+    },
+    {
+      "texto": "52. ¿Quién refrenda habitualmente los actos del Rey, salvo excepciones específicas?",
+      "opciones": [
+        "A) Los Presidentes de las Cámaras.",
+        "B) El Presidente del Gobierno.",
+        "C) El Jefe de la Casa del Rey.",
+        "D) El Consejo General del Poder Judicial."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit2, Art64, pág.64",
+      "explicacion": "Atribuye responsabilidad política al Ejecutivo. Texto: '1. Los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes.'"
+    },
+    {
+      "texto": "53. ¿Qué facultad tiene el Rey respecto a la asignación económica que recibe de los Presupuestos?",
+      "opciones": [
+        "A) Debe justificar cada gasto ante el Congreso.",
+        "B) La distribuye libremente.",
+        "C) Solo puede usarla para viajes oficiales.",
+        "D) Es administrada por el Ministerio de Hacienda."
+      ],
+      "respuesta": "B) La distribuye libremente.",
+      "referencia": "Tit2, Art65, pág.65",
+      "explicacion": "Garantía de autonomía en la gestión de su Casa. Texto: '1. El Rey recibe... una cantidad global... y distribuye libremente la misma.'"
+    },
+    {
+      "texto": "54. ¿Cuál es la función representativa fundamental de las Cortes Generales?",
+      "opciones": [
+        "A) Representar a las autonomías.",
+        "B) Representar al pueblo español.",
+        "C) Representar a los partidos políticos.",
+        "D) Representar a los intereses económicos."
+      ],
+      "respuesta": "B) Representar al pueblo español.",
+      "referencia": "Tit3, Cap1, Art66, pág.65",
+      "explicacion": "Las Cortes son la sede de la soberanía popular. Texto: '1. Las Cortes Generales representan al pueblo español...'"
+    },
+    {
+      "texto": "55. ¿Qué potestad comparten ambas cámaras de las Cortes Generales?",
+      "opciones": [
+        "A) El mando de las fuerzas de seguridad.",
+        "B) La potestad legislativa del Estado.",
+        "C) El nombramiento de los alcaldes.",
+        "D) La dirección de la política exterior."
+      ],
+      "respuesta": "B) La potestad legislativa del Estado.",
+      "referencia": "Tit3, Cap1, Art66, pág.65",
+      "explicacion": "Es la función principal del poder legislativo. Texto: '2. Las Cortes Generales ejercen la potestad legislativa del Estado...'"
+    },
+    {
+      "texto": "56. ¿Qué prohibición se establece para los miembros de las Cortes Generales respecto a su vinculación política?",
+      "opciones": [
+        "A) No pueden pertenecer a sindicatos.",
+        "B) No estarán ligados por mandato imperativo.",
+        "C) Deben votar siempre con su partido.",
+        "D) No pueden recibir sueldo del Estado."
+      ],
+      "respuesta": "B) No estarán ligados por mandato imperativo.",
+      "referencia": "Tit3, Cap1, Art67, pág.66",
+      "explicacion": "Protección de la libertad de voto y opinión del parlamentario. Texto: '2. Los miembros de las Cortes Generales no estarán ligados por mandato imperativo.'"
+    },
+    {
+      "texto": "57. ¿Cuál es la unidad básica para la circunscripción electoral en las elecciones al Congreso?",
+      "opciones": [
+        "A) El municipio.",
+        "B) La provincia.",
+        "C) La comunidad autónoma.",
+        "D) La nación entera."
+      ],
+      "respuesta": "B) La provincia.",
+      "referencia": "Tit3, Cap1, Art68, pág.67",
+      "explicacion": "Define el reparto territorial de los escaños. Texto: '2. La circunscripción electoral es la provincia.'"
+    },
+    {
+      "texto": "58. ¿Qué sistema de representación rige las elecciones al Congreso de los Diputados?",
+      "opciones": [
+        "A) Sistema mayoritario puro.",
+        "B) Criterios de representación proporcional.",
+        "C) Sistema mixto de listas abiertas.",
+        "D) Adjudicación por sorteo poblacional."
+      ],
+      "respuesta": "B) Criterios de representación proporcional.",
+      "referencia": "Tit3, Cap1, Art68, pág.67",
+      "explicacion": "Busca el pluralismo en la cámara baja. Texto: '3. La elección se verificará en cada circunscripción atendiendo a criterios de representación proporcional.'"
+    },
+    {
+      "texto": "59. ¿Cuál es la naturaleza constitucional del Senado dentro del sistema parlamentario?",
+      "opciones": [
+        "A) Cámara de revisión económica.",
+        "B) Cámara de representación territorial.",
+        "C) Cámara de control judicial.",
+        "D) Cámara de notables designados."
+      ],
+      "respuesta": "B) Cámara de representación territorial.",
+      "referencia": "Tit3, Cap1, Art69, pág.69",
+      "explicacion": "Función del Senado en la estructura del Estado autonómico. Texto: '1. El Senado es la Cámara de representación territorial.'"
+    },
+    {
+      "texto": "60. ¿Cómo se designan los Senadores de las Comunidades Autónomas?",
+      "opciones": [
+        "A) Por elección directa de los ciudadanos.",
+        "B) Por la Asamblea legislativa autonómica.",
+        "C) Por el Presidente de la Comunidad.",
+        "D) Por el Gobierno central a dedo."
+      ],
+      "respuesta": "B) Por la Asamblea legislativa autonómica.",
+      "referencia": "Tit3, Cap1, Art69, pág.70",
+      "explicacion": "Refuerza el carácter territorial de la Cámara. Texto: '5. ...La designación corresponderá a la Asamblea legislativa o, en su defecto, al órgano colegiado superior...'"
+    },
+    {
+      "texto": "61. ¿Qué prerrogativa tienen los parlamentarios por las opiniones manifestadas en su cargo?",
+      "opciones": [
+        "A) Inmunidad judicial absoluta.",
+        "B) Inviolabilidad por dichas opiniones.",
+        "C) Derecho a sueldo vitalicio.",
+        "D) Exención del pago de impuestos."
+      ],
+      "respuesta": "B) Inviolabilidad por dichas opiniones.",
+      "referencia": "Tit3, Cap1, Art71, pág.72",
+      "explicacion": "Protege la libertad de debate parlamentario. Texto: '1. Los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.'"
+    },
+    {
+      "texto": "62. ¿En qué único supuesto puede ser detenido un Diputado o Senador durante su mandato?",
+      "opciones": [
+        "A) Por cualquier delito grave.",
+        "B) En caso de flagrante delito.",
+        "C) Por orden de un Juez de guardia.",
+        "D) Por desobediencia al Gobierno."
+      ],
+      "respuesta": "B) En caso de flagrante delito.",
+      "referencia": "Tit3, Cap1, Art71, pág.72",
+      "explicacion": "Garantía de inmunidad procesal parlamentaria. Texto: '2. ...sólo podrán ser detenidos en caso de flagrante delito.'"
+    },
+    {
+      "texto": "63. ¿Quién ejerce los poderes administrativos y de policía dentro de las sedes de las Cámaras?",
+      "opciones": [
+        "A) El Ministro del Interior.",
+        "B) Los Presidentes de las Cámaras.",
+        "C) El Jefe de la Guardia Civil.",
+        "D) El Alcalde de la ciudad sede."
+      ],
+      "respuesta": "B) Los Presidentes de las Cámaras.",
+      "referencia": "Tit3, Cap1, Art72, pág.74",
+      "explicacion": "Asegura la independencia del poder legislativo. Texto: '3. Los Presidentes de las Cámaras ejercen en nombre de las mismas todos los poderes administrativos y facultades de policía...'"
+    },
+    {
+      "texto": "64. ¿Qué se requiere para que las Cámaras puedan reunirse en sesiones extraordinarias?",
+      "opciones": [
+        "A) La voluntad de cualquier grupo político.",
+        "B) La petición de la mayoría absoluta.",
+        "C) Un decreto ley de urgencia.",
+        "D) El permiso previo del Rey."
+      ],
+      "respuesta": "B) La petición de la mayoría absoluta.",
+      "referencia": "Tit3, Cap1, Art73, pág.75",
+      "explicacion": "Regula la actividad fuera de los periodos ordinarios. Texto: '2. ...a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros...'"
+    },
+    {
+      "texto": "65. ¿Qué materias quedan fuera de la delegación legislativa a las Comisiones Permanentes?",
+      "opciones": [
+        "A) Los asuntos de agricultura y pesca.",
+        "B) Las leyes orgánicas y presupuestos.",
+        "C) La ordenación del tráfico vial.",
+        "D) El fomento de la cultura local."
+      ],
+      "respuesta": "B) Las leyes orgánicas y presupuestos.",
+      "referencia": "Tit3, Cap1, Art75, pág.77",
+      "explicacion": "Materias de especial relevancia que exigen debate en Pleno. Texto: '3. Quedan exceptuados... la reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos...'"
+    },
+    {
+      "texto": "66. ¿Cuál es el valor jurídico de las conclusiones de las Comisiones de investigación parlamentarias?",
+      "opciones": [
+        "A) Son sentencias de obligado cumplimiento.",
+        "B) No serán vinculantes para los Tribunales.",
+        "C) Tienen rango de ley ordinaria.",
+        "D) Anulan las resoluciones judiciales previas."
+      ],
+      "respuesta": "B) No serán vinculantes para los Tribunales.",
+      "referencia": "Tit3, Cap1, Art76, pág.78",
+      "explicacion": "Diferencia la responsabilidad política de la judicial. Texto: '1. ...Sus conclusiones no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales...'"
+    },
+    {
+      "texto": "67. ¿Qué requisito es indispensable para que las Cámaras adopten acuerdos válidos?",
+      "opciones": [
+        "A) Que el Gobierno esté presente.",
+        "B) La asistencia de la mayoría de sus miembros.",
+        "C) Que se vote de forma secreta siempre.",
+        "D) Que el Rey sancione el orden del día."
+      ],
+      "respuesta": "B) La asistencia de la mayoría de sus miembros.",
+      "referencia": "Tit3, Cap1, Art79, pág.80",
+      "explicacion": "Es el requisito de quórum para la toma de decisiones. Texto: '1. Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros.'"
+    },
+    {
+      "texto": "68. ¿Cuál es la regla general sobre la publicidad de las sesiones plenarias?",
+      "opciones": [
+        "A) Son siempre secretas por seguridad.",
+        "B) Serán públicas salvo acuerdo en contrario.",
+        "C) Solo pueden entrar periodistas acreditados.",
+        "D) Solo se publican las actas finales."
+      ],
+      "respuesta": "B) Serán públicas salvo acuerdo en contrario.",
+      "referencia": "Tit3, Cap1, Art80, pág.81",
+      "explicacion": "Principio de transparencia parlamentaria. Texto: 'Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara...'"
+    },
+    {
+      "texto": "69. ¿Qué mayoría se exige para la aprobación final de una ley orgánica en el Congreso?",
+      "opciones": [
+        "A) Mayoría simple de los presentes.",
+        "B) Mayoría absoluta del Congreso.",
+        "C) Tres quintos de los diputados.",
+        "D) Unanimidad de los grupos parlamentarios."
+      ],
+      "respuesta": "B) Mayoría absoluta del Congreso.",
+      "referencia": "Tit3, Cap2, Art81, pág.82",
+      "explicacion": "Protección reforzada para leyes que afectan a derechos fundamentales. Texto: '2. La aprobación... exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.'"
+    },
+    {
+      "texto": "70. ¿Mediante qué instrumento las Cortes delegan en el Gobierno la formación de textos articulados?",
+      "opciones": [
+        "A) Un Decreto Ley de urgencia.",
+        "B) Una ley de bases.",
+        "C) Un Reglamento administrativo.",
+        "D) Una moción de confianza."
+      ],
+      "respuesta": "B) Una ley de bases.",
+      "referencia": "Tit3, Cap2, Art82, pág.82",
+      "explicacion": "Define el procedimiento de legislación delegada. Texto: '2. La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados...'"
+    },
+    {
+      "texto": "71. ¿Cuál es el límite prohibitivo para una ley de bases?",
+      "opciones": [
+        "A) Regular el tráfico ferroviario.",
+        "B) Facultar para dictar normas retroactivas.",
+        "C) Establecer multas por ruidos.",
+        "D) Organizar la administración local."
+      ],
+      "respuesta": "B) Facultar para dictar normas retroactivas.",
+      "referencia": "Tit3, Cap2, Art83, pág.85",
+      "explicacion": "Límite para evitar la inseguridad jurídica en la delegación. Texto: 'Las leyes de bases no podrán en ningún caso: ... b) Facultar para dictar normas con carácter retroactivo.'"
+    },
+    {
+      "texto": "72. ¿En qué situación excepcional puede el Gobierno dictar Decretos-leyes?",
+      "opciones": [
+        "A) Cuando lo solicite el Senado.",
+        "B) En caso de extraordinaria y urgente necesidad.",
+        "C) Para reformar la Constitución rápidamente.",
+        "D) Para aprobar los presupuestos del Estado."
+      ],
+      "respuesta": "B) En caso de extraordinaria y urgente necesidad.",
+      "referencia": "Tit3, Cap2, Art86, pág.86",
+      "explicacion": "Habilita la legislación de urgencia bajo control posterior. Texto: '1. En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales... Decretos-leyes...'"
+    },
+    {
+      "texto": "73. ¿Qué materia está vedada al Decreto-ley a pesar de la urgencia?",
+      "opciones": [
+        "A) La construcción de obras públicas.",
+        "B) El régimen de las Comunidades Autónomas.",
+        "C) La regulación de ferias comerciales.",
+        "D) El fomento de la investigación técnica."
+      ],
+      "respuesta": "B) El régimen de las Comunidades Autónomas.",
+      "referencia": "Tit3, Cap2, Art86, pág.86",
+      "explicacion": "Límites materiales a la potestad legislativa del Gobierno. Texto: '1. ...no podrán afectar al ordenamiento de las instituciones básicas del Estado, a los derechos... del Título I, al régimen de las CC.AA....'"
+    },
+    {
+      "texto": "74. ¿Quién ostenta la iniciativa legislativa de forma compartida según la Constitución?",
+      "opciones": [
+        "A) Solo el Gobierno de la Nación.",
+        "B) El Gobierno, el Congreso y el Senado.",
+        "C) El Rey y el Presidente del Gobierno.",
+        "D) El Tribunal Supremo y el Fiscal General."
+      ],
+      "respuesta": "B) El Gobierno, el Congreso y el Senado.",
+      "referencia": "Tit3, Cap2, Art87, pág.87",
+      "explicacion": "Reparto de la capacidad de proponer leyes. Texto: '1. La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado...'"
+    },
+    {
+      "texto": "75. ¿Qué trámite previo deben pasar los proyectos de ley antes de su envío al Congreso?",
+      "opciones": [
+        "A) Publicación en redes sociales oficiales.",
+        "B) Ser aprobados en Consejo de Ministros.",
+        "C) Dictamen favorable del Rey de España.",
+        "D) Votación consultiva en el Senado."
+      ],
+      "respuesta": "B) Ser aprobados en Consejo de Ministros.",
+      "referencia": "Tit3, Cap2, Art88, pág.88",
+      "explicacion": "Formalidad necesaria para los textos de origen gubernamental. Texto: 'Los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá al Congreso...'"
+    },
+    {
+      "texto": "76. ¿De qué plazo dispone el Senado para vetar un proyecto de ley ordinaria?",
+      "opciones": [
+        "A) Quince días naturales.",
+        "B) Plazo de dos meses.",
+        "C) Seis meses improrrogables.",
+        "D) No tiene plazo límite."
+      ],
+      "respuesta": "B) Plazo de dos meses.",
+      "referencia": "Tit3, Cap2, Art90, pág.90",
+      "explicacion": "Tiempo para que la cámara alta ejerza su función revisora. Texto: '2. El Senado en el plazo de dos meses... puede, mediante mensaje motivado, oponer su veto...'"
+    },
+    {
+      "texto": "77. ¿Cuál es la consecuencia de la no ratificación de un veto del Senado por el Congreso?",
+      "opciones": [
+        "A) La ley se considera derogada.",
+        "B) El texto debe esperar dos meses para mayoría simple.",
+        "C) Se convoca un referéndum nacional.",
+        "D) El Rey decide si sanciona la ley."
+      ],
+      "respuesta": "B) El texto debe esperar dos meses para mayoría simple.",
+      "referencia": "Tit3, Cap2, Art90, pág.90",
+      "explicacion": "Mecanismo para superar el veto de la cámara alta. Texto: '2. ...ratifique por mayoría absoluta... o por mayoría simple, una vez transcurridos dos meses...'"
+    },
+    {
+      "texto": "78. ¿Quién tiene la competencia para proponer la convocatoria de un referéndum consultivo?",
+      "opciones": [
+        "A) El Presidente del Senado.",
+        "B) El Presidente del Gobierno.",
+        "C) El Tribunal Constitucional.",
+        "D) El Defensor del Pueblo."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit3, Cap2, Art92, pág.91",
+      "explicacion": "Iniciativa del ejecutivo para consultas populares. Texto: '2. El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno...'"
+    },
+    {
+      "texto": "79. ¿Qué mayoría se requiere para proponer magistrados al Tribunal Constitucional por parte de las Cámaras?",
+      "opciones": [
+        "A) Mayoría absoluta simple.",
+        "B) Mayoría de tres quintos.",
+        "C) Dos tercios de los presentes.",
+        "D) Unanimidad del pleno."
+      ],
+      "respuesta": "B) Mayoría de tres quintos.",
+      "referencia": "Tit9, Art159, pág.173",
+      "explicacion": "Exigencia de consenso amplio para la renovación del TC. Texto: '1. ...cuatro a propuesta del Congreso por mayoría de tres quintos... cuatro a propuesta del Senado, con idéntica mayoría...'"
+    },
+    {
+      "texto": "80. ¿Cuál es el perfil profesional exigido para ser miembro del Tribunal Constitucional?",
+      "opciones": [
+        "A) Cualquier ciudadano con título universitario.",
+        "B) Juristas con más de 15 años de ejercicio.",
+        "C) Diputados con experiencia legislativa.",
+        "D) Jueces con menos de 10 años de carrera."
+      ],
+      "respuesta": "B) Juristas con más de 15 años de ejercicio.",
+      "referencia": "Tit9, Art159, pág.173",
+      "explicacion": "Garantiza la alta competencia técnica del órgano. Texto: '2. ...todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional.'"
+    },
+    {
+      "texto": "81. ¿Cómo se renuevan los miembros del Tribunal Constitucional para garantizar su continuidad?",
+      "opciones": [
+        "A) Todos a la vez cada 9 años.",
+        "B) Por terceras partes cada tres años.",
+        "C) Individualmente cuando fallecen.",
+        "D) Cada vez que cambia el Gobierno."
+      ],
+      "respuesta": "B) Por terceras partes cada tres años.",
+      "referencia": "Tit9, Art159, pág.174",
+      "explicacion": "Evita el cambio total del tribunal de golpe. Texto: '3. Los miembros... serán designados por un período de nueve años y se renovarán por terceras partes cada tres.'"
+    },
+    {
+      "texto": "82. ¿Qué característica define el estatus de los miembros del Tribunal Constitucional en su cargo?",
+      "opciones": [
+        "A) Obediencia debida al órgano que los propuso.",
+        "B) Independientes e inamovibles.",
+        "C) Sujetos a cese por voluntad del Rey.",
+        "D) Responsables políticamente ante las Cortes."
+      ],
+      "respuesta": "B) Independientes e inamovibles.",
+      "referencia": "Tit9, Art159, pág.175",
+      "explicacion": "Asegura la imparcialidad en la justicia constitucional. Texto: '5. Los miembros del Tribunal Constitucional serán independientes e inamovibles en el ejercicio de su mandato.'"
+    },
+    {
+      "texto": "83. ¿Por qué periodo se nombra al Presidente del Tribunal Constitucional?",
+      "opciones": [
+        "A) Por nueve años igual que el cargo.",
+        "B) Por un período de tres años.",
+        "C) Por tiempo indefinido hasta jubilación.",
+        "D) Por cinco años renovables una vez."
+      ],
+      "respuesta": "B) Por un período de tres años.",
+      "referencia": "Tit9, Art160, pág.175",
+      "explicacion": "Duración del cargo directivo interno. Texto: 'El Presidente del Tribunal Constitucional será nombrado... por un período de tres años.'"
+    },
+    {
+      "texto": "84. ¿Qué recurso se interpone ante el Tribunal Constitucional específicamente por la violación de derechos fundamentales?",
+      "opciones": [
+        "A) Recurso de casación penal.",
+        "B) Recurso de amparo.",
+        "C) Cuestión de ilegalidad administrativa.",
+        "D) Recurso de inconstitucionalidad."
+      ],
+      "respuesta": "B) Recurso de amparo.",
+      "referencia": "Tit9, Art161, pág.176",
+      "explicacion": "Protección directa del ciudadano ante el TC. Texto: '1. ...es competente para conocer: ... b) Del recurso de amparo por violación de los derechos y libertades...'"
+    },
+    {
+      "texto": "85. ¿Quién puede impugnar ante el Tribunal Constitucional las resoluciones de las Comunidades Autónomas?",
+      "opciones": [
+        "A) Solo el Presidente del Senado.",
+        "B) El Gobierno de la Nación.",
+        "C) Cualquier ayuntamiento afectado.",
+        "D) Los colegios de abogados regionales."
+      ],
+      "respuesta": "B) El Gobierno de la Nación.",
+      "referencia": "Tit9, Art161, pág.177",
+      "explicacion": "Mecanismo de control de la legalidad autonómica. Texto: '2. El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las CC.AA.'"
+    },
+    {
+      "texto": "86. ¿Qué efecto automático produce la impugnación por el Gobierno de una norma autonómica ante el TC?",
+      "opciones": [
+        "A) Su anulación inmediata definitiva.",
+        "B) La suspensión de la disposición recurrida.",
+        "C) La intervención de la autonomía.",
+        "D) No produce ningún efecto previo al fallo."
+      ],
+      "respuesta": "B) La suspensión de la disposición recurrida.",
+      "referencia": "Tit9, Art161, pág.177",
+      "explicacion": "Privilegio estatal para paralizar normas dudosas temporalmente. Texto: '2. ...La impugnación producirá la suspensión de la disposición o resolución recurrida...'"
+    },
+    {
+      "texto": "87. ¿Quién está legitimado para interponer el recurso de inconstitucionalidad contra una ley?",
+      "opciones": [
+        "A) Un grupo de 10 Diputados.",
+        "B) El Defensor del Pueblo.",
+        "C) Cualquier asociación de ciudadanos.",
+        "D) El Presidente del Tribunal Supremo."
+      ],
+      "respuesta": "B) El Defensor del Pueblo.",
+      "referencia": "Tit9, Art162, pág.178",
+      "explicacion": "Lista tasada de autoridades con capacidad de recurso. Texto: '1. Están legitimados: a) Para interponer el recurso de inconstitucionalidad... el Defensor del Pueblo...'"
+    },
+    {
+      "texto": "88. ¿Qué ocurre si un Juez duda de la constitucionalidad de una ley que debe aplicar a un caso?",
+      "opciones": [
+        "A) Debe ignorar la ley y aplicar la Constitución.",
+        "B) Planteará la cuestión ante el Tribunal Constitucional.",
+        "C) Solicitará permiso al Ministerio Fiscal.",
+        "D) Dictará sentencia y esperará al recurso posterior."
+      ],
+      "respuesta": "B) Planteará la cuestión ante el Tribunal Constitucional.",
+      "referencia": "Tit9, Art163, pág.179",
+      "explicacion": "Mecanismo de depuración del ordenamiento desde la justicia. Texto: 'Cuando un órgano judicial considere... que una norma con rango de ley... pueda ser contraria a la Constitución, planteará la cuestión...'"
+    },
+    {
+      "texto": "89. ¿Qué valor tienen las sentencias del Tribunal Constitucional a partir de su publicación?",
+      "opciones": [
+        "A) Valor de mera recomendación legal.",
+        "B) Valor de cosa juzgada.",
+        "C) Son recurribles ante el Tribunal Supremo.",
+        "D) Deben ser ratificadas por el Rey."
+      ],
+      "respuesta": "B) Valor de cosa juzgada.",
+      "referencia": "Tit9, Art164, pág.179",
+      "explicacion": "Carácter definitivo de los fallos del tribunal. Texto: '1. ...Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas.'"
+    },
+    {
+      "texto": "90. ¿Qué sucede con la parte de una ley no afectada por una declaración de inconstitucionalidad?",
+      "opciones": [
+        "A) Queda anulada por el principio de unidad.",
+        "B) Subsistirá la vigencia de la misma.",
+        "C) Debe ser votada de nuevo en el Congreso.",
+        "D) Pasa a ser una norma reglamentaria."
+      ],
+      "respuesta": "B) Subsistirá la vigencia de la misma.",
+      "referencia": "Tit9, Art164, pág.180",
+      "explicacion": "Principio de conservación de la norma válida. Texto: '2. Salvo que en el fallo se disponga otra cosa, subsistirá la vigencia de la ley en la parte no afectada...'"
+    },
+    {
+      "texto": "91. ¿Qué principio constitucional garantiza que la justicia se administra en nombre del Rey?",
+      "opciones": [
+        "A) El principio de soberanía real.",
+        "B) Que la justicia emana del pueblo.",
+        "C) El principio de jerarquía normativa.",
+        "D) La unidad religiosa del Estado."
+      ],
+      "respuesta": "B) Que la justicia emana del pueblo.",
+      "referencia": "Tit6, Art117, pág.114",
+      "explicacion": "Origen democrático del poder judicial. Texto: '1. La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados...'"
+    },
+    {
+      "texto": "92. ¿Qué prohíbe el artículo 26 respecto a la administración civil?",
+      "opciones": [
+        "A) Los sindicatos de funcionarios.",
+        "B) Los Tribunales de Honor.",
+        "C) El derecho de huelga estatal.",
+        "D) Las asociaciones de vecinos."
+      ],
+      "respuesta": "B) Los Tribunales de Honor.",
+      "referencia": "Tit1, Cap2, Sec1, Art26, pág.31",
+      "explicacion": "Elimina jurisdicciones corporativas sobre la dignidad. Texto: 'Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales.'"
+    },
+    {
+      "texto": "93. En relación con el derecho de huelga, ¿qué debe asegurar la ley que lo regule?",
+      "opciones": [
+        "A) El pago de los salarios durante el paro.",
+        "B) El mantenimiento de servicios esenciales.",
+        "C) La prohibición de piquetes informativos.",
+        "D) La duración máxima de tres días."
+      ],
+      "respuesta": "B) El mantenimiento de servicios esenciales.",
+      "referencia": "Tit1, Cap2, Sec1, Art28, pág.35",
+      "explicacion": "Límite al derecho de huelga para proteger a la comunidad. Texto: '2. ...establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.'"
+    },
+    {
+      "texto": "94. ¿Cuál es el deber constitucional respecto a la riqueza del país según el artículo 128?",
+      "opciones": [
+        "A) Debe ser repartida equitativamente por igual.",
+        "B) Está subordinada al interés general.",
+        "C) Pertenece en su totalidad al Estado.",
+        "D) Es intocable por los poderes públicos."
+      ],
+      "respuesta": "B) Está subordinada al interés general.",
+      "referencia": "Tit7, Art128, pág.123",
+      "explicacion": "Principio de función social de la propiedad y riqueza. Texto: '1. Toda la riqueza del país... está subordinada al interés general.'"
+    },
+    {
+      "texto": "95. ¿Quién puede ser tutor del Rey menor de edad según la prelación establecida?",
+      "opciones": [
+        "A) El pariente más lejano de la línea.",
+        "B) La persona nombrada en testamento por el Rey difunto.",
+        "C) El Presidente de las Cortes automáticamente.",
+        "D) Cualquier ciudadano español de nacimiento."
+      ],
+      "respuesta": "B) La persona nombrada en testamento por el Rey difunto.",
+      "referencia": "Tit2, Art60, pág.60",
+      "explicacion": "Primacía de la voluntad real testamentaria en la tutela. Texto: '1. Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto...'"
+    },
+    {
+      "texto": "96. ¿Qué título ostenta el heredero de la Corona de España desde su nacimiento?",
+      "opciones": [
+        "A) Infante de España.",
+        "B) Príncipe de Asturias.",
+        "C) Rey electo de las Cortes.",
+        "D) Conde de Barcelona."
+      ],
+      "respuesta": "B) Príncipe de Asturias.",
+      "referencia": "Tit2, Art57, pág.57",
+      "explicacion": "Título histórico y constitucional del sucesor. Texto: '2. El Príncipe heredero... tendrá la dignidad de Príncipe de Asturias...'"
+    },
+    {
+      "texto": "97. ¿Cuál es la consecuencia para quienes contraen matrimonio contra la prohibición expresa en la Corona?",
+      "opciones": [
+        "A) Una multa pecuniaria elevada.",
+        "B) Exclusión en la sucesión para sí y descendientes.",
+        "C) El matrimonio se considera nulo civilmente.",
+        "D) Destierro del territorio nacional."
+      ],
+      "respuesta": "B) Exclusión en la sucesión para sí y descendientes.",
+      "referencia": "Tit2, Art57, pág.57",
+      "explicacion": "Pérdida de derechos dinásticos por desobediencia política. Texto: '4. ...quedarán excluidas en la sucesión a la Corona por sí y sus descendientes.'"
+    },
+    {
+      "texto": "98. ¿Qué mayoría se requiere para que las Cámaras aprueben sus reglamentos internos?",
+      "opciones": [
+        "A) Mayoría simple de los votos emitidos.",
+        "B) Mayoría absoluta sobre la totalidad.",
+        "C) Un tercio de los miembros presentes.",
+        "D) Dos tercios de la comisión de reglamento."
+      ],
+      "respuesta": "B) Mayoría absoluta sobre la totalidad.",
+      "referencia": "Tit3, Cap1, Art72, pág.73",
+      "explicacion": "Asegura que las normas de funcionamiento tengan respaldo amplio. Texto: '1. ...requerirá la mayoría absoluta.'"
+    },
+    {
+      "texto": "99. ¿Qué institución se encarga de velar por los poderes de las Cámaras cuando estas no están reunidas?",
+      "opciones": [
+        "A) El Tribunal Supremo.",
+        "B) La Diputación Permanente.",
+        "C) El Consejo de Ministros.",
+        "D) La Mesa del Congreso."
+      ],
+      "respuesta": "B) La Diputación Permanente.",
+      "referencia": "Tit3, Cap1, Art78, pág.79",
+      "explicacion": "Garantiza la continuidad del poder legislativo. Texto: '2. ...y la de velar por los poderes de las Cámaras cuando éstas no estén reunidas.'"
+    },
+    {
+      "texto": "100. ¿Qué requisito se exige para la validez de los acuerdos en las Cámaras?",
+      "opciones": [
+        "A) Que sean grabados en video oficial.",
+        "B) Estar reunidas reglamentariamente con asistencia mayoritaria.",
+        "C) Que el Gobierno de su visto bueno previo.",
+        "D) Que se publiquen en prensa nacional ese día."
+      ],
+      "respuesta": "B) Estar reunidas reglamentariamente con asistencia mayoritaria.",
+      "referencia": "Tit3, Cap1, Art79, pág.80",
+      "explicacion": "Condiciones de quórum y legalidad de la sesión. Texto: '1. Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros.'"
+    }
+  ]
+}

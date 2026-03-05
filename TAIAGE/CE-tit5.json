@@ -1,0 +1,1204 @@
+{
+  "CE. Título V - Relaciones entre el Gobierno y las Cortes": [
+    {
+      "texto": "1. ¿Qué artículo abre el Título V, relativo a las relaciones entre el Gobierno y las Cortes?",
+      "opciones": [
+        "A) Artículo 107.",
+        "B) Artículo 108.",
+        "C) Artículo 109.",
+        "D) Artículo 112."
+      ],
+      "respuesta": "B) Artículo 108.",
+      "referencia": "Tit5, Art108, pág. 105",
+      "explicacion": "El Título V comienza con la responsabilidad solidaria del Gobierno. Texto: 'Artículo 108. El Gobierno responde solidariamente en su gestión política...'"
+    },
+    {
+      "texto": "2. ¿Ante qué Cámara responde solidariamente el Gobierno en su gestión política?",
+      "opciones": [
+        "A) Ante el Senado.",
+        "B) Ante las Cortes Generales en sesión conjunta.",
+        "C) Ante el Congreso de los Diputados.",
+        "D) Ante el Rey."
+      ],
+      "respuesta": "C) Ante el Congreso de los Diputados.",
+      "referencia": "Tit5, Art108, pág. 106",
+      "explicacion": "El Congreso es quien ejerce el control político principal. Texto: 'El Gobierno responde solidariamente... ante el Congreso de los Diputados'."
+    },
+    {
+      "texto": "3. ¿A través de quién pueden las Cámaras recabar información y ayuda del Gobierno?",
+      "opciones": [
+        "A) De sus respectivos Presidentes.",
+        "B) Del Jefe de la Oposición.",
+        "C) Del Secretario General del Congreso.",
+        "D) Del Ministro de la Presidencia."
+      ],
+      "respuesta": "A) De sus respectivos Presidentes.",
+      "referencia": "Tit5, Art109, pág. 106",
+      "explicacion": "El cauce institucional son las presidencias de las Cámaras. Texto: 'Las Cámaras y sus Comisiones podrán recabar, a través de los Presidentes de aquéllas...'"
+    },
+    {
+      "texto": "4. ¿Tienen los miembros del Gobierno acceso a las sesiones de las Cámaras y sus Comisiones?",
+      "opciones": [
+        "A) Solo si son parlamentarios.",
+        "B) Sí, tienen acceso y facultad de hacerse oír.",
+        "C) Únicamente cuando son interpelados.",
+        "D) No, por el principio de separación de poderes."
+      ],
+      "respuesta": "B) Sí, tienen acceso y facultad de hacerse oír.",
+      "referencia": "Tit5, Art110.2, pág. 106",
+      "explicacion": "El Gobierno puede intervenir en los debates parlamentarios. Texto: '2. Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras... y la facultad de hacerse oír en ellas...'"
+    },
+    {
+      "texto": "5. ¿A quiénes pueden solicitar los miembros del Gobierno que informen ante las Cámaras?",
+      "opciones": [
+        "A) A ciudadanos particulares expertos.",
+        "B) A funcionarios de sus Departamentos.",
+        "C) A miembros del Poder Judicial.",
+        "D) A representantes de los sindicatos."
+      ],
+      "respuesta": "B) A funcionarios de sus Departamentos.",
+      "referencia": "Tit5, Art110.2, pág. 106",
+      "explicacion": "Permite asistencia técnica de la administración. Texto: '...y podrán solicitar que informen ante las mismas funcionarios de sus Departamentos'."
+    },
+    {
+      "texto": "6. ¿Qué establecen los Reglamentos respecto al tiempo mínimo semanal para interpelaciones y preguntas?",
+      "opciones": [
+        "A) Un tiempo mínimo mensual.",
+        "B) Un tiempo mínimo semanal.",
+        "C) No se establece tiempo, queda a criterio de la Mesa.",
+        "D) Al menos 10 horas semanales."
+      ],
+      "respuesta": "B) Un tiempo mínimo semanal.",
+      "referencia": "Tit5, Art111.1, pág. 107",
+      "explicacion": "Garantiza el control parlamentario ordinario. Texto: '...Para esta clase de debate los Reglamentos establecerán un tiempo mínimo semanal'."
+    },
+    {
+      "texto": "7. ¿Qué puede motivar una interpelación parlamentaria según el artículo 111.2?",
+      "opciones": [
+        "A) Una sanción administrativa.",
+        "B) Una moción en la que la Cámara manifieste su posición.",
+        "C) La disolución automática del Gobierno.",
+        "D) Un referéndum nacional."
+      ],
+      "respuesta": "B) Una moción en la que la Cámara manifieste su posición.",
+      "referencia": "Tit5, Art111.2, pág. 107",
+      "explicacion": "La interpelación puede culminar en una declaración política. Texto: '2. Toda interpelación podrá dar lugar a una moción en la que la Cámara manifieste su posición'."
+    },
+    {
+      "texto": "8. ¿Quién puede plantear la cuestión de confianza ante el Congreso?",
+      "opciones": [
+        "A) El Congreso de los Diputados.",
+        "B) El Rey.",
+        "C) El Presidente del Gobierno.",
+        "D) El Consejo de Ministros."
+      ],
+      "respuesta": "C) El Presidente del Gobierno.",
+      "referencia": "Tit5, Art112, pág. 107",
+      "explicacion": "Es una iniciativa exclusiva del Jefe del Ejecutivo. Texto: 'El Presidente del Gobierno... puede plantear ante el Congreso de los Diputados la cuestión de confianza...'"
+    },
+    {
+      "texto": "9. ¿Qué requisito previo se exige al Presidente para plantear la cuestión de confianza?",
+      "opciones": [
+        "A) Autorización del Rey.",
+        "B) Previa deliberación del Consejo de Ministros.",
+        "C) Acuerdo del Senado.",
+        "D) Informe del Consejo de Estado."
+      ],
+      "respuesta": "B) Previa deliberación del Consejo de Ministros.",
+      "referencia": "Tit5, Art112, pág. 107",
+      "explicacion": "Debe consultarlo con su gabinete, aunque la decisión sea suya. Texto: 'El Presidente del Gobierno, previa deliberación del Consejo de Ministros...'"
+    },
+    {
+      "texto": "10. ¿Sobre qué materias se puede plantear la cuestión de confianza?",
+      "opciones": [
+        "A) Sobre cualquier ley orgánica.",
+        "B) Sobre su programa o una declaración de política general.",
+        "C) Sobre el nombramiento de un Ministro.",
+        "D) Sobre la declaración de guerra."
+      ],
+      "respuesta": "B) Sobre su programa o una declaración de política general.",
+      "referencia": "Tit5, Art112, pág. 107",
+      "explicacion": "Son los dos supuestos constitucionales. Texto: '...sobre su programa o sobre una declaración de política general'."
+    },
+    {
+      "texto": "11. ¿Cuándo se entiende otorgada la confianza en una cuestión de confianza?",
+      "opciones": [
+        "A) Cuando vote a favor la mayoría absoluta.",
+        "B) Cuando vote a favor la mayoría simple de los Diputados.",
+        "C) Cuando no haya votos en contra.",
+        "D) Cuando lo aprueben dos tercios de la Cámara."
+      ],
+      "respuesta": "B) Cuando vote a favor la mayoría simple de los Diputados.",
+      "referencia": "Tit5, Art112, pág. 107",
+      "explicacion": "Requiere más síes que noes. Texto: 'La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados'."
+    },
+    {
+      "texto": "12. ¿Mediante qué mecanismo puede el Congreso exigir la responsabilidad política del Gobierno?",
+      "opciones": [
+        "A) Cuestión de confianza.",
+        "B) Interpelación de urgencia.",
+        "C) Moción de censura.",
+        "D) Queja ante el Defensor del Pueblo."
+      ],
+      "respuesta": "C) Moción de censura.",
+      "referencia": "Tit5, Art113.1, pág. 108",
+      "explicacion": "Es el instrumento de derribo del Gobierno. Texto: '1. El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción... de la moción de censura'."
+    },
+    {
+      "texto": "13. ¿Qué mayoría se requiere para adoptar una moción de censura?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría de dos tercios.",
+        "C) Mayoría absoluta.",
+        "D) Mayoría de tres quintos."
+      ],
+      "respuesta": "C) Mayoría absoluta.",
+      "referencia": "Tit5, Art113.1, pág. 108",
+      "explicacion": "Se requiere el voto favorable de la mitad más uno de los miembros. Texto: '...mediante la adopción por mayoría absoluta de la moción de censura'."
+    },
+    {
+      "texto": "14. ¿Qué fracción de Diputados debe proponer, al menos, la moción de censura?",
+      "opciones": [
+        "A) Una cuarta parte.",
+        "B) Una décima parte.",
+        "C) La mitad de la Cámara.",
+        "D) 50 Diputados."
+      ],
+      "respuesta": "B) Una décima parte.",
+      "referencia": "Tit5, Art113.2, pág. 108",
+      "explicacion": "Mínimo para la iniciativa. Texto: '2. La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados...'"
+    },
+    {
+      "texto": "15. ¿Qué debe incluir obligatoriamente toda moción de censura?",
+      "opciones": [
+        "A) Una exposición de motivos penal.",
+        "B) Un candidato a la Presidencia del Gobierno.",
+        "C) El nuevo presupuesto general.",
+        "D) La fecha de las próximas elecciones."
+      ],
+      "respuesta": "B) Un candidato a la Presidencia del Gobierno.",
+      "referencia": "Tit5, Art113.2, pág. 108",
+      "explicacion": "Es una moción constructiva. Texto: '...y habrá de incluir un candidato a la Presidencia del Gobierno'."
+    },
+    {
+      "texto": "16. ¿Cuánto tiempo debe transcurrir como mínimo entre la presentación y la votación de una moción de censura?",
+      "opciones": [
+        "A) 48 horas.",
+        "B) Tres días.",
+        "C) Cinco días.",
+        "D) Diez días."
+      ],
+      "respuesta": "C) Cinco días.",
+      "referencia": "Tit5, Art113.3, pág. 108",
+      "explicacion": "Es el llamado periodo de enfriamiento. Texto: '3. La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación'."
+    },
+    {
+      "texto": "17. ¿En qué plazo pueden presentarse mociones de censura alternativas?",
+      "opciones": [
+        "A) En las primeras 24 horas.",
+        "B) En los dos primeros días tras la presentación.",
+        "C) Hasta el momento de la votación.",
+        "D) Durante los cinco días de espera."
+      ],
+      "respuesta": "B) En los dos primeros días tras la presentación.",
+      "referencia": "Tit5, Art113.3, pág. 108",
+      "explicacion": "Permite que otros grupos propongan candidatos. Texto: '...En los dos primeros días de dicho plazo podrán presentarse mociones alternativas'."
+    },
+    {
+      "texto": "18. ¿Qué sucede si la moción de censura NO es aprobada?",
+      "opciones": [
+        "A) Se disuelven las Cortes.",
+        "B) Sus signatarios no podrán presentar otra en el mismo periodo de sesiones.",
+        "C) El Presidente debe someterse a confianza.",
+        "D) Se prohíbe presentar otra en toda la legislatura."
+      ],
+      "respuesta": "B) Sus signatarios no podrán presentar otra en el mismo periodo de sesiones.",
+      "referencia": "Tit5, Art113.4, pág. 109",
+      "explicacion": "Evita el bloqueo constante por un mismo grupo. Texto: '4. Si la moción de censura no fuere aprobada... sus signatarios no podrán presentar otra durante el mismo período de sesiones'."
+    },
+    {
+      "texto": "19. ¿Qué debe hacer el Gobierno si el Congreso le niega su confianza en una cuestión de confianza?",
+      "opciones": [
+        "A) Disolver las Cámaras.",
+        "B) Presentar su dimisión al Rey.",
+        "C) Convocar elecciones en 30 días.",
+        "D) Nombrar nuevos ministros."
+      ],
+      "respuesta": "B) Presentar su dimisión al Rey.",
+      "referencia": "Tit5, Art114.1, pág. 109",
+      "explicacion": "El cese es obligatorio si pierde la confianza. Texto: '1. Si el Congreso niega su confianza al Gobierno, éste presentará su dimisión al Rey...'"
+    },
+    {
+      "texto": "20. ¿Qué ocurre con el candidato de una moción de censura que ha sido aprobada?",
+      "opciones": [
+        "A) Debe solicitar la confianza en 48 horas.",
+        "B) Se entiende investido de la confianza de la Cámara.",
+        "C) Debe ser ratificado por el Senado.",
+        "D) Pasa a ser Presidente en funciones."
+      ],
+      "respuesta": "B) Se entiende investido de la confianza de la Cámara.",
+      "referencia": "Tit5, Art114.2, pág. 109",
+      "explicacion": "La aprobación de la moción conlleva la investidura automática. Texto: '2. ...el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara...'"
+    },
+    {
+      "texto": "21. ¿Quién propone la disolución del Congreso, del Senado o de las Cortes Generales?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Presidente del Gobierno.",
+        "C) El Presidente del Congreso.",
+        "D) El Consejo de Ministros."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit5, Art115.1, pág. 110",
+      "explicacion": "Es facultad exclusiva del Presidente tras deliberación. Texto: '1. El Presidente del Gobierno... podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales...'"
+    },
+    {
+      "texto": "22. ¿Bajo qué responsabilidad propone el Presidente la disolución de las Cámaras?",
+      "opciones": [
+        "A) Responsabilidad solidaria del Gobierno.",
+        "B) Su exclusiva responsabilidad.",
+        "C) Responsabilidad refrendada por el Congreso.",
+        "D) No tiene responsabilidad por ser acto político."
+      ],
+      "respuesta": "B) Su exclusiva responsabilidad.",
+      "referencia": "Tit5, Art115.1, pág. 110",
+      "explicacion": "A diferencia de otras decisiones, aquí asume la carga solo. Texto: '...y bajo su exclusiva responsabilidad, podrá proponer la disolución...'"
+    },
+    {
+      "texto": "23. ¿Qué debe fijar obligatoriamente el decreto de disolución de las Cámaras?",
+      "opciones": [
+        "A) El nombre del nuevo Presidente.",
+        "B) La fecha de las elecciones.",
+        "C) El motivo de la crisis política.",
+        "D) El presupuesto para los comicios."
+      ],
+      "respuesta": "B) La fecha de las elecciones.",
+      "referencia": "Tit5, Art115.1, pág. 110",
+      "explicacion": "Es requisito de contenido del decreto. Texto: '...El decreto de disolución fijará la fecha de las elecciones'."
+    },
+    {
+      "texto": "24. ¿Cuándo NO puede presentarse la propuesta de disolución de las Cámaras?",
+      "opciones": [
+        "A) Durante el primer año de legislatura.",
+        "B) Cuando esté en trámite una moción de censura.",
+        "C) Si el Presidente está fuera del territorio nacional.",
+        "D) Durante los periodos de vacaciones parlamentarias."
+      ],
+      "respuesta": "B) Cuando esté en trámite una moción de censura.",
+      "referencia": "Tit5, Art115.2, pág. 110",
+      "explicacion": "Prioriza la resolución de la responsabilidad política. Texto: '2. La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura'."
+    },
+    {
+      "texto": "25. ¿Cuánto tiempo debe pasar, por regla general, entre una disolución y la siguiente?",
+      "opciones": [
+        "A) Seis meses.",
+        "B) Un año.",
+        "C) Dos años.",
+        "D) Toda la legislatura."
+      ],
+      "respuesta": "B) Un año.",
+      "referencia": "Tit5, Art115.3, pág. 110",
+      "explicacion": "Límite temporal para evitar abusos. Texto: '3. No procederá nueva disolución antes de que transcurra un año desde la anterior...'"
+    },
+    {
+      "texto": "26. ¿Qué artículo regula los estados de alarma, excepción y sitio?",
+      "opciones": [
+        "A) Artículo 55.",
+        "B) Artículo 114.",
+        "C) Artículo 115.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "D) Artículo 116.",
+      "referencia": "Tit5, Art116, pág. 111",
+      "explicacion": "Es el último artículo del Título V. Texto: 'Artículo 116. 1. Una ley orgánica regulará los estados de alarma, de excepción y de sitio...'"
+    },
+    {
+      "texto": "27. ¿Qué norma regula las competencias y limitaciones de los estados de alarma, excepción y sitio?",
+      "opciones": [
+        "A) Ley ordinaria.",
+        "B) Ley orgánica.",
+        "C) Reglamento de las Cortes.",
+        "D) Real Decreto-ley."
+      ],
+      "respuesta": "B) Ley orgánica.",
+      "referencia": "Tit5, Art116.1, pág. 111",
+      "explicacion": "Requiere el máximo consenso legal. Texto: '1. Una ley orgánica regulará los estados de alarma...'"
+    },
+    {
+      "texto": "28. ¿Quién declara el estado de alarma?",
+      "opciones": [
+        "A) El Congreso de los Diputados.",
+        "B) El Gobierno mediante decreto.",
+        "C) El Rey a propuesta del Presidente.",
+        "D) El Ministro del Interior."
+      ],
+      "respuesta": "B) El Gobierno mediante decreto.",
+      "referencia": "Tit5, Art116.2, pág. 111",
+      "explicacion": "La competencia es del ejecutivo en primera instancia. Texto: '2. El estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros...'"
+    },
+    {
+      "texto": "29. ¿Cuál es el plazo máximo de duración inicial del estado de alarma?",
+      "opciones": [
+        "A) Diez días.",
+        "B) Quince días.",
+        "C) Treinta días.",
+        "D) Sesenta días."
+      ],
+      "respuesta": "B) Quince días.",
+      "referencia": "Tit5, Art116.2, pág. 111",
+      "explicacion": "Plazo corto que requiere control parlamentario para su ampliación. Texto: '...por un plazo máximo de quince días...'"
+    },
+    {
+      "texto": "30. ¿Qué se requiere para prorrogar el estado de alarma?",
+      "opciones": [
+        "A) Nuevo decreto del Gobierno.",
+        "B) Autorización del Congreso de los Diputados.",
+        "C) Informe del Tribunal Supremo.",
+        "D) Ratificación del Senado."
+      ],
+      "respuesta": "B) Autorización del Congreso de los Diputados.",
+      "referencia": "Tit5, Art116.2, pág. 111",
+      "explicacion": "El control es de la Cámara Baja. Texto: '...y sin cuya autorización no podrá ser prorrogado dicho plazo'."
+    },
+    {
+      "texto": "31. ¿Quién declara el estado de excepción?",
+      "opciones": [
+        "A) El Congreso directamente.",
+        "B) El Gobierno, previa autorización del Congreso.",
+        "C) El Gobierno mediante decreto libre.",
+        "D) El Rey con refrendo del Presidente."
+      ],
+      "respuesta": "B) El Gobierno, previa autorización del Congreso.",
+      "referencia": "Tit5, Art116.3, pág. 112",
+      "explicacion": "Requiere permiso parlamentario antes del decreto. Texto: '3. El estado de excepción será declarado por el Gobierno... previa autorización del Congreso de los Diputados'."
+    },
+    {
+      "texto": "32. ¿Cuál es la duración máxima inicial del estado de excepción?",
+      "opciones": [
+        "A) Quince días.",
+        "B) Treinta días.",
+        "C) Cuarenta y cinco días.",
+        "D) Dos meses."
+      ],
+      "respuesta": "B) Treinta días.",
+      "referencia": "Tit5, Art116.3, pág. 112",
+      "explicacion": "Se puede prorrogar por otro periodo igual. Texto: '...su duración, que no podrá exceder de treinta días...'"
+    },
+    {
+      "texto": "33. ¿Quién declara el estado de sitio?",
+      "opciones": [
+        "A) El Gobierno mediante decreto.",
+        "B) El Congreso de los Diputados por mayoría absoluta.",
+        "C) El Rey previa autorización de las Cortes.",
+        "D) El Consejo de Seguridad Nacional."
+      ],
+      "respuesta": "B) El Congreso de los Diputados por mayoría absoluta.",
+      "referencia": "Tit5, Art116.4, pág. 112",
+      "explicacion": "Es la situación más grave y la declara el Legislativo. Texto: '4. El estado de sitio será declarado por la mayoría absoluta del Congreso de los Diputados...'"
+    },
+    {
+      "texto": "34. ¿A propuesta exclusiva de quién se declara el estado de sitio?",
+      "opciones": [
+        "A) De las Fuerzas Armadas.",
+        "B) Del Gobierno.",
+        "C) De 50 Diputados.",
+        "D) Del Rey."
+      ],
+      "respuesta": "B) Del Gobierno.",
+      "referencia": "Tit5, Art116.4, pág. 112",
+      "explicacion": "La iniciativa debe partir del ejecutivo. Texto: '...a propuesta exclusiva del Gobierno'."
+    },
+    {
+      "texto": "35. ¿Puede disolverse el Congreso mientras estén declarados estados de alarma, excepción o sitio?",
+      "opciones": [
+        "A) Sí, si lo propone el Presidente.",
+        "B) No podrá procederse a la disolución.",
+        "C) Solo en el estado de alarma.",
+        "D) Únicamente por fallecimiento del Rey."
+      ],
+      "respuesta": "B) No podrá procederse a la disolución.",
+      "referencia": "Tit5, Art116.5, pág. 113",
+      "explicacion": "Garantiza la permanencia del control parlamentario en crisis. Texto: '5. No podrá procederse a la disolución del Congreso mientras estén declarados algunos de los estados...'"
+    },
+    {
+      "texto": "36. ¿Quién asume las competencias del Congreso si este está disuelto y se produce una situación de estado de alarma?",
+      "opciones": [
+        "A) El Senado.",
+        "B) La Diputación Permanente.",
+        "C) El Gobierno asume todos los poderes.",
+        "D) Una comisión de sabios."
+      ],
+      "respuesta": "B) La Diputación Permanente.",
+      "referencia": "Tit5, Art116.5, pág. 113",
+      "explicacion": "Asegura la continuidad del control legislativo. Texto: '...las competencias del Congreso serán asumidas por su Diputación Permanente'."
+    },
+    {
+      "texto": "37. ¿Qué sucede con el principio de responsabilidad del Gobierno durante la vigencia de estos estados?",
+      "opciones": [
+        "A) Queda suspendido temporalmente.",
+        "B) No se modifica.",
+        "C) Solo responde ante los tribunales militares.",
+        "D) Se traslada a la Corona."
+      ],
+      "respuesta": "B) No se modifica.",
+      "referencia": "Tit5, Art116.6, pág. 114",
+      "explicacion": "El Gobierno sigue siendo responsable de sus actos. Texto: '6. La declaración... no modificarán el principio de responsabilidad del Gobierno...'"
+    },
+    {
+      "texto": "38. ¿Cuántos capítulos tiene el Título V?",
+      "opciones": [
+        "A) Tres capítulos.",
+        "B) Dos capítulos.",
+        "C) Ningún capítulo.",
+        "D) Cinco capítulos."
+      ],
+      "respuesta": "C) Ningún capítulo.",
+      "referencia": "Tit5, pág. 105 e índice",
+      "explicacion": "El Título V se presenta como un bloque único de artículos. Texto: 'TÍTULO V. De las relaciones entre el Gobierno y las Cortes Generales'."
+    },
+    {
+      "texto": "39. ¿Qué artículo regula la reclamación de presencia de miembros del Gobierno en las Cámaras?",
+      "opciones": [
+        "A) Artículo 108.",
+        "B) Artículo 109.",
+        "C) Artículo 110.1.",
+        "D) Artículo 111."
+      ],
+      "respuesta": "C) Artículo 110.1.",
+      "referencia": "Tit5, Art110.1, pág. 106",
+      "explicacion": "Las Cámaras pueden exigir que vengan a informar. Texto: '1. Las Cámaras y sus Comisiones pueden reclamar la presencia de los miembros del Gobierno'."
+    },
+    {
+      "texto": "40. ¿Quién decide el ámbito territorial de la declaración del estado de alarma?",
+      "opciones": [
+        "A) Las Cortes Generales.",
+        "B) El decreto del Gobierno.",
+        "C) El Tribunal Supremo.",
+        "D) Las Comunidades Autónomas afectadas."
+      ],
+      "respuesta": "B) El decreto del Gobierno.",
+      "referencia": "Tit5, Art116.2, pág. 111",
+      "explicacion": "El decreto inicial fija el territorio. Texto: '...El decreto determinará el ámbito territorial a que se extienden los efectos de la declaración'."
+    },
+    {
+      "texto": "41. ¿Qué mayoría se requiere para otorgar la confianza en una investidura (art. 99) en primera votación?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Mayoría de dos tercios.",
+        "D) Mayoría de tres quintos."
+      ],
+      "respuesta": "B) Mayoría absoluta.",
+      "referencia": "Tit4, Art99.3, pág. 98",
+      "explicacion": "Se menciona aquí por ser la base de la relación de confianza. Texto: '3. Si el Congreso... por el voto de la mayoría absoluta... otorgare su confianza...'"
+    },
+    {
+      "texto": "42. ¿Qué artículo establece la obligación del Gobierno de responder solidariamente?",
+      "opciones": [
+        "A) Artículo 97.",
+        "B) Artículo 108.",
+        "C) Artículo 113.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "B) Artículo 108.",
+      "referencia": "Tit5, Art108, pág. 105",
+      "explicacion": "Define la responsabilidad política colectiva. Texto: 'Artículo 108. El Gobierno responde solidariamente...'"
+    },
+    {
+      "texto": "43. ¿Cuántos artículos comprende el Título V?",
+      "opciones": [
+        "A) 8 artículos.",
+        "B) 9 artículos.",
+        "C) 10 artículos.",
+        "D) 12 artículos."
+      ],
+      "respuesta": "B) 9 artículos.",
+      "referencia": "Tit5, Art108-116, pág. 105-114",
+      "explicacion": "Del artículo 108 al 116 inclusive. Texto: 'TÍTULO V. De las relaciones entre el Gobierno y las Cortes Generales'."
+    },
+    {
+      "texto": "44. ¿Qué artículo trata sobre las interpelaciones y preguntas?",
+      "opciones": [
+        "A) Artículo 109.",
+        "B) Artículo 110.",
+        "C) Artículo 111.",
+        "D) Artículo 112."
+      ],
+      "respuesta": "C) Artículo 111.",
+      "referencia": "Tit5, Art111, pág. 107",
+      "explicacion": "Regula el control cotidiano parlamentario. Texto: 'Artículo 111. 1. El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones...'"
+    },
+    {
+      "texto": "45. ¿Cuál es el rango de artículos del Título V?",
+      "opciones": [
+        "A) 97 al 107.",
+        "B) 108 al 116.",
+        "C) 117 al 127.",
+        "D) 105 al 114."
+      ],
+      "respuesta": "B) 108 al 116.",
+      "referencia": "Tit5, pág. 22 e índice",
+      "explicacion": "El Título V se sitúa entre el Título IV y el Título VI. Texto: 'Artículos 108 a 116'."
+    },
+    {
+      "texto": "46. ¿A qué se refiere el artículo 113.3 con mociones alternativas?",
+      "opciones": [
+        "A) A cambios en el programa del Gobierno actual.",
+        "B) A otras mociones de censura con distintos candidatos.",
+        "C) A propuestas de disolución de Cámaras.",
+        "D) A enmiendas a la totalidad de los Presupuestos."
+      ],
+      "respuesta": "B) A otras mociones de censura con distintos candidatos.",
+      "referencia": "Tit5, Art113.3, pág. 108",
+      "explicacion": "Permite que la Cámara elija entre varios aspirantes. Texto: '...En los dos primeros días... podrán presentarse mociones alternativas'."
+    },
+    {
+      "texto": "47. ¿Quién asume el poder si el Congreso adopta una moción de censura?",
+      "opciones": [
+        "A) El Presidente del Congreso.",
+        "B) El candidato incluido en la moción.",
+        "C) El Rey de forma temporal.",
+        "D) Se convocan elecciones inmediatamente."
+      ],
+      "respuesta": "B) El candidato incluido en la moción.",
+      "referencia": "Tit5, Art114.2, pág. 109",
+      "explicacion": "El sistema es parlamentario y constructivo. Texto: '2. ...y el candidato incluido en aquélla se entenderá investido...'"
+    },
+    {
+      "texto": "48. ¿En qué estado de los tres (alarma, excepción, sitio) el Congreso fija las condiciones y duración?",
+      "opciones": [
+        "A) Alarma.",
+        "B) Excepción.",
+        "C) Sitio.",
+        "D) En los tres por igual."
+      ],
+      "respuesta": "C) Sitio.",
+      "referencia": "Tit5, Art116.4, pág. 112",
+      "explicacion": "El Congreso tiene la máxima potestad en este caso. Texto: '4. ...El Congreso determinará su ámbito territorial, duración y condiciones'."
+    },
+    {
+      "texto": "49. ¿Quién decreta formalmente la disolución propuesta por el Presidente del Gobierno?",
+      "opciones": [
+        "A) El propio Presidente.",
+        "B) El Rey.",
+        "C) El Presidente del Congreso.",
+        "D) El Ministro del Interior."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit5, Art115.1, pág. 110",
+      "explicacion": "Es un acto debido del monarca tras la propuesta. Texto: '1. ...será decretada por el Rey'."
+    },
+    {
+      "texto": "50. ¿Qué artículo establece que el funcionamiento de los poderes constitucionales no puede interrumpirse durante los estados de crisis?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 66.",
+        "C) Artículo 116.5.",
+        "D) Artículo 117."
+      ],
+      "respuesta": "C) Artículo 116.5.",
+      "referencia": "Tit5, Art116.5, pág. 113",
+      "explicacion": "Garantiza la estabilidad institucional. Texto: '...Su funcionamiento, así como el de los demás poderes constitucionales del Estado, no podrán interrumpirse...'"
+    },
+    {
+      "texto": "51. ¿Qué mayoría se requiere para prorrogar el estado de excepción?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) La misma que para su autorización inicial.",
+        "D) No requiere autorización para prorrogar."
+      ],
+      "respuesta": "C) La misma que para su autorización inicial.",
+      "referencia": "Tit5, Art116.3, pág. 112",
+      "explicacion": "Mantiene el control parlamentario. Texto: '...prorrogables por otro plazo igual, con los mismos requisitos'."
+    },
+    {
+      "texto": "52. ¿Qué artículo impide presentar una moción de censura fallida en el mismo periodo de sesiones?",
+      "opciones": [
+        "A) Artículo 113.1.",
+        "B) Artículo 113.2.",
+        "C) Artículo 113.4.",
+        "D) Artículo 114.2."
+      ],
+      "respuesta": "C) Artículo 113.4.",
+      "referencia": "Tit5, Art113.4, pág. 109",
+      "explicacion": "Limita el uso recurrente de la moción. Texto: '4. Si la moción de censura no fuere aprobada por el Congreso, sus signatarios no podrán presentar otra...'"
+    },
+    {
+      "texto": "53. ¿A qué artículo corresponde la facultad del Gobierno de ser oído en las Cámaras?",
+      "opciones": [
+        "A) Artículo 108.",
+        "B) Artículo 109.",
+        "C) Artículo 110.2.",
+        "D) Artículo 111.1."
+      ],
+      "respuesta": "C) Artículo 110.2.",
+      "referencia": "Tit5, Art110.2, pág. 106",
+      "explicacion": "Garantiza la voz del ejecutivo en el legislativo. Texto: '2. Los miembros del Gobierno tienen acceso... y la facultad de hacerse oír en ellas...'"
+    },
+    {
+      "texto": "54. ¿Quién convoca inmediatamente al Congreso si se declara el estado de alarma y este no estuviera reunido?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Presidente del Gobierno.",
+        "C) No se cita expresamente, dice que se reúne inmediatamente.",
+        "D) El Presidente del Senado."
+      ],
+      "respuesta": "C) No se cita expresamente, dice que se reúne inmediatamente.",
+      "referencia": "Tit5, Art116.2, pág. 111",
+      "explicacion": "La Constitución obliga a la reunión automática. Texto: '...dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto...'"
+    },
+    {
+      "texto": "55. ¿En qué artículo se menciona que las interpelaciones pueden dar lugar a una moción?",
+      "opciones": [
+        "A) Artículo 111.1.",
+        "B) Artículo 111.2.",
+        "C) Artículo 113.1.",
+        "D) Artículo 114.1."
+      ],
+      "respuesta": "B) Artículo 111.2.",
+      "referencia": "Tit5, Art111.2, pág. 107",
+      "explicacion": "Es la consecuencia política de la interpelación. Texto: '2. Toda interpelación podrá dar lugar a una moción...'"
+    },
+    {
+      "texto": "56. ¿Qué artículo regula la propuesta de disolución de las Cortes?",
+      "opciones": [
+        "A) Artículo 99.5.",
+        "B) Artículo 114.",
+        "C) Artículo 115.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "C) Artículo 115.",
+      "referencia": "Tit5, Art115, pág. 110",
+      "explicacion": "El 115 trata sobre la disolución voluntaria por el Presidente. Texto: 'Artículo 115. 1. El Presidente del Gobierno... podrá proponer la disolución...'"
+    },
+    {
+      "texto": "57. ¿Qué sucede con el Gobierno tras una moción de censura aprobada?",
+      "opciones": [
+        "A) Permanece en funciones hasta nuevas elecciones.",
+        "B) Presentará su dimisión al Rey.",
+        "C) Sus miembros pierden el aforamiento.",
+        "D) Se integra en el nuevo Gobierno."
+      ],
+      "respuesta": "B) Presentará su dimisión al Rey.",
+      "referencia": "Tit5, Art114.2, pág. 109",
+      "explicacion": "Es el paso formal previo al nuevo nombramiento. Texto: '2. Si el Congreso adopta una moción de censura, el Gobierno presentará su dimisión al Rey...'"
+    },
+    {
+      "texto": "58. ¿Qué artículo del Título V establece que las Cámaras pueden reclamar la presencia de los miembros del Gobierno?",
+      "opciones": [
+        "A) Artículo 109.",
+        "B) Artículo 110.1.",
+        "C) Artículo 111.",
+        "D) Artículo 113."
+      ],
+      "respuesta": "B) Artículo 110.1.",
+      "referencia": "Tit5, Art110.1, pág. 106",
+      "explicacion": "Mecanismo de control presencial. Texto: '1. Las Cámaras y sus Comisiones pueden reclamar la presencia de los miembros del Gobierno'."
+    },
+    {
+      "texto": "59. ¿Quién debe autorizar la prórroga de los quince días del estado de alarma?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Congreso de los Diputados.",
+        "C) El Consejo de Ministros.",
+        "D) El Senado."
+      ],
+      "respuesta": "B) El Congreso de los Diputados.",
+      "referencia": "Tit5, Art116.2, pág. 111",
+      "explicacion": "Control parlamentario de la prórroga. Texto: '...y sin cuya autorización no podrá ser prorrogado dicho plazo'."
+    },
+    {
+      "texto": "60. ¿A qué se refiere el artículo 116.3 al hablar de 'proclamación' del estado de excepción?",
+      "opciones": [
+        "A) Al discurso del Rey.",
+        "B) Al decreto del Gobierno que lo formaliza.",
+        "C) A la ley orgánica que lo regula.",
+        "D) Al bando militar correspondiente."
+      ],
+      "respuesta": "B) Al decreto del Gobierno que lo formaliza.",
+      "referencia": "Tit5, Art116.3, pág. 112",
+      "explicacion": "Es la publicidad oficial del estado. Texto: '3. El estado de excepción será declarado por el Gobierno mediante decreto...'"
+    },
+    {
+      "texto": "61. ¿Qué artículo establece que el Gobierno responde ante el Congreso de los Diputados?",
+      "opciones": [
+        "A) Artículo 97.",
+        "B) Artículo 108.",
+        "C) Artículo 116.",
+        "D) Artículo 117."
+      ],
+      "respuesta": "B) Artículo 108.",
+      "referencia": "Tit5, Art108, pág. 106",
+      "explicacion": "Eje del sistema parlamentario. Texto: 'Artículo 108. El Gobierno responde solidariamente... ante el Congreso de los Diputados'."
+    },
+    {
+      "texto": "62. ¿En qué artículo se regula la disolución de las Cámaras si no hay investidura en dos meses?",
+      "opciones": [
+        "A) Artículo 99.5.",
+        "B) Artículo 113.",
+        "C) Artículo 115.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "A) Artículo 99.5.",
+      "referencia": "Tit4, Art99.5, pág. 99",
+      "explicacion": "Es la disolución automática, distinta a la del 115. Texto: '5. Si transcurrido el plazo de dos meses... el Rey disolverá ambas Cámaras...'"
+    },
+    {
+      "texto": "63. ¿Qué artículo trata sobre la cuestión de confianza?",
+      "opciones": [
+        "A) Artículo 111.",
+        "B) Artículo 112.",
+        "C) Artículo 113.",
+        "D) Artículo 114."
+      ],
+      "respuesta": "B) Artículo 112.",
+      "referencia": "Tit5, Art112, pág. 107",
+      "explicacion": "Regula el mecanismo de reafirmación del Gobierno. Texto: 'Artículo 112. El Presidente del Gobierno... puede plantear... la cuestión de confianza'."
+    },
+    {
+      "texto": "64. ¿Qué artículo del Título V especifica que los miembros del Gobierno están sometidos a preguntas?",
+      "opciones": [
+        "A) Artículo 110.",
+        "B) Artículo 111.1.",
+        "C) Artículo 111.2.",
+        "D) Artículo 112."
+      ],
+      "respuesta": "B) Artículo 111.1.",
+      "referencia": "Tit5, Art111.1, pág. 107",
+      "explicacion": "Control individual de los ministros. Texto: '1. El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas...'"
+    },
+    {
+      "texto": "65. ¿Qué mayoría se requiere para aprobar la acusación por traición (art 102) mencionada en el contexto de responsabilidad?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría de tres quintos.",
+        "C) Mayoría absoluta.",
+        "D) Dos tercios de la Cámara."
+      ],
+      "respuesta": "C) Mayoría absoluta.",
+      "referencia": "Tit4, Art102.2, pág. 101",
+      "explicacion": "Garantía frente a acusaciones infundadas. Texto: '...y con la aprobación de la mayoría absoluta del mismo'."
+    },
+    {
+      "texto": "66. ¿A qué se refiere el artículo 116.5 con 'Diputación Permanente'?",
+      "opciones": [
+        "A) Al órgano consultivo del Rey.",
+        "B) Al órgano que asume competencias del Congreso disuelto.",
+        "C) Al servicio de seguridad de la Cámara.",
+        "D) Al equipo de asesores del Presidente."
+      ],
+      "respuesta": "B) Al órgano que asume competencias del Congreso disuelto.",
+      "referencia": "Tit5, Art116.5, pág. 113",
+      "explicacion": "Salvaguarda del legislativo. Texto: '...las competencias del Congreso serán asumidas por su Diputación Permanente'."
+    },
+    {
+      "texto": "67. ¿Qué artículo establece que el Rey nombra al Presidente del Gobierno?",
+      "opciones": [
+        "A) Artículo 62.d).",
+        "B) Artículo 99.3.",
+        "C) Artículo 114.2.",
+        "D) Todos los anteriores según el supuesto."
+      ],
+      "respuesta": "D) Todos los anteriores según el supuesto.",
+      "referencia": "Tit2, 4, 5, pág. 62, 98, 109",
+      "explicacion": "La función es la misma, pero el supuesto varía (ordinario, investidura o moción). Texto: 'Artículo 62.d) ...y, en su caso, nombrarlo [al Presidente]'."
+    },
+    {
+      "texto": "68. ¿Qué artículo del Título V regula la moción de censura?",
+      "opciones": [
+        "A) Artículo 111.",
+        "B) Artículo 112.",
+        "C) Artículo 113.",
+        "D) Artículo 114."
+      ],
+      "respuesta": "C) Artículo 113.",
+      "referencia": "Tit5, Art113, pág. 108",
+      "explicacion": "El 113 regula los requisitos de la moción. Texto: 'Artículo 113. 1. El Congreso de los Diputados puede exigir...'"
+    },
+    {
+      "texto": "69. ¿En qué artículo se menciona que el Presidente del Gobierno es quien propone al Rey el nombramiento de ministros?",
+      "opciones": [
+        "A) Artículo 98.",
+        "B) Artículo 99.",
+        "C) Artículo 100.",
+        "D) Artículo 101."
+      ],
+      "respuesta": "C) Artículo 100.",
+      "referencia": "Tit4, Art100, pág. 100",
+      "explicacion": "Define la potestad de formación de gabinete. Texto: 'Artículo 100. Los demás miembros... serán nombrados... a propuesta de su Presidente'."
+    },
+    {
+      "texto": "70. ¿Qué mayoría se requiere para declarar el estado de sitio?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Dos tercios.",
+        "D) Tres quintos."
+      ],
+      "respuesta": "B) Mayoría absoluta.",
+      "referencia": "Tit5, Art116.4, pág. 112",
+      "explicacion": "Decisión de máxima relevancia parlamentaria. Texto: '4. El estado de sitio será declarado por la mayoría absoluta del Congreso...'"
+    },
+    {
+      "texto": "71. ¿A quién presenta el Gobierno su dimisión si pierde la confianza (art. 114)?",
+      "opciones": [
+        "A) Al Presidente del Congreso.",
+        "B) Al Rey.",
+        "C) Al nuevo Presidente investido.",
+        "D) Al Tribunal Supremo."
+      ],
+      "respuesta": "B) Al Rey.",
+      "referencia": "Tit5, Art114, pág. 109",
+      "explicacion": "El Rey es quien acepta la dimisión formalmente. Texto: '1. ...éste presentará su dimisión al Rey...'"
+    },
+    {
+      "texto": "72. ¿Qué artículo establece que no procederá nueva disolución antes de que transcurra un año?",
+      "opciones": [
+        "A) Artículo 113.",
+        "B) Artículo 114.",
+        "C) Artículo 115.3.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "C) Artículo 115.3.",
+      "referencia": "Tit5, Art115.3, pág. 110",
+      "explicacion": "Límite temporal de estabilidad de las Cámaras. Texto: '3. No procederá nueva disolución antes de que transcurra un año desde la anterior...'"
+    },
+    {
+      "texto": "73. ¿Cuál es el plazo para presentar mociones de censura alternativas?",
+      "opciones": [
+        "A) 24 horas.",
+        "B) 48 horas.",
+        "C) 5 días.",
+        "D) No hay plazo fijo."
+      ],
+      "respuesta": "B) 48 horas.",
+      "referencia": "Tit5, Art113.3, pág. 108",
+      "explicacion": "Corresponde a los dos primeros días de los cinco de espera. Texto: '...En los dos primeros días de dicho plazo podrán presentarse mociones alternativas'."
+    },
+    {
+      "texto": "74. ¿Qué artículo del Título V regula los efectos de la aprobación de una moción de censura?",
+      "opciones": [
+        "A) Artículo 113.1.",
+        "B) Artículo 113.4.",
+        "C) Artículo 114.2.",
+        "D) Artículo 115.2."
+      ],
+      "respuesta": "C) Artículo 114.2.",
+      "referencia": "Tit5, Art114.2, pág. 109",
+      "explicacion": "Determina el cese y el nuevo nombramiento. Texto: '2. Si el Congreso adopta una moción de censura, el Gobierno presentará su dimisión...'"
+    },
+    {
+      "texto": "75. ¿En qué artículo se menciona que el Presidente del Gobierno coordina las funciones de los demás miembros?",
+      "opciones": [
+        "A) Artículo 97.",
+        "B) Artículo 98.2.",
+        "C) Artículo 100.",
+        "D) Artículo 108."
+      ],
+      "respuesta": "B) Artículo 98.2.",
+      "referencia": "Tit4, Art98.2, pág. 96",
+      "explicacion": "Atribución de liderazgo directivo. Texto: '2. El Presidente dirige la acción del Gobierno y coordina las funciones...'"
+    },
+    {
+      "texto": "76. ¿Qué artículo prohíbe proponer la disolución de Cámaras si hay una moción de censura en trámite?",
+      "opciones": [
+        "A) Artículo 113.",
+        "B) Artículo 114.",
+        "C) Artículo 115.2.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "C) Artículo 115.2.",
+      "referencia": "Tit5, Art115.2, pág. 110",
+      "explicacion": "Evita que el Gobierno eluda la censura disolviendo las Cámaras. Texto: '2. La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura'."
+    },
+    {
+      "texto": "77. ¿En qué estado (alarma, excepción o sitio) el Gobierno da cuenta al Congreso sin necesidad de autorización previa?",
+      "opciones": [
+        "A) Alarma.",
+        "B) Excepción.",
+        "C) Sitio.",
+        "D) En ninguno, todos requieren autorización previa."
+      ],
+      "respuesta": "A) Alarma.",
+      "referencia": "Tit5, Art116.2, pág. 111",
+      "explicacion": "Es el de menor intensidad y permite acción inmediata. Texto: '2. El estado de alarma será declarado... dando cuenta al Congreso...'"
+    },
+    {
+      "texto": "78. ¿Qué mayoría requiere el Congreso para autorizar el estado de excepción?",
+      "opciones": [
+        "A) Mayoría simple (se deduce al no especificar mayoría especial).",
+        "B) Mayoría absoluta.",
+        "C) Dos tercios.",
+        "D) Tres quintos."
+      ],
+      "respuesta": "A) Mayoría simple (se deduce al no especificar mayoría especial).",
+      "referencia": "Tit5, Art116.3, pág. 112",
+      "explicacion": "La Constitución no indica mayoría absoluta para el 116.3, a diferencia del 116.4. Texto: '3. El estado de excepción será declarado... previa autorización del Congreso...'"
+    },
+    {
+      "texto": "79. ¿Quién fija los efectos de la proclamación del estado de excepción?",
+      "opciones": [
+        "A) El Rey.",
+        "B) La ley orgánica.",
+        "C) La autorización y proclamación (decreto).",
+        "D) El mando militar único."
+      ],
+      "respuesta": "C) La autorización y proclamación (decreto).",
+      "referencia": "Tit5, Art116.3, pág. 112",
+      "explicacion": "Deben detallarse en el acto de declaración. Texto: '3. La autorización y proclamación del estado de excepción deberá determinar expresamente los efectos del mismo...'"
+    },
+    {
+      "texto": "80. ¿Cuántos días dura como máximo la prórroga del estado de excepción?",
+      "opciones": [
+        "A) 15 días.",
+        "B) 30 días.",
+        "C) 60 días.",
+        "D) 90 días."
+      ],
+      "respuesta": "B) 30 días.",
+      "referencia": "Tit5, Art116.3, pág. 112",
+      "explicacion": "Es por un plazo igual al original. Texto: '...no podrá exceder de treinta días, prorrogables por otro plazo igual...'"
+    },
+    {
+      "texto": "81. ¿Qué artículo del Título V se refiere a la reunión automática de las Cámaras si no estuvieran en periodo de sesiones durante una crisis?",
+      "opciones": [
+        "A) Artículo 73.",
+        "B) Artículo 115.",
+        "C) Artículo 116.5.",
+        "D) Artículo 116.6."
+      ],
+      "respuesta": "C) Artículo 116.5.",
+      "referencia": "Tit5, Art116.5, pág. 113",
+      "explicacion": "Evita el vacío de control parlamentario. Texto: '...quedando automáticamente convocadas las Cámaras si no estuvieren en período de sesiones'."
+    },
+    {
+      "texto": "82. ¿A qué se refiere el artículo 111.1 con el término 'preguntas'?",
+      "opciones": [
+        "A) A interrogatorios judiciales.",
+        "B) Al control ordinario y puntual de la acción del Gobierno.",
+        "C) A encuestas de opinión pública.",
+        "D) A las consultas al Consejo de Estado."
+      ],
+      "respuesta": "B) Al control ordinario y puntual de la acción del Gobierno.",
+      "referencia": "Tit5, Art111.1, pág. 107",
+      "explicacion": "Es la base del parlamentarismo cotidiano. Texto: '1. El Gobierno... están sometidos a las interpelaciones y preguntas...'"
+    },
+    {
+      "texto": "83. ¿Qué artículo establece que el Gobierno cesa por pérdida de confianza parlamentaria?",
+      "opciones": [
+        "A) Artículo 101.1.",
+        "B) Artículo 112.",
+        "C) Artículo 113.",
+        "D) Todos los anteriores."
+      ],
+      "respuesta": "D) Todos los anteriores.",
+      "referencia": "Tit4 y 5, pág. 100, 107, 108",
+      "explicacion": "El 101 cita la causa, y el 112 y 113 la ejecutan. Texto: 'Artículo 101. 1. El Gobierno cesa... en los casos de pérdida de la confianza parlamentaria previstos en la Constitución'."
+    },
+    {
+      "texto": "84. ¿Quién determina el ámbito territorial del estado de sitio?",
+      "opciones": [
+        "A) El Gobierno.",
+        "B) El Congreso de los Diputados.",
+        "C) El Jefe del Estado Mayor de la Defensa.",
+        "D) El Rey."
+      ],
+      "respuesta": "B) El Congreso de los Diputados.",
+      "referencia": "Tit5, Art116.4, pág. 112",
+      "explicacion": "Al declararlo el Congreso, este fija sus límites. Texto: '4. ...El Congreso determinará su ámbito territorial, duración y condiciones'."
+    },
+    {
+      "texto": "85. ¿Cuántos artículos del Título V contienen la palabra 'absoluta'?",
+      "opciones": [
+        "A) Un artículo.",
+        "B) Dos artículos (113 y 116).",
+        "C) Tres artículos.",
+        "D) Ninguno."
+      ],
+      "respuesta": "B) Dos artículos (113 y 116).",
+      "referencia": "Tit5, Art113 y 116, pág. 108, 112",
+      "explicacion": "Se requiere para la moción de censura y para el estado de sitio. Texto: 'Artículo 113. 1. ...mayoría absoluta...' y 'Artículo 116. 4. ...mayoría absoluta...'"
+    },
+    {
+      "texto": "86. ¿Qué artículo menciona que el decreto de disolución debe fijar la fecha de las elecciones?",
+      "opciones": [
+        "A) Artículo 62.b).",
+        "B) Artículo 68.6.",
+        "C) Artículo 115.1.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "C) Artículo 115.1.",
+      "referencia": "Tit5, Art115.1, pág. 110",
+      "explicacion": "Es contenido esencial del decreto. Texto: '1. ...El decreto de disolución fijará la fecha de las elecciones'."
+    },
+    {
+      "texto": "87. ¿En qué artículo se establece que el Gobierno puede solicitar que informen funcionarios de sus departamentos?",
+      "opciones": [
+        "A) Artículo 103.",
+        "B) Artículo 109.",
+        "C) Artículo 110.2.",
+        "D) Artículo 111."
+      ],
+      "respuesta": "C) Artículo 110.2.",
+      "referencia": "Tit5, Art110.2, pág. 106",
+      "explicacion": "Facilita la información técnica. Texto: '2. ...y podrán solicitar que informen ante las mismas funcionarios de sus Departamentos'."
+    },
+    {
+      "texto": "88. ¿Qué artículo trata sobre el acceso de los miembros del Gobierno a las sesiones de las Cámaras?",
+      "opciones": [
+        "A) Artículo 108.",
+        "B) Artículo 109.",
+        "C) Artículo 110.",
+        "D) Artículo 111."
+      ],
+      "respuesta": "C) Artículo 110.",
+      "referencia": "Tit5, Art110, pág. 106",
+      "explicacion": "El 110 regula la presencia del Gobierno en el Parlamento. Texto: 'Artículo 110. 1. Las Cámaras... pueden reclamar la presencia...'"
+    },
+    {
+      "texto": "89. ¿Cuál es el artículo final del Título V de la Constitución Española?",
+      "opciones": [
+        "A) Artículo 114.",
+        "B) Artículo 115.",
+        "C) Artículo 116.",
+        "D) Artículo 117."
+      ],
+      "respuesta": "C) Artículo 116.",
+      "referencia": "Tit5, Art116, pág. 114",
+      "explicacion": "El Título V acaba con el artículo dedicado a los estados excepcionales."
+    },
+    {
+      "texto": "90. ¿En qué artículo se menciona que el Presidente del Gobierno actúa bajo su 'exclusiva responsabilidad' al proponer disolver las Cámaras?",
+      "opciones": [
+        "A) Artículo 108.",
+        "B) Artículo 113.",
+        "C) Artículo 115.1.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "C) Artículo 115.1.",
+      "referencia": "Tit5, Art115.1, pág. 110",
+      "explicacion": "Marca la naturaleza de la propuesta. Texto: '1. El Presidente... y bajo su exclusiva responsabilidad, podrá proponer la disolución...'"
+    },
+    {
+      "texto": "91. ¿Qué artículo regula la mayoría simple para la cuestión de confianza?",
+      "opciones": [
+        "A) Artículo 99.",
+        "B) Artículo 108.",
+        "C) Artículo 112.",
+        "D) Artículo 113."
+      ],
+      "respuesta": "C) Artículo 112.",
+      "referencia": "Tit5, Art112, pág. 107",
+      "explicacion": "Establece el umbral de apoyo necesario. Texto: '...La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple...'"
+    },
+    {
+      "texto": "92. ¿Qué artículo especifica que el tiempo para debatir interpelaciones debe ser semanal?",
+      "opciones": [
+        "A) Artículo 110.",
+        "B) Artículo 111.1.",
+        "C) Artículo 111.2.",
+        "D) Artículo 112."
+      ],
+      "respuesta": "B) Artículo 111.1.",
+      "referencia": "Tit5, Art111.1, pág. 107",
+      "explicacion": "Frecuencia del control parlamentario. Texto: '...Para esta clase de debate los Reglamentos establecerán un tiempo mínimo semanal'."
+    },
+    {
+      "texto": "93. ¿Qué artículo menciona el cese del Gobierno por fallecimiento del Presidente?",
+      "opciones": [
+        "A) Artículo 98.",
+        "B) Artículo 101.",
+        "C) Artículo 114.",
+        "D) Artículo 115."
+      ],
+      "respuesta": "B) Artículo 101.",
+      "referencia": "Tit4, Art101.1, pág. 100",
+      "explicacion": "El Gobierno depende de la existencia de su Presidente. Texto: '1. El Gobierno cesa... por dimisión o fallecimiento de su Presidente'."
+    },
+    {
+      "texto": "94. ¿Quién asume el mando único en el estado de alarma?",
+      "opciones": [
+        "A) El Ejército.",
+        "B) El Gobierno.",
+        "C) El Rey.",
+        "D) El Ministerio del Interior."
+      ],
+      "respuesta": "B) El Gobierno.",
+      "referencia": "Tit5, Art116.2, pág. 111",
+      "explicacion": "La dirección política y ejecutiva permanece en el gabinete. Texto: '2. El estado de alarma será declarado por el Gobierno mediante decreto...'"
+    },
+    {
+      "texto": "95. ¿Qué artículo del Título V hace referencia a los estados de crisis?",
+      "opciones": [
+        "A) Artículo 55.",
+        "B) Artículo 115.",
+        "C) Artículo 116.",
+        "D) Artículo 117."
+      ],
+      "respuesta": "C) Artículo 116.",
+      "referencia": "Tit5, Art116, pág. 111",
+      "explicacion": "Es el artículo dedicado a las situaciones de excepcionalidad."
+    },
+    {
+      "texto": "96. ¿En qué artículo se menciona que las Cámaras y sus Comisiones podrán recabar ayuda del Gobierno?",
+      "opciones": [
+        "A) Artículo 108.",
+        "B) Artículo 109.",
+        "C) Artículo 110.",
+        "D) Artículo 111."
+      ],
+      "respuesta": "B) Artículo 109.",
+      "referencia": "Tit5, Art109, pág. 106",
+      "explicacion": "Principio de colaboración institucional. Texto: 'Artículo 109. Las Cámaras y sus Comisiones podrán recabar... la información y ayuda que precisen...'"
+    },
+    {
+      "texto": "97. ¿A qué se refiere el artículo 113.1 con 'responsabilidad política'?",
+      "opciones": [
+        "A) A la responsabilidad penal de los ministros.",
+        "B) A la obligación de dimitir si el Congreso retira el apoyo.",
+        "C) A la obligación de convocar elecciones.",
+        "D) Al control judicial de los decretos."
+      ],
+      "respuesta": "B) A la obligación de dimitir si el Congreso retira el apoyo.",
+      "referencia": "Tit5, Art113.1, pág. 108",
+      "explicacion": "Es la esencia del control del Congreso sobre el Gobierno. Texto: '1. El Congreso... puede exigir la responsabilidad política del Gobierno...'"
+    },
+    {
+      "texto": "98. ¿Qué artículo del Título V regula la moción de censura constructiva?",
+      "opciones": [
+        "A) Artículo 99.",
+        "B) Artículo 112.",
+        "C) Artículo 113.2.",
+        "D) Artículo 114.1."
+      ],
+      "respuesta": "C) Artículo 113.2.",
+      "referencia": "Tit5, Art113.2, pág. 108",
+      "explicacion": "La inclusión de un candidato la hace constructiva. Texto: '2. La moción de censura... habrá de incluir un candidato a la Presidencia del Gobierno'."
+    },
+    {
+      "texto": "99. ¿A qué artículo corresponde el derecho de los Diputados a presentar una moción tras interpelación?",
+      "opciones": [
+        "A) Artículo 110.",
+        "B) Artículo 111.2.",
+        "C) Artículo 112.",
+        "D) Artículo 113."
+      ],
+      "respuesta": "B) Artículo 111.2.",
+      "referencia": "Tit5, Art111.2, pág. 107",
+      "explicacion": "Mecanismo para fijar posición de la Cámara. Texto: '2. Toda interpelación podrá dar lugar a una moción...'"
+    },
+    {
+      "texto": "100. ¿Qué artículo cierra el bloque de las relaciones Gobierno-Cortes?",
+      "opciones": [
+        "A) Artículo 115.",
+        "B) Artículo 116.",
+        "C) Artículo 121.",
+        "D) Artículo 127."
+      ],
+      "respuesta": "B) Artículo 116.",
+      "referencia": "Tit5, Art116, pág. 114",
+      "explicacion": "El artículo 116 es el último del Título V."
+    }
+  ]
+}

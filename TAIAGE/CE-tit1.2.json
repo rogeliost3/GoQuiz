@@ -1,0 +1,1204 @@
+{
+  "CE. Título I (2) - De los derechos y deberes fundamentales": [
+    {
+      "texto": "1. ¿Qué norma determina la adquisición, conservación y pérdida de la nacionalidad española?",
+      "opciones": [
+        "A) La propia Constitución en su Título I.",
+        "B) Lo establecido por la ley.",
+        "C) Los tratados internacionales de reciprocidad.",
+        "D) Un Real Decreto del Consejo de Ministros."
+      ],
+      "respuesta": "B) Lo establecido por la ley.",
+      "referencia": "Tit1, Cap1, Art11.1, pág. 17",
+      "explicacion": "El artículo 11.1 establece que la nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley."
+    },
+    {
+      "texto": "2. ¿En qué países pueden los españoles naturalizarse sin perder su nacionalidad de origen aunque no haya reciprocidad?",
+      "opciones": [
+        "A) En todos los países de la Unión Europea.",
+        "B) En países iberoamericanos o con vinculación particular.",
+        "C) Únicamente en los países con lengua oficial común.",
+        "D) En cualquier país que reconozca el asilo político."
+      ],
+      "respuesta": "B) En países iberoamericanos o con vinculación particular.",
+      "referencia": "Tit1, Cap1, Art11.3, pág. 17",
+      "explicacion": "En los países iberoamericanos o con particular vinculación, los españoles podrán naturalizarse sin perder su nacionalidad de origen aun sin derecho recíproco."
+    },
+    {
+      "texto": "3. Según el artículo 13, ¿quiénes podrán gozar del derecho de asilo en España?",
+      "opciones": [
+        "A) Solo los ciudadanos de la Unión Europea.",
+        "B) Ciudadanos de otros países y los apátridas.",
+        "C) Exclusivamente los perseguidos por delitos políticos.",
+        "D) Cualquier persona que entre legalmente en territorio nacional."
+      ],
+      "respuesta": "B) Ciudadanos de otros países y los apátridas.",
+      "referencia": "Tit1, Cap1, Art13.4, pág. 19",
+      "explicacion": "La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España."
+    },
+    {
+      "texto": "4. ¿Qué artículo garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen?",
+      "opciones": [
+        "A) El artículo 14.",
+        "B) El artículo 17.",
+        "C) El artículo 18.",
+        "D) El artículo 20."
+      ],
+      "respuesta": "C) El artículo 18.",
+      "referencia": "Tit1, Cap2, Sec1, Art18.1, pág. 23",
+      "explicacion": "El artículo 18.1 garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen."
+    },
+    {
+      "texto": "5. ¿Qué límite establece la Constitución para el uso de la informática en relación con los ciudadanos?",
+      "opciones": [
+        "A) El fomento de la transparencia pública.",
+        "B) La seguridad del Estado y la defensa nacional.",
+        "C) Garantizar el honor y la intimidad personal y familiar.",
+        "D) El control de la propiedad intelectual y patentes."
+      ],
+      "respuesta": "C) Garantizar el honor y la intimidad personal y familiar.",
+      "referencia": "Tit1, Cap2, Sec1, Art18.4, pág. 23",
+      "explicacion": "La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos."
+    },
+    {
+      "texto": "6. ¿En qué términos tienen los españoles el derecho a entrar y salir libremente de España?",
+      "opciones": [
+        "A) De forma absoluta sin restricción alguna.",
+        "B) En los términos que la ley establezca.",
+        "C) Siempre que no tengan deudas tributarias pendientes.",
+        "D) Únicamente durante periodos de normalidad constitucional."
+      ],
+      "respuesta": "B) En los términos que la ley establezca.",
+      "referencia": "Tit1, Cap2, Sec1, Art19, pág. 24",
+      "explicacion": "Los españoles tienen derecho a entrar y salir libremente de España en los términos que la ley establezca."
+    },
+    {
+      "texto": "7. ¿Qué derecho se reconoce en el artículo 20.1.b)?",
+      "opciones": [
+        "A) A la libertad de cátedra.",
+        "B) A la producción y creación literaria, artística, científica y técnica.",
+        "C) A expresar y difundir libremente los pensamientos.",
+        "D) A comunicar o recibir libremente información veraz."
+      ],
+      "respuesta": "B) A la producción y creación literaria, artística, científica y técnica.",
+      "referencia": "Tit1, Cap2, Sec1, Art20.1, pág. 25",
+      "explicacion": "El artículo 20.1.b) protege la producción y creación literaria, artística, científica y técnica."
+    },
+    {
+      "texto": "8. ¿Qué debe regular la ley en relación con el ejercicio de las libertades de información y expresión?",
+      "opciones": [
+        "A) El derecho de réplica inmediata.",
+        "B) La cláusula de conciencia y el secreto profesional.",
+        "C) El registro obligatorio de periodistas titulados.",
+        "D) La subvención pública a los medios de comunicación."
+      ],
+      "respuesta": "B) La cláusula de conciencia y el secreto profesional.",
+      "referencia": "Tit1, Cap2, Sec1, Art20.1.d), pág. 25",
+      "explicacion": "La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades."
+    },
+    {
+      "texto": "9. Según el artículo 20.3, ¿qué debe respetar la ley al regular los medios de comunicación dependientes del Estado?",
+      "opciones": [
+        "A) El principio de rentabilidad económica.",
+        "B) El pluralismo de la sociedad y de las diversas lenguas.",
+        "C) La línea ideológica del Gobierno en funciones.",
+        "D) La primacía del castellano sobre otras lenguas."
+      ],
+      "respuesta": "B) El pluralismo de la sociedad y de las diversas lenguas.",
+      "referencia": "Tit1, Cap2, Sec1, Art20.3, pág. 25",
+      "explicacion": "La ley garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España."
+    },
+    {
+      "texto": "10. ¿Cuál de los siguientes derechos es un límite específico para las libertades de expresión e información?",
+      "opciones": [
+        "A) El derecho a la propiedad privada.",
+        "B) El derecho a la protección de la juventud y de la infancia.",
+        "C) El derecho a la huelga de los trabajadores.",
+        "D) El derecho de asilo y refugio."
+      ],
+      "respuesta": "B) El derecho a la protección de la juventud y de la infancia.",
+      "referencia": "Tit1, Cap2, Sec1, Art20.4, pág. 26",
+      "explicacion": "Estas libertades tienen su límite... especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia."
+    },
+    {
+      "texto": "11. ¿Qué requisito es necesario para el ejercicio del derecho de reunión pacífica y sin armas?",
+      "opciones": [
+        "A) No necesitará autorización previa.",
+        "B) Requiere comunicación previa en todos los casos.",
+        "C) Necesita autorización de la autoridad gubernativa.",
+        "D) Debe realizarse siempre en lugares cerrados."
+      ],
+      "respuesta": "A) No necesitará autorización previa.",
+      "referencia": "Tit1, Cap2, Sec1, Art21.1, pág. 26",
+      "explicacion": "Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho no necesitará autorización previa."
+    },
+    {
+      "texto": "12. ¿En qué supuestos son ilegales las asociaciones según el artículo 22.2?",
+      "opciones": [
+        "A) Cuando no se inscriban en el registro público.",
+        "B) Si persiguen fines o usan medios tipificados como delito.",
+        "C) Si tienen carácter político o sindical.",
+        "D) Cuando su estructura interna no sea democrática."
+      ],
+      "respuesta": "B) Si persiguen fines o usan medios tipificados como delito.",
+      "referencia": "Tit1, Cap2, Sec1, Art22.2, pág. 27",
+      "explicacion": "Las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales."
+    },
+    {
+      "texto": "13. ¿Qué autoridad puede disolver o suspender las actividades de las asociaciones?",
+      "opciones": [
+        "A) El Ministro del Interior.",
+        "B) La autoridad judicial mediante resolución motivada.",
+        "C) El Registro de Asociaciones de oficio.",
+        "D) El Defensor del Pueblo en sus informes."
+      ],
+      "respuesta": "B) La autoridad judicial mediante resolución motivada.",
+      "referencia": "Tit1, Cap2, Sec1, Art22.4, pág. 28",
+      "explicacion": "Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada."
+    },
+    {
+      "texto": "14. El derecho a participar en los asuntos públicos mediante representantes se ejerce en elecciones por:",
+      "opciones": [
+        "A) Sufragio indirecto y secreto.",
+        "B) Sufragio universal.",
+        "C) Sufragio censitario periódico.",
+        "D) Designación proporcional directa."
+      ],
+      "respuesta": "B) Sufragio universal.",
+      "referencia": "Tit1, Cap2, Sec1, Art23.1, pág. 28",
+      "explicacion": "Los ciudadanos tienen el derecho a participar... por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal."
+    },
+    {
+      "texto": "15. ¿Qué derecho garantiza el artículo 24.2 para asegurar la imparcialidad del proceso?",
+      "opciones": [
+        "A) El derecho al indulto particular.",
+        "B) El derecho al Juez ordinario predeterminado por la ley.",
+        "C) El derecho a la doble instancia administrativa.",
+        "D) El derecho a la justicia gratuita universal."
+      ],
+      "respuesta": "B) El derecho al Juez ordinario predeterminado por la ley.",
+      "referencia": "Tit1, Cap2, Sec1, Art24.2, pág. 29",
+      "explicacion": "Asimismo, todos tienen derecho al Juez ordinario predeterminado por la ley, a la defensa y a la asistencia de letrado..."
+    },
+    {
+      "texto": "16. Según el artículo 24.2, nadie está obligado a:",
+      "opciones": [
+        "A) Pagar las costas procesales en defensa propia.",
+        "B) Declarar contra sí mismos ni a confesarse culpables.",
+        "C) Comparecer ante una comisión de investigación.",
+        "D) Respetar el secreto de sumario en su causa."
+      ],
+      "respuesta": "B) Declarar contra sí mismos ni a confesarse culpables.",
+      "referencia": "Tit1, Cap2, Sec1, Art24.2, pág. 29",
+      "explicacion": "Todos tienen derecho... a no declarar contra sí mismos, a no confesarse culpables y a la presunción de inocencia."
+    },
+    {
+      "texto": "17. ¿Qué prohíbe el artículo 25.2 respecto a las penas privativas de libertad?",
+      "opciones": [
+        "A) El aislamiento preventivo prolongado.",
+        "B) Que consistan en trabajos forzados.",
+        "C) El cumplimiento íntegro de la condena.",
+        "D) La privación de visitas familiares."
+      ],
+      "respuesta": "B) Que consistan en trabajos forzados.",
+      "referencia": "Tit1, Cap2, Sec1, Art25.2, pág. 30",
+      "explicacion": "Las penas privativas de libertad y las medidas de seguridad... no podrán consistir en trabajos forzados."
+    },
+    {
+      "texto": "18. ¿De qué derechos goza el condenado a pena de prisión según el artículo 25.2?",
+      "opciones": [
+        "A) De todos los derechos políticos sin restricción.",
+        "B) De los derechos fundamentales de este Capítulo, salvo limitaciones del fallo.",
+        "C) Solo de los derechos civiles básicos determinados por el director.",
+        "D) Exclusivamente del derecho a la integridad física."
+      ],
+      "respuesta": "B) De los derechos fundamentales de este Capítulo, salvo limitaciones del fallo.",
+      "referencia": "Tit1, Cap2, Sec1, Art25.2, pág. 30",
+      "explicacion": "El condenado... gozará de los derechos fundamentales de este Capítulo, a excepción de los que se vean expresamente limitados por el contenido del fallo condenatorio, el sentido de la pena y la ley penitenciaria."
+    },
+    {
+      "texto": "19. El condenado a pena de prisión tendrá derecho a un trabajo remunerado y a:",
+      "opciones": [
+        "A) Una reducción de pena por cada día trabajado.",
+        "B) Los beneficios correspondientes de la Seguridad Social.",
+        "C) La libre elección de su centro penitenciario.",
+        "D) Permisos de salida trimestrales automáticos."
+      ],
+      "respuesta": "B) Los beneficios correspondientes de la Seguridad Social.",
+      "referencia": "Tit1, Cap2, Sec1, Art25.2, pág. 30",
+      "explicacion": "En todo caso, tendrá derecho a un trabajo remunerado y a los beneficios correspondientes de la Seguridad Social."
+    },
+    {
+      "texto": "20. ¿Qué objeto tiene la educación según el artículo 27.2?",
+      "opciones": [
+        "A) La instrucción técnica de la población trabajadora.",
+        "B) El pleno desarrollo de la personalidad humana.",
+        "C) La transmisión de los valores patrióticos nacionales.",
+        "D) El fomento de la competitividad económica."
+      ],
+      "respuesta": "B) El pleno desarrollo de la personalidad humana.",
+      "referencia": "Tit1, Cap2, Sec1, Art27.2, pág. 31",
+      "explicacion": "La educación tendrá por objeto el pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales."
+    },
+    {
+      "texto": "21. ¿Qué derecho garantiza el artículo 27.3 a los padres?",
+      "opciones": [
+        "A) A elegir el profesor de sus hijos.",
+        "B) Que sus hijos reciban formación religiosa y moral según sus convicciones.",
+        "C) A la gratuidad total de los libros de texto.",
+        "D) A escolarizar a sus hijos en su propio domicilio."
+      ],
+      "respuesta": "B) Que sus hijos reciban formación religiosa y moral según sus convicciones.",
+      "referencia": "Tit1, Cap2, Sec1, Art27.3, pág. 32",
+      "explicacion": "Los poderes públicos garantizan el derecho que asiste a los padres para que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones."
+    },
+    {
+      "texto": "22. ¿Quiénes intervendrán en el control y gestión de los centros sostenidos con fondos públicos?",
+      "opciones": [
+        "A) Únicamente los funcionarios del Ministerio.",
+        "B) Profesores, padres y, en su caso, alumnos.",
+        "C) Solo el equipo directivo y el titular del centro.",
+        "D) Los sindicatos de enseñanza mayoritarios."
+      ],
+      "respuesta": "B) Profesores, padres y, en su caso, alumnos.",
+      "referencia": "Tit1, Cap2, Sec1, Art27.7, pág. 33",
+      "explicacion": "Los profesores, los padres y, en su caso, los alumnos intervendrán en el control y gestión de todos los centros sostenidos por la Administración con fondos públicos."
+    },
+    {
+      "texto": "23. ¿Qué comprende la libertad sindical según el artículo 28.1?",
+      "opciones": [
+        "A) El derecho a la ocupación pacífica del lugar de trabajo.",
+        "B) El derecho a fundar sindicatos y a afiliarse al de su elección.",
+        "C) La obligación de contribuir a los fines del sindicato.",
+        "D) El derecho a recibir subvenciones estatales directas."
+      ],
+      "respuesta": "B) El derecho a fundar sindicatos y a afiliarse al de su elección.",
+      "referencia": "Tit1, Cap2, Sec1, Art28.1, pág. 34",
+      "explicacion": "La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección... Nadie podrá ser obligado a afiliarse a un sindicato."
+    },
+    {
+      "texto": "24. ¿Qué debe asegurar la ley que regule el ejercicio del derecho a la huelga?",
+      "opciones": [
+        "A) La sustitución de los huelguistas por otros trabajadores.",
+        "B) El mantenimiento de los servicios esenciales de la comunidad.",
+        "C) El pago de los salarios durante los días de huelga.",
+        "D) La mediación obligatoria del Gobierno previa al paro."
+      ],
+      "respuesta": "B) El mantenimiento de los servicios esenciales de la comunidad.",
+      "referencia": "Tit1, Cap2, Sec1, Art28.2, pág. 35",
+      "explicacion": "La ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad."
+    },
+    {
+      "texto": "25. ¿En qué forma deben realizarse las peticiones según el artículo 29.1?",
+      "opciones": [
+        "A) Verbalmente ante la autoridad competente.",
+        "B) Siempre por escrito.",
+        "C) Mediante comparecencia pública.",
+        "D) A través de un representante legal obligatorio."
+      ],
+      "respuesta": "B) Siempre por escrito.",
+      "referencia": "Tit1, Cap2, Sec1, Art29.1, pág. 35",
+      "explicacion": "Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley."
+    },
+    {
+      "texto": "26. ¿Qué podrá imponer la ley en relación con la objeción de conciencia al servicio militar?",
+      "opciones": [
+        "A) Una multa compensatoria anual.",
+        "B) Una prestación social sustitutoria.",
+        "C) La pérdida de ciertos derechos civiles.",
+        "D) Un periodo de formación militar básica obligatoria."
+      ],
+      "respuesta": "B) Una prestación social sustitutoria.",
+      "referencia": "Tit1, Cap2, Sec2, Art30.2, pág. 36",
+      "explicacion": "La ley... regulará... la objeción de conciencia... pudiendo imponer, en su caso, una prestación social sustitutoria."
+    },
+    {
+      "texto": "27. ¿Qué tipo de servicio podrá establecerse para fines de interés general?",
+      "opciones": [
+        "A) Un servicio militar obligatorio universal.",
+        "B) Un servicio civil.",
+        "C) Un servicio de voluntariado forzoso regional.",
+        "D) Una prestación patrimonial de emergencia."
+      ],
+      "respuesta": "B) Un servicio civil.",
+      "referencia": "Tit1, Cap2, Sec2, Art30.3, pág. 36",
+      "explicacion": "Podrá establecerse un servicio civil para el cumplimiento de fines de interés general."
+    },
+    {
+      "texto": "28. ¿Qué debe realizar el gasto público según el artículo 31.2?",
+      "opciones": [
+        "A) Una distribución equitativa de la riqueza.",
+        "B) Una asignación equitativa de los recursos públicos.",
+        "C) Un superávit presupuestario permanente.",
+        "D) La financiación preferente de la Administración Central."
+      ],
+      "respuesta": "B) Una asignación equitativa de los recursos públicos.",
+      "referencia": "Tit1, Cap2, Sec2, Art31.2, pág. 37",
+      "explicacion": "El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de eficiencia y economía."
+    },
+    {
+      "texto": "29. ¿Qué delimitará el contenido del derecho a la propiedad privada y a la herencia?",
+      "opciones": [
+        "A) La voluntad exclusiva del titular.",
+        "B) Su función social, de acuerdo con las leyes.",
+        "C) El valor catastral determinado por el Estado.",
+        "D) El interés de los herederos forzosos."
+      ],
+      "respuesta": "B) Su función social, de acuerdo con las leyes.",
+      "referencia": "Tit1, Cap2, Sec2, Art33.2, pág. 38",
+      "explicacion": "La función social de estos derechos delimitará su contenido, de acuerdo con las leyes."
+    },
+    {
+      "texto": "30. ¿Qué se prohíbe en relación con la remuneración suficiente del trabajo?",
+      "opciones": [
+        "A) La existencia de salarios mínimos.",
+        "B) La discriminación por razón de sexo.",
+        "C) Los incentivos por productividad excesiva.",
+        "D) El pago en especie superior al 50%."
+      ],
+      "respuesta": "B) La discriminación por razón de sexo.",
+      "referencia": "Tit1, Cap2, Sec2, Art35.1, pág. 39",
+      "explicacion": "Todos los españoles tienen... derecho... a una remuneración suficiente... sin que en ningún caso pueda hacerse discriminación por razón de sexo."
+    },
+    {
+      "texto": "31. ¿Qué norma regulará las peculiaridades del régimen jurídico de los Colegios Profesionales?",
+      "opciones": [
+        "A) Una ley orgánica.",
+        "B) La ley.",
+        "C) Los Estatutos de Autonomía.",
+        "D) Sus propios Reglamentos internos."
+      ],
+      "respuesta": "B) La ley.",
+      "referencia": "Tit1, Cap2, Sec2, Art36, pág. 40",
+      "explicacion": "La ley regulará las peculiaridades propias del régimen jurídico de los Colegios Profesionales y el ejercicio de las profesiones tituladas."
+    },
+    {
+      "texto": "32. Según el artículo 37.1, ¿qué debe garantizar la ley respecto a la negociación colectiva?",
+      "opciones": [
+        "A) Su carácter consultivo no vinculante.",
+        "B) La fuerza vinculante de los convenios.",
+        "C) La presencia obligatoria de un mediador público.",
+        "D) Su aplicación únicamente a los trabajadores sindicados."
+      ],
+      "respuesta": "B) La fuerza vinculante de los convenios.",
+      "referencia": "Tit1, Cap2, Sec2, Art37.1, pág. 40",
+      "explicacion": "La ley garantizará el derecho a la negociación colectiva laboral... así como la fuerza vinculante de los convenios."
+    },
+    {
+      "texto": "33. ¿Qué deben garantizar las leyes que regulen los conflictos colectivos?",
+      "opciones": [
+        "A) La prohibición total del cierre patronal.",
+        "B) El funcionamiento de los servicios esenciales de la comunidad.",
+        "C) El arbitraje obligatorio del Ministerio de Trabajo.",
+        "D) La imposibilidad de sancionar a los huelguistas."
+      ],
+      "respuesta": "B) El funcionamiento de los servicios esenciales de la comunidad.",
+      "referencia": "Tit1, Cap2, Sec2, Art37.2, pág. 40",
+      "explicacion": "La ley que regule el ejercicio de este derecho... incluirá las garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad."
+    },
+    {
+      "texto": "34. ¿Qué garantizan y protegen los poderes públicos respecto a la libertad de empresa?",
+      "opciones": [
+        "A) El monopolio estatal de sectores estratégicos.",
+        "B) Su ejercicio y la defensa de la productividad.",
+        "C) El control de precios por parte de la Administración.",
+        "D) La subvención a empresas en pérdidas."
+      ],
+      "respuesta": "B) Su ejercicio y la defensa de la productividad.",
+      "referencia": "Tit1, Cap2, Sec2, Art38, pág. 41",
+      "explicacion": "Los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general."
+    },
+    {
+      "texto": "35. ¿Qué posibilitará la ley respecto a la familia según el artículo 39.2?",
+      "opciones": [
+        "A) La ayuda económica directa por cada hijo.",
+        "B) La investigación de la paternidad.",
+        "C) La conciliación laboral obligatoria por ley.",
+        "D) El derecho a la herencia de los hijos adoptivos."
+      ],
+      "respuesta": "B) La investigación de la paternidad.",
+      "referencia": "Tit1, Cap3, Art39.2, pág. 42",
+      "explicacion": "Los hijos son iguales ante la ley con independencia de su filiación... La ley posibilitará la investigación de la paternidad."
+    },
+    {
+      "texto": "36. ¿Durante qué periodo deben los padres prestar asistencia a los hijos habidos fuera del matrimonio?",
+      "opciones": [
+        "A) Hasta los dieciséis años.",
+        "B) Durante su minoría de edad y demás casos legales.",
+        "C) Únicamente mientras convivan en el domicilio.",
+        "D) Hasta que el hijo obtenga su primer empleo."
+      ],
+      "respuesta": "B) Durante su minoría de edad y demás casos legales.",
+      "referencia": "Tit1, Cap3, Art39.3, pág. 42",
+      "explicacion": "Los padres deben prestar asistencia de todo orden a los hijos habidos dentro o fuera del matrimonio, durante su minoría de edad y en los demás casos en que legalmente proceda."
+    },
+    {
+      "texto": "37. ¿Qué fomentarán los poderes públicos respecto a los trabajadores según el artículo 40.2?",
+      "opciones": [
+        "A) La sindicación obligatoria en el sector público.",
+        "B) Una política que garantice la formación y readaptación profesionales.",
+        "C) La movilidad geográfica forzosa por razones de empleo.",
+        "D) La jubilación a los sesenta años en profesiones de riesgo."
+      ],
+      "respuesta": "B) Una política que garantice la formación y readaptación profesionales.",
+      "referencia": "Tit1, Cap3, Art40.2, pág. 43",
+      "explicacion": "Los poderes públicos fomentarán una política que garantice la formación y readaptación profesionales."
+    },
+    {
+      "texto": "38. ¿Qué velarán los poderes públicos en el ámbito laboral según el artículo 40.2?",
+      "opciones": [
+        "A) Por el cumplimiento de los contratos mercantiles.",
+        "B) Por la seguridad e higiene en el trabajo.",
+        "C) Por la rentabilidad de las empresas públicas.",
+        "D) Por la eliminación de las horas extraordinarias."
+      ],
+      "respuesta": "B) Por la seguridad e higiene en el trabajo.",
+      "referencia": "Tit1, Cap3, Art40.2, pág. 43",
+      "explicacion": "Asimismo, los poderes públicos... velarán por la seguridad e higiene en el trabajo."
+    },
+    {
+      "texto": "39. Respecto a la Seguridad Social, ¿cómo serán la asistencia y prestaciones complementarias?",
+      "opciones": [
+        "A) Obligatorias para todos los ciudadanos.",
+        "B) Libres.",
+        "C) Financiadas íntegramente por el Estado.",
+        "D) Prohibidas por el principio de unidad de caja."
+      ],
+      "respuesta": "B) Libres.",
+      "referencia": "Tit1, Cap3, Art41, pág. 44",
+      "explicacion": "Los poderes públicos mantendrán un régimen público de Seguridad Social... La asistencia y prestaciones complementarias serán libres."
+    },
+    {
+      "texto": "40. ¿De qué se ocupará especialmente el Estado según el artículo 42?",
+      "opciones": [
+        "A) De la educación secundaria en zonas rurales.",
+        "B) De los derechos de los trabajadores españoles en el extranjero.",
+        "C) De la competencia de las empresas en el mercado exterior.",
+        "D) Del control de la inmigración irregular en fronteras."
+      ],
+      "respuesta": "B) De los derechos de los trabajadores españoles en el extranjero.",
+      "referencia": "Tit1, Cap3, Art42, pág. 44",
+      "explicacion": "El Estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y orientará su política hacia su retorno."
+    },
+    {
+      "texto": "41. ¿Qué compete a los poderes públicos respecto a la salud según el artículo 43.2?",
+      "opciones": [
+        "A) La gestión exclusiva de todos los hospitales.",
+        "B) Organizar y tutelar la salud pública.",
+        "C) El pago de todos los medicamentos recetados.",
+        "D) La inspección de las mutuas de accidentes de trabajo."
+      ],
+      "respuesta": "B) Organizar y tutelar la salud pública.",
+      "referencia": "Tit1, Cap3, Art43.2, pág. 44",
+      "explicacion": "Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios."
+    },
+    {
+      "texto": "42. ¿Qué fomentarán los poderes públicos en relación con el ocio?",
+      "opciones": [
+        "A) La gratuidad de los cines y teatros públicos.",
+        "B) La adecuada utilización del ocio.",
+        "C) El turismo de masas para generar empleo.",
+        "D) El descanso dominical obligatorio sin excepciones."
+      ],
+      "respuesta": "B) La adecuada utilización del ocio.",
+      "referencia": "Tit1, Cap3, Art43.3, pág. 45",
+      "explicacion": "Los poderes públicos fomentarán la educación sanitaria, la educación física y el deporte. Asimismo facilitarán la adecuada utilización del ocio."
+    },
+    {
+      "texto": "43. ¿Por qué velarán los poderes públicos en relación con los recursos naturales?",
+      "opciones": [
+        "A) Por su explotación al máximo para el crecimiento.",
+        "B) Por su utilización racional.",
+        "C) Por la nacionalización de todos los yacimientos.",
+        "D) Por la exportación preferente de materias primas."
+      ],
+      "respuesta": "B) Por su utilización racional.",
+      "referencia": "Tit1, Cap3, Art45.2, pág. 46",
+      "explicacion": "Los poderes públicos velarán por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida."
+    },
+    {
+      "texto": "44. ¿Qué tipo de ley sancionará los atentados contra el patrimonio histórico, cultural y artístico?",
+      "opciones": [
+        "A) La ley administrativa de patrimonio.",
+        "B) La ley penal.",
+        "C) Las leyes de las Comunidades Autónomas.",
+        "D) Los Reglamentos municipales de cultura."
+      ],
+      "respuesta": "B) La ley penal.",
+      "referencia": "Tit1, Cap3, Art46, pág. 47",
+      "explicacion": "Los poderes públicos garantizarán la conservación... La ley penal sancionará los atentados contra este patrimonio."
+    },
+    {
+      "texto": "45. Según el artículo 47, ¿qué deben promover los poderes públicos para hacer efectivo el derecho a la vivienda?",
+      "opciones": [
+        "A) La compraventa de inmuebles sin impuestos.",
+        "B) Las condiciones necesarias y las normas pertinentes.",
+        "C) La construcción directa por el Estado de todas las casas.",
+        "D) El alquiler gratuito para jóvenes menores de 30 años."
+      ],
+      "respuesta": "B) Las condiciones necesarias y las normas pertinentes.",
+      "referencia": "Tit1, Cap3, Art47, pág. 47",
+      "explicacion": "Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo este derecho [a la vivienda]."
+    },
+    {
+      "texto": "46. ¿Qué necesidades específicas se atenderán particularmente en las políticas para personas con discapacidad?",
+      "opciones": [
+        "A) Las de las personas con gran dependencia.",
+        "B) Las de las mujeres y los menores con discapacidad.",
+        "C) Las de los trabajadores con discapacidad severa.",
+        "D) Las de los ancianos con discapacidades sensoriales."
+      ],
+      "respuesta": "B) Las de las mujeres y los menores con discapacidad.",
+      "referencia": "Tit1, Cap3, Art49.2, pág. 48",
+      "explicacion": "Se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad."
+    },
+    {
+      "texto": "47. Respecto a la tercera edad, ¿qué promoverán los poderes públicos con independencia de las obligaciones familiares?",
+      "opciones": [
+        "A) La herencia obligatoria de los ascendientes.",
+        "B) Su bienestar mediante un sistema de servicios sociales.",
+        "C) La exención de impuestos para los jubilados.",
+        "D) El acompañamiento domiciliario por voluntarios."
+      ],
+      "respuesta": "B) Su bienestar mediante un sistema de servicios sociales.",
+      "referencia": "Tit1, Cap3, Art50, pág. 49",
+      "explicacion": "Asimismo, y con independencia de las obligaciones familiares, promoverán su bienestar mediante un sistema de servicios sociales..."
+    },
+    {
+      "texto": "48. ¿Qué promoverán los poderes públicos para los consumidores y usuarios según el artículo 51.2?",
+      "opciones": [
+        "A) La bajada de precios en productos básicos.",
+        "B) La información y la educación de los mismos.",
+        "C) El arbitraje de consumo obligatorio en toda compra.",
+        "D) La subvención a las asociaciones de consumidores."
+      ],
+      "respuesta": "B) La información y la educación de los mismos.",
+      "referencia": "Tit1, Cap3, Art51.2, pág. 50",
+      "explicacion": "Los poderes públicos promoverán la información y la educación de los consumidores y usuarios."
+    },
+    {
+      "texto": "49. ¿A quiénes deben oír los poderes públicos en las cuestiones que afecten a los consumidores?",
+      "opciones": [
+        "A) A las cámaras de comercio exclusivamente.",
+        "B) A las organizaciones de consumidores y usuarios.",
+        "C) A las empresas productoras de bienes y servicios.",
+        "D) Al Defensor del Pueblo en sus informes anuales."
+      ],
+      "respuesta": "B) A las organizaciones de consumidores y usuarios.",
+      "referencia": "Tit1, Cap3, Art51.2, pág. 50",
+      "explicacion": "Los poderes públicos... fomentarán sus organizaciones y oirán a éstas en las cuestiones que puedan afectar a aquéllos."
+    },
+    {
+      "texto": "50. ¿Qué regulará la ley en el marco de la defensa de consumidores y usuarios (art. 51.3)?",
+      "opciones": [
+        "A) Los horarios comerciales de las grandes superficies.",
+        "B) El comercio interior y el régimen de autorización de productos.",
+        "C) Las garantías mínimas de los electrodomésticos.",
+        "D) El etiquetado obligatorio de los productos alimenticios."
+      ],
+      "respuesta": "B) El comercio interior y el régimen de autorización de productos.",
+      "referencia": "Tit1, Cap3, Art51.3, pág. 50",
+      "explicacion": "En el marco de lo dispuesto por los apartados anteriores, la ley regulará el comercio interior y el régimen de autorización de productos comerciales."
+    },
+    {
+      "texto": "51. ¿Qué rango de artículos vinculan a todos los poderes públicos según el artículo 53.1?",
+      "opciones": [
+        "A) Del artículo 10 al 55.",
+        "B) Los reconocidos en el Capítulo segundo.",
+        "C) Solo los de la Sección primera del Capítulo segundo.",
+        "D) Únicamente los derechos fundamentales (art. 15-29)."
+      ],
+      "respuesta": "B) Los reconocidos en el Capítulo segundo.",
+      "referencia": "Tit1, Cap4, Art53.1, pág. 51",
+      "explicacion": "Los derechos y libertades reconocidos en el Capítulo segundo del presente Título vinculan a todos los poderes públicos."
+    },
+    {
+      "texto": "52. Cualquier regulación por ley del ejercicio de derechos del Cap. 2 debe respetar en todo caso:",
+      "opciones": [
+        "A) La opinión mayoritaria de las Cortes.",
+        "B) Su contenido esencial.",
+        "C) La jurisprudencia del Tribunal Supremo.",
+        "D) El derecho internacional de los tratados."
+      ],
+      "respuesta": "B) Su contenido esencial.",
+      "referencia": "Tit1, Cap4, Art53.1, pág. 51",
+      "explicacion": "Sólo por ley, que en todo caso deberá respetar su contenido esencial, podrá regularse el ejercicio de tales derechos y libertades."
+    },
+    {
+      "texto": "53. ¿Qué artículo establece la tutela judicial de los derechos fundamentales ante el Tribunal Constitucional?",
+      "opciones": [
+        "A) El artículo 161.1.a).",
+        "B) El artículo 53.2.",
+        "C) El artículo 24.1.",
+        "D) El artículo 10.2."
+      ],
+      "respuesta": "B) El artículo 53.2.",
+      "referencia": "Tit1, Cap4, Art53.2, pág. 51",
+      "explicacion": "Cualquier ciudadano podrá recabar la tutela... a través del recurso de amparo ante el Tribunal Constitucional (según lo previsto en este artículo)."
+    },
+    {
+      "texto": "54. ¿Qué informarán el reconocimiento, respeto y protección de los principios del Capítulo tercero?",
+      "opciones": [
+        "A) Únicamente la redacción de las nuevas leyes.",
+        "B) La legislación positiva, práctica judicial y actuación de poderes públicos.",
+        "C) El programa político de los partidos en campaña.",
+        "D) La elaboración de los Presupuestos Generales del Estado."
+      ],
+      "respuesta": "B) La legislación positiva, práctica judicial y actuación de poderes públicos.",
+      "referencia": "Tit1, Cap4, Art53.3, pág. 52",
+      "explicacion": "El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo tercero informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos."
+    },
+    {
+      "texto": "55. ¿Ante quién puede supervisar la actividad de la Administración el Defensor del Pueblo?",
+      "opciones": [
+        "A) Ante el Tribunal Constitucional.",
+        "B) Dando cuenta a las Cortes Generales.",
+        "C) Ante el Rey directamente.",
+        "D) Ante el Fiscal General del Estado."
+      ],
+      "respuesta": "B) Dando cuenta a las Cortes Generales.",
+      "referencia": "Tit1, Cap4, Art54, pág. 52",
+      "explicacion": "El Defensor del Pueblo... podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales."
+    },
+    {
+      "texto": "56. ¿Qué artículo puede suspenderse al declararse el estado de sitio, pero NO el de excepción?",
+      "opciones": [
+        "A) El artículo 19 (residencia y circulación).",
+        "B) El artículo 17.3 (derechos del detenido).",
+        "C) El artículo 21 (derecho de reunión).",
+        "D) El artículo 37.2 (conflicto colectivo)."
+      ],
+      "respuesta": "B) El artículo 17.3 (derechos del detenido).",
+      "referencia": "Tit1, Cap5, Art55.1, pág. 53",
+      "explicacion": "Se exceptúa de lo establecido anteriormente el apartado 3 del artículo 17 para el supuesto de declaración de estado de excepción (por lo tanto, sí cabe en el de sitio)."
+    },
+    {
+      "texto": "57. ¿Qué derechos del artículo 18 pueden suspenderse para personas determinadas vinculadas al terrorismo?",
+      "opciones": [
+        "A) El derecho al honor y la propia imagen.",
+        "B) La inviolabilidad del domicilio y el secreto de comunicaciones.",
+        "C) El uso de la informática y bases de datos.",
+        "D) El derecho a la intimidad familiar únicamente."
+      ],
+      "respuesta": "B) La inviolabilidad del domicilio y el secreto de comunicaciones.",
+      "referencia": "Tit1, Cap5, Art55.2, pág. 54",
+      "explicacion": "Los derechos reconocidos en los artículos 17, apartado 2, y 18, apartados 2 y 3, pueden ser suspendidos para personas determinadas (terrorismo)."
+    },
+    {
+      "texto": "58. ¿Qué requisito es necesario para la suspensión individual de derechos según el artículo 55.2?",
+      "opciones": [
+        "A) La declaración previa del estado de sitio.",
+        "B) La necesaria intervención judicial y control parlamentario.",
+        "C) La aprobación por mayoría absoluta del Congreso.",
+        "D) Una resolución motivada del Ministro del Interior."
+      ],
+      "respuesta": "B) La necesaria intervención judicial y control parlamentario.",
+      "referencia": "Tit1, Cap5, Art55.2, pág. 54",
+      "explicacion": "Una ley orgánica podrá determinar la forma... con la necesaria intervención judicial y el adecuado control parlamentario."
+    },
+    {
+      "texto": "59. ¿En qué sección se ubica el derecho a la propiedad privada?",
+      "opciones": [
+        "A) Capítulo Segundo, Sección 1.ª.",
+        "B) Capítulo Segundo, Sección 2.ª.",
+        "C) Capítulo Tercero.",
+        "D) Capítulo Primero."
+      ],
+      "respuesta": "B) Capítulo Segundo, Sección 2.ª.",
+      "referencia": "Tit1, Cap2, Sec2, Art33, pág. 8",
+      "explicacion": "El derecho a la propiedad privada está en el artículo 33, dentro de la Sección 2.ª del Capítulo Segundo."
+    },
+    {
+      "texto": "60. ¿Qué artículo del Título I regula el derecho a la educación?",
+      "opciones": [
+        "A) El artículo 14.",
+        "B) El artículo 20.",
+        "C) El artículo 27.",
+        "D) El artículo 35."
+      ],
+      "respuesta": "C) El artículo 27.",
+      "referencia": "Tit1, Cap2, Sec1, Art27, pág. 31",
+      "explicacion": "El artículo 27 reconoce el derecho de todos a la educación y la libertad de enseñanza."
+    },
+    {
+      "texto": "61. La dignidad de la persona es fundamento de:",
+      "opciones": [
+        "A) La unidad de la nación española.",
+        "B) El orden político y de la paz social.",
+        "C) Los valores superiores del Estado de Derecho.",
+        "D) La soberanía nacional que reside en el pueblo."
+      ],
+      "respuesta": "B) El orden político y de la paz social.",
+      "referencia": "Tit1, Art10.1, pág. 16",
+      "explicacion": "La dignidad... y los derechos inviolables... son fundamento del orden político y de la paz social."
+    },
+    {
+      "texto": "62. ¿Qué derecho del artículo 23 pueden tener los extranjeros en las elecciones municipales?",
+      "opciones": [
+        "A) Solo el derecho de sufragio activo.",
+        "B) El derecho de sufragio activo y pasivo.",
+        "C) Ninguno, es exclusivo de los españoles.",
+        "D) Solo el derecho a ocupar cargos directivos."
+      ],
+      "respuesta": "B) El derecho de sufragio activo y pasivo.",
+      "referencia": "Tit1, Cap1, Art13.2, pág. 18",
+      "explicacion": "Salvo lo que... pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales."
+    },
+    {
+      "texto": "63. ¿Qué artículo prohíbe las penas o tratos inhumanos o degradantes?",
+      "opciones": [
+        "A) El artículo 10.",
+        "B) El artículo 14.",
+        "C) El artículo 15.",
+        "D) El artículo 17."
+      ],
+      "respuesta": "C) El artículo 15.",
+      "referencia": "Tit1, Cap2, Sec1, Art15, pág. 19",
+      "explicacion": "Todos tienen derecho a la vida... sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes."
+    },
+    {
+      "texto": "64. ¿Qué confesión religiosa tendrá carácter estatal según la Constitución?",
+      "opciones": [
+        "A) La Iglesia Católica exclusivamente.",
+        "B) Ninguna confesión tendrá carácter estatal.",
+        "C) Las que determine la ley por su arraigo histórico.",
+        "D) Solo aquellas que cooperen con el Estado."
+      ],
+      "respuesta": "B) Ninguna confesión tendrá carácter estatal.",
+      "referencia": "Tit1, Cap2, Sec1, Art16.3, pág. 20",
+      "explicacion": "Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española."
+    },
+    {
+      "texto": "65. ¿Qué debe hacerse inmediatamente con toda persona detenida?",
+      "opciones": [
+        "A) Trasladarla a un centro penitenciario.",
+        "B) Informarla de sus derechos y razones de detención.",
+        "C) Tomarle declaración bajo juramento.",
+        "D) Someterla a reconocimiento médico forense."
+      ],
+      "respuesta": "B) Informarla de sus derechos y razones de detención.",
+      "referencia": "Tit1, Cap2, Sec1, Art17.3, pág. 22",
+      "explicacion": "Toda persona detenida debe ser informada de forma inmediata... de sus derechos y de las razones de su detención."
+    },
+    {
+      "texto": "66. ¿Quién determina el plazo máximo de duración de la prisión provisional?",
+      "opciones": [
+        "A) El Consejo General del Poder Judicial.",
+        "B) La ley.",
+        "C) El Juez que instruye la causa.",
+        "D) El Reglamento de Instituciones Penitenciarias."
+      ],
+      "respuesta": "B) La ley.",
+      "referencia": "Tit1, Cap2, Sec1, Art17.4, pág. 22",
+      "explicacion": "Asimismo, por ley se determinará el plazo máximo de duración de la prisión provisional."
+    },
+    {
+      "texto": "67. ¿Qué tipo de comunicaciones se mencionan como garantizadas especialmente en el secreto?",
+      "opciones": [
+        "A) Solo las telemáticas de última generación.",
+        "B) Postales, telegráficas y telefónicas.",
+        "C) Las realizadas por cargos públicos.",
+        "D) Las de carácter estrictamente diplomático."
+      ],
+      "respuesta": "B) Postales, telegráficas y telefónicas.",
+      "referencia": "Tit1, Cap2, Sec1, Art18.3, pág. 23",
+      "explicacion": "Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas."
+    },
+    {
+      "texto": "68. ¿Qué derecho reconoce el artículo 20.1.c)?",
+      "opciones": [
+        "A) Libertad de expresión.",
+        "B) Libertad de cátedra.",
+        "C) Libertad de prensa.",
+        "D) Libertad de creación artística."
+      ],
+      "respuesta": "B) Libertad de cátedra.",
+      "referencia": "Tit1, Cap2, Sec1, Art20.1.c), pág. 25",
+      "explicacion": "Se reconocen y protegen los derechos... c) A la libertad de cátedra."
+    },
+    {
+      "texto": "69. ¿En qué caso se puede prohibir una manifestación en lugar de tránsito público?",
+      "opciones": [
+        "A) Si no tiene una finalidad cultural o social.",
+        "B) Cuando existan razones fundadas de alteración del orden público.",
+        "C) Si el número de manifestantes es inferior a veinte.",
+        "D) Siempre que no se haya solicitado permiso con un mes."
+      ],
+      "respuesta": "B) Cuando existan razones fundadas de alteración del orden público.",
+      "referencia": "Tit1, Cap2, Sec1, Art21.2, pág. 27",
+      "explicacion": "La autoridad... sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes."
+    },
+    {
+      "texto": "70. ¿Qué prohíbe el artículo 22.5 respecto a las asociaciones?",
+      "opciones": [
+        "A) Las asociaciones con ánimo de lucro.",
+        "B) Las asociaciones secretas y las de carácter paramilitar.",
+        "C) Las asociaciones de carácter exclusivamente religioso.",
+        "D) Las asociaciones integradas por extranjeros."
+      ],
+      "respuesta": "B) Las asociaciones secretas y las de carácter paramilitar.",
+      "referencia": "Tit1, Cap2, Sec1, Art22.5, pág. 28",
+      "explicacion": "Se prohíben las asociaciones secretas y las de carácter paramilitar."
+    },
+    {
+      "texto": "71. El derecho a la tutela efectiva de jueces y tribunales implica que no puede producirse:",
+      "opciones": [
+        "A) El retraso administrativo.",
+        "B) Indefensión.",
+        "C) La condena sin pruebas directas.",
+        "D) La falta de asistencia social."
+      ],
+      "respuesta": "B) Indefensión.",
+      "referencia": "Tit1, Cap2, Sec1, Art24.1, pág. 29",
+      "explicacion": "Todas las personas tienen derecho a obtener la tutela efectiva... sin que, en ningún caso, pueda producirse indefensión."
+    },
+    {
+      "texto": "72. ¿Qué regulará la ley respecto a la obligación de declarar sobre hechos delictivos?",
+      "opciones": [
+        "A) La obligatoriedad universal sin excepciones.",
+        "B) Casos de parentesco o secreto profesional.",
+        "C) La recompensa por denuncias de ciudadanos.",
+        "D) El anonimato total del denunciante."
+      ],
+      "respuesta": "B) Casos de parentesco o secreto profesional.",
+      "referencia": "Tit1, Cap2, Sec1, Art24.2, pág. 30",
+      "explicacion": "La ley regulará los casos en que, por razón de parentesco o de secreto profesional, no se estará obligado a declarar."
+    },
+    {
+      "texto": "73. ¿Hacia qué deben orientarse las medidas de seguridad según el artículo 25.2?",
+      "opciones": [
+        "A) Hacia el castigo proporcional al daño.",
+        "B) Hacia la reeducación y reinserción social.",
+        "C) Hacia la custodia permanente del reo.",
+        "D) Hacia la reparación económica del Estado."
+      ],
+      "respuesta": "B) Hacia la reeducación y reinserción social.",
+      "referencia": "Tit1, Cap2, Sec1, Art25.2, pág. 30",
+      "explicacion": "Las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia la reeducación y reinserción social."
+    },
+    {
+      "texto": "74. ¿En qué ámbito se prohíben los Tribunales de Honor?",
+      "opciones": [
+        "A) Solo en las Fuerzas Armadas.",
+        "B) Administración civil y organizaciones profesionales.",
+        "C) Partidos políticos y sindicatos.",
+        "D) Universidades y centros docentes."
+      ],
+      "respuesta": "B) Administración civil y organizaciones profesionales.",
+      "referencia": "Tit1, Cap2, Sec1, Art26, pág. 31",
+      "explicacion": "Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales."
+    },
+    {
+      "texto": "75. ¿Qué reconoce el artículo 27.1 a todos los ciudadanos?",
+      "opciones": [
+        "A) El derecho al trabajo.",
+        "B) El derecho a la educación.",
+        "C) El derecho a la salud.",
+        "D) El derecho a la vivienda."
+      ],
+      "respuesta": "B) El derecho a la educación.",
+      "referencia": "Tit1, Cap2, Sec1, Art27.1, pág. 31",
+      "explicacion": "Todos tienen el derecho a la educación. Se reconoce la libertad de enseñanza."
+    },
+    {
+      "texto": "76. ¿Qué reconoce el artículo 27.6 a personas físicas y jurídicas?",
+      "opciones": [
+        "A) La libertad de creación de centros docentes.",
+        "B) La autonomía universitaria plena.",
+        "C) El derecho a no pagar tasas educativas.",
+        "D) La libertad de elegir el currículo escolar."
+      ],
+      "respuesta": "A) La libertad de creación de centros docentes.",
+      "referencia": "Tit1, Cap2, Sec1, Art27.6, pág. 32",
+      "explicacion": "Se reconoce a las personas físicas y jurídicas la libertad de creación de centros docentes."
+    },
+    {
+      "texto": "77. ¿Para quién regulará la ley las peculiaridades del ejercicio del derecho a sindicarse?",
+      "opciones": [
+        "A) Para los trabajadores autónomos.",
+        "B) Para los funcionarios públicos.",
+        "C) Para los directivos de grandes empresas.",
+        "D) Para los jubilados y pensionistas."
+      ],
+      "respuesta": "B) Para los funcionarios públicos.",
+      "referencia": "Tit1, Cap2, Sec1, Art28.1, pág. 34",
+      "explicacion": "La ley... regulará las peculiaridades de su ejercicio para los funcionarios públicos."
+    },
+    {
+      "texto": "78. ¿Quiénes podrán ejercer el derecho de petición SÓLO individualmente?",
+      "opciones": [
+        "A) Todos los ciudadanos españoles.",
+        "B) Miembros de las Fuerzas o Institutos armados.",
+        "C) Los extranjeros residentes en España.",
+        "D) Los menores de edad no emancipados."
+      ],
+      "respuesta": "B) Miembros de las Fuerzas o Institutos armados.",
+      "referencia": "Tit1, Cap2, Sec1, Art29.2, pág. 35",
+      "explicacion": "Los miembros de las Fuerzas o Institutos armados... podrán ejercer este derecho sólo individualmente."
+    },
+    {
+      "texto": "79. Según el artículo 30.4, ¿qué podrá regularse mediante ley?",
+      "opciones": [
+        "A) El derecho a la huelga en servicios públicos.",
+        "B) Los deberes de los ciudadanos en casos de grave riesgo o catástrofe.",
+        "C) La obligatoriedad de votar en las elecciones.",
+        "D) El pago de impuestos especiales por guerra."
+      ],
+      "respuesta": "B) Los deberes de los ciudadanos en casos de grave riesgo o catástrofe.",
+      "referencia": "Tit1, Cap2, Sec2, Art30.4, pág. 36",
+      "explicacion": "Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública."
+    },
+    {
+      "texto": "80. ¿A qué responderán la programación y ejecución del gasto público?",
+      "opciones": [
+        "A) A criterios de equidad y justicia social.",
+        "B) A criterios de eficiencia y economía.",
+        "C) Al principio de jerarquía normativa.",
+        "D) A la capacidad económica de los contribuyentes."
+      ],
+      "respuesta": "B) A criterios de eficiencia y economía.",
+      "referencia": "Tit1, Cap2, Sec2, Art31.2, pág. 37",
+      "explicacion": "El gasto público... su programación y ejecución responderán a los criterios de eficiencia y economía."
+    },
+    {
+      "texto": "81. ¿Cómo podrán establecerse las prestaciones personales o patrimoniales de carácter público?",
+      "opciones": [
+        "A) Mediante Decreto-ley de urgencia.",
+        "B) Sólo con arreglo a la ley.",
+        "C) Por resolución administrativa motivada.",
+        "D) En virtud de los Presupuestos del Estado."
+      ],
+      "respuesta": "B) Sólo con arreglo a la ley.",
+      "referencia": "Tit1, Cap2, Sec2, Art31.3, pág. 37",
+      "explicacion": "Sólo podrán establecerse prestaciones personales o patrimoniales de carácter público con arreglo a la ley."
+    },
+    {
+      "texto": "82. ¿Qué regulará la ley respecto al matrimonio según el artículo 32.2?",
+      "opciones": [
+        "A) Únicamente los efectos económicos del mismo.",
+        "B) La edad y capacidad para contraerlo.",
+        "C) La prohibición del divorcio por razones morales.",
+        "D) El número máximo de cónyuges permitidos."
+      ],
+      "respuesta": "B) La edad y capacidad para contraerlo.",
+      "referencia": "Tit1, Cap2, Sec2, Art32.2, pág. 38",
+      "explicacion": "La ley regulará las formas de matrimonio, la edad y capacidad para contraerlo..."
+    },
+    {
+      "texto": "83. ¿En qué supuestos rigen para las fundaciones las normas sobre disolución judicial?",
+      "opciones": [
+        "A) Solo si realizan actividades mercantiles.",
+        "B) En los mismos términos que para las asociaciones.",
+        "C) Cuando así lo decida el protectorado estatal.",
+        "D) Nunca, tienen un régimen de extinción propio."
+      ],
+      "respuesta": "B) En los mismos términos que para las asociaciones.",
+      "referencia": "Tit1, Cap2, Sec2, Art34.2, pág. 39",
+      "explicacion": "Regirá también para las fundaciones lo dispuesto en los apartados 2 y 4 del artículo 22 (ilegalidad y disolución judicial)."
+    },
+    {
+      "texto": "84. ¿Qué derecho se reconoce en relación con la profesión u oficio en el artículo 35.1?",
+      "opciones": [
+        "A) La asignación estatal de empleo.",
+        "B) La libre elección de profesión u oficio.",
+        "C) El derecho a la jubilación a los 65 años.",
+        "D) El derecho a huelga en cualquier sector."
+      ],
+      "respuesta": "B) La libre elección de profesión u oficio.",
+      "referencia": "Tit1, Cap2, Sec2, Art35.1, pág. 39",
+      "explicacion": "Todos los españoles tienen... el derecho al trabajo, a la libre elección de profesión u oficio."
+    },
+    {
+      "texto": "85. ¿Qué regulará la ley en relación con el trabajo según el artículo 35.2?",
+      "opciones": [
+        "A) Los convenios colectivos sectoriales.",
+        "B) Un estatuto de los trabajadores.",
+        "C) El salario mínimo interprofesional.",
+        "D) La jornada de cuarenta horas semanales."
+      ],
+      "respuesta": "B) Un estatuto de los trabajadores.",
+      "referencia": "Tit1, Cap2, Sec2, Art35.2, pág. 40",
+      "explicacion": "La ley regulará un estatuto de los trabajadores."
+    },
+    {
+      "texto": "86. Los poderes públicos aseguran la protección integral de las madres con independencia de:",
+      "opciones": [
+        "A) Su nacionalidad.",
+        "B) Su estado civil.",
+        "C) Su nivel de ingresos.",
+        "D) Su situación laboral."
+      ],
+      "respuesta": "B) Su estado civil.",
+      "referencia": "Tit1, Cap3, Art39.2, pág. 41",
+      "explicacion": "Los poderes públicos aseguran... la protección integral... de las madres, cualquiera que sea su estado civil."
+    },
+    {
+      "texto": "87. ¿En qué marco promoverán los poderes públicos el progreso social y económico (art. 40.1)?",
+      "opciones": [
+        "A) En el de la planificación estatal.",
+        "B) En el de una política de estabilidad económica.",
+        "C) En el de la libre competencia absoluta.",
+        "D) En el del equilibrio presupuestario."
+      ],
+      "respuesta": "B) En el de una política de estabilidad económica.",
+      "referencia": "Tit1, Cap3, Art40.1, pág. 42",
+      "explicacion": "Los poderes públicos promoverán las condiciones favorables... en el marco de una política de estabilidad económica."
+    },
+    {
+      "texto": "88. ¿Qué tipo de distribución de la renta deben promover los poderes públicos?",
+      "opciones": [
+        "A) Una distribución uniforme para todos.",
+        "B) Una distribución regional y personal más equitativa.",
+        "C) Una distribución basada en el mérito individual.",
+        "D) Una distribución regulada por el mercado libre."
+      ],
+      "respuesta": "B) Una distribución regional y personal más equitativa.",
+      "referencia": "Tit1, Cap3, Art40.1, pág. 43",
+      "explicacion": "Los poderes públicos promoverán las condiciones... para una distribución de la renta regional y personal más equitativa."
+    },
+    {
+      "texto": "89. ¿Qué deben garantizar los poderes públicos respecto a la jornada laboral?",
+      "opciones": [
+        "A) Que no exceda de ocho horas diarias.",
+        "B) Su limitación.",
+        "C) El pago de todas las horas extra.",
+        "D) La flexibilidad horaria total."
+      ],
+      "respuesta": "B) Su limitación.",
+      "referencia": "Tit1, Cap3, Art40.2, pág. 43",
+      "explicacion": "Los poderes públicos... garantizarán el descanso necesario, mediante la limitación de la jornada laboral."
+    },
+    {
+      "texto": "90. ¿Quién debe organizar y tutelar la salud pública?",
+      "opciones": [
+        "A) El Ministerio de Sanidad únicamente.",
+        "B) Los poderes públicos.",
+        "C) Los ayuntamientos y diputaciones.",
+        "D) La Seguridad Social de forma autónoma."
+      ],
+      "respuesta": "B) Los poderes públicos.",
+      "referencia": "Tit1, Cap3, Art43.2, pág. 44",
+      "explicacion": "Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas."
+    },
+    {
+      "texto": "91. ¿Qué fomentarán los poderes públicos además de la salud pública?",
+      "opciones": [
+        "A) La sanidad privada complementaria.",
+        "B) La educación sanitaria, la educación física y el deporte.",
+        "C) El consumo de productos ecológicos.",
+        "D) La investigación en genética humana."
+      ],
+      "respuesta": "B) La educación sanitaria, la educación física y el deporte.",
+      "referencia": "Tit1, Cap3, Art43.3, pág. 45",
+      "explicacion": "Los poderes públicos fomentarán la educación sanitaria, la educación física y el deporte."
+    },
+    {
+      "texto": "92. ¿Sobre qué principio se apoya la defensa del medio ambiente?",
+      "opciones": [
+        "A) La responsabilidad individual exclusiva.",
+        "B) La indispensable solidaridad colectiva.",
+        "C) El derecho a la propiedad privada.",
+        "D) El desarrollo industrial sostenible."
+      ],
+      "respuesta": "B) La indispensable solidaridad colectiva.",
+      "referencia": "Tit1, Cap3, Art45.2, pág. 46",
+      "explicacion": "Los poderes públicos velarán... apoyándose en la indispensable solidaridad colectiva."
+    },
+    {
+      "texto": "93. ¿Qué deben garantizar los poderes públicos respecto al patrimonio de los pueblos de España?",
+      "opciones": [
+        "A) Su titularidad estatal siempre.",
+        "B) Su conservación y enriquecimiento.",
+        "C) Su rentabilidad turística nacional.",
+        "D) El acceso gratuito a todos los bienes."
+      ],
+      "respuesta": "B) Su conservación y enriquecimiento.",
+      "referencia": "Tit1, Cap3, Art46, pág. 47",
+      "explicacion": "Los poderes públicos garantizarán la conservación y promoverán el enriquecimiento del patrimonio histórico, cultural y artístico."
+    },
+    {
+      "texto": "94. ¿Qué promoverán los poderes públicos para garantizar la autonomía de las personas con discapacidad?",
+      "opciones": [
+        "A) La creación de centros de día en cada barrio.",
+        "B) Entornos universalmente accesibles.",
+        "C) La exención de impuestos de circulación.",
+        "D) El derecho a un asistente personal público."
+      ],
+      "respuesta": "B) Entornos universalmente accesibles.",
+      "referencia": "Tit1, Cap3, Art49.2, pág. 48",
+      "explicacion": "Los poderes públicos impulsarán las políticas que garanticen la plena autonomía personal... en entornos universalmente accesibles."
+    },
+    {
+      "texto": "95. ¿Qué promoverán los poderes públicos para la tercera edad además de pensiones?",
+      "opciones": [
+        "A) La vuelta al mercado laboral voluntaria.",
+        "B) Un sistema de servicios sociales.",
+        "C) El ocio nocturno subvencionado.",
+        "D) Descuentos en el transporte público estatal."
+      ],
+      "respuesta": "B) Un sistema de servicios sociales.",
+      "referencia": "Tit1, Cap3, Art50, pág. 49",
+      "explicacion": "Los poderes públicos... promoverán su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos."
+    },
+    {
+      "texto": "96. ¿A qué derecho es aplicable el recurso de amparo fuera de la Sección 1.ª del Cap. 2?",
+      "opciones": [
+        "A) Al derecho al trabajo (art. 35).",
+        "B) A la objeción de conciencia (art. 30).",
+        "C) Al derecho a la propiedad (art. 33).",
+        "D) Al derecho al matrimonio (art. 32)."
+      ],
+      "respuesta": "B) A la objeción de conciencia (art. 30).",
+      "referencia": "Tit1, Cap4, Art53.2, pág. 51",
+      "explicacion": "Este último recurso [de amparo] será aplicable a la objeción de conciencia reconocida en el artículo 30."
+    },
+    {
+      "texto": "97. El Defensor del Pueblo es designado por:",
+      "opciones": [
+        "A) El Gobierno de la Nación.",
+        "B) Las Cortes Generales.",
+        "C) El Consejo General del Poder Judicial.",
+        "D) El Rey a propuesta del Congreso."
+      ],
+      "respuesta": "B) Las Cortes Generales.",
+      "referencia": "Tit1, Cap4, Art54, pág. 52",
+      "explicacion": "Una ley orgánica regulará la institución del Defensor del Pueblo... designado por éstas [las Cortes] para la defensa de los derechos..."
+    },
+    {
+      "texto": "98. ¿Qué apartados del artículo 20 pueden suspenderse en estados de excepción o sitio?",
+      "opciones": [
+        "A) El apartado 2 (censura previa).",
+        "B) Los apartados 1.a), 1.d) y 5.",
+        "C) El artículo completo sin excepciones.",
+        "D) Solo el apartado 3 (medios estatales)."
+      ],
+      "respuesta": "B) Los apartados 1.a), 1.d) y 5.",
+      "referencia": "Tit1, Cap5, Art55.1, pág. 53",
+      "explicacion": "Los derechos reconocidos en... artículos 20, apartados 1, a) y d), y 5... podrán ser suspendidos."
+    },
+    {
+      "texto": "99. ¿Qué artículo regula la suspensión de derechos con carácter general?",
+      "opciones": [
+        "A) El artículo 116.",
+        "B) El artículo 55.",
+        "C) El artículo 10.",
+        "D) El artículo 169."
+      ],
+      "respuesta": "B) El artículo 55.",
+      "referencia": "Tit1, Cap5, Art55, pág. 53",
+      "explicacion": "El artículo 55 regula la suspensión de los derechos y libertades tanto general como individual."
+    },
+    {
+      "texto": "100. ¿Cuál es el artículo que regula el derecho de sindicación?",
+      "opciones": [
+        "A) El artículo 7.",
+        "B) El artículo 28.",
+        "C) El artículo 37.",
+        "D) El artículo 52."
+      ],
+      "respuesta": "B) El artículo 28.",
+      "referencia": "Tit1, Cap2, Sec1, Art28.1, pág. 34",
+      "explicacion": "El artículo 28.1 establece que todos tienen derecho a sindicarse libremente (dentro del Título I)."
+    }
+  ]
+}

@@ -12,7 +12,10 @@ body.dark {
   --btn-bg: #3399ff;
   --btn-text: #000000;
   --card-bg: #192c46;
+
 }
+
+/* body.dark { background-color:#111; color:#eee; } */
 
 body {
   background-color: var(--bg-color);
@@ -32,25 +35,21 @@ body {
   font-size: 0.8rem;
 }
 
-  input[type="radio"] {
-    accent-color: #0004ff; /* Cambia a cualquier color */
-  }
-  input[type="radio"]:disabled {
-    accent-color: red; /* Color del texto desactivado */
-    border-color:red
-  }
-  label + input[type="radio"]:disabled {
-    color: #ff0000; /* Color del texto desactivado */
-  }
-/* button:hover {
-      opacity: 0.9;
-    } */
+input[type="radio"] {
+  accent-color: #0004ff;
+  /* Cambia a cualquier color */
+}
 
-/* body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
-  background: #f5f5f5;
-} */
+input[type="radio"]:disabled {
+  accent-color: red;
+  /* Color del texto desactivado */
+  border-color: red
+}
+
+label+input[type="radio"]:disabled {
+  color: #ff0000;
+  /* Color del texto desactivado */
+}
 
 h3 {
   color: var(--text-color);
@@ -65,56 +64,57 @@ h2 {
 }
 
 #cargarJSONBtn {
-    /* display: inline-block; */
-    /* padding: 10px 15px; */
-    background: linear-gradient(135deg, #27ae60, #2ecc71);
-    /* color: white; */
-    /* border-radius: 8px; */
-    font-weight: bold;
-    /* cursor: pointer; */
-    /* margin-bottom: 15px; */
-    height: 40px;
+  background: linear-gradient(135deg, #27ae60, #2ecc71);
+  font-weight: bold;
+  height: 40px;
 }
 
 #menubar {
-position: fixed;
-    top: 0;
-    left: 0;
-    width: 98%;
-    background: var(--card-bg);
-    padding: 10px;
-    margin: 0px;
-    border-radius: 0 8px;
-    display: flex;
-    align-items: center;
-    /* gap: 10px; */
-    z-index: 1000;
-    height: auto;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
-    flex-wrap: wrap;
-    justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 98%;
+  background: var(--card-bg);
+  padding: 10px;
+  margin: 0px;
+  border-radius: 0 8px;
+  display: flex;
+  align-items: center;
+  z-index: 1000;
+  height: auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 #menubar button {
-    font-size: 0.9em;
-    /* padding: 5px 8px; */
-    cursor: pointer;
-    border-radius: 5px;
-    height: 40px;
-    /* border: 1px solid #ccc; */
-    /* background-color: var(--btn-bg); */
-    /* color: var(--btn-text); */
+  font-size: 0.9em;
+  cursor: pointer;
+  border-radius: 5px;
+  height: 40px;
 }
 
 button {
-      background-color: var(--btn-bg);
-      color: var(--btn-text);
-      border: none;
-      padding: 6px 12px;
-      margin: 4px;
-      border-radius: 5px;
-      cursor: pointer;
-    } 
+  background-color: var(--btn-bg);
+  color: var(--btn-text);
+  border: none;
+  padding: 6px 12px;
+  margin: 4px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* .pregunta { margin:10px 0; padding:10px; border:1px solid #ccc; border-radius:5px; } */
+
+.correcto {
+  color: green;
+  font-weight: bold;
+}
+
+.incorrecto {
+  color: red;
+  font-weight: bold;
+}
 
 .pregunta {
   background-color: var(--card-bg);
@@ -124,40 +124,27 @@ button {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-      /* .pregunta {
-        border: 1px solid #ddd; 
-        margin-bottom: 15px;
-        /* /* border-radius: 5px; 
-      } */
-
-
 .pregunta p {
   font-size: 1.25em;
   line-height: 1.5em;
   margin: 0 0 15px 0;
 }
 
+/* .opcion { display:block; margin:4px 0; } */
 .opcion {
-    margin-left: 20px;
-    /* margin-bottom: 10px; */
-    font-size: 1.2em;
-    /* line-height: 1.8em; */
-    display: block;
+  margin-left: 20px;
+  font-size: 1.2em;
+  display: block;
 }
 
-      /*.pregunta-buttons {
-        display: flex;
-        gap: 10px;
-      }*/
 .pregunta-buttons-container {
-    /* padding: 8px 15px; */
-    display: flex;
-    background-color: #0077cc57;
-    color: var(--btn-text);
-    border: none;
-    border-radius: 8px;
-    font-weight: bold;
-    cursor: pointer;
-    margin-top: 10px;
-    justify-content: space-between;
+  display: flex;
+  background-color: #0077cc57;
+  color: var(--btn-text);
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 10px;
+  justify-content: space-between;
 }

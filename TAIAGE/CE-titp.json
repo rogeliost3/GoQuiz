@@ -1,0 +1,1204 @@
+{
+  "CE. Titulo Preliminar": [
+    {
+      "texto": "1. ¿En qué artículo se define a España como un Estado social y democrático de Derecho?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 1.2.",
+        "C) Artículo 2.",
+        "D) Artículo 9.1."
+      ],
+      "respuesta": "A) Artículo 1.1.",
+      "referencia": "Tit Prel, Art1.1, pág. 10",
+      "explicacion": "Es la definición fundamental del Estado. Texto: '1. España se constituye en un Estado social y democrático de Derecho...'"
+    },
+    {
+      "texto": "2. ¿Cuántos valores superiores del ordenamiento jurídico propugna la Constitución?",
+      "opciones": [
+        "A) Dos valores.",
+        "B) Tres valores.",
+        "C) Cuatro valores.",
+        "D) Cinco valores."
+      ],
+      "respuesta": "C) Cuatro valores.",
+      "referencia": "Tit Prel, Art1.1, pág. 10",
+      "explicacion": "Libertad, justicia, igualdad y pluralismo político. Texto: '...que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político'."
+    },
+    {
+      "texto": "3. ¿Dónde reside la soberanía nacional según el artículo 1.2?",
+      "opciones": [
+        "A) En las Cortes Generales.",
+        "B) En el Rey de España.",
+        "C) En el pueblo español.",
+        "D) En la Constitución Española."
+      ],
+      "respuesta": "C) En el pueblo español.",
+      "referencia": "Tit Prel, Art1.2, pág. 10",
+      "explicacion": "El pueblo es el origen de todo poder. Texto: '2. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado'."
+    },
+    {
+      "texto": "4. ¿Cuál es la forma política del Estado español?",
+      "opciones": [
+        "A) República parlamentaria.",
+        "B) Monarquía absoluta.",
+        "C) Monarquía parlamentaria.",
+        "D) Estado federal."
+      ],
+      "respuesta": "C) Monarquía parlamentaria.",
+      "referencia": "Tit Prel, Art1.3, pág. 10",
+      "explicacion": "Define el sistema de gobierno. Texto: '3. La forma política del Estado español es la Monarquía parlamentaria'."
+    },
+    {
+      "texto": "5. ¿En qué se fundamenta la Constitución según el artículo 2?",
+      "opciones": [
+        "A) En la voluntad de los partidos.",
+        "B) En la indisoluble unidad de la Nación española.",
+        "C) En el acuerdo de las regiones.",
+        "D) En los tratados internacionales."
+      ],
+      "respuesta": "B) En la indisoluble unidad de la Nación española.",
+      "referencia": "Tit Prel, Art2, pág. 11",
+      "explicacion": "Establece la base de la unidad estatal. Texto: 'Artículo 2. La Constitución se fundamenta en la indisoluble unidad de la Nación española...'"
+    },
+    {
+      "texto": "6. ¿Qué reconoce y garantiza la Constitución además de la unidad nacional en el artículo 2?",
+      "opciones": [
+        "A) El derecho a la autodeterminación.",
+        "B) El derecho a la autonomía de nacionalidades y regiones.",
+        "C) La independencia de los municipios.",
+        "D) El centralismo administrativo."
+      ],
+      "respuesta": "B) El derecho a la autonomía de nacionalidades y regiones.",
+      "referencia": "Tit Prel, Art2, pág. 11",
+      "explicacion": "Base del Estado de las Autonomías. Texto: '...y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran...'"
+    },
+    {
+      "texto": "7. ¿Cuál es la lengua española oficial del Estado?",
+      "opciones": [
+        "A) El español.",
+        "B) El castellano.",
+        "C) Las lenguas autonómicas.",
+        "D) No se especifica nombre."
+      ],
+      "respuesta": "B) El castellano.",
+      "referencia": "Tit Prel, Art3.1, pág. 11",
+      "explicacion": "Denominación oficial de la lengua común. Texto: '1. El castellano es la lengua española oficial del Estado'."
+    },
+    {
+      "texto": "8. ¿Qué deber tienen todos los españoles respecto al castellano?",
+      "opciones": [
+        "A) El deber de usarla siempre.",
+        "B) El deber de conocerla.",
+        "C) El deber de enseñarla.",
+        "D) El deber de traducirla."
+      ],
+      "respuesta": "B) El deber de conocerla.",
+      "referencia": "Tit Prel, Art3.1, pág. 11",
+      "explicacion": "Es una obligación constitucional. Texto: '...Todos los españoles tienen el deber de conocerla y el derecho a usarla'."
+    },
+    {
+      "texto": "9. ¿Dónde son oficiales las demás lenguas españolas?",
+      "opciones": [
+        "A) En todo el territorio nacional.",
+        "B) En las respectivas Comunidades Autónomas.",
+        "C) Solo en el ámbito privado.",
+        "D) En las relaciones con la Unión Europea."
+      ],
+      "respuesta": "B) En las respectivas Comunidades Autónomas.",
+      "referencia": "Tit Prel, Art3.2, pág. 11",
+      "explicacion": "Cooficialidad territorial. Texto: '2. Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos'."
+    },
+    {
+      "texto": "10. ¿Cómo se describe la riqueza de las distintas modalidades lingüísticas de España?",
+      "opciones": [
+        "A) Como un problema de comunicación.",
+        "B) Como un patrimonio cultural.",
+        "C) Como una carga administrativa.",
+        "D) Como un derecho individual únicamente."
+      ],
+      "respuesta": "B) Como un patrimonio cultural.",
+      "referencia": "Tit Prel, Art3.3, pág. 11",
+      "explicacion": "Valoración positiva de la pluralidad. Texto: '3. La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural...'"
+    },
+    {
+      "texto": "11. ¿Cómo está formada la bandera de España según el artículo 4.1?",
+      "opciones": [
+        "A) Por dos franjas de igual anchura.",
+        "B) Por tres franjas horizontales roja, amarilla y roja.",
+        "C) Por tres franjas verticales.",
+        "D) Por una franja amarilla y dos rojas cruzadas."
+      ],
+      "respuesta": "B) Por tres franjas horizontales roja, amarilla y roja.",
+      "referencia": "Tit Prel, Art4.1, pág. 12",
+      "explicacion": "Define la enseña nacional. Texto: '1. La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja...'"
+    },
+    {
+      "texto": "12. ¿Qué anchura tiene la franja amarilla de la bandera española?",
+      "opciones": [
+        "A) Igual que las rojas.",
+        "B) Triple que las rojas.",
+        "C) Doble anchura que cada una de las rojas.",
+        "D) La mitad que las rojas."
+      ],
+      "respuesta": "C) Doble anchura que cada una de las rojas.",
+      "referencia": "Tit Prel, Art4.1, pág. 12",
+      "explicacion": "Proporción específica de la franja central. Texto: '...siendo la amarilla de doble anchura que cada una de las rojas'."
+    },
+    {
+      "texto": "13. ¿Pueden los Estatutos de Autonomía reconocer banderas propias?",
+      "opciones": [
+        "A) No, la bandera es única.",
+        "B) Sí, podrán reconocer banderas y enseñas propias.",
+        "C) Solo previo referéndum nacional.",
+        "D) Solo en edificios autonómicos específicos."
+      ],
+      "respuesta": "B) Sí, podrán reconocer banderas y enseñas propias.",
+      "referencia": "Tit Prel, Art4.2, pág. 12",
+      "explicacion": "Reconocimiento de la pluralidad de enseñas. Texto: '2. Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas'."
+    },
+    {
+      "texto": "14. ¿Cuál es la capital del Estado español?",
+      "opciones": [
+        "A) La ciudad de Madrid.",
+        "B) La villa de Madrid.",
+        "C) La urbe de Madrid.",
+        "D) El municipio de Madrid."
+      ],
+      "respuesta": "B) La villa de Madrid.",
+      "referencia": "Tit Prel, Art5, pág. 12",
+      "explicacion": "Denominación histórica y constitucional de la capital. Texto: 'Artículo 5. La capital del Estado es la villa de Madrid'."
+    },
+    {
+      "texto": "15. ¿Qué función principal tienen los partidos políticos según el artículo 6?",
+      "opciones": [
+        "A) Dirigir la administración pública.",
+        "B) Expresar el pluralismo político.",
+        "C) Gestionar el presupuesto del Estado.",
+        "D) Nombrar a los jueces."
+      ],
+      "respuesta": "B) Expresar el pluralismo político.",
+      "referencia": "Tit Prel, Art6, pág. 13",
+      "explicacion": "Son base de la democracia pluralista. Texto: 'Artículo 6. Los partidos políticos expresan el pluralismo político...'"
+    },
+    {
+      "texto": "16. ¿Cómo debe ser la estructura interna y el funcionamiento de los partidos políticos?",
+      "opciones": [
+        "A) Jerarquizados y cerrados.",
+        "B) Democráticos.",
+        "C) Según sus propios estatutos libremente.",
+        "D) Bajo supervisión del Gobierno."
+      ],
+      "respuesta": "B) Democráticos.",
+      "referencia": "Tit Prel, Art6, pág. 13",
+      "explicacion": "Exigencia constitucional de democracia interna. Texto: '...Su estructura interna y funcionamiento deberán ser democráticos'."
+    },
+    {
+      "texto": "17. ¿A qué contribuyen los sindicatos y las asociaciones empresariales según el artículo 7?",
+      "opciones": [
+        "A) A la elaboración de las leyes.",
+        "B) A la defensa y promoción de los intereses económicos y sociales.",
+        "C) Al mantenimiento del orden público.",
+        "D) A la dirección de la economía nacional."
+      ],
+      "respuesta": "B) A la defensa y promoción de los intereses económicos y sociales.",
+      "referencia": "Tit Prel, Art7, pág. 13",
+      "explicacion": "Representación de intereses de clase y empresa. Texto: 'Artículo 7. Los sindicatos... y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses...'"
+    },
+    {
+      "texto": "18. ¿Quiénes constituyen las Fuerzas Armadas según el artículo 8.1?",
+      "opciones": [
+        "A) Ejército y Guardia Civil.",
+        "B) Ejército de Tierra, Armada y Ejército del Aire.",
+        "C) Ejército de Tierra y Fuerzas de Seguridad.",
+        "D) Solo el Ejército de Tierra."
+      ],
+      "respuesta": "B) Ejército de Tierra, Armada y Ejército del Aire.",
+      "referencia": "Tit Prel, Art8.1, pág. 14",
+      "explicacion": "Enumera los tres cuerpos militares. Texto: '1. Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire...'"
+    },
+    {
+      "texto": "19. ¿Cuál es la misión de las Fuerzas Armadas (art. 8.1)?",
+      "opciones": [
+        "A) Colaborar con la policía.",
+        "B) Garantizar la soberanía y defender la integridad territorial.",
+        "C) Proteger al Rey únicamente.",
+        "D) Dirigir la política de defensa."
+      ],
+      "respuesta": "B) Garantizar la soberanía y defender la integridad territorial.",
+      "referencia": "Tit Prel, Art8.1, pág. 14",
+      "explicacion": "Misión fundamental de defensa exterior y orden constitucional. Texto: '...tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial...'"
+    },
+    {
+      "texto": "20. ¿Qué norma regulará las bases de la organización militar?",
+      "opciones": [
+        "A) Ley de bases ordinaria.",
+        "B) Ley orgánica.",
+        "C) Real Decreto-ley.",
+        "D) Reglamento del Ministerio de Defensa."
+      ],
+      "respuesta": "B) Ley orgánica.",
+      "referencia": "Tit Prel, Art8.2, pág. 14",
+      "explicacion": "Reserva de ley orgánica por su importancia. Texto: '2. Una ley orgánica regulará las bases de la organización militar...'"
+    },
+    {
+      "texto": "21. ¿A quiénes sujeta la Constitución en el artículo 9.1?",
+      "opciones": [
+        "A) Solo a los poderes públicos.",
+        "B) A los ciudadanos y los poderes públicos.",
+        "C) Solo a los ciudadanos.",
+        "D) A las instituciones del Estado exclusivamente."
+      ],
+      "respuesta": "B) A los ciudadanos y los poderes públicos.",
+      "referencia": "Tit Prel, Art9.1, pág. 14",
+      "explicacion": "Vinculación universal a la norma. Texto: '1. Los ciudadanos y los poderes públicos están sujetos a la Constitución...'"
+    },
+    {
+      "texto": "22. ¿A quién corresponde promover las condiciones para que la libertad y la igualdad sean reales y efectivas?",
+      "opciones": [
+        "A) A los partidos políticos.",
+        "B) A los poderes públicos.",
+        "C) A la sociedad civil.",
+        "D) Al Rey de España."
+      ],
+      "respuesta": "B) A los poderes públicos.",
+      "referencia": "Tit Prel, Art9.2, pág. 14",
+      "explicacion": "Mandato de actuación para los poderes del Estado. Texto: '2. Corresponde a los poderes públicos promover las condiciones...'"
+    },
+    {
+      "texto": "23. ¿Qué principio garantiza la Constitución respecto a la publicidad de las normas?",
+      "opciones": [
+        "A) Publicidad opcional.",
+        "B) Publicidad de las normas.",
+        "C) Secreto administrativo.",
+        "D) Publicidad solo de leyes orgánicas."
+      ],
+      "respuesta": "B) Publicidad de las normas.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Necesario para que la norma sea conocida y obligue. Texto: '3. La Constitución garantiza... la publicidad de las normas...'"
+    },
+    {
+      "texto": "24. ¿Qué tipo de disposiciones garantiza la Constitución que sean irretroactivas?",
+      "opciones": [
+        "A) Todas las leyes.",
+        "B) Las disposiciones sancionadoras no favorables.",
+        "C) Las leyes de presupuestos.",
+        "D) Los decretos de nombramientos."
+      ],
+      "respuesta": "B) Las disposiciones sancionadoras no favorables.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Principio de seguridad jurídica y favorabilidad. Texto: '...la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales...'"
+    },
+    {
+      "texto": "25. ¿Qué significa la interdicción de la arbitrariedad de los poderes públicos?",
+      "opciones": [
+        "A) La prohibición de actuar según su capricho.",
+        "B) La facultad de dictar decretos libres.",
+        "C) La sumisión a las Cortes.",
+        "D) La independencia del poder judicial."
+      ],
+      "respuesta": "A) La prohibición de actuar según su capricho.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Garantía frente al abuso de poder. Texto: '...y la interdicción de la arbitrariedad de los poderes públicos'."
+    },
+    {
+      "texto": "26. ¿Cuántos artículos tiene el Título Preliminar?",
+      "opciones": [
+        "A) Siete artículos.",
+        "B) Ocho artículos.",
+        "C) Nueve artículos.",
+        "D) Diez artículos."
+      ],
+      "respuesta": "C) Nueve artículos.",
+      "referencia": "Tit Prel, pág. 3 e índice",
+      "explicacion": "Abarca del artículo 1 al 9. Texto: 'TÍTULO PRELIMINAR'."
+    },
+    {
+      "texto": "27. ¿Qué artículo del Título Preliminar se refiere a los sindicatos?",
+      "opciones": [
+        "A) Artículo 6.",
+        "B) Artículo 7.",
+        "C) Artículo 8.",
+        "D) Artículo 9."
+      ],
+      "respuesta": "B) Artículo 7.",
+      "referencia": "Tit Prel, Art7, pág. 13",
+      "explicacion": "El artículo 7 agrupa sindicatos y patronal. Texto: 'Artículo 7. Los sindicatos de trabajadores y las asociaciones empresariales...'"
+    },
+    {
+      "texto": "28. ¿Qué artículo garantiza el principio de legalidad y la jerarquía normativa?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 2.",
+        "C) Artículo 9.1.",
+        "D) Artículo 9.3."
+      ],
+      "respuesta": "D) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Son principios fundamentales del Estado de Derecho. Texto: '3. La Constitución garantiza el principio de legalidad, la jerarquía normativa...'"
+    },
+    {
+      "texto": "29. ¿Qué artículo declara que la soberanía reside en el pueblo?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 1.2.",
+        "C) Artículo 1.3.",
+        "D) Artículo 2."
+      ],
+      "respuesta": "B) Artículo 1.2.",
+      "referencia": "Tit Prel, Art1.2, pág. 10",
+      "explicacion": "Origen de la legitimidad democrática. Texto: '2. La soberanía nacional reside en el pueblo español...'"
+    },
+    {
+      "texto": "30. ¿Qué artículo reconoce la solidaridad entre todas las nacionalidades y regiones?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 2.",
+        "C) Artículo 9.",
+        "D) Artículo 138."
+      ],
+      "respuesta": "B) Artículo 2.",
+      "referencia": "Tit Prel, Art2, pág. 11",
+      "explicacion": "Equilibrio entre unidad y autonomía. Texto: '...y la solidaridad entre todas ellas'."
+    },
+    {
+      "texto": "31. ¿Qué artículo del Título Preliminar define la bandera?",
+      "opciones": [
+        "A) Artículo 3.",
+        "B) Artículo 4.",
+        "C) Artículo 5.",
+        "D) Artículo 6."
+      ],
+      "respuesta": "B) Artículo 4.",
+      "referencia": "Tit Prel, Art4, pág. 12",
+      "explicacion": "Regula los símbolos del Estado. Texto: 'Artículo 4. 1. La bandera de España...'"
+    },
+    {
+      "texto": "32. ¿A qué se refiere el artículo 9.3 con 'seguridad jurídica'?",
+      "opciones": [
+        "A) A la protección policial.",
+        "B) A la predictibilidad y claridad del Derecho.",
+        "C) A la defensa nacional.",
+        "D) Al secreto de sumario."
+      ],
+      "respuesta": "B) A la predictibilidad y claridad del Derecho.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Permite conocer las consecuencias de los actos. Texto: '...la seguridad jurídica, la responsabilidad...'"
+    },
+    {
+      "texto": "33. ¿Qué artículo obliga al respeto de la Constitución y al resto del ordenamiento jurídico?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 5.",
+        "C) Artículo 9.1.",
+        "D) Artículo 9.3."
+      ],
+      "respuesta": "C) Artículo 9.1.",
+      "referencia": "Tit Prel, Art9.1, pág. 14",
+      "explicacion": "Principio de sujeción normativa. Texto: '1. Los ciudadanos y los poderes públicos están sujetos a la Constitución...'"
+    },
+    {
+      "texto": "34. ¿Qué artículo del Título Preliminar define la capitalidad?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 5.",
+        "C) Artículo 9.",
+        "D) Artículo 137."
+      ],
+      "respuesta": "B) Artículo 5.",
+      "referencia": "Tit Prel, Art5, pág. 12",
+      "explicacion": "Menciona expresamente la sede del Estado. Texto: 'Artículo 5. La capital del Estado es la villa de Madrid'."
+    },
+    {
+      "texto": "35. ¿Cuál es el artículo final del Título Preliminar?",
+      "opciones": [
+        "A) Artículo 8.",
+        "B) Artículo 9.",
+        "C) Artículo 10.",
+        "D) Artículo 14."
+      ],
+      "respuesta": "B) Artículo 9.",
+      "referencia": "Tit Prel, Art9, pág. 14",
+      "explicacion": "El Título Preliminar comprende los artículos 1 al 9."
+    },
+    {
+      "texto": "36. ¿A qué artículo corresponde el principio de pluralismo político como valor superior?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 6.",
+        "C) Artículo 23.",
+        "D) Todos los anteriores."
+      ],
+      "respuesta": "A) Artículo 1.1.",
+      "referencia": "Tit Prel, Art1.1, pág. 10",
+      "explicacion": "Se cita como uno de los cuatro valores iniciales. Texto: '...la libertad, la justicia, la igualdad y el pluralismo político'."
+    },
+    {
+      "texto": "37. ¿Qué artículo indica que las lenguas distintas al castellano son patrimonio cultural?",
+      "opciones": [
+        "A) Artículo 3.1.",
+        "B) Artículo 3.2.",
+        "C) Artículo 3.3.",
+        "D) Artículo 46."
+      ],
+      "respuesta": "C) Artículo 3.3.",
+      "referencia": "Tit Prel, Art3.3, pág. 11",
+      "explicacion": "Protección de la pluralidad lingüística. Texto: '3. La riqueza de las distintas modalidades lingüísticas... es un patrimonio cultural...'."
+    },
+    {
+      "texto": "38. ¿En qué artículo se menciona que la soberanía nacional reside en el pueblo?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 1.2.",
+        "C) Artículo 2.",
+        "D) Artículo 66.1."
+      ],
+      "respuesta": "B) Artículo 1.2.",
+      "referencia": "Tit Prel, Art1.2, pág. 10",
+      "explicacion": "Principio democrático originario. Texto: '2. La soberanía nacional reside en el pueblo español...'."
+    },
+    {
+      "texto": "39. ¿Qué artículo describe la misión de defensa de la integridad territorial por el ejército?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 8.",
+        "C) Artículo 30.",
+        "D) Artículo 104."
+      ],
+      "respuesta": "B) Artículo 8.",
+      "referencia": "Tit Prel, Art8, pág. 14",
+      "explicacion": "Misión militar básica. Texto: 'Artículo 8. 1. Las Fuerzas Armadas... tienen como misión... defender su integridad territorial...'"
+    },
+    {
+      "texto": "40. ¿Qué artículo garantiza la igualdad como valor superior del ordenamiento?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 9.2.",
+        "C) Artículo 14.",
+        "D) Todos los anteriores."
+      ],
+      "respuesta": "A) Artículo 1.1.",
+      "referencia": "Tit Prel, Art1.1, pág. 10",
+      "explicacion": "Es la primera mención a la igualdad en el texto. Texto: '...propugna como valores superiores... la libertad, la justicia, la igualdad...'"
+    },
+    {
+      "texto": "41. ¿A qué se refiere el artículo 3.2 con 'Estatutos'?",
+      "opciones": [
+        "A) A las leyes orgánicas del Estado.",
+        "B) A los Estatutos de Autonomía de las CCAA.",
+        "C) A los reglamentos de los partidos.",
+        "D) A las normas del ejército."
+      ],
+      "respuesta": "B) A los Estatutos de Autonomía de las CCAA.",
+      "referencia": "Tit Prel, Art3.2, pág. 11",
+      "explicacion": "Norma institucional básica de la Comunidad. Texto: '...serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos'."
+    },
+    {
+      "texto": "42. ¿Qué artículo garantiza la responsabilidad de los poderes públicos?",
+      "opciones": [
+        "A) Artículo 9.1.",
+        "B) Artículo 9.3.",
+        "C) Artículo 103.",
+        "D) Artículo 106."
+      ],
+      "respuesta": "B) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Principio de rendición de cuentas. Texto: '3. La Constitución garantiza... la responsabilidad y la interdicción de la arbitrariedad...'"
+    },
+    {
+      "texto": "43. ¿Cuántos apartados tiene el artículo 1?",
+      "opciones": [
+        "A) Un apartado.",
+        "B) Dos apartados.",
+        "C) Tres apartados.",
+        "D) Cuatro apartados."
+      ],
+      "respuesta": "C) Tres apartados.",
+      "referencia": "Tit Prel, Art1, pág. 10",
+      "explicacion": "El artículo 1 consta de los puntos 1, 2 y 3."
+    },
+    {
+      "texto": "44. ¿Qué artículo menciona que la creación de partidos políticos es libre?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 6.",
+        "C) Artículo 7.",
+        "D) Artículo 22."
+      ],
+      "respuesta": "B) Artículo 6.",
+      "referencia": "Tit Prel, Art6, pág. 13",
+      "explicacion": "Libertad de asociación política. Texto: '...Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley'."
+    },
+    {
+      "texto": "45. ¿En qué artículo se establece que la capital es Madrid?",
+      "opciones": [
+        "A) Artículo 4.",
+        "B) Artículo 5.",
+        "C) Artículo 6.",
+        "D) Artículo 7."
+      ],
+      "respuesta": "B) Artículo 5.",
+      "referencia": "Tit Prel, Art5, pág. 12",
+      "explicacion": "Menciona la ubicación de la sede estatal. Texto: 'Artículo 5. La capital del Estado es la villa de Madrid'."
+    },
+    {
+      "texto": "46. ¿Qué artículo garantiza la jerarquía normativa?",
+      "opciones": [
+        "A) Artículo 9.1.",
+        "B) Artículo 9.2.",
+        "C) Artículo 9.3.",
+        "D) Artículo 161."
+      ],
+      "respuesta": "C) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Orden de prelación de las leyes. Texto: '3. La Constitución garantiza... la jerarquía normativa...'."
+    },
+    {
+      "texto": "47. ¿Qué artículo reconoce banderas propias para las CCAA?",
+      "opciones": [
+        "A) Artículo 4.1.",
+        "B) Artículo 4.2.",
+        "C) Artículo 137.",
+        "D) Artículo 147."
+      ],
+      "respuesta": "B) Artículo 4.2.",
+      "referencia": "Tit Prel, Art4.2, pág. 12",
+      "explicacion": "Posibilidad de símbolos territoriales. Texto: '2. Los Estatutos podrán reconocer banderas y enseñas propias...'"
+    },
+    {
+      "texto": "48. ¿A qué se refiere el artículo 9.2 con 'remover los obstáculos'?",
+      "opciones": [
+        "A) A eliminar barreras físicas en edificios.",
+        "B) A la obligación de los poderes públicos de actuar contra la desigualdad.",
+        "C) A la defensa frente a ataques militares.",
+        "D) Al cambio de leyes antiguas."
+      ],
+      "respuesta": "B) A la obligación de los poderes públicos de actuar contra la desigualdad.",
+      "referencia": "Tit Prel, Art9.2, pág. 15",
+      "explicacion": "Mandato de transformación social. Texto: '2. Corresponde a los poderes públicos... remover los obstáculos que impidan o dificulten su plenitud...'"
+    },
+    {
+      "texto": "49. ¿Quiénes están obligados a usar la bandera de España en sus edificios públicos según el artículo 4?",
+      "opciones": [
+        "A) Solo el Estado central.",
+        "B) El Estado y las Comunidades Autónomas.",
+        "C) Solo los Ayuntamientos.",
+        "D) Las instituciones privadas de interés público."
+      ],
+      "respuesta": "B) El Estado y las Comunidades Autónomas.",
+      "referencia": "Tit Prel, Art4.2, pág. 12",
+      "explicacion": "Uso conjunto de enseñas. Texto: '...Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales'."
+    },
+    {
+      "texto": "50. ¿Qué artículo menciona que la justicia es un valor superior?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 24.",
+        "C) Artículo 117.",
+        "D) Artículo 124."
+      ],
+      "respuesta": "A) Artículo 1.1.",
+      "referencia": "Tit Prel, Art1.1, pág. 10",
+      "explicacion": "Principio inspirador del sistema. Texto: '...propugna como valores superiores... la libertad, la justicia...'"
+    },
+    {
+      "texto": "51. ¿Cuántos apartados tiene el artículo 3?",
+      "opciones": [
+        "A) Un apartado.",
+        "B) Dos apartados.",
+        "C) Tres apartados.",
+        "D) Cuatro apartados."
+      ],
+      "respuesta": "C) Tres apartados.",
+      "referencia": "Tit Prel, Art3, pág. 11",
+      "explicacion": "El artículo 3 consta de los puntos 1, 2 y 3."
+    },
+    {
+      "texto": "52. ¿En qué artículo se menciona que la Nación española es patria común e indivisible?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 2.",
+        "C) Artículo 5.",
+        "D) Preámbulo."
+      ],
+      "respuesta": "B) Artículo 2.",
+      "referencia": "Tit Prel, Art2, pág. 11",
+      "explicacion": "Definición de la unidad nacional. Texto: 'Artículo 2. La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible...'"
+    },
+    {
+      "texto": "53. ¿Qué artículo establece el deber de conocer el castellano?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 3.1.",
+        "C) Artículo 3.2.",
+        "D) Artículo 3.3."
+      ],
+      "respuesta": "B) Artículo 3.1.",
+      "referencia": "Tit Prel, Art3.1, pág. 11",
+      "explicacion": "Obligación de conocimiento lingüístico. Texto: '1. ...Todos los españoles tienen el deber de conocerla...'"
+    },
+    {
+      "texto": "54. ¿Qué artículo define el objeto de respeto y protección de la riqueza lingüística?",
+      "opciones": [
+        "A) Artículo 3.1.",
+        "B) Artículo 3.2.",
+        "C) Artículo 3.3.",
+        "D) Artículo 4."
+      ],
+      "respuesta": "C) Artículo 3.3.",
+      "referencia": "Tit Prel, Art3.3, pág. 11",
+      "explicacion": "Protección de la pluralidad de lenguas. Texto: '3. La riqueza de las distintas modalidades lingüísticas... será objeto de especial respeto y protección'."
+    },
+    {
+      "texto": "55. ¿Cuántos apartados tiene el artículo 4?",
+      "opciones": [
+        "A) Un apartado.",
+        "B) Dos apartados.",
+        "C) Tres apartados.",
+        "D) Ninguno."
+      ],
+      "respuesta": "B) Dos apartados.",
+      "referencia": "Tit Prel, Art4, pág. 12",
+      "explicacion": "El artículo 4 consta de los puntos 1 y 2."
+    },
+    {
+      "texto": "56. ¿A qué se refiere el artículo 6 con 'instrumento fundamental para la participación política'?",
+      "opciones": [
+        "A) A las asociaciones empresariales.",
+        "B) A los sindicatos.",
+        "C) A los partidos políticos.",
+        "D) A las Fuerzas Armadas."
+      ],
+      "respuesta": "C) A los partidos políticos.",
+      "referencia": "Tit Prel, Art6, pág. 13",
+      "explicacion": "Define el rol institucional de los partidos. Texto: '...y son instrumento fundamental para la participación política'."
+    },
+    {
+      "texto": "57. ¿En qué artículo se menciona que la estructura de los sindicatos debe ser democrática?",
+      "opciones": [
+        "A) Artículo 6.",
+        "B) Artículo 7.",
+        "C) Artículo 28.",
+        "D) Artículo 103."
+      ],
+      "respuesta": "B) Artículo 7.",
+      "referencia": "Tit Prel, Art7, pág. 13",
+      "explicacion": "Exigencia extensiva a los sindicatos. Texto: '...Su estructura interna y funcionamiento deberán ser democráticos'."
+    },
+    {
+      "texto": "58. ¿Qué artículo especifica que las Fuerzas Armadas garantizan la soberanía de España?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 8.1.",
+        "C) Artículo 8.2.",
+        "D) Artículo 9."
+      ],
+      "respuesta": "B) Artículo 8.1.",
+      "referencia": "Tit Prel, Art8.1, pág. 14",
+      "explicacion": "Misión fundamental militar. Texto: '1. Las Fuerzas Armadas... tienen como misión garantizar la soberanía e independencia...'"
+    },
+    {
+      "texto": "59. ¿Cuántos apartados tiene el artículo 8?",
+      "opciones": [
+        "A) Un apartado.",
+        "B) Dos apartados.",
+        "C) Tres apartados.",
+        "D) Cuatro apartados."
+      ],
+      "respuesta": "B) Dos apartados.",
+      "referencia": "Tit Prel, Art8, pág. 14",
+      "explicacion": "El artículo 8 consta de los puntos 1 y 2."
+    },
+    {
+      "texto": "60. ¿A qué se refiere el artículo 9.2 con 'facilitar la participación'?",
+      "opciones": [
+        "A) Al derecho al voto únicamente.",
+        "B) A la implicación ciudadana en vida política, económica, cultural y social.",
+        "C) A la libertad de movimiento.",
+        "D) Al acceso a internet."
+      ],
+      "respuesta": "B) A la implicación ciudadana en vida política, económica, cultural y social.",
+      "referencia": "Tit Prel, Art9.2, pág. 15",
+      "explicacion": "Promoción de la ciudadanía activa. Texto: '...y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social'."
+    },
+    {
+      "texto": "61. ¿Cuántos apartados tiene el artículo 9?",
+      "opciones": [
+        "A) Un apartado.",
+        "B) Dos apartados.",
+        "C) Tres apartados.",
+        "D) Cuatro apartados."
+      ],
+      "respuesta": "C) Tres apartados.",
+      "referencia": "Tit Prel, Art9, pág. 14-15",
+      "explicacion": "El artículo 9 consta de los puntos 1, 2 y 3."
+    },
+    {
+      "texto": "62. ¿En qué artículo se garantiza el principio de legalidad?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 9.1.",
+        "C) Artículo 9.3.",
+        "D) Artículo 25."
+      ],
+      "respuesta": "C) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Sometimiento a la ley. Texto: '3. La Constitución garantiza el principio de legalidad...'"
+    },
+    {
+      "texto": "63. ¿Qué artículo reconoce el pluralismo político como valor?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 6.",
+        "C) Ambos artículos según el contexto.",
+        "D) Ninguno de los anteriores."
+      ],
+      "respuesta": "A) Artículo 1.1.",
+      "referencia": "Tit Prel, Art1.1, pág. 10",
+      "explicacion": "Como valor superior se cita en el 1.1. Texto: '...y el pluralismo político'."
+    },
+    {
+      "texto": "64. ¿Qué artículo del Título Preliminar menciona la indisoluble unidad de la Nación?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 2.",
+        "C) Artículo 3.",
+        "D) Artículo 8."
+      ],
+      "respuesta": "B) Artículo 2.",
+      "referencia": "Tit Prel, Art2, pág. 11",
+      "explicacion": "Base del ordenamiento constitucional. Texto: 'Artículo 2. La Constitución se fundamenta en la indisoluble unidad...'"
+    },
+    {
+      "texto": "65. ¿A qué se refiere el artículo 3.1 con el derecho a usar el castellano?",
+      "opciones": [
+        "A) A la libertad de expresión.",
+        "B) A que nadie puede ser sancionado por usarlo.",
+        "C) Al derecho de todos los españoles.",
+        "D) A la enseñanza bilingüe."
+      ],
+      "respuesta": "C) Al derecho de todos los españoles.",
+      "referencia": "Tit Prel, Art3.1, pág. 11",
+      "explicacion": "Derecho ciudadano universal en España. Texto: '...Todos los españoles tienen... el derecho a usarla'."
+    },
+    {
+      "texto": "66. ¿Qué artículo describe la bandera de tres franjas horizontales?",
+      "opciones": [
+        "A) Artículo 4.1.",
+        "B) Artículo 4.2.",
+        "C) Artículo 5.",
+        "D) Artículo 6."
+      ],
+      "respuesta": "A) Artículo 4.1.",
+      "referencia": "Tit Prel, Art4.1, pág. 12",
+      "explicacion": "Descripción cromática de la bandera. Texto: '1. La bandera de España está formada por tres franjas horizontales...'"
+    },
+    {
+      "texto": "67. ¿Qué artículo menciona que las Fuerzas Armadas defienden el ordenamiento constitucional?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 8.1.",
+        "C) Artículo 9.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "B) Artículo 8.1.",
+      "referencia": "Tit Prel, Art8.1, pág. 14",
+      "explicacion": "Misión de defensa interna. Texto: '...y el ordenamiento constitucional'."
+    },
+    {
+      "texto": "68. ¿En qué artículo se menciona que la estructura interna de los partidos debe ser democrática?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 6.",
+        "C) Artículo 22.",
+        "D) Artículo 13."
+      ],
+      "respuesta": "B) Artículo 6.",
+      "referencia": "Tit Prel, Art6, pág. 13",
+      "explicacion": "Garantía de democracia interna. Texto: '...Su estructura interna y funcionamiento deberán ser democráticos'."
+    },
+    {
+      "texto": "69. ¿Qué artículo del Título Preliminar garantiza la irretroactividad?",
+      "opciones": [
+        "A) Artículo 9.1.",
+        "B) Artículo 9.3.",
+        "C) Artículo 10.",
+        "D) Artículo 25."
+      ],
+      "respuesta": "B) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Garantía frente a leyes sancionadoras posteriores. Texto: '...la irretroactividad de las disposiciones sancionadoras no favorables...'"
+    },
+    {
+      "texto": "70. ¿A qué se refiere el artículo 7 con 'asociaciones empresariales'?",
+      "opciones": [
+        "A) A los partidos de derechas.",
+        "B) A la patronal.",
+        "C) A las sociedades limitadas.",
+        "D) A las fundaciones culturales."
+      ],
+      "respuesta": "B) A la patronal.",
+      "referencia": "Tit Prel, Art7, pág. 13",
+      "explicacion": "Interlocutores sociales en economía. Texto: 'Artículo 7. Los sindicatos... y las asociaciones empresariales...'"
+    },
+    {
+      "texto": "71. ¿Qué artículo garantiza el principio de seguridad jurídica?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 9.1.",
+        "C) Artículo 9.3.",
+        "D) Artículo 10."
+      ],
+      "respuesta": "C) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Principio rector del Estado de Derecho. Texto: '...la seguridad jurídica, la responsabilidad...'"
+    },
+    {
+      "texto": "72. ¿En qué artículo se define la forma política como Monarquía parlamentaria?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 1.3.",
+        "C) Artículo 56.",
+        "D) Artículo 57."
+      ],
+      "respuesta": "B) Artículo 1.3.",
+      "referencia": "Tit Prel, Art1.3, pág. 10",
+      "explicacion": "Define el tipo de monarquía. Texto: '3. La forma política del Estado español es la Monarquía parlamentaria'."
+    },
+    {
+      "texto": "73. ¿Qué artículo reconoce banderas y enseñas propias para las CCAA?",
+      "opciones": [
+        "A) Artículo 4.1.",
+        "B) Artículo 4.2.",
+        "C) Artículo 137.",
+        "D) Artículo 147."
+      ],
+      "respuesta": "B) Artículo 4.2.",
+      "referencia": "Tit Prel, Art4.2, pág. 12",
+      "explicacion": "Permite símbolos autonómicos. Texto: '2. Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas'."
+    },
+    {
+      "texto": "74. ¿Qué artículo menciona que la bandera nacional debe usarse junto a la autonómica?",
+      "opciones": [
+        "A) Artículo 4.1.",
+        "B) Artículo 4.2.",
+        "C) Artículo 5.",
+        "D) Artículo 140."
+      ],
+      "respuesta": "B) Artículo 4.2.",
+      "referencia": "Tit Prel, Art4.2, pág. 12",
+      "explicacion": "Prevalencia o concurrencia de enseñas. Texto: '...Estas se utilizarán junto a la bandera de España en sus edificios públicos...'"
+    },
+    {
+      "texto": "75. ¿A qué se refiere el artículo 8.1 con 'Armada'?",
+      "opciones": [
+        "A) Al ejército del aire.",
+        "B) A las fuerzas navales.",
+        "C) A la policía militar.",
+        "D) Al cuerpo de caballería."
+      ],
+      "respuesta": "B) A las fuerzas navales.",
+      "referencia": "Tit Prel, Art8.1, pág. 14",
+      "explicacion": "Nombre del ejército del mar. Texto: '... Ejército de Tierra, la Armada y el Ejército del Aire...'"
+    },
+    {
+      "texto": "76. ¿Qué artículo garantiza la libertad como valor superior?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 10.",
+        "C) Artículo 17.",
+        "D) Artículo 16."
+      ],
+      "respuesta": "A) Artículo 1.1.",
+      "referencia": "Tit Prel, Art1.1, pág. 10",
+      "explicacion": "Primer valor citado. Texto: '...propugna como valores superiores... la libertad...'"
+    },
+    {
+      "texto": "77. ¿En qué artículo se menciona que España se constituye en un Estado de Derecho?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 2.",
+        "C) Artículo 9.",
+        "D) Preámbulo."
+      ],
+      "respuesta": "A) Artículo 1.1.",
+      "referencia": "Tit Prel, Art1.1, pág. 10",
+      "explicacion": "Sometimiento del poder al derecho. Texto: '1. España se constituye en un Estado social y democrático de Derecho...'"
+    },
+    {
+      "texto": "78. ¿Qué artículo impone a los poderes públicos el deber de remover obstáculos?",
+      "opciones": [
+        "A) Artículo 9.1.",
+        "B) Artículo 9.2.",
+        "C) Artículo 9.3.",
+        "D) Artículo 14."
+      ],
+      "respuesta": "B) Artículo 9.2.",
+      "referencia": "Tit Prel, Art9.2, pág. 15",
+      "explicacion": "Igualdad material. Texto: '2. Corresponde a los poderes públicos... remover los obstáculos que impidan o dificulten su plenitud...'"
+    },
+    {
+      "texto": "79. ¿Qué artículo describe la bandera con franjas roja, amarilla y roja?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 4.",
+        "C) Artículo 5.",
+        "D) Artículo 8."
+      ],
+      "respuesta": "B) Artículo 4.",
+      "referencia": "Tit Prel, Art4, pág. 12",
+      "explicacion": "Simbología cromática nacional. Texto: 'Artículo 4. 1. La bandera de España está formada por tres franjas... roja, amarilla y roja'."
+    },
+    {
+      "texto": "80. ¿En qué artículo se menciona que la capital es la villa de Madrid?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 5.",
+        "C) Artículo 10.",
+        "D) Artículo 137."
+      ],
+      "respuesta": "B) Artículo 5.",
+      "referencia": "Tit Prel, Art5, pág. 12",
+      "explicacion": "Ubicación de la capitalidad. Texto: 'Artículo 5. La capital del Estado es la villa de Madrid'."
+    },
+    {
+      "texto": "81. ¿Qué artículo garantiza la publicidad de las normas?",
+      "opciones": [
+        "A) Artículo 9.1.",
+        "B) Artículo 9.3.",
+        "C) Artículo 103.",
+        "D) Artículo 105."
+      ],
+      "respuesta": "B) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Principio de transparencia normativa. Texto: '3. La Constitución garantiza... la publicidad de las normas...'"
+    },
+    {
+      "texto": "82. ¿A qué se refiere el artículo 6 con 'pluralismo político'?",
+      "opciones": [
+        "A) A la existencia de muchos sindicatos.",
+        "B) A la diversidad de opciones representadas por los partidos.",
+        "C) A las lenguas regionales.",
+        "D) A la división de poderes."
+      ],
+      "respuesta": "B) A la diversidad de opciones representadas por los partidos.",
+      "referencia": "Tit Prel, Art6, pág. 13",
+      "explicacion": "Función de los partidos políticos. Texto: 'Artículo 6. Los partidos políticos expresan el pluralismo político...'"
+    },
+    {
+      "texto": "83. ¿Qué artículo garantiza la autonomía de las regiones?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 2.",
+        "C) Artículo 137.",
+        "D) Ambos según el contexto."
+      ],
+      "respuesta": "B) Artículo 2.",
+      "referencia": "Tit Prel, Art2, pág. 11",
+      "explicacion": "Principio de autonomía. Texto: '...reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones...'"
+    },
+    {
+      "texto": "84. ¿En qué artículo se menciona que todos los españoles tienen el derecho a usar el castellano?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 3.1.",
+        "C) Artículo 3.2.",
+        "D) Artículo 3.3."
+      ],
+      "respuesta": "B) Artículo 3.1.",
+      "referencia": "Tit Prel, Art3.1, pág. 11",
+      "explicacion": "Libertad de uso lingüístico. Texto: '1. ...y el derecho a usarla'."
+    },
+    {
+      "texto": "85. ¿Qué artículo garantiza la irretroactividad de las sanciones no favorables?",
+      "opciones": [
+        "A) Artículo 9.1.",
+        "B) Artículo 9.3.",
+        "C) Artículo 25.",
+        "D) Artículo 102."
+      ],
+      "respuesta": "B) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Garantía penal y sancionadora. Texto: '...la irretroactividad de las disposiciones sancionadoras no favorables...'"
+    },
+    {
+      "texto": "86. ¿Cuántos artículos del Título Preliminar contienen el término 'democrática' o 'democrático'?",
+      "opciones": [
+        "A) Un artículo.",
+        "B) Dos artículos (1 y 6).",
+        "C) Tres artículos (1, 6 y 7).",
+        "D) Cuatro artículos."
+      ],
+      "respuesta": "C) Tres artículos (1, 6 y 7).",
+      "referencia": "Tit Prel, Art1, 6, 7, pág. 10, 13",
+      "explicacion": "Se aplica al Estado, a partidos y a sindicatos. Texto: 'Artículo 1.1... democrático...'; 'Artículo 6... democráticos'; 'Artículo 7... democráticos'."
+    },
+    {
+      "texto": "87. ¿Qué artículo menciona el respeto a la Constitución y la ley por sindicatos?",
+      "opciones": [
+        "A) Artículo 6.",
+        "B) Artículo 7.",
+        "C) Artículo 8.",
+        "D) Artículo 28."
+      ],
+      "respuesta": "B) Artículo 7.",
+      "referencia": "Tit Prel, Art7, pág. 13",
+      "explicacion": "Límite legal a la actividad sindical. Texto: '...Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley'."
+    },
+    {
+      "texto": "88. ¿A qué artículo corresponde el deber de defender España?",
+      "opciones": [
+        "A) Artículo 8.",
+        "B) Artículo 9.",
+        "C) Artículo 30.",
+        "D) Artículo 117."
+      ],
+      "respuesta": "C) Artículo 30.",
+      "referencia": "Tit1, Cap2, Sec2, Art30.1, pág. 36",
+      "explicacion": "Aunque es del Título I, se vincula a la misión militar del Art. 8. Texto: '1. Los españoles tienen el derecho y el deber de defender a España'."
+    },
+    {
+      "texto": "89. ¿Qué artículo garantiza la responsabilidad de los poderes públicos?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 9.1.",
+        "C) Artículo 9.3.",
+        "D) Artículo 106."
+      ],
+      "respuesta": "C) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Control del poder. Texto: '3. La Constitución garantiza... la responsabilidad y la interdicción de la arbitrariedad...'"
+    },
+    {
+      "texto": "90. ¿En qué artículo se menciona que la soberanía nacional emana de los poderes del Estado?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 1.2.",
+        "C) Artículo 2.",
+        "D) Es al revés, los poderes emanan del pueblo."
+      ],
+      "respuesta": "D) Es al revés, los poderes emanan del pueblo.",
+      "referencia": "Tit Prel, Art1.2, pág. 10",
+      "explicacion": "El pueblo es el soberano. Texto: '2. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado'."
+    },
+    {
+      "texto": "91. ¿Qué artículo menciona la indisoluble unidad de la Nación española?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 2.",
+        "C) Artículo 3.",
+        "D) Artículo 5."
+      ],
+      "respuesta": "B) Artículo 2.",
+      "referencia": "Tit Prel, Art2, pág. 11",
+      "explicacion": "Principio de unidad del Estado. Texto: 'Artículo 2. La Constitución se fundamenta en la indisoluble unidad...'"
+    },
+    {
+      "texto": "92. ¿Qué artículo define las tres franjas de la bandera?",
+      "opciones": [
+        "A) Artículo 4.1.",
+        "B) Artículo 4.2.",
+        "C) Artículo 5.",
+        "D) Artículo 6."
+      ],
+      "respuesta": "A) Artículo 4.1.",
+      "referencia": "Tit Prel, Art4.1, pág. 12",
+      "explicacion": "Diseño de la bandera. Texto: '1. La bandera de España está formada por tres franjas horizontales...'"
+    },
+    {
+      "texto": "93. ¿Qué artículo garantiza la irretroactividad de las leyes?",
+      "opciones": [
+        "A) Artículo 9.1.",
+        "B) Artículo 9.2.",
+        "C) Artículo 9.3.",
+        "D) Artículo 25."
+      ],
+      "respuesta": "C) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Solo para las no favorables. Texto: '...la irretroactividad de las disposiciones sancionadoras no favorables...'"
+    },
+    {
+      "texto": "94. ¿Qué artículo reconoce banderas propias en los Estatutos?",
+      "opciones": [
+        "A) Artículo 4.1.",
+        "B) Artículo 4.2.",
+        "C) Artículo 5.",
+        "D) Artículo 138."
+      ],
+      "respuesta": "B) Artículo 4.2.",
+      "referencia": "Tit Prel, Art4.2, pág. 12",
+      "explicacion": "Reconocimiento de símbolos autonómicos. Texto: '2. Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas'."
+    },
+    {
+      "texto": "95. ¿Qué artículo somete a los ciudadanos a la Constitución?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 9.1.",
+        "C) Artículo 9.3.",
+        "D) Artículo 14."
+      ],
+      "respuesta": "B) Artículo 9.1.",
+      "referencia": "Tit Prel, Art9.1, pág. 14",
+      "explicacion": "Imperio de la norma suprema. Texto: '1. Los ciudadanos y los poderes públicos están sujetos a la Constitución...'"
+    },
+    {
+      "texto": "96. ¿En qué artículo se mencionan las asociaciones empresariales?",
+      "opciones": [
+        "A) Artículo 6.",
+        "B) Artículo 7.",
+        "C) Artículo 36.",
+        "D) Artículo 52."
+      ],
+      "respuesta": "B) Artículo 7.",
+      "referencia": "Tit Prel, Art7, pág. 13",
+      "explicacion": "Representación colectiva de empresarios. Texto: 'Artículo 7. Los sindicatos... y las asociaciones empresariales...'"
+    },
+    {
+      "texto": "97. ¿A qué se refiere el artículo 8.1 con 'Ejército de Tierra'?",
+      "opciones": [
+        "A) A las fuerzas policiales rurales.",
+        "B) A uno de los constituyentes de las Fuerzas Armadas.",
+        "C) A la defensa civil.",
+        "D) Al mando único militar."
+      ],
+      "respuesta": "B) A uno de los constituyentes de las Fuerzas Armadas.",
+      "referencia": "Tit Prel, Art8.1, pág. 14",
+      "explicacion": "Componente militar terrestre. Texto: '1. Las Fuerzas Armadas, constituidas por el Ejército de Tierra...'"
+    },
+    {
+      "texto": "98. ¿Qué artículo garantiza el pluralismo político como valor superior?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 6.",
+        "C) Artículo 9.",
+        "D) Preámbulo."
+      ],
+      "respuesta": "A) Artículo 1.1.",
+      "referencia": "Tit Prel, Art1.1, pág. 10",
+      "explicacion": "Valor fundamental de la democracia. Texto: '...propugna como valores superiores... el pluralismo político'."
+    },
+    {
+      "texto": "99. ¿Qué artículo garantiza la publicidad de las normas?",
+      "opciones": [
+        "A) Artículo 9.1.",
+        "B) Artículo 9.2.",
+        "C) Artículo 9.3.",
+        "D) Artículo 103."
+      ],
+      "respuesta": "C) Artículo 9.3.",
+      "referencia": "Tit Prel, Art9.3, pág. 15",
+      "explicacion": "Condición para la eficacia del derecho. Texto: '3. La Constitución garantiza... la publicidad de las normas...'."
+    },
+    {
+      "texto": "100. ¿Cuál es el rango del Título Preliminar en la estructura de la Constitución?",
+      "opciones": [
+        "A) Es el Preámbulo.",
+        "B) Es el primer bloque articulado.",
+        "C) Es el Título I.",
+        "D) Son las Disposiciones Adicionales."
+      ],
+      "respuesta": "B) Es el primer bloque articulado.",
+      "referencia": "Tit Prel, pág. 3",
+      "explicacion": "Precede al Título I. Texto: 'TÍTULO PRELIMINAR (Artículos 1 a 9)'."
+    }
+  ]
+}

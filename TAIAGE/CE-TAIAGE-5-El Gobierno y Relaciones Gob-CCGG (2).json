@@ -1,0 +1,1204 @@
+{
+  "CE-TAIAGE-5-El Gobierno y Relaciones Gob-CCGG (2)": [
+    {
+      "texto": "1. ¿Qué funciones de dirección atribuye la Constitución al Gobierno respecto a la política del Estado?",
+      "opciones": [
+        "A) La dirección de la política interior y exterior solamente.",
+        "B) La dirección de la política interior y exterior, la Administración civil y militar y la defensa del Estado.",
+        "C) La dirección de la potestad legislativa y la política judicial del Estado.",
+        "D) La dirección de las relaciones entre las Comunidades Autónomas y el Rey."
+      ],
+      "respuesta": "B) La dirección de la política interior y exterior, la Administración civil y militar y la defensa del Estado.",
+      "referencia": "Tit4, Art97, pág.96",
+      "explicacion": "El Gobierno tiene una función directiva integral sobre el aparato estatal. Texto: 'El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado...'"
+    },
+    {
+      "texto": "2. Además de la función ejecutiva, ¿qué otra potestad ejerce el Gobierno según el texto constitucional?",
+      "opciones": [
+        "A) La potestad jurisdiccional suprema.",
+        "B) La potestad reglamentaria.",
+        "C) La potestad de disolución judicial.",
+        "D) La potestad de sanción de las leyes orgánicas."
+      ],
+      "respuesta": "B) La potestad reglamentaria.",
+      "referencia": "Tit4, Art97, pág.96",
+      "explicacion": "El Gobierno no solo ejecuta, sino que desarrolla normas. Texto: '...Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.'"
+    },
+    {
+      "texto": "3. ¿Quién ostenta la facultad de dirigir la acción del Gobierno y coordinar las funciones de sus miembros?",
+      "opciones": [
+        "A) El Rey de España.",
+        "B) El Presidente del Gobierno.",
+        "C) El Consejo de Ministros en pleno.",
+        "D) El Vicepresidente primero."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit4, Art98, pág.96",
+      "explicacion": "El Presidente es el líder y coordinador del órgano colegiado. Texto: '2. El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo...'"
+    },
+    {
+      "texto": "4. En cuanto a la composición del Gobierno, ¿qué miembros son de existencia facultativa según la Constitución?",
+      "opciones": [
+        "A) Los Ministros.",
+        "B) Los Vicepresidentes.",
+        "C) El Presidente.",
+        "D) Los Secretarios de Estado."
+      ],
+      "respuesta": "B) Los Vicepresidentes.",
+      "referencia": "Tit4, Art98, pág.96",
+      "explicacion": "La norma indica que pueden o no existir. Texto: '1. El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros...'"
+    },
+    {
+      "texto": "5. ¿Cuál es la restricción principal para los miembros del Gobierno respecto a actividades privadas?",
+      "opciones": [
+        "A) Solo pueden ejercer actividades mercantiles con permiso del Congreso.",
+        "B) No podrán ejercer actividad profesional o mercantil alguna.",
+        "C) Pueden ser consejeros de empresas si no cobran sueldo público.",
+        "D) Solo pueden ejercer la abogacía en causas propias."
+      ],
+      "respuesta": "B) No podrán ejercer actividad profesional o mercantil alguna.",
+      "referencia": "Tit4, Art98, pág.97",
+      "explicacion": "Se garantiza la exclusividad en el cargo. Texto: '3. Los miembros del Gobierno no podrán ejercer... actividad profesional o mercantil alguna.'"
+    },
+    {
+      "texto": "6. ¿Qué trámite debe realizar el Rey tras cada renovación del Congreso antes de proponer un candidato a la Presidencia?",
+      "opciones": [
+        "A) Consultar con los Presidentes de las Comunidades Autónomas.",
+        "B) Previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria.",
+        "C) Solicitar un informe de idoneidad al Tribunal Constitucional.",
+        "D) Realizar un referéndum consultivo entre la población."
+      ],
+      "respuesta": "B) Previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria.",
+      "referencia": "Tit4, Art99, pág.97",
+      "explicacion": "El Rey debe escuchar a las fuerzas políticas antes de proponer. Texto: '1. ...el Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria...'"
+    },
+    {
+      "texto": "7. ¿Quién comunica formalmente al Congreso la propuesta de candidato a la Presidencia realizada por el Rey?",
+      "opciones": [
+        "A) El propio Rey mediante mensaje televisado.",
+        "B) El Presidente del Congreso.",
+        "C) El Presidente del Gobierno saliente.",
+        "D) El Presidente del Tribunal Supremo."
+      ],
+      "respuesta": "B) El Presidente del Congreso.",
+      "referencia": "Tit4, Art99, pág.97",
+      "explicacion": "El canal de comunicación es el Presidente de la Cámara. Texto: '1. ...y a través del Presidente del Congreso, propondrá un candidato...'"
+    },
+    {
+      "texto": "8. ¿Qué debe presentar el candidato a la Presidencia ante el Congreso de los Diputados?",
+      "opciones": [
+        "A) La lista definitiva de sus Ministros.",
+        "B) El programa político del Gobierno que pretenda formar.",
+        "C) Su declaración de bienes y patrimonio.",
+        "D) Un pacto de coalición firmado por escrito."
+      ],
+      "respuesta": "B) El programa político del Gobierno que pretenda formar.",
+      "referencia": "Tit4, Art99, pág.98",
+      "explicacion": "Es el objeto del debate de investidura. Texto: '2. El candidato... expondrá ante el Congreso de los Diputados el programa político del Gobierno...'"
+    },
+    {
+      "texto": "9. Para ser investido en primera votación, ¿qué apoyo necesita el candidato?",
+      "opciones": [
+        "A) Mayoría simple de los presentes.",
+        "B) Mayoría absoluta de los miembros del Congreso.",
+        "C) Tres quintos de los diputados que emitan voto.",
+        "D) Unanimidad de los grupos mayoritarios."
+      ],
+      "respuesta": "B) Mayoría absoluta de los miembros del Congreso.",
+      "referencia": "Tit4, Art99, pág.98",
+      "explicacion": "Se requiere un respaldo mayoritario de la Cámara. Texto: '3. Si el Congreso... por el voto de la mayoría absoluta de sus miembros, otorgare su confianza...'"
+    },
+    {
+      "texto": "10. Si no se logra la mayoría absoluta en investidura, ¿cuánto tiempo debe pasar antes de la segunda votación?",
+      "opciones": [
+        "A) Veinticuatro horas.",
+        "B) Cuarenta y ocho horas.",
+        "C) Setenta y dos horas.",
+        "D) Cinco días naturales."
+      ],
+      "respuesta": "B) Cuarenta y ocho horas.",
+      "referencia": "Tit4, Art99, pág.98",
+      "explicacion": "Plazo de reflexión entre votaciones. Texto: '3. ...se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior...'"
+    },
+    {
+      "texto": "11. ¿Qué mayoría se requiere en la segunda votación de investidura?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Mayoría simple.",
+        "C) Un tercio de los votos.",
+        "D) Más votos a favor que en contra de los grupos mayoritarios."
+      ],
+      "respuesta": "B) Mayoría simple.",
+      "referencia": "Tit4, Art99, pág.98",
+      "explicacion": "Se relaja el requisito para facilitar el gobierno. Texto: '3. ...y la confianza se entenderá otorgada si obtuviere la mayoría simple.'"
+    },
+    {
+      "texto": "12. Si ningún candidato es investido en dos meses, ¿quién refrenda el decreto de disolución de las Cámaras que firma el Rey?",
+      "opciones": [
+        "A) El Presidente del Gobierno en funciones.",
+        "B) El Presidente del Congreso.",
+        "C) El Presidente del Senado.",
+        "D) El Ministro del Interior."
+      ],
+      "respuesta": "B) El Presidente del Congreso.",
+      "referencia": "Tit4, Art99, pág.99",
+      "explicacion": "Responsabilidad del Presidente de la Cámara ante el bloqueo. Texto: '5. ...el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.'"
+    },
+    {
+      "texto": "13. ¿A propuesta de quién nombra el Rey a los Ministros del Gobierno?",
+      "opciones": [
+        "A) Del Congreso de los Diputados.",
+        "B) Del Presidente del Gobierno.",
+        "C) De los partidos políticos de la coalición.",
+        "D) Del Consejo de Estado."
+      ],
+      "respuesta": "B) Del Presidente del Gobierno.",
+      "referencia": "Tit4, Art100, pág.100",
+      "explicacion": "El Presidente elige a su equipo. Texto: 'Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.'"
+    },
+    {
+      "texto": "14. ¿En qué caso cesa el Gobierno de forma automática según la Constitución?",
+      "opciones": [
+        "A) Tras la aprobación de los Presupuestos.",
+        "B) Tras la celebración de elecciones generales.",
+        "C) Por la dimisión de un Vicepresidente.",
+        "D) Por la imputación judicial de un Ministro."
+      ],
+      "respuesta": "B) Tras la celebración de elecciones generales.",
+      "referencia": "Tit4, Art101, pág.100",
+      "explicacion": "El fin de la legislatura implica el cese del Gobierno. Texto: '1. El Gobierno cesa tras la celebración de elecciones generales...'"
+    },
+    {
+      "texto": "15. ¿Qué significa que el Gobierno cesante continúe 'en funciones'?",
+      "opciones": [
+        "A) Que tiene plenos poderes legislativos por urgencia.",
+        "B) Que gestiona los asuntos ordinarios hasta que el nuevo Gobierno tome posesión.",
+        "C) Que puede disolver las cámaras si no hay acuerdo.",
+        "D) Que sus miembros son inamovibles penalmente."
+      ],
+      "respuesta": "B) Que gestiona los asuntos ordinarios hasta que el nuevo Gobierno tome posesión.",
+      "referencia": "Tit4, Art101, pág.100",
+      "explicacion": "Mantiene la gestión administrativa básica. Texto: '2. El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno.'"
+    },
+    {
+      "texto": "16. ¿Ante qué órgano se juzga la responsabilidad criminal de los miembros del Gobierno?",
+      "opciones": [
+        "A) Ante la Audiencia Nacional.",
+        "B) Ante la Sala de lo Penal del Tribunal Supremo.",
+        "C) Ante el Tribunal Constitucional.",
+        "D) Ante un jurado popular en Madrid."
+      ],
+      "respuesta": "B) Ante la Sala de lo Penal del Tribunal Supremo.",
+      "referencia": "Tit4, Art102, pág.100",
+      "explicacion": "Es el fuero penal especial del ejecutivo. Texto: '1. La responsabilidad criminal... será exigible... ante la Sala de lo Penal del Tribunal Supremo.'"
+    },
+    {
+      "texto": "17. ¿Qué requisito se exige para plantear una acusación de traición contra el Presidente del Gobierno?",
+      "opciones": [
+        "A) Iniciativa de la mayoría absoluta del Congreso.",
+        "B) Iniciativa de la cuarta parte de los miembros del Congreso y aprobación de la mayoría absoluta.",
+        "C) Denuncia previa de la Fiscalía General del Estado.",
+        "D) Petición unánime del Senado."
+      ],
+      "respuesta": "B) Iniciativa de la cuarta parte de los miembros del Congreso y aprobación de la mayoría absoluta.",
+      "referencia": "Tit4, Art102, pág.101",
+      "explicacion": "Procedimiento reforzado para delitos graves. Texto: '2. Si la acusación fuere por traición... sólo podrá ser planteada por iniciativa de la cuarta parte... y con la aprobación de la mayoría absoluta...'"
+    },
+    {
+      "texto": "18. ¿Se aplica la prerrogativa de gracia (indulto) en casos de responsabilidad criminal de los miembros del Gobierno?",
+      "opciones": [
+        "A) Sí, si el Rey lo decide libremente.",
+        "B) No será aplicable a ninguno de estos supuestos.",
+        "C) Solo en delitos que no sean de traición.",
+        "D) Solo si lo autoriza el Congreso por dos tercios."
+      ],
+      "respuesta": "B) No será aplicable a ninguno de estos supuestos.",
+      "referencia": "Tit4, Art102, pág.101",
+      "explicacion": "Se prohíbe el indulto en delitos de responsabilidad gubernamental. Texto: '3. La prerrogativa real de gracia no será aplicable a ninguno de los supuestos del presente artículo.'"
+    },
+    {
+      "texto": "19. ¿Cuál es el fin último con el que sirve la Administración Pública a los ciudadanos?",
+      "opciones": [
+        "A) Los intereses de los partidos políticos.",
+        "B) Los intereses generales con objetividad.",
+        "C) La ejecución del presupuesto anual.",
+        "D) El mantenimiento del orden público estatal."
+      ],
+      "respuesta": "B) Los intereses generales con objetividad.",
+      "referencia": "Tit4, Art103, pág.101",
+      "explicacion": "Define el principio de servicio de la Administración. Texto: '1. La Administración Pública sirve con objetividad los intereses generales...'"
+    },
+    {
+      "texto": "20. ¿Bajo qué principios debe actuar la Administración Pública para ser eficiente?",
+      "opciones": [
+        "A) Concentración y jerarquía absoluta.",
+        "B) Eficacia, descentralización, desconcentración y coordinación.",
+        "C) Autonomía presupuestaria y secretismo.",
+        "D) Centralización y mando único del Ministro."
+      ],
+      "respuesta": "B) Eficacia, descentralización, desconcentración y coordinación.",
+      "referencia": "Tit4, Art103, pág.101",
+      "explicacion": "Principios organizativos de la Administración. Texto: '1. ...y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación...'"
+    },
+    {
+      "texto": "21. ¿Qué vinculación tiene la Administración Pública con la ley?",
+      "opciones": [
+        "A) Vinculación negativa: puede hacer todo lo que no esté prohibido.",
+        "B) Sometimiento pleno a la ley y al Derecho.",
+        "C) Autonomía absoluta en la creación de reglamentos.",
+        "D) Solo se somete a la ley en materia sancionadora."
+      ],
+      "respuesta": "B) Sometimiento pleno a la ley y al Derecho.",
+      "referencia": "Tit4, Art103, pág.101",
+      "explicacion": "Es el principio de legalidad administrativa. Texto: '1. ...con sometimiento pleno a la ley y al Derecho.'"
+    },
+    {
+      "texto": "22. ¿Bajo qué criterios debe regirse el acceso a la función pública?",
+      "opciones": [
+        "A) Libre designación del Gobierno.",
+        "B) Principios de mérito y capacidad.",
+        "C) Antigüedad en el servicio y residencia.",
+        "D) Criterios de paridad política."
+      ],
+      "respuesta": "B) Principios de mérito y capacidad.",
+      "referencia": "Tit4, Art103, pág.102",
+      "explicacion": "Garantía de profesionalidad en el empleo público. Texto: '3. ...el acceso a la función pública de acuerdo con los principios de mérito y capacidad...'"
+    },
+    {
+      "texto": "23. ¿De quién dependen las Fuerzas y Cuerpos de seguridad para cumplir su misión?",
+      "opciones": [
+        "A) Del Rey directamente.",
+        "B) Del Gobierno.",
+        "C) De las Cortes Generales.",
+        "D) De los Jueces y Tribunales."
+      ],
+      "respuesta": "B) Del Gobierno.",
+      "referencia": "Tit4, Art104, pág.102",
+      "explicacion": "El ejecutivo dirige el aparato de seguridad interna. Texto: '1. Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno...'"
+    },
+    {
+      "texto": "24. ¿Cuál es la misión fundamental de las Fuerzas y Cuerpos de seguridad?",
+      "opciones": [
+        "A) La defensa exterior del territorio.",
+        "B) Proteger el libre ejercicio de derechos y libertades y garantizar la seguridad ciudadana.",
+        "C) Investigar delitos de corrupción política.",
+        "D) Vigilar el cumplimiento de las leyes tributarias."
+      ],
+      "respuesta": "B) Proteger el libre ejercicio de derechos y libertades y garantizar la seguridad ciudadana.",
+      "referencia": "Tit4, Art104, pág.103",
+      "explicacion": "Función primordial de seguridad ciudadana. Texto: '1. ...tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.'"
+    },
+    {
+      "texto": "25. ¿Qué debe garantizar la ley respecto al acceso de los ciudadanos a los archivos administrativos?",
+      "opciones": [
+        "A) El acceso total y sin restricciones.",
+        "B) El acceso salvo en lo que afecte a la seguridad y defensa del Estado e intimidad de las personas.",
+        "C) Solo el acceso a los datos de carácter económico.",
+        "D) El acceso mediante el pago de una tasa administrativa."
+      ],
+      "respuesta": "B) El acceso salvo en lo que afecte a la seguridad y defensa del Estado e intimidad de las personas.",
+      "referencia": "Tit4, Art105, pág.104",
+      "explicacion": "Transparencia con límites de seguridad y privacidad. Texto: 'b) El acceso de los ciudadanos a los archivos... salvo en lo que afecte a la seguridad y defensa del Estado...'"
+    },
+    {
+      "texto": "26. ¿Quién controla la legalidad de la actuación administrativa y los reglamentos?",
+      "opciones": [
+        "A) El Defensor del Pueblo.",
+        "B) Los Tribunales.",
+        "C) El Consejo de Estado.",
+        "D) El Congreso de los Diputados."
+      ],
+      "respuesta": "B) Los Tribunales.",
+      "referencia": "Tit4, Art106, pág.104",
+      "explicacion": "Control judicial de la Administración. Texto: '1. Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa...'"
+    },
+    {
+      "texto": "27. ¿En qué caso tienen derecho los particulares a ser indemnizados por la Administración?",
+      "opciones": [
+        "A) Por cualquier decisión política que les perjudique.",
+        "B) Por toda lesión que sufran consecuencia del funcionamiento de los servicios públicos.",
+        "C) Solo en casos de dolo o negligencia grave de un funcionario.",
+        "D) Por daños causados por fenómenos meteorológicos ordinarios."
+      ],
+      "respuesta": "B) Por toda lesión que sufran consecuencia del funcionamiento de los servicios públicos.",
+      "referencia": "Tit4, Art106, pág.105",
+      "explicacion": "Responsabilidad patrimonial del Estado. Texto: '2. Los particulares... tendrán derecho a ser indemnizados... siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.'"
+    },
+    {
+      "texto": "28. ¿Qué circunstancia exime a la Administración de indemnizar a un particular?",
+      "opciones": [
+        "A) La falta de presupuesto.",
+        "B) Los casos de fuerza mayor.",
+        "C) Que el daño sea menor de 6.000 euros.",
+        "D) El error administrativo involuntario."
+      ],
+      "respuesta": "B) Los casos de fuerza mayor.",
+      "referencia": "Tit4, Art106, pág.105",
+      "explicacion": "Límite a la responsabilidad pública. Texto: '2. ...salvo en los casos de fuerza mayor...'"
+    },
+    {
+      "texto": "29. ¿Qué institución se define como el supremo órgano consultivo del Gobierno?",
+      "opciones": [
+        "A) El Tribunal de Cuentas.",
+        "B) El Consejo de Estado.",
+        "C) El Consejo Económico y Social.",
+        "D) La Fiscalía General del Estado."
+      ],
+      "respuesta": "B) El Consejo de Estado.",
+      "referencia": "Tit4, Art107, pág.105",
+      "explicacion": "Carácter institucional del Consejo de Estado. Texto: 'El Consejo de Estado es el supremo órgano consultivo del Gobierno.'"
+    },
+    {
+      "texto": "30. ¿Ante quién responde el Gobierno de su gestión política de forma solidaria?",
+      "opciones": [
+        "A) Ante el Rey.",
+        "B) Ante el Congreso de los Diputados.",
+        "C) Ante el Senado.",
+        "D) Ante las Cortes Generales en sesión conjunta."
+      ],
+      "respuesta": "B) Ante el Congreso de los Diputados.",
+      "referencia": "Tit5, Art108, pág.105",
+      "explicacion": "Responsabilidad política colectiva. Texto: 'El Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados.'"
+    },
+    {
+      "texto": "31. ¿Qué facultad tienen las Cámaras para obtener información del Gobierno?",
+      "opciones": [
+        "A) Deben solicitarla mediante ley orgánica.",
+        "B) Pueden recabar la información y ayuda que precisen.",
+        "C) Solo pueden pedir información si hay mayoría absoluta.",
+        "D) Solo pueden pedirla a través de los Jueces."
+      ],
+      "respuesta": "B) Pueden recabar la información y ayuda que precisen.",
+      "referencia": "Tit5, Art109, pág.106",
+      "explicacion": "Derecho de información de las cámaras. Texto: 'Las Cámaras y sus Comisiones podrán recabar... la información y ayuda que precisen del Gobierno...'"
+    },
+    {
+      "texto": "32. ¿Tienen los miembros del Gobierno derecho a asistir a las comisiones parlamentarias?",
+      "opciones": [
+        "A) Solo si son expresamente invitados.",
+        "B) Tienen acceso a las sesiones y la facultad de hacerse oír.",
+        "C) Solo pueden asistir a las sesiones plenarias.",
+        "D) Solo pueden asistir si son diputados o senadores."
+      ],
+      "respuesta": "B) Tienen acceso a las sesiones y la facultad de hacerse oír.",
+      "referencia": "Tit5, Art110, pág.106",
+      "explicacion": "Presencia del Gobierno en el legislativo. Texto: '2. Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y a sus Comisiones y la facultad de hacerse oír en ellas...'"
+    },
+    {
+      "texto": "33. ¿Qué instrumentos de control ordinario prevén los Reglamentos de las Cámaras semanalmente?",
+      "opciones": [
+        "A) Mociones de censura preventivas.",
+        "B) Interpelaciones y preguntas.",
+        "C) Auditorías presupuestarias.",
+        "D) Juicios de residencia políticos."
+      ],
+      "respuesta": "B) Interpelaciones y preguntas.",
+      "referencia": "Tit5, Art111, pág.107",
+      "explicacion": "Control parlamentario cotidiano. Texto: '1. El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas...'"
+    },
+    {
+      "texto": "34. ¿A qué puede dar lugar una interpelación parlamentaria?",
+      "opciones": [
+        "A) A la dimisión forzosa del Ministro.",
+        "B) A una moción en la que la Cámara manifieste su posición.",
+        "C) Al inicio de un proceso penal.",
+        "D) A la suspensión de la ley afectada."
+      ],
+      "respuesta": "B) A una moción en la que la Cámara manifieste su posición.",
+      "referencia": "Tit5, Art111, pág.107",
+      "explicacion": "Efecto político de las interpelaciones. Texto: '2. Toda interpelación podrá dar lugar a una moción en la que la Cámara manifieste su posición.'"
+    },
+    {
+      "texto": "35. ¿Quién tiene la iniciativa para plantear la cuestión de confianza?",
+      "opciones": [
+        "A) El Congreso de los Diputados.",
+        "B) El Presidente del Gobierno.",
+        "C) El Rey.",
+        "D) Los grupos de la oposición."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit5, Art112, pág.107",
+      "explicacion": "Es una potestad del Jefe del Ejecutivo. Texto: 'El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear... la cuestión de confianza...'"
+    },
+    {
+      "texto": "36. ¿Sobre qué materias se puede plantear una cuestión de confianza?",
+      "opciones": [
+        "A) Sobre un proyecto de ley concreto.",
+        "B) Sobre su programa o sobre una declaración de política general.",
+        "C) Sobre la idoneidad de un Ministro.",
+        "D) Sobre la reforma de la Constitución."
+      ],
+      "respuesta": "B) Sobre su programa o sobre una declaración de política general.",
+      "referencia": "Tit5, Art112, pág.107",
+      "explicacion": "Objeto de la confianza. Texto: '...la cuestión de confianza sobre su programa o sobre una declaración de política general.'"
+    },
+    {
+      "texto": "37. ¿Qué mayoría se requiere para que la confianza se considere otorgada al Gobierno?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Mayoría simple.",
+        "C) Dos tercios.",
+        "D) Mayoría absoluta de votos favorables excluyendo abstenciones."
+      ],
+      "respuesta": "B) Mayoría simple.",
+      "referencia": "Tit5, Art112, pág.107",
+      "explicacion": "Requisito de votos en cuestión de confianza. Texto: 'La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.'"
+    },
+    {
+      "texto": "38. ¿Qué instrumento permite al Congreso retirar la confianza al Gobierno de forma proactiva?",
+      "opciones": [
+        "A) La cuestión de confianza.",
+        "B) La moción de censura.",
+        "C) El recurso de inconstitucionalidad.",
+        "D) La interpelación con moción."
+      ],
+      "respuesta": "B) La moción de censura.",
+      "referencia": "Tit5, Art113, pág.108",
+      "explicacion": "Exigencia de responsabilidad política. Texto: '1. El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción... de la moción de censura.'"
+    },
+    {
+      "texto": "39. ¿Qué mayoría es indispensable para que prospere una moción de censura?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta del Congreso de los Diputados.",
+        "C) Tres quintos de los diputados presentes.",
+        "D) Mayoría absoluta de ambas Cámaras."
+      ],
+      "respuesta": "B) Mayoría absoluta del Congreso de los Diputados.",
+      "referencia": "Tit5, Art113, pág.108",
+      "explicacion": "Respaldo necesario para derribar al Gobierno. Texto: '1. ...mediante la adopción por mayoría absoluta de la moción de censura.'"
+    },
+    {
+      "texto": "40. ¿Qué proporción mínima de diputados debe proponer una moción de censura?",
+      "opciones": [
+        "A) La cuarta parte.",
+        "B) La décima parte.",
+        "C) La mitad de la Cámara.",
+        "D) Tres grupos parlamentarios."
+      ],
+      "respuesta": "B) La décima parte.",
+      "referencia": "Tit5, Art113, pág.108",
+      "explicacion": "Requisito de firmas para proponer censura. Texto: '2. La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados...'"
+    },
+    {
+      "texto": "41. ¿Qué característica 'constructiva' tiene la moción de censura en España?",
+      "opciones": [
+        "A) Debe incluir una propuesta de elecciones inmediatas.",
+        "B) Debe incluir un candidato a la Presidencia del Gobierno.",
+        "C) Debe ir acompañada de un nuevo presupuesto.",
+        "D) Debe ser aprobada previamente por el Rey."
+      ],
+      "respuesta": "B) Debe incluir un candidato a la Presidencia del Gobierno.",
+      "referencia": "Tit5, Art113, pág.108",
+      "explicacion": "La censura implica la sustitución inmediata. Texto: '2. ...y habrá de incluir un candidato a la Presidencia del Gobierno.'"
+    },
+    {
+      "texto": "42. ¿Cuánto tiempo debe transcurrir como mínimo entre la presentación y la votación de una moción de censura?",
+      "opciones": [
+        "A) Cuarenta y ocho horas.",
+        "B) Cinco días.",
+        "C) Diez días.",
+        "D) Un mes de sesiones."
+      ],
+      "respuesta": "B) Cinco días.",
+      "referencia": "Tit5, Art113, pág.108",
+      "explicacion": "Periodo de reflexión y negociación. Texto: '3. La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación.'"
+    },
+    {
+      "texto": "43. Durante el plazo de espera de una moción de censura, ¿qué pueden hacer otros grupos?",
+      "opciones": [
+        "A) Retirar la confianza al candidato.",
+        "B) Presentar mociones alternativas en los dos primeros días.",
+        "C) Disolver el Congreso por urgencia.",
+        "D) Solicitar el arbitraje del Rey."
+      ],
+      "respuesta": "B) Presentar mociones alternativas en los dos primeros días.",
+      "referencia": "Tit5, Art113, pág.108",
+      "explicacion": "Posibilidad de otras candidaturas. Texto: '3. ...En los dos primeros días de dicho plazo podrán presentarse mociones alternativas.'"
+    },
+    {
+      "texto": "44. ¿Qué restricción tienen los firmantes de una moción de censura que no sea aprobada?",
+      "opciones": [
+        "A) Deben pagar los gastos del debate.",
+        "B) No podrán presentar otra durante el mismo período de sesiones.",
+        "C) Pierden su condición de diputados.",
+        "D) No pueden participar en comisiones durante un mes."
+      ],
+      "respuesta": "B) No podrán presentar otra durante el mismo período de sesiones.",
+      "referencia": "Tit5, Art113, pág.109",
+      "explicacion": "Evita el uso abusivo del mecanismo. Texto: '4. Si la moción de censura no fuere aprobada... sus signatarios no podrán presentar otra durante el mismo período de sesiones.'"
+    },
+    {
+      "texto": "45. ¿Qué debe hacer el Gobierno si el Congreso le niega la confianza?",
+      "opciones": [
+        "A) Convocar elecciones generales.",
+        "B) Presentará su dimisión al Rey.",
+        "C) Cesar a los Ministros criticados.",
+        "D) Solicitar una segunda oportunidad en 15 días."
+      ],
+      "respuesta": "B) Presentará su dimisión al Rey.",
+      "referencia": "Tit5, Art114, pág.109",
+      "explicacion": "Consecuencia de la pérdida de confianza. Texto: '1. Si el Congreso niega su confianza al Gobierno, éste presentará su dimisión al Rey...'"
+    },
+    {
+      "texto": "46. ¿Qué ocurre con el candidato de una moción de censura aprobada?",
+      "opciones": [
+        "A) Se somete a una sesión de investidura ordinaria.",
+        "B) Se entiende investido de la confianza de la Cámara y el Rey le nombrará Presidente.",
+        "C) Actúa como Presidente interino hasta las elecciones.",
+        "D) Debe ser ratificado por mayoría absoluta del Senado."
+      ],
+      "respuesta": "B) Se entiende investido de la confianza de la Cámara y el Rey le nombrará Presidente.",
+      "referencia": "Tit5, Art114, pág.109",
+      "explicacion": "Efecto inmediato de la censura exitosa. Texto: '2. ...el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara... El Rey le nombrará Presidente...'"
+    },
+    {
+      "texto": "47. ¿Bajo qué responsabilidad propone el Presidente del Gobierno la disolución de las Cortes?",
+      "opciones": [
+        "A) Bajo responsabilidad compartida con los Ministros.",
+        "B) Bajo su exclusiva responsabilidad.",
+        "C) Bajo responsabilidad del Presidente del Congreso.",
+        "D) Bajo responsabilidad directa de la Corona."
+      ],
+      "respuesta": "B) Bajo su exclusiva responsabilidad.",
+      "referencia": "Tit5, Art115, pág.110",
+      "explicacion": "Es una facultad personalísima del Presidente. Texto: '1. El Presidente... previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución...'"
+    },
+    {
+      "texto": "48. ¿Qué requisito formal debe cumplir el Presidente antes de proponer la disolución de las Cámaras?",
+      "opciones": [
+        "A) Obtener la aprobación del Senado.",
+        "B) Previa deliberación del Consejo de Ministros.",
+        "C) Solicitar permiso al Rey por escrito.",
+        "D) Obtener el visto bueno del Tribunal Supremo."
+      ],
+      "respuesta": "B) Previa deliberación del Consejo de Ministros.",
+      "referencia": "Tit5, Art115, pág.110",
+      "explicacion": "Obligación de debate interno en el Gobierno. Texto: '1. ...previa deliberación del Consejo de Ministros... podrá proponer la disolución...'"
+    },
+    {
+      "texto": "49. ¿En qué momento está prohibido presentar una propuesta de disolución de las Cortes?",
+      "opciones": [
+        "A) Durante el mes de agosto.",
+        "B) Cuando esté en trámite una moción de censura.",
+        "C) Si hay déficit presupuestario.",
+        "D) Durante un viaje oficial del Rey."
+      ],
+      "豆respuesta": "B) Cuando esté en trámite una moción de censura.",
+      "referencia": "Tit5, Art115, pág.110",
+      "explicacion": "Prevalencia de la censura sobre la disolución. Texto: '2. La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura.'"
+    },
+    {
+      "texto": "50. ¿Cuál es el límite temporal general para realizar una nueva disolución de las Cámaras?",
+      "opciones": [
+        "A) Seis meses.",
+        "B) Un año.",
+        "C) Dos años.",
+        "D) No hay límite si hay crisis de gobierno."
+      ],
+      "respuesta": "B) Un año.",
+      "referencia": "Tit5, Art115, pág.110",
+      "explicacion": "Evita la inestabilidad por elecciones constantes. Texto: '3. No procederá nueva disolución antes de que transcurra un año desde la anterior...'"
+    },
+    {
+      "texto": "51. ¿Qué tipo de ley debe regular los estados de alarma, excepción y sitio?",
+      "opciones": [
+        "A) Ley ordinaria.",
+        "B) Ley orgánica.",
+        "C) Decreto-ley de urgencia.",
+        "D) Ley de bases."
+      ],
+      "respuesta": "B) Ley orgánica.",
+      "referencia": "Tit5, Art116, pág.111",
+      "explicacion": "Reserva de ley cualificada por afectar a derechos. Texto: '1. Una ley orgánica regulará los estados de alarma, de excepción y de sitio...'"
+    },
+    {
+      "texto": "52. ¿Quién declara el estado de alarma y por qué plazo máximo inicial?",
+      "opciones": [
+        "A) El Congreso por 30 días.",
+        "B) El Gobierno por 15 días.",
+        "C) El Rey por tiempo indefinido.",
+        "D) El Ministro del Interior por 10 días."
+      ],
+      "respuesta": "B) El Gobierno por 15 días.",
+      "referencia": "Tit5, Art116, pág.111",
+      "explicacion": "Competencia inicial de la alarma. Texto: '2. El estado de alarma será declarado por el Gobierno... por un plazo máximo de quince días...'"
+    },
+    {
+      "texto": "53. ¿Qué se requiere para prorrogar el estado de alarma?",
+      "opciones": [
+        "A) Nuevo decreto del Gobierno.",
+        "B) Autorización del Congreso de los Diputados.",
+        "C) Acuerdo del Consejo de Estado.",
+        "D) Visto bueno del Senado."
+      ],
+      "respuesta": "B) Autorización del Congreso de los Diputados.",
+      "referencia": "Tit5, Art116, pág.111",
+      "explicacion": "Control parlamentario de la prórroga. Texto: '2. ...dando cuenta al Congreso... sin cuya autorización no podrá ser prorrogado dicho plazo.'"
+    },
+    {
+      "texto": "54. ¿Cómo se declara el estado de excepción?",
+      "opciones": [
+        "A) Por el Gobierno libremente.",
+        "B) Por el Gobierno previa autorización del Congreso.",
+        "C) Por el Congreso por mayoría absoluta.",
+        "D) Por el Rey a propuesta del Presidente."
+      ],
+      "respuesta": "B) Por el Gobierno previa autorización del Congreso.",
+      "referencia": "Tit5, Art116, pág.112",
+      "explicacion": "Procedimiento de la excepción. Texto: '3. El estado de excepción será declarado por el Gobierno... previa autorización del Congreso de los Diputados.'"
+    },
+    {
+      "texto": "55. ¿Cuál es la duración máxima del estado de excepción y sus prórrogas?",
+      "opciones": [
+        "A) 15 días prorrogables por otros 15.",
+        "B) 30 días prorrogables por otro plazo igual.",
+        "C) 60 días improrrogables.",
+        "D) El tiempo que dure la perturbación del orden."
+      ],
+      "respuesta": "B) 30 días prorrogables por otro plazo igual.",
+      "referencia": "Tit5, Art116, pág.112",
+      "explicacion": "Temporalidad de la excepción. Texto: '3. ...no podrá exceder de treinta días, prorrogables por otro plazo igual...'"
+    },
+    {
+      "texto": "56. ¿Quién declara el estado de sitio y por qué mayoría?",
+      "opciones": [
+        "A) El Gobierno por mayoría absoluta.",
+        "B) El Congreso de los Diputados por mayoría absoluta.",
+        "C) Las Cortes Generales por dos tercios.",
+        "D) El Rey con autorización del Congreso."
+      ],
+      "respuesta": "B) El Congreso de los Diputados por mayoría absoluta.",
+      "referencia": "Tit5, Art116, pág.112",
+      "explicacion": "Declaración del estado de máxima gravedad. Texto: '4. El estado de sitio será declarado por la mayoría absoluta del Congreso de los Diputados...'"
+    },
+    {
+      "texto": "57. ¿A quién corresponde exclusivamente la propuesta para declarar el estado de sitio?",
+      "opciones": [
+        "A) A los grupos parlamentarios.",
+        "B) Al Gobierno.",
+        "C) Al Rey.",
+        "D) Al Estado Mayor de la Defensa."
+      ],
+      "respuesta": "B) Al Gobierno.",
+      "referencia": "Tit5, Art116, pág.112",
+      "explicacion": "Iniciativa del sitio. Texto: '4. ...a propuesta exclusiva del Gobierno.'"
+    },
+    {
+      "texto": "58. ¿Puede disolverse el Congreso mientras estén declarados estados de crisis?",
+      "opciones": [
+        "A) Sí, si las elecciones son urgentes.",
+        "B) No podrá procederse a la disolución.",
+        "C) Solo si lo autoriza el Tribunal Supremo.",
+        "D) Solo en el estado de alarma."
+      ],
+      "respuesta": "B) No podrá procederse a la disolución.",
+      "referencia": "Tit5, Art116, pág.113",
+      "explicacion": "Garantía de permanencia parlamentaria. Texto: '5. No podrá procederse a la disolución del Congreso mientras estén declarados algunos de los estados...'"
+    },
+    {
+      "texto": "59. ¿Qué sucede con las Cámaras si no están en período de sesiones al declararse una crisis?",
+      "opciones": [
+        "A) Se reúnen en el siguiente periodo ordinario.",
+        "B) Quedan automáticamente convocadas.",
+        "C) Sus funciones pasan al Gobierno.",
+        "D) Solo se convoca a la Mesa de las Cámaras."
+      ],
+      "respuesta": "B) Quedan automáticamente convocadas.",
+      "referencia": "Tit5, Art116, pág.113",
+      "explicacion": "Obligación de reunión inmediata. Texto: '5. ...quedando automáticamente convocadas las Cámaras si no estuvieren en período de sesiones.'"
+    },
+    {
+      "texto": "60. ¿Quién asume las competencias del Congreso si este ha sido disuelto al declararse un estado de crisis?",
+      "opciones": [
+        "A) El Senado.",
+        "B) Su Diputación Permanente.",
+        "C) El Tribunal Constitucional.",
+        "D) Una comisión de sabios nombrada por el Rey."
+      ],
+      "respuesta": "B) Su Diputación Permanente.",
+      "referencia": "Tit5, Art116, pág.113",
+      "explicacion": "Continuidad del control parlamentario. Texto: '5. ...las competencias del Congreso serán asumidas por su Diputación Permanente.'"
+    },
+    {
+      "texto": "61. ¿Se altera el principio de responsabilidad del Gobierno durante los estados de alarma, excepción o sitio?",
+      "opciones": [
+        "A) Sí, el Gobierno tiene inmunidad total.",
+        "B) No modificarán el principio de responsabilidad del Gobierno.",
+        "C) Solo en el estado de sitio se suspende la responsabilidad.",
+        "D) La responsabilidad pasa a ser exclusivamente penal."
+      ],
+      "respuesta": "B) No modificarán el principio de responsabilidad del Gobierno.",
+      "referencia": "Tit5, Art116, pág.114",
+      "explicacion": "Mantenimiento del control legal en crisis. Texto: '6. La declaración... no modificarán el principio de responsabilidad del Gobierno y de sus agentes...'"
+    },
+    {
+      "texto": "62. ¿En qué consiste la función ejecutiva del Gobierno?",
+      "opciones": [
+        "A) En redactar las leyes del Estado.",
+        "B) En aplicar las leyes y gestionar los servicios públicos.",
+        "C) En juzgar los incumplimientos de los ciudadanos.",
+        "D) En representar al Rey en el extranjero."
+      ],
+      "respuesta": "B) En aplicar las leyes y gestionar los servicios públicos.",
+      "referencia": "Tit4, Art97, pág.96",
+      "explicacion": "Comprensión del poder ejecutivo. El artículo 97 establece que el Gobierno 'ejerce la función ejecutiva'."
+    },
+    {
+      "texto": "63. ¿Qué órgano se encarga de nombrar a los miembros civiles y militares de la Casa del Rey?",
+      "opciones": [
+        "A) El Presidente del Gobierno.",
+        "B) El Rey libremente.",
+        "C) El Ministro de Defensa.",
+        "D) El Ministro de la Presidencia."
+      ],
+      "respuesta": "B) El Rey libremente.",
+      "referencia": "Tit2, Art65, pág.65",
+      "explicacion": "Autonomía de la Casa Real. Texto: '2. El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.'"
+    },
+    {
+      "texto": "64. ¿Cómo se coordinan la Administración del Estado y la de las Comunidades Autónomas?",
+      "opciones": [
+        "A) Mediante órdenes del Presidente del Gobierno.",
+        "B) A través de un Delegado nombrado por el Gobierno en cada Comunidad.",
+        "C) Mediante leyes del Senado exclusivamente.",
+        "D) No existe coordinación obligatoria."
+      ],
+      "respuesta": "B) A través de un Delegado nombrado por el Gobierno en cada Comunidad.",
+      "referencia": "Tit8, Cap3, Art154, pág.168",
+      "explicacion": "Figura del Delegado del Gobierno. Texto: 'Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado... y la coordinará... con la administración propia de la Comunidad.'"
+    },
+    {
+      "texto": "65. ¿Qué principio rige la organización jerárquica de la Administración Pública?",
+      "opciones": [
+        "A) Cada órgano es independiente en su gestión.",
+        "B) Los órganos inferiores están subordinados a los superiores.",
+        "C) Solo existe jerarquía en la Administración militar.",
+        "D) La jerarquía se decide por votación de los funcionarios."
+      ],
+      "respuesta": "B) Los órganos inferiores están subordinados a los superiores.",
+      "referencia": "Tit4, Art103, pág.101",
+      "explicacion": "Principio de jerarquía. El artículo 103 cita que la Administración 'actúa de acuerdo con los principios de... jerarquía'."
+    },
+    {
+      "texto": "66. ¿Cuál es el requisito para que el Gobierno pueda dictar Decretos Legislativos?",
+      "opciones": [
+        "A) Una situación de extraordinaria necesidad.",
+        "B) Una delegación expresa de las Cortes Generales.",
+        "C) Un informe favorable del Tribunal Supremo.",
+        "D) El voto unánime del Consejo de Ministros."
+      ],
+      "respuesta": "B) Una delegación expresa de las Cortes Generales.",
+      "referencia": "Tit3, Cap2, Art82, pág.82",
+      "explicacion": "Base de la legislación delegada. Texto: '1. Las Cortes Generales podrán delegar en el Gobierno la potestad de dictar normas con rango de ley...'"
+    },
+    {
+      "texto": "67. ¿Qué materia está expresamente prohibida para ser regulada mediante Decreto-ley?",
+      "opciones": [
+        "A) El régimen de la Seguridad Social.",
+        "B) El ordenamiento de las instituciones básicas del Estado.",
+        "C) Las obras públicas de urgencia.",
+        "D) Los precios de la energía."
+      ],
+      "respuesta": "B) El ordenamiento de las instituciones básicas del Estado.",
+      "referencia": "Tit3, Cap2, Art86, pág.86",
+      "explicacion": "Límites al Decreto-ley. Texto: '1. ...no podrán afectar al ordenamiento de las instituciones básicas del Estado...'"
+    },
+    {
+      "texto": "68. ¿En qué plazo debe el Congreso convalidar un Decreto-ley?",
+      "opciones": [
+        "A) 15 días.",
+        "B) 30 días.",
+        "C) 60 días.",
+        "D) Durante el período de sesiones."
+      ],
+      "respuesta": "B) 30 días.",
+      "referencia": "Tit3, Cap2, Art86, pág.86",
+      "explicacion": "Plazo de convalidación. Texto: '2. Los Decretos-leyes deberán ser... sometidos a debate y votación... en el plazo de los treinta días siguientes a su promulgación.'"
+    },
+    {
+      "texto": "69. ¿Quién aprueba finalmente los Presupuestos Generales del Estado presentados por el Gobierno?",
+      "opciones": [
+        "A) El Ministro de Hacienda.",
+        "B) Las Cortes Generales.",
+        "C) El Tribunal de Cuentas.",
+        "D) El Banco de España."
+      ],
+      "respuesta": "B) Las Cortes Generales.",
+      "referencia": "Tit7, Art134, pág.128",
+      "explicacion": "Competencia presupuestaria. Texto: '1. Corresponde al Gobierno la elaboración de los Presupuestos... y a las Cortes Generales, su examen, enmienda y aprobación.'"
+    },
+    {
+      "texto": "70. ¿Qué sucede si el Gobierno no presenta los Presupuestos a tiempo?",
+      "opciones": [
+        "A) Se prorrogan automáticamente los del año anterior.",
+        "B) El Gobierno debe dimitir.",
+        "C) Se suspenden todos los pagos del Estado.",
+        "D) Las Cortes elaboran su propio presupuesto."
+      ],
+      "respuesta": "A) Se prorrogan automáticamente los del año anterior.",
+      "referencia": "Tit7, Art134, pág.129",
+      "explicacion": "Prórroga presupuestaria. Texto: '4. Si la Ley de Presupuestos no se aprobara... se considerarán automáticamente prorrogados los del ejercicio anterior...'"
+    },
+    {
+      "texto": "71. ¿Cuál es el papel del Rey en relación con las leyes aprobadas por las Cortes?",
+      "opciones": [
+        "A) Decidir si son convenientes para el país.",
+        "B) Sancionarlas, promulgarlas y ordenar su publicación.",
+        "C) Enmendarlas si detecta errores.",
+        "D) Vetarlas por motivos de interés nacional."
+      ],
+      "respuesta": "B) Sancionarlas, promulgarlas y ordenar su publicación.",
+      "referencia": "Tit3, Cap2, Art91, pág.91",
+      "explicacion": "Función formal del Rey sobre las leyes. Texto: 'El Rey sancionará en el plazo de quince días las leyes aprobadas... y las promulgará y ordenará su inmediata publicación.'"
+    },
+    {
+      "texto": "72. ¿Quién convoca el referéndum consultivo sobre decisiones de especial trascendencia?",
+      "opciones": [
+        "A) El Congreso de los Diputados.",
+        "B) El Rey.",
+        "C) El Tribunal Constitucional.",
+        "D) La Junta Electoral Central."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit3, Cap2, Art92, pág.91",
+      "explicacion": "Convocatoria de referéndum. Texto: '2. El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno...'"
+    },
+    {
+      "texto": "73. ¿Qué se requiere para que el Gobierno proponga un referéndum?",
+      "opciones": [
+        "A) Visto bueno del Senado.",
+        "B) Autorización previa del Congreso de los Diputados.",
+        "C) Mayoría de dos tercios de las Cortes.",
+        "D) Informe favorable del Consejo de Estado."
+      ],
+      "respuesta": "B) Autorización previa del Congreso de los Diputados.",
+      "referencia": "Tit3, Cap2, Art92, pág.92",
+      "explicacion": "Control parlamentario del referéndum. Texto: '2. ...mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados.'"
+    },
+    {
+      "texto": "74. ¿Qué mayoría se necesita para que el Congreso apruebe su Reglamento interno?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Tres quintos.",
+        "D) Dos tercios."
+      ],
+      "respuesta": "B) Mayoría absoluta.",
+      "referencia": "Tit3, Cap1, Art72, pág.73",
+      "explicacion": "Aprobación de reglamentos de cámara. Texto: '1. ...Los Reglamentos y su reforma... requerirá la mayoría absoluta.'"
+    },
+    {
+      "texto": "75. ¿Quién preside las sesiones conjuntas de las Cortes Generales?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Presidente del Congreso.",
+        "C) El Presidente del Senado.",
+        "D) El parlamentario de más edad."
+      ],
+      "respuesta": "B) El Presidente del Congreso.",
+      "referencia": "Tit3, Cap1, Art72, pág.74",
+      "explicacion": "Protocolo de sesiones conjuntas. Texto: '2. ...Las sesiones conjuntas serán presididas por el Presidente del Congreso...'"
+    },
+    {
+      "texto": "76. ¿Cuál es el primer período ordinario de sesiones de las Cámaras?",
+      "opciones": [
+        "A) De enero a mayo.",
+        "B) De septiembre a diciembre.",
+        "C) De octubre a enero.",
+        "D) De agosto a noviembre."
+      ],
+      "respuesta": "B) De septiembre a diciembre.",
+      "referencia": "Tit3, Cap1, Art73, pág.75",
+      "explicacion": "Calendario parlamentario. Texto: '1. Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones: el primero, de septiembre a diciembre...'"
+    },
+    {
+      "texto": "77. ¿Cuál es el segundo período ordinario de sesiones de las Cámaras?",
+      "opciones": [
+        "A) De febrero a junio.",
+        "B) De marzo a julio.",
+        "C) De enero a abril.",
+        "D) De mayo a agosto."
+      ],
+      "respuesta": "A) De febrero a junio.",
+      "referencia": "Tit3, Cap1, Art73, pág.75",
+      "explicacion": "Calendario parlamentario. Texto: '1. ...y el segundo, de febrero a junio.'"
+    },
+    {
+      "texto": "78. ¿Quién puede solicitar una sesión extraordinaria de las Cámaras?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Gobierno, la Diputación Permanente o la mayoría absoluta de los miembros.",
+        "C) El Presidente del Tribunal Supremo.",
+        "D) Cualquier grupo parlamentario con más de 50 diputados."
+      ],
+      "respuesta": "B) El Gobierno, la Diputación Permanente o la mayoría absoluta de los miembros.",
+      "referencia": "Tit3, Cap1, Art73, pág.75",
+      "explicacion": "Iniciativa de sesiones extraordinarias. Texto: '2. Las Cámaras podrán reunirse en sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta...'"
+    },
+    {
+      "texto": "79. ¿Qué materias están excluidas de las Comisiones Legislativas Permanentes?",
+      "opciones": [
+        "A) Agricultura y ganadería.",
+        "B) Reforma constitucional, cuestiones internacionales, leyes orgánicas y Presupuestos.",
+        "C) Educación y cultura.",
+        "D) Sanidad y consumo."
+      ],
+      "respuesta": "B) Reforma constitucional, cuestiones internacionales, leyes orgánicas y Presupuestos.",
+      "referencia": "Tit3, Cap1, Art75, pág.77",
+      "explicacion": "Materias reservadas al Pleno. Texto: '3. Quedan exceptuados... la reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos...'"
+    },
+    {
+      "texto": "80. ¿Es obligatorio comparecer a requerimiento de las Cámaras para informar?",
+      "opciones": [
+        "A) Solo para los miembros del Gobierno.",
+        "B) Será obligatorio comparecer a requerimiento de las Cámaras.",
+        "C) Es voluntario para los ciudadanos privados.",
+        "D) Solo si lo autoriza un juez."
+      ],
+      "respuesta": "B) Será obligatorio comparecer a requerimiento de las Cámaras.",
+      "referencia": "Tit3, Cap1, Art76, pág.78",
+      "explicacion": "Deber de colaboración con las Cortes. Texto: '2. Será obligatorio comparecer a requerimiento de las Cámaras.'"
+    },
+    {
+      "texto": "81. ¿Cómo deben presentarse las peticiones de los ciudadanos a las Cámaras?",
+      "opciones": [
+        "A) Mediante manifestación ante la puerta.",
+        "B) Siempre por escrito.",
+        "C) Por vía telefónica oficial.",
+        "D) A través de un notario obligatoriamente."
+      ],
+      "respuesta": "B) Siempre por escrito.",
+      "referencia": "Tit3, Cap1, Art77, pág.78",
+      "explicacion": "Forma del derecho de petición parlamentaria. Texto: '1. Las Cámaras pueden recibir peticiones individuales y colectivas, siempre por escrito...'"
+    },
+    {
+      "texto": "82. ¿Cuál es el número mínimo de miembros de una Diputación Permanente?",
+      "opciones": [
+        "A) 15 miembros.",
+        "B) 21 miembros.",
+        "C) 25 miembros.",
+        "D) 10 miembros."
+      ],
+      "respuesta": "B) 21 miembros.",
+      "referencia": "Tit3, Cap1, Art78, pág.79",
+      "explicacion": "Composición mínima de la Diputación. Texto: '1. En cada Cámara habrá una Diputación Permanente compuesta por un mínimo de veintiún miembros...'"
+    },
+    {
+      "texto": "83. ¿Qué mayoría se requiere para adoptar acuerdos válidos en las Cámaras?",
+      "opciones": [
+        "A) Mayoría de los presentes.",
+        "B) Mayoría absoluta en todo caso.",
+        "C) Unanimidad de los grupos.",
+        "D) Mayoría de los miembros que componen la Cámara."
+      ],
+      "respuesta": "A) Mayoría de los presentes.",
+      "referencia": "Tit3, Cap1, Art79, pág.80",
+      "explicacion": "Regla general de mayoría. Texto: '2. Dichos acuerdos, para ser válidos, deberán ser aprobados por la mayoría de los miembros presentes...'"
+    },
+    {
+      "texto": "84. ¿Qué tipo de leyes requieren mayoría absoluta del Congreso para su aprobación?",
+      "opciones": [
+        "A) Leyes ordinarias.",
+        "B) Leyes orgánicas.",
+        "C) Decretos Legislativos.",
+        "D) Reglamentos de ayuntamientos."
+      ],
+      "respuesta": "B) Leyes orgánicas.",
+      "referencia": "Tit3, Cap2, Art81, pág.82",
+      "explicacion": "Mayoría para leyes orgánicas. Texto: '2. La aprobación... de las leyes orgánicas exigirá mayoría absoluta del Congreso...'"
+    },
+    {
+      "texto": "85. ¿Quién puede solicitar al Gobierno que adopte un proyecto de ley?",
+      "opciones": [
+        "A) El Defensor del Pueblo.",
+        "B) Las Asambleas de las Comunidades Autónomas.",
+        "C) El Tribunal Supremo.",
+        "D) Los Colegios Profesionales."
+      ],
+      "respuesta": "B) Las Asambleas de las Comunidades Autónomas.",
+      "referencia": "Tit3, Cap2, Art87, pág.87",
+      "explicacion": "Iniciativa autonómica. Texto: '2. Las Asambleas de las Comunidades Autónomas podrán solicitar del Gobierno la adopción de un proyecto de ley...'"
+    },
+    {
+      "texto": "86. ¿Cuántas firmas se necesitan para una iniciativa legislativa popular?",
+      "opciones": [
+        "A) 100.000 firmas.",
+        "B) 500.000 firmas.",
+        "C) 1.000.000 de firmas.",
+        "D) 250.000 firmas."
+      ],
+      "respuesta": "B) 500.000 firmas.",
+      "referencia": "Tit3, Cap2, Art87, pág.88",
+      "explicacion": "Requisito de la ILP. Texto: '3. ...En todo caso se exigirán no menos de 500.000 firmas acreditadas.'"
+    },
+    {
+      "texto": "87. ¿En qué materias no cabe la iniciativa legislativa popular?",
+      "opciones": [
+        "A) Educación y cultura.",
+        "B) Materias propias de ley orgánica, tributarias o internacionales.",
+        "C) Agricultura y pesca.",
+        "D) Sanidad y medio ambiente."
+      ],
+      "respuesta": "B) Materias propias de ley orgánica, tributarias o internacionales.",
+      "referencia": "Tit3, Cap2, Art87, pág.88",
+      "explicacion": "Límites a la ILP. Texto: '3. ...No procederá dicha iniciativa en materias propias de ley orgánica, tributarias o de carácter internacional...'"
+    },
+    {
+      "texto": "88. ¿Qué debe acompañar a un proyecto de ley enviado por el Gobierno al Congreso?",
+      "opciones": [
+        "A) Un aval bancario.",
+        "B) Una exposición de motivos y antecedentes necesarios.",
+        "C) Una lista de posibles enmiendas.",
+        "D) Un vídeo explicativo del Ministro."
+      ],
+      "respuesta": "B) Una exposición de motivos y antecedentes necesarios.",
+      "referencia": "Tit3, Cap2, Art88, pág.88",
+      "explicacion": "Requisitos del envío de proyectos. Texto: 'Los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá al Congreso, acompañados de una exposición de motivos...'"
+    },
+    {
+      "texto": "89. ¿De qué plazo dispone el Senado para vetar un proyecto de ley urgente?",
+      "opciones": [
+        "A) 10 días.",
+        "B) 20 días naturales.",
+        "C) 30 días hábiles.",
+        "D) 15 días naturales."
+      ],
+      "respuesta": "B) 20 días naturales.",
+      "referencia": "Tit3, Cap2, Art90, pág.91",
+      "explicacion": "Plazo en leyes urgentes. Texto: '3. El plazo de dos meses de que el Senado dispone... se reducirá al de veinte días naturales en los proyectos declarados urgentes...'"
+    },
+    {
+      "texto": "90. ¿Qué mayoría necesita el Senado para oponer su veto a un proyecto de ley?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Dos tercios.",
+        "D) Tres quintos."
+      ],
+      "respuesta": "B) Mayoría absoluta.",
+      "referencia": "Tit3, Cap2, Art90, pág.90",
+      "explicacion": "Mayoría para el veto senatorial. Texto: '2. ...El veto deberá ser aprobado por mayoría absoluta.'"
+    },
+    {
+      "texto": "91. ¿Qué se requiere para que el Estado se obligue por tratados de carácter militar?",
+      "opciones": [
+        "A) Comunicación posterior al Congreso.",
+        "B) Previa autorización de las Cortes Generales.",
+        "C) Visto bueno del Rey únicamente.",
+        "D) Informe favorable del Consejo de Estado."
+      ],
+      "respuesta": "B) Previa autorización de las Cortes Generales.",
+      "referencia": "Tit3, Cap3, Art94, pág.93",
+      "explicacion": "Control de tratados militares. Texto: '1. La prestación del consentimiento... requerirá la previa autorización de las Cortes Generales, en los siguientes casos: ... b) Tratados o convenios de carácter militar.'"
+    },
+    {
+      "texto": "92. ¿Qué ocurre si un tratado internacional contradice la Constitución?",
+      "opciones": [
+        "A) El tratado prevalece automáticamente.",
+        "B) Exigirá la previa revisión constitucional.",
+        "C) Se aplica solo en lo que no sea contrario.",
+        "D) El Rey puede anular la contradicción."
+      ],
+      "respuesta": "B) Exigirá la previa revisión constitucional.",
+      "referencia": "Tit3, Cap3, Art95, pág.94",
+      "explicacion": "Jerarquía constitucional. Texto: '1. La celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución exigirá la previa revisión constitucional.'"
+    },
+    {
+      "texto": "93. ¿Quién puede requerir al Tribunal Constitucional sobre la constitucionalidad de un tratado?",
+      "opciones": [
+        "A) El Defensor del Pueblo.",
+        "B) El Gobierno o cualquiera de las Cámaras.",
+        "C) El Tribunal Supremo.",
+        "D) Los ciudadanos mediante 500.000 firmas."
+      ],
+      "respuesta": "B) El Gobierno o cualquiera de las Cámaras.",
+      "referencia": "Tit3, Cap3, Art95, pág.94",
+      "explicacion": "Consulta de tratados. Texto: '2. El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional...'"
+    },
+    {
+      "texto": "94. ¿Cómo se integran los tratados internacionales en el ordenamiento español?",
+      "opciones": [
+        "A) Deben ser votados de nuevo como leyes.",
+        "B) Una vez publicados oficialmente en España.",
+        "C) Por la firma del Ministro de Exteriores.",
+        "D) Tras un año de su ratificación internacional."
+      ],
+      "respuesta": "B) Una vez publicados oficialmente en España.",
+      "referencia": "Tit3, Cap3, Art96, pág.95",
+      "explicacion": "Vigencia de tratados. Texto: '1. Los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno.'"
+    },
+    {
+      "texto": "95. ¿Quién puede proponer la iniciativa de reforma constitucional?",
+      "opciones": [
+        "A) Solo el Gobierno.",
+        "B) El Gobierno, el Congreso y el Senado.",
+        "C) El Rey.",
+        "D) Solo el Congreso por mayoría absoluta."
+      ],
+      "respuesta": "B) El Gobierno, el Congreso y el Senado.",
+      "referencia": "Tit10, Art166, pág.180",
+      "explicacion": "Sujetos de la iniciativa de reforma. El artículo 166 remite al 87.1 y 87.2: 'La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87.'"
+    },
+    {
+      "texto": "96. ¿Qué mayoría se requiere para una reforma constitucional ordinaria?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Tres quintos de cada una de las Cámaras.",
+        "C) Dos tercios del Congreso.",
+        "D) Unanimidad de los grupos."
+      ],
+      "respuesta": "B) Tres quintos de cada una de las Cámaras.",
+      "referencia": "Tit10, Art167, pág.181",
+      "explicacion": "Mayoría para reforma ordinaria. Texto: '1. Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.'"
+    },
+    {
+      "texto": "97. ¿Cuándo se somete a referéndum una reforma constitucional ordinaria?",
+      "opciones": [
+        "A) Siempre es obligatorio.",
+        "B) Cuando lo solicite una décima parte de los miembros de cualquier Cámara.",
+        "C) Solo si el Rey lo considera oportuno.",
+        "D) Si hay empate entre el Congreso y el Senado."
+      ],
+      "respuesta": "B) Cuando lo solicite una décima parte de los miembros de cualquier Cámara.",
+      "referencia": "Tit10, Art167, pág.182",
+      "explicacion": "Referéndum facultativo en reforma. Texto: '3. ...será sometida a referéndum... cuando así lo soliciten... una décima parte de los miembros de cualquiera de las Cámaras.'"
+    },
+    {
+      "texto": "98. ¿Qué mayoría se requiere para la aprobación de una revisión total de la Constitución?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Dos tercios de cada Cámara.",
+        "C) Tres quintos del Congreso.",
+        "D) Mayoría simple de los ciudadanos."
+      ],
+      "respuesta": "B) Dos tercios de cada Cámara.",
+      "referencia": "Tit10, Art168, pág.182",
+      "explicacion": "Mayoría para reforma agravada. Texto: '1. Cuando se propusiere la revisión total... se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara...'"
+    },
+    {
+      "texto": "99. ¿Qué sucede inmediatamente después de aprobarse el principio de una revisión total constitucional?",
+      "opciones": [
+        "A) Se celebra un referéndum.",
+        "B) Se disuelven inmediatamente las Cortes.",
+        "C) El Rey firma el nuevo texto.",
+        "D) Se nombra una comisión de expertos."
+      ],
+      "respuesta": "B) Se disuelven inmediatamente las Cortes.",
+      "referencia": "Tit10, Art168, pág.182",
+      "explicacion": "Procedimiento de reforma agravada. Texto: '1. ...y a la disolución inmediata de las Cortes.'"
+    },
+    {
+      "texto": "100. ¿En qué tiempo no puede iniciarse una reforma constitucional?",
+      "opciones": [
+        "A) Durante el mes de agosto.",
+        "B) En tiempo de guerra o vigencia de estados de alarma, excepción o sitio.",
+        "C) En el último año de legislatura.",
+        "D) Si el presupuesto del Estado no está aprobado."
+      ],
+      "respuesta": "B) En tiempo de guerra o vigencia de estados de alarma, excepción o sitio.",
+      "referencia": "Tit10, Art169, pág.183",
+      "explicacion": "Límites temporales a la reforma. Texto: 'No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.'"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "CE. Título III (1) - De las Cortes Generales": [
+    {
+      "texto": "1. ¿Cuántos capítulos componen el Título III de la Constitución Española, relativo a las Cortes Generales?",
+      "opciones": [
+        "A) Dos capítulos.",
+        "B) Tres capítulos.",
+        "C) Cuatro capítulos.",
+        "D) Cinco capítulos."
+      ],
+      "respuesta": "B) Tres capítulos.",
+      "referencia": "Tit3, pág. 14",
+      "explicacion": "El Título III se divide en tres capítulos: De las Cámaras, De la elaboración de las leyes y De los Tratados Internacionales."
+    },
+    {
+      "texto": "2. ¿Qué rango de artículos comprende el Título III de la Constitución?",
+      "opciones": [
+        "A) Del artículo 66 al 90.",
+        "B) Del artículo 60 al 96.",
+        "C) Del artículo 66 al 96.",
+        "D) Del artículo 65 al 95."
+      ],
+      "respuesta": "C) Del artículo 66 al 96.",
+      "referencia": "Tit3, Art66 a 96, pág. 65-95",
+      "explicacion": "El Título III comienza con el artículo 66 y finaliza con el artículo 96 relativo a los tratados."
+    },
+    {
+      "texto": "3. Según el artículo 66.1, ¿a quién representan las Cortes Generales?",
+      "opciones": [
+        "A) A la Nación española.",
+        "B) Al pueblo español.",
+        "C) A las Comunidades Autónomas.",
+        "D) A los ciudadanos y los poderes públicos."
+      ],
+      "respuesta": "B) Al pueblo español.",
+      "referencia": "Tit3, Cap1, Art66.1, pág. 65",
+      "explicacion": "El artículo 66.1 establece que las Cortes Generales representan al pueblo español."
+    },
+    {
+      "texto": "4. ¿Cuál de las siguientes funciones NO se atribuye expresamente a las Cortes Generales en el artículo 66.2?",
+      "opciones": [
+        "A) Ejercer la potestad legislativa del Estado.",
+        "B) Aprobar los Presupuestos Generales del Estado.",
+        "C) Controlar la acción del Gobierno.",
+        "D) Dirigir la política interior y exterior."
+      ],
+      "respuesta": "D) Dirigir la política interior y exterior.",
+      "referencia": "Tit3, Cap1, Art66.2, pág. 65",
+      "explicacion": "La dirección de la política corresponde al Gobierno (art. 97); las Cortes legislan, aprueban presupuestos y controlan al Gobierno."
+    },
+    {
+      "texto": "5. Sobre la inviolabilidad de las Cortes Generales, la Constitución establece que:",
+      "opciones": [
+        "A) Son inviolables.",
+        "B) Sus miembros son inviolables, pero no las Cámaras.",
+        "C) Tienen inmunidad relativa.",
+        "D) Son inviolables solo durante los periodos de sesiones."
+      ],
+      "respuesta": "A) Son inviolables.",
+      "referencia": "Tit3, Cap1, Art66.3, pág. 66",
+      "explicacion": "El artículo 66.3 declara taxativamente que las Cortes Generales son inviolables."
+    },
+    {
+      "texto": "6. ¿Es posible ser miembro de las dos Cámaras (Congreso y Senado) simultáneamente?",
+      "opciones": [
+        "A) Sí, si la ley electoral lo permite.",
+        "B) No, en ningún caso.",
+        "C) Solo si se es Senador por designación autonómica.",
+        "D) Únicamente durante el periodo de constitución de las Cámaras."
+      ],
+      "respuesta": "B) No, en ningún caso.",
+      "referencia": "Tit3, Cap1, Art67.1, pág. 66",
+      "explicacion": "Nadie podrá ser miembro de las dos Cámaras simultáneamente."
+    },
+    {
+      "texto": "7. ¿Qué establece la Constitución sobre el mandato imperativo para los miembros de las Cortes Generales?",
+      "opciones": [
+        "A) Estarán ligados por mandato imperativo de sus electores.",
+        "B) No estarán ligados por mandato imperativo.",
+        "C) Se rigen por el mandato de sus respectivos partidos.",
+        "D) Solo existe mandato imperativo en el Senado."
+      ],
+      "respuesta": "B) No estarán ligados por mandato imperativo.",
+      "referencia": "Tit3, Cap1, Art67.2, pág. 66",
+      "explicacion": "Los miembros de las Cortes Generales no estarán ligados por mandato imperativo."
+    },
+    {
+      "texto": "8. Las reuniones de Parlamentarios que se celebren sin convocatoria reglamentaria:",
+      "opciones": [
+        "A) Vincularán a las Cámaras si asiste la mayoría absoluta.",
+        "B) Tendrán carácter de sesión extraordinaria de urgencia.",
+        "C) No vincularán a las Cámaras.",
+        "D) Solo podrán ejercer funciones consultivas."
+      ],
+      "respuesta": "C) No vincularán a las Cámaras.",
+      "referencia": "Tit3, Cap1, Art67.3, pág. 66",
+      "explicacion": "Dichas reuniones no vincularán a las Cámaras, y no podrán ejercer sus funciones ni ostentar sus privilegios."
+    },
+    {
+      "texto": "9. Según el artículo 68.1, ¿cuál es el número máximo de Diputados que puede tener el Congreso?",
+      "opciones": [
+        "A) 300 Diputados.",
+        "B) 350 Diputados.",
+        "C) 400 Diputados.",
+        "D) 500 Diputados."
+      ],
+      "respuesta": "C) 400 Diputados.",
+      "referencia": "Tit3, Cap1, Art68.1, pág. 67",
+      "explicacion": "El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados."
+    },
+    {
+      "texto": "10. ¿Cuál es la circunscripción electoral para la elección de Diputados y Senadores (con carácter general)?",
+      "opciones": [
+        "A) El municipio.",
+        "B) La Comunidad Autónoma.",
+        "C) La provincia.",
+        "D) El Estado en su conjunto."
+      ],
+      "respuesta": "C) La provincia.",
+      "referencia": "Tit3, Cap1, Art68.2 y 69.2, pág. 67, 69",
+      "explicacion": "La circunscripción electoral es la provincia tanto para el Congreso como para el Senado."
+    },
+    {
+      "texto": "11. ¿Cuántos Diputados representan a cada una de las poblaciones de Ceuta y Melilla?",
+      "opciones": [
+        "A) Un Diputado cada una.",
+        "B) Dos Diputados cada una.",
+        "C) Tres Diputados cada una.",
+        "D) En proporción a su población de derecho."
+      ],
+      "respuesta": "A) Un Diputado cada una.",
+      "referencia": "Tit3, Cap1, Art68.2, pág. 67",
+      "explicacion": "Las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por un Diputado."
+    },
+    {
+      "texto": "12. ¿Qué criterio se sigue para la elección de los miembros del Congreso de los Diputados?",
+      "opciones": [
+        "A) Representación mayoritaria.",
+        "B) Representación proporcional.",
+        "C) Sistema de doble vuelta.",
+        "D) Designación directa de los partidos."
+      ],
+      "respuesta": "B) Representación proporcional.",
+      "referencia": "Tit3, Cap1, Art68.3, pág. 68",
+      "explicacion": "La elección se verificará en cada circunscripción atendiendo a criterios de representación proporcional."
+    },
+    {
+      "texto": "13. ¿Por cuánto tiempo es elegido el Congreso de los Diputados?",
+      "opciones": [
+        "A) Por tres años.",
+        "B) Por cuatro años.",
+        "C) Por cinco años.",
+        "D) Por seis años."
+      ],
+      "respuesta": "B) Por cuatro años.",
+      "referencia": "Tit3, Cap1, Art68.4, pág. 68",
+      "explicacion": "El Congreso es elegido por cuatro años."
+    },
+    {
+      "texto": "14. Según el artículo 68.6, ¿en qué plazo deben tener lugar las elecciones tras la terminación del mandato?",
+      "opciones": [
+        "A) Entre los veinte y cuarenta días.",
+        "B) Entre los treinta y sesenta días.",
+        "C) A los noventa días naturales.",
+        "D) Dentro del mes siguiente a la disolución."
+      ],
+      "respuesta": "B) Entre los treinta y sesenta días.",
+      "referencia": "Tit3, Cap1, Art68.6, pág. 69",
+      "explicacion": "Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato."
+    },
+    {
+      "texto": "15. El Congreso electo deberá ser convocado dentro de los:",
+      "opciones": [
+        "A) Diez días siguientes a las elecciones.",
+        "B) Quince días siguientes a las elecciones.",
+        "C) Veinticinco días siguientes a las elecciones.",
+        "D) Treinta días siguientes a las elecciones."
+      ],
+      "respuesta": "C) Veinticinco días siguientes a las elecciones.",
+      "referencia": "Tit3, Cap1, Art68.6, pág. 69",
+      "explicacion": "El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones."
+    },
+    {
+      "texto": "16. ¿Cómo define la Constitución al Senado en su artículo 69.1?",
+      "opciones": [
+        "A) Como Cámara de segunda lectura.",
+        "B) Como Cámara de representación territorial.",
+        "C) Como Cámara de control autonómico.",
+        "D) Como Cámara legislativa superior."
+      ],
+      "respuesta": "B) Como Cámara de representación territorial.",
+      "referencia": "Tit3, Cap1, Art69.1, pág. 69",
+      "explicacion": "El Senado es la Cámara de representación territorial."
+    },
+    {
+      "texto": "17. ¿Cuántos Senadores se eligen, por regla general, en cada provincia por sufragio universal?",
+      "opciones": [
+        "A) Dos Senadores.",
+        "B) Tres Senadores.",
+        "C) Cuatro Senadores.",
+        "D) Cinco Senadores."
+      ],
+      "respuesta": "C) Cuatro Senadores.",
+      "referencia": "Tit3, Cap1, Art69.2, pág. 69",
+      "explicacion": "En cada provincia se elegirán cuatro Senadores por sufragio universal."
+    },
+    {
+      "texto": "18. En las provincias insulares, ¿cuántos Senadores corresponden a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife)?",
+      "opciones": [
+        "A) Un Senador.",
+        "B) Dos Senadores.",
+        "C) Tres Senadores.",
+        "D) Cuatro Senadores."
+      ],
+      "respuesta": "C) Tres Senadores.",
+      "referencia": "Tit3, Cap1, Art69.3, pág. 69",
+      "explicacion": "Correspondiendo tres a cada una de las islas mayores –Gran Canaria, Mallorca y Tenerife–."
+    },
+    {
+      "texto": "19. ¿Cuántos Senadores eligen las poblaciones de Ceuta y Melilla cada una?",
+      "opciones": [
+        "A) Un Senador.",
+        "B) Dos Senadores.",
+        "C) Tres Senadores.",
+        "D) Cuatro Senadores."
+      ],
+      "respuesta": "B) Dos Senadores.",
+      "referencia": "Tit3, Cap1, Art69.4, pág. 70",
+      "explicacion": "Las poblaciones de Ceuta y Melilla elegirán cada una de ellas dos Senadores."
+    },
+    {
+      "texto": "20. Además de los elegidos por sufragio, las Comunidades Autónomas designarán un Senador y otro más por cada:",
+      "opciones": [
+        "A) Quinientos mil habitantes.",
+        "B) Millón de habitantes.",
+        "C) Dos millones de habitantes.",
+        "D) Provincia que integre la Comunidad."
+      ],
+      "respuesta": "B) Millón de habitantes.",
+      "referencia": "Tit3, Cap1, Art69.5, pág. 70",
+      "explicacion": "Las Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes."
+    },
+    {
+      "texto": "21. ¿Qué órgano de la Comunidad Autónoma es el encargado de designar a sus Senadores?",
+      "opciones": [
+        "A) El Consejo de Gobierno.",
+        "B) El Presidente de la Comunidad.",
+        "C) La Asamblea legislativa.",
+        "D) El Tribunal Superior de Justicia."
+      ],
+      "respuesta": "C) La Asamblea legislativa.",
+      "referencia": "Tit3, Cap1, Art69.5, pág. 70",
+      "explicacion": "La designación corresponderá a la Asamblea legislativa o, en su defecto, al órgano colegiado superior."
+    },
+    {
+      "texto": "22. El mandato de los Senadores termina cuatro años después de su elección o:",
+      "opciones": [
+        "A) Por renuncia voluntaria aceptada.",
+        "B) Por incapacidad judicial declarada.",
+        "C) El día de la disolución de la Cámara.",
+        "D) Al perder la condición de residente provincial."
+      ],
+      "respuesta": "C) El día de la disolución de la Cámara.",
+      "referencia": "Tit3, Cap1, Art69.6, pág. 70",
+      "explicacion": "El mandato de los Senadores termina cuatro años después de su elección o el día de la disolución de la Cámara."
+    },
+    {
+      "texto": "23. Según el artículo 70.1, ¿cuál de los siguientes cargos es incompatible con la condición de parlamentario?",
+      "opciones": [
+        "A) Miembro del Gobierno.",
+        "B) Profesor de Universidad.",
+        "C) Defensor del Pueblo.",
+        "D) Representante de partido político."
+      ],
+      "respuesta": "C) Defensor del Pueblo.",
+      "referencia": "Tit3, Cap1, Art70.1.c), pág. 71",
+      "explicacion": "La ley electoral determinará las incompatibilidades, que comprenderán en todo caso al Defensor del Pueblo."
+    },
+    {
+      "texto": "24. ¿Qué autoridad ejerce el control judicial sobre la validez de las actas y credenciales de los miembros de las Cámaras?",
+      "opciones": [
+        "A) El Tribunal Constitucional.",
+        "B) El Tribunal Supremo.",
+        "C) Los tribunales según establezca la ley electoral.",
+        "D) La Mesa de la Cámara respectiva."
+      ],
+      "respuesta": "C) Los tribunales según establezca la ley electoral.",
+      "referencia": "Tit3, Cap1, Art70.2, pág. 72",
+      "explicacion": "La validez de las actas y credenciales estará sometida al control judicial, en los términos que establezca la ley electoral."
+    },
+    {
+      "texto": "25. Los Diputados y Senadores gozarán de inviolabilidad por:",
+      "opciones": [
+        "A) Cualquier acto delictivo cometido.",
+        "B) Las opiniones manifestadas en el ejercicio de sus funciones.",
+        "C) Sus deudas de carácter civil.",
+        "D) Actos realizados fuera de las sedes parlamentarias."
+      ],
+      "respuesta": "B) Las opiniones manifestadas en el ejercicio de sus funciones.",
+      "referencia": "Tit3, Cap1, Art71.1, pág. 72",
+      "explicacion": "Los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones."
+    },
+    {
+      "texto": "26. Durante su mandato, ¿en qué único caso pueden ser detenidos los Diputados y Senadores?",
+      "opciones": [
+        "A) Por orden del Presidente del Gobierno.",
+        "B) En caso de flagrante delito.",
+        "C) Por delitos contra la seguridad del Estado.",
+        "D) En virtud de sentencia firme de prisión."
+      ],
+      "respuesta": "B) En caso de flagrante delito.",
+      "referencia": "Tit3, Cap1, Art71.2, pág. 72",
+      "explicacion": "Durante el período de su mandato... sólo podrán ser detenidos en caso de flagrante delito."
+    },
+    {
+      "texto": "27. Para inculpar o procesar a un parlamentario se requiere:",
+      "opciones": [
+        "A) Resolución del Fiscal General.",
+        "B) La previa autorización de la Cámara respectiva.",
+        "C) Acuerdo del Consejo de Ministros.",
+        "D) Informe favorable del Defensor del Pueblo."
+      ],
+      "respuesta": "B) La previa autorización de la Cámara respectiva.",
+      "referencia": "Tit3, Cap1, Art71.2, pág. 72",
+      "explicacion": "No podrán ser inculpados ni procesados sin la previa autorización de la Cámara respectiva."
+    },
+    {
+      "texto": "28. ¿Qué órgano judicial es competente en las causas contra Diputados y Senadores?",
+      "opciones": [
+        "A) La Audiencia Nacional.",
+        "B) El Tribunal Constitucional.",
+        "C) La Sala de lo Penal del Tribunal Supremo.",
+        "D) El Tribunal Superior de Justicia de su región."
+      ],
+      "respuesta": "C) La Sala de lo Penal del Tribunal Supremo.",
+      "referencia": "Tit3, Cap1, Art71.3, pág. 73",
+      "explicacion": "En las causas contra Diputados y Senadores será competente la Sala de lo Penal del Tribunal Supremo."
+    },
+    {
+      "texto": "29. ¿Qué mayoría se requiere para la aprobación o reforma de los Reglamentos de las Cámaras en la votación final?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría de dos tercios.",
+        "C) Mayoría absoluta.",
+        "D) Unanimidad de los presentes."
+      ],
+      "respuesta": "C) Mayoría absoluta.",
+      "referencia": "Tit3, Cap1, Art72.1, pág. 73",
+      "explicacion": "Los Reglamentos y su reforma... requerirán la mayoría absoluta."
+    },
+    {
+      "texto": "30. ¿Quién preside las sesiones conjuntas del Congreso y el Senado?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Presidente del Senado.",
+        "C) El Presidente del Congreso.",
+        "D) El Presidente del Gobierno."
+      ],
+      "respuesta": "C) El Presidente del Congreso.",
+      "referencia": "Tit3, Cap1, Art72.2, pág. 74",
+      "explicacion": "Las sesiones conjuntas serán presididas por el Presidente del Congreso."
+    },
+    {
+      "texto": "31. ¿Quién ejerce las facultades de policía en el interior de la sede del Senado?",
+      "opciones": [
+        "A) El Ministro del Interior.",
+        "B) El Presidente del Congreso.",
+        "C) El Presidente del Senado.",
+        "D) El Jefe de Seguridad del Estado."
+      ],
+      "respuesta": "C) El Presidente del Senado.",
+      "referencia": "Tit3, Cap1, Art72.3, pág. 74",
+      "explicacion": "Los Presidentes de las Cámaras ejercen... facultades de policía en el interior de sus respectivas sedes."
+    },
+    {
+      "texto": "32. ¿En qué meses comienza el primer período ordinario de sesiones de las Cámaras?",
+      "opciones": [
+        "A) En enero.",
+        "B) En febrero.",
+        "C) En septiembre.",
+        "D) En octubre."
+      ],
+      "respuesta": "C) En septiembre.",
+      "referencia": "Tit3, Cap1, Art73.1, pág. 75",
+      "explicacion": "Las Cámaras se reunirán anualmente en dos períodos ordinarios... el primero, de septiembre a diciembre."
+    },
+    {
+      "texto": "33. ¿Quién puede solicitar la reunión de las Cámaras en sesiones extraordinarias?",
+      "opciones": [
+        "A) El Rey.",
+        "B) El Tribunal Supremo.",
+        "C) El Gobierno o la Diputación Permanente.",
+        "D) Un tercio de los miembros de la Cámara."
+      ],
+      "respuesta": "C) El Gobierno o la Diputación Permanente.",
+      "referencia": "Tit3, Cap1, Art73.2, pág. 75",
+      "explicacion": "A petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros."
+    },
+    {
+      "texto": "34. ¿Qué mayoría de los miembros de una Cámara puede solicitar una sesión extraordinaria?",
+      "opciones": [
+        "A) Un cuarto de los miembros.",
+        "B) Un tercio de los miembros.",
+        "C) La mayoría absoluta.",
+        "D) Tres quintos de los miembros."
+      ],
+      "respuesta": "C) La mayoría absoluta.",
+      "referencia": "Tit3, Cap1, Art73.2, pág. 75",
+      "explicacion": "O de la mayoría absoluta de los miembros de cualquiera de las Cámaras."
+    },
+    {
+      "texto": "35. ¿Para qué se reunirán las Cámaras en sesión conjunta según el artículo 74.1?",
+      "opciones": [
+        "A) Para aprobar leyes orgánicas.",
+        "B) Para debatir el estado de la Nación.",
+        "C) Para ejercer competencias no legislativas del Título II.",
+        "D) Para declarar el estado de sitio."
+      ],
+      "respuesta": "C) Para ejercer competencias no legislativas del Título II.",
+      "referencia": "Tit3, Cap1, Art74.1, pág. 75",
+      "explicacion": "Para ejercer las competencias no legislativas que el Título II atribuye expresamente a las Cortes Generales (referentes a la Corona)."
+    },
+    {
+      "texto": "36. En caso de falta de acuerdo entre Congreso y Senado sobre autorizaciones de tratados del art. 94.1, ¿qué se crea?",
+      "opciones": [
+        "A) Una ponencia de expertos legislativos.",
+        "B) Un comité de arbitraje gubernamental.",
+        "C) Una Comisión Mixta.",
+        "D) Un pleno extraordinario de las Cortes."
+      ],
+      "respuesta": "C) Una Comisión Mixta.",
+      "referencia": "Tit3, Cap1, Art74.2, pág. 76",
+      "explicacion": "Se intentará obtener por una Comisión Mixta compuesta de igual número de Diputados y Senadores."
+    },
+    {
+      "texto": "37. Si la Comisión Mixta no logra acuerdo sobre los artículos 94.1, 145.2 o 158.2, ¿quién decide finalmente?",
+      "opciones": [
+        "A) El Senado por mayoría absoluta.",
+        "B) El Congreso por mayoría absoluta.",
+        "C) El Tribunal Constitucional.",
+        "D) El Rey tras consulta con el Gobierno."
+      ],
+      "respuesta": "B) El Congreso por mayoría absoluta.",
+      "referencia": "Tit3, Cap1, Art74.2, pág. 76",
+      "explicacion": "Si no se aprueba en la forma establecida, decidirá el Congreso por mayoría absoluta."
+    },
+    {
+      "texto": "38. ¿En qué órganos pueden delegar las Cámaras la aprobación de proyectos o proposiciones de ley?",
+      "opciones": [
+        "A) En las Mesas de las Cámaras.",
+        "B) En las Diputaciones Permanentes.",
+        "C) En las Comisiones Legislativas Permanentes.",
+        "D) En los Gobiernos autonómicos."
+      ],
+      "respuesta": "C) En las Comisiones Legislativas Permanentes.",
+      "referencia": "Tit3, Cap1, Art75.2, pág. 76",
+      "explicacion": "Las Cámaras podrán delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley."
+    },
+    {
+      "texto": "39. ¿Cuál de las siguientes materias está excluida de la delegación en Comisiones Legislativas Permanentes?",
+      "opciones": [
+        "A) Legislación civil general.",
+        "B) Leyes de bases.",
+        "C) Normas de derecho mercantil.",
+        "D) Fomento de la cultura."
+      ],
+      "respuesta": "B) Leyes de bases.",
+      "referencia": "Tit3, Cap1, Art75.3, pág. 77",
+      "explicacion": "Quedan exceptuados... la reforma constitucional, cuestiones internacionales, leyes orgánicas y de bases y los Presupuestos."
+    },
+    {
+      "texto": "40. ¿Tienen las conclusiones de las Comisiones de investigación carácter vinculante para los Tribunales?",
+      "opciones": [
+        "A) Sí, tienen valor de sentencia judicial.",
+        "B) No serán vinculantes para los Tribunales.",
+        "C) Solo en casos de corrupción pública.",
+        "D) Únicamente si el Congreso lo aprueba por 2/3."
+      ],
+      "respuesta": "B) No serán vinculantes para los Tribunales.",
+      "referencia": "Tit3, Cap1, Art76.1, pág. 78",
+      "explicacion": "Sus conclusiones no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales."
+    },
+    {
+      "texto": "41. ¿Es obligatorio comparecer ante las Cámaras cuando estas lo requieran?",
+      "opciones": [
+        "A) Solo para los miembros del Gobierno.",
+        "B) Es voluntario para los ciudadanos particulares.",
+        "C) Será obligatorio comparecer a requerimiento.",
+        "D) Solo si hay un proceso penal abierto."
+      ],
+      "respuesta": "C) Será obligatorio comparecer a requerimiento.",
+      "referencia": "Tit3, Cap1, Art76.2, pág. 78",
+      "explicacion": "Será obligatorio comparecer a requerimiento de las Cámaras."
+    },
+    {
+      "texto": "42. ¿Cómo deben presentarse las peticiones a las Cámaras según el artículo 77.1?",
+      "opciones": [
+        "A) Oralmente ante el registro.",
+        "B) Mediante manifestaciones en la vía pública.",
+        "C) Siempre por escrito.",
+        "D) A través de un representante del Gobierno."
+      ],
+      "respuesta": "C) Siempre por escrito.",
+      "referencia": "Tit3, Cap1, Art77.1, pág. 78",
+      "explicacion": "Las Cámaras pueden recibir peticiones individuales y colectivas, siempre por escrito."
+    },
+    {
+      "texto": "43. ¿Cuántos miembros debe tener, como mínimo, la Diputación Permanente de cada Cámara?",
+      "opciones": [
+        "A) Quince miembros.",
+        "B) Veintiún miembros.",
+        "C) Treinta y cinco miembros.",
+        "D) Una proporción de un miembro por cada diez."
+      ],
+      "respuesta": "B) Veintiún miembros.",
+      "referencia": "Tit3, Cap1, Art78.1, pág. 79",
+      "explicacion": "En cada Cámara habrá una Diputación Permanente compuesta por un mínimo de veintiún miembros."
+    },
+    {
+      "texto": "44. ¿Quién preside la Diputación Permanente de cada Cámara?",
+      "opciones": [
+        "A) El parlamentario de mayor edad.",
+        "B) El Presidente de la Cámara respectiva.",
+        "C) El Jefe de la oposición.",
+        "D) Un miembro elegido por sorteo."
+      ],
+      "respuesta": "B) El Presidente de la Cámara respectiva.",
+      "referencia": "Tit3, Cap1, Art78.2, pág. 79",
+      "explicacion": "Las Diputaciones Permanentes estarán presididas por el Presidente de la Cámara respectiva."
+    },
+    {
+      "texto": "45. ¿Cuál es una de las funciones de la Diputación Permanente cuando las Cámaras han sido disueltas?",
+      "opciones": [
+        "A) Nombrar al Presidente del Gobierno.",
+        "B) Asumir facultades de los artículos 86 y 116.",
+        "C) Sancionar las leyes pendientes.",
+        "D) Declarar la guerra."
+      ],
+      "respuesta": "B) Asumir facultades de los artículos 86 y 116.",
+      "referencia": "Tit3, Cap1, Art78.2, pág. 79",
+      "explicacion": "Asumir las facultades que correspondan a las Cámaras, de acuerdo con los artículos 86 (Decretos-leyes) y 116 (Estados de alarma, excepción y sitio)."
+    },
+    {
+      "texto": "46. Para adoptar acuerdos válidos, las Cámaras deben estar reunidas con asistencia de:",
+      "opciones": [
+        "A) Al menos un tercio de sus miembros.",
+        "B) La mayoría de sus miembros.",
+        "C) Dos tercios de sus miembros.",
+        "D) Todos los miembros que no estén de baja."
+      ],
+      "respuesta": "B) La mayoría de sus miembros.",
+      "referencia": "Tit3, Cap1, Art79.1, pág. 80",
+      "explicacion": "Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros."
+    },
+    {
+      "texto": "47. Salvo mayorías especiales, ¿cómo deben aprobarse los acuerdos para ser válidos?",
+      "opciones": [
+        "A) Por mayoría absoluta de la Cámara.",
+        "B) Por mayoría de los miembros presentes.",
+        "C) Por unanimidad de los grupos.",
+        "D) Por voto ponderado de los portavoces."
+      ],
+      "respuesta": "B) Por mayoría de los miembros presentes.",
+      "referencia": "Tit3, Cap1, Art79.2, pág. 80",
+      "explicacion": "Dichos acuerdos, para ser válidos, deberán ser aprobados por la mayoría de los miembros presentes."
+    },
+    {
+      "texto": "48. Sobre el voto de Diputados y Senadores, la Constitución afirma que:",
+      "opciones": [
+        "A) Es delegable en el portavoz del grupo.",
+        "B) Es personal e indelegable.",
+        "C) Puede ser emitido por correo sin requisitos.",
+        "D) Solo es personal en el pleno, no en comisiones."
+      ],
+      "respuesta": "B) Es personal e indelegable.",
+      "referencia": "Tit3, Cap1, Art79.3, pág. 81",
+      "explicacion": "El voto de Senadores y Diputados es personal e indelegable."
+    },
+    {
+      "texto": "49. Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo adoptado por:",
+      "opciones": [
+        "A) Mayoría simple de los presentes.",
+        "B) Mayoría absoluta.",
+        "C) Tres quintos de la Cámara.",
+        "D) El Presidente de la Cámara de forma unilateral."
+      ],
+      "respuesta": "B) Mayoría absoluta.",
+      "referencia": "Tit3, Cap1, Art80, pág. 81",
+      "explicacion": "Serán públicas, salvo acuerdo en contrario... adoptado por mayoría absoluta o con arreglo al Reglamento."
+    },
+    {
+      "texto": "50. ¿Qué capítulo del Título III se dedica a la elaboración de las leyes?",
+      "opciones": [
+        "A) Capítulo Primero.",
+        "B) Capítulo Segundo.",
+        "C) Capítulo Tercero.",
+        "D) Capítulo Cuarto."
+      ],
+      "respuesta": "B) Capítulo Segundo.",
+      "referencia": "Tit3, Cap2, pág. 17",
+      "explicacion": "El Capítulo Segundo se titula 'De la elaboración de las leyes'."
+    },
+    {
+      "texto": "51. Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las:",
+      "opciones": [
+        "A) Obligaciones civiles.",
+        "B) Libertades públicas.",
+        "C) Instituciones locales.",
+        "D) Propiedades inmuebles."
+      ],
+      "respuesta": "B) Libertades públicas.",
+      "referencia": "Tit3, Cap2, Art81.1, pág. 81",
+      "explicacion": "Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas."
+    },
+    {
+      "texto": "52. ¿Qué mayoría se requiere para la aprobación de las leyes orgánicas en el Congreso?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Tres quintos de los votos.",
+        "D) Dos tercios de la Cámara."
+      ],
+      "respuesta": "B) Mayoría absoluta.",
+      "referencia": "Tit3, Cap2, Art81.2, pág. 82",
+      "explicacion": "La aprobación... de las leyes orgánicas exigirá mayoría absoluta del Congreso."
+    },
+    {
+      "texto": "53. Mediante qué norma deben otorgarse las delegaciones legislativas para formar textos articulados:",
+      "opciones": [
+        "A) Mediante una ley ordinaria.",
+        "B) Mediante una ley de bases.",
+        "C) Mediante un Decreto-ley.",
+        "D) Mediante una ley orgánica."
+      ],
+      "respuesta": "B) Mediante una ley de bases.",
+      "referencia": "Tit3, Cap2, Art82.2, pág. 82",
+      "explicacion": "La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados."
+    },
+    {
+      "texto": "54. ¿A quién puede el Gobierno subdelegar la potestad legislativa delegada por las Cortes?",
+      "opciones": [
+        "A) A los Ministros competentes.",
+        "B) A las Comunidades Autónomas.",
+        "C) A nadie, está prohibida la subdelegación.",
+        "D) A los Directores Generales."
+      ],
+      "respuesta": "C) A nadie, está prohibida la subdelegación.",
+      "referencia": "Tit3, Cap2, Art82.3, pág. 83",
+      "explicacion": "Tampoco podrá permitir la subdelegación a autoridades distintas del propio Gobierno."
+    },
+    {
+      "texto": "55. ¿Cuál es el límite temporal de una delegación legislativa según el artículo 82.3?",
+      "opciones": [
+        "A) La duración de la legislatura.",
+        "B) Un año natural.",
+        "C) El plazo que fije la ley de delegación.",
+        "D) Indefinido hasta que se cumpla el objeto."
+      ],
+      "respuesta": "C) El plazo que fije la ley de delegación.",
+      "referencia": "Tit3, Cap2, Art82.3, pág. 83",
+      "explicacion": "La delegación legislativa habrá de otorgarse... con fijación del plazo para su ejercicio."
+    },
+    {
+      "texto": "56. Las leyes de bases no podrán autorizar en ningún caso:",
+      "opciones": [
+        "A) La regulación de impuestos.",
+        "B) La modificación de la propia ley de bases.",
+        "C) El desarrollo de tratados internacionales.",
+        "D) La creación de nuevas provincias."
+      ],
+      "respuesta": "B) La modificación de la propia ley de bases.",
+      "referencia": "Tit3, Cap2, Art83.a), pág. 85",
+      "explicacion": "Las leyes de bases no podrán en ningún caso: a) Autorizar la modificación de la propia ley de bases."
+    },
+    {
+      "texto": "57. ¿Qué título reciben las disposiciones del Gobierno que contienen legislación delegada?",
+      "opciones": [
+        "A) Decretos-leyes.",
+        "B) Decretos Legislativos.",
+        "C) Reales Decretos ordinarios.",
+        "D) Órdenes Ministeriales legislativas."
+      ],
+      "respuesta": "B) Decretos Legislativos.",
+      "referencia": "Tit3, Cap2, Art85, pág. 85",
+      "explicacion": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de Decretos Legislativos."
+    },
+    {
+      "texto": "58. ¿En qué supuesto puede el Gobierno dictar Decretos-leyes?",
+      "opciones": [
+        "A) Siempre que las Cámaras no estén reunidas.",
+        "B) En caso de extraordinaria y urgente necesidad.",
+        "C) Para desarrollar leyes orgánicas.",
+        "D) Por delegación expresa de la Diputación Permanente."
+      ],
+      "respuesta": "B) En caso de extraordinaria y urgente necesidad.",
+      "referencia": "Tit3, Cap2, Art86.1, pág. 86",
+      "explicacion": "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales..."
+    },
+    {
+      "texto": "59. ¿Cuál de las siguientes materias NO puede ser afectada por un Decreto-ley?",
+      "opciones": [
+        "A) La educación sanitaria.",
+        "B) Los derechos del Título I.",
+        "C) El fomento de la ciencia.",
+        "D) La protección de la salud."
+      ],
+      "respuesta": "B) Los derechos del Título I.",
+      "referencia": "Tit3, Cap2, Art86.1, pág. 86",
+      "explicacion": "No podrán afectar... a los derechos, deberes y libertades de los ciudadanos regulados en el Título I."
+    },
+    {
+      "texto": "60. ¿En qué plazo deben ser sometidos los Decretos-leyes a debate y votación en el Congreso?",
+      "opciones": [
+        "A) Quince días.",
+        "B) Treinta días.",
+        "C) Sesenta días.",
+        "D) Inmediatamente tras su publicación."
+      ],
+      "respuesta": "B) Treinta días.",
+      "referencia": "Tit3, Cap2, Art86.2, pág. 86",
+      "explicacion": "Deberán ser inmediatamente sometidos a debate... en el plazo de los treinta días siguientes a su promulgación."
+    },
+    {
+      "texto": "61. Durante el plazo de convalidación de un Decreto-ley, ¿qué trámite pueden darle las Cortes?",
+      "opciones": [
+        "A) Como reforma constitucional.",
+        "B) Como proyecto de ley por el procedimiento de urgencia.",
+        "C) Como ley orgánica de delegación.",
+        "D) Como reglamento administrativo."
+      ],
+      "respuesta": "B) Como proyecto de ley por el procedimiento de urgencia.",
+      "referencia": "Tit3, Cap2, Art86.3, pág. 87",
+      "explicacion": "Las Cortes podrán tramitarlos como proyectos de ley por el procedimiento de urgencia."
+    },
+    {
+      "texto": "62. ¿A quién corresponde la iniciativa legislativa según el artículo 87.1?",
+      "opciones": [
+        "A) Solo al Gobierno.",
+        "B) Al Gobierno, al Congreso y al Senado.",
+        "C) Únicamente al Congreso.",
+        "D) A los ciudadanos directamente en exclusiva."
+      ],
+      "respuesta": "B) Al Gobierno, al Congreso y al Senado.",
+      "referencia": "Tit3, Cap2, Art87.1, pág. 87",
+      "explicacion": "La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado."
+    },
+    {
+      "texto": "63. ¿Cuántas firmas acreditadas se exigen para la iniciativa legislativa popular?",
+      "opciones": [
+        "A) 100.000 firmas.",
+        "B) 250.000 firmas.",
+        "C) 500.000 firmas.",
+        "D) 1.000.000 de firmas."
+      ],
+      "respuesta": "C) 500.000 firmas.",
+      "referencia": "Tit3, Cap2, Art87.3, pág. 88",
+      "explicacion": "En todo caso se exigirán no menos de 500.000 firmas acreditadas."
+    },
+    {
+      "texto": "64. ¿En qué materia NO procede la iniciativa legislativa popular?",
+      "opciones": [
+        "A) Cultura.",
+        "B) Sanidad.",
+        "C) Materias tributarias.",
+        "D) Educación no básica."
+      ],
+      "respuesta": "C) Materias tributarias.",
+      "referencia": "Tit3, Cap2, Art87.3, pág. 88",
+      "explicacion": "No procederá dicha iniciativa en materias propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia."
+    },
+    {
+      "texto": "65. ¿Dónde deben ser aprobados los proyectos de ley antes de ser sometidos al Congreso?",
+      "opciones": [
+        "A) En el Congreso directamente.",
+        "B) En el Consejo de Estado.",
+        "C) En el Consejo de Ministros.",
+        "D) En la Mesa del Senado."
+      ],
+      "respuesta": "C) En el Consejo de Ministros.",
+      "referencia": "Tit3, Cap2, Art88, pág. 88",
+      "explicacion": "Los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá al Congreso."
+    },
+    {
+      "texto": "66. ¿A qué Cámara se remiten las proposiciones de ley que tome en consideración el Senado?",
+      "opciones": [
+        "A) Al Gobierno para su sanción.",
+        "B) Al Congreso para su trámite.",
+        "C) Al Rey directamente.",
+        "D) A las Asambleas autonómicas."
+      ],
+      "respuesta": "B) Al Congreso para su trámite.",
+      "referencia": "Tit3, Cap2, Art89.2, pág. 89",
+      "explicacion": "Se remitirán al Congreso para su trámite en éste como tal proposición."
+    },
+    {
+      "texto": "67. ¿De qué plazo dispone el Senado para vetar o enmendar un proyecto de ley ordinaria?",
+      "opciones": [
+        "A) Un mes.",
+        "B) Dos meses.",
+        "C) Tres meses.",
+        "D) Quince días."
+      ],
+      "respuesta": "B) Dos meses.",
+      "referencia": "Tit3, Cap2, Art90.2, pág. 90",
+      "explicacion": "El Senado en el plazo de dos meses... puede, mediante mensaje motivado, oponer su veto o introducir enmiendas."
+    },
+    {
+      "texto": "68. ¿Qué mayoría se requiere para que el Senado apruebe un veto a un proyecto de ley?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría de tres quintos.",
+        "C) Mayoría absoluta.",
+        "D) Dos tercios de los Senadores."
+      ],
+      "respuesta": "C) Mayoría absoluta.",
+      "referencia": "Tit3, Cap2, Art90.2, pág. 90",
+      "explicacion": "El veto deberá ser aprobado por mayoría absoluta."
+    },
+    {
+      "texto": "69. ¿En qué plazo se reduce el tiempo del Senado para vetar si el proyecto es declarado urgente?",
+      "opciones": [
+        "A) Diez días.",
+        "B) Quince días naturales.",
+        "C) Veinte días naturales.",
+        "D) Treinta días naturales."
+      ],
+      "respuesta": "C) Veinte días naturales.",
+      "referencia": "Tit3, Cap2, Art90.3, pág. 91",
+      "explicacion": "El plazo... se reducirá al de veinte días naturales en los proyectos declarados urgentes."
+    },
+    {
+      "texto": "70. ¿De qué plazo dispone el Rey para sancionar las leyes aprobadas por las Cortes Generales?",
+      "opciones": [
+        "A) Diez días.",
+        "B) Quince días.",
+        "C) Treinta días.",
+        "D) De forma inmediata e inexcusable."
+      ],
+      "respuesta": "B) Quince días.",
+      "referencia": "Tit3, Cap2, Art91, pág. 91",
+      "explicacion": "El Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales."
+    },
+    {
+      "texto": "71. ¿Quién propone la convocatoria de un referéndum consultivo según el artículo 92.2?",
+      "opciones": [
+        "A) El Rey por iniciativa propia.",
+        "B) El Presidente del Gobierno.",
+        "C) El Congreso de los Diputados.",
+        "D) Una décima parte de los ciudadanos."
+      ],
+      "respuesta": "B) El Presidente del Gobierno.",
+      "referencia": "Tit3, Cap2, Art92.2, pág. 91",
+      "explicacion": "El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno."
+    },
+    {
+      "texto": "72. ¿Qué requisito previo es necesario para proponer un referéndum consultivo?",
+      "opciones": [
+        "A) Informe del Consejo de Estado.",
+        "B) Autorización previa del Congreso.",
+        "C) Acuerdo del Senado por mayoría absoluta.",
+        "D) Visto bueno del Tribunal Constitucional."
+      ],
+      "respuesta": "B) Autorización previa del Congreso.",
+      "referencia": "Tit3, Cap2, Art92.2, pág. 92",
+      "explicacion": "Previamente autorizada por el Congreso de los Diputados."
+    },
+    {
+      "texto": "73. ¿Qué tipo de ley debe regular las condiciones y procedimiento de las distintas modalidades de referéndum?",
+      "opciones": [
+        "A) Una ley ordinaria.",
+        "B) Una ley orgánica.",
+        "C) Una ley de bases.",
+        "D) Un Decreto Legislativo."
+      ],
+      "respuesta": "B) Una ley orgánica.",
+      "referencia": "Tit3, Cap2, Art92.3, pág. 92",
+      "explicacion": "Una ley orgánica regulará las condiciones y el procedimiento de las distintas modalidades de referéndum."
+    },
+    {
+      "texto": "74. ¿Cómo se denomina el Capítulo Tercero del Título III?",
+      "opciones": [
+        "A) De las relaciones exteriores.",
+        "B) De la defensa nacional.",
+        "C) De los Tratados Internacionales.",
+        "D) De la representación diplomática."
+      ],
+      "respuesta": "C) De los Tratados Internacionales.",
+      "referencia": "Tit3, Cap3, pág. 19",
+      "explicacion": "El Capítulo Tercero trata 'De los Tratados Internacionales'."
+    },
+    {
+      "texto": "75. ¿Qué tipo de norma se requiere para autorizar tratados que cedan competencias derivadas de la Constitución a una institución internacional?",
+      "opciones": [
+        "A) Ley ordinaria.",
+        "B) Ley orgánica.",
+        "C) Real Decreto refrendado.",
+        "D) Resolución de las Cortes en sesión conjunta."
+      ],
+      "respuesta": "B) Ley orgánica.",
+      "referencia": "Tit3, Cap3, Art93, pág. 92",
+      "explicacion": "Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya... el ejercicio de competencias derivadas de la Constitución."
+    },
+    {
+      "texto": "76. Según el artículo 94.1, ¿cuál de estos tratados requiere previa autorización de las Cortes Generales?",
+      "opciones": [
+        "A) Tratados de carácter cultural.",
+        "B) Tratados de carácter político.",
+        "C) Convenios de cooperación técnica.",
+        "D) Acuerdos de intercambio educativo."
+      ],
+      "respuesta": "B) Tratados de carácter político.",
+      "referencia": "Tit3, Cap3, Art94.1.a), pág. 93",
+      "explicacion": "La prestación del consentimiento... requerirá la previa autorización de las Cortes Generales, en los siguientes casos: a) Tratados de carácter político."
+    },
+    {
+      "texto": "77. ¿Qué sucede con los tratados que NO están incluidos en los supuestos del artículo 94.1?",
+      "opciones": [
+        "A) No requieren trámite parlamentario alguno.",
+        "B) Deben ser autorizados por el Rey.",
+        "C) Las Cámaras serán inmediatamente informadas de su conclusión.",
+        "D) Deben publicarse antes de ser firmados."
+      ],
+      "respuesta": "C) Las Cámaras serán inmediatamente informadas de su conclusión.",
+      "referencia": "Tit3, Cap3, Art94.2, pág. 94",
+      "explicacion": "El Congreso y el Senado serán inmediatamente informados de la conclusión de los restantes tratados o convenios."
+    },
+    {
+      "texto": "78. Si un tratado contiene estipulaciones contrarias a la Constitución, ¿qué se exige antes de su celebración?",
+      "opciones": [
+        "A) El veto del Senado.",
+        "B) Una ley orgánica de excepción.",
+        "C) La previa revisión constitucional.",
+        "D) La firma del Presidente del Gobierno."
+      ],
+      "respuesta": "C) La previa revisión constitucional.",
+      "referencia": "Tit3, Cap3, Art95.1, pág. 94",
+      "explicacion": "Exigirá la previa revisión constitucional."
+    },
+    {
+      "texto": "79. ¿Quién puede requerir al Tribunal Constitucional para que declare si existe contradicción entre un tratado y la Constitución?",
+      "opciones": [
+        "A) Solo el Rey.",
+        "B) 50 Diputados.",
+        "C) El Gobierno o cualquiera de las Cámaras.",
+        "D) El Defensor del Pueblo."
+      ],
+      "respuesta": "C) El Gobierno o cualquiera de las Cámaras.",
+      "referencia": "Tit3, Cap3, Art95.2, pág. 94",
+      "explicacion": "El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional..."
+    },
+    {
+      "texto": "80. ¿Cuándo pasan los tratados internacionales a formar parte del ordenamiento interno español?",
+      "opciones": [
+        "A) Desde el momento de su firma por el Rey.",
+        "B) Tras su ratificación por las Cortes.",
+        "C) Una vez publicados oficialmente en España.",
+        "D) Al entrar en vigor internacionalmente."
+      ],
+      "respuesta": "C) Una vez publicados oficialmente en España.",
+      "referencia": "Tit3, Cap3, Art96.1, pág. 95",
+      "explicacion": "Los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno."
+    },
+    {
+      "texto": "81. ¿Qué procedimiento se utilizará para la denuncia de los tratados internacionales?",
+      "opciones": [
+        "A) El que decida el Gobierno unilateralmente.",
+        "B) El mismo previsto para su aprobación en el art. 94.",
+        "C) Una ley ordinaria de derogación.",
+        "D) El procedimiento de urgencia legislativa."
+      ],
+      "respuesta": "B) El mismo previsto para su aprobación en el art. 94.",
+      "referencia": "Tit3, Cap3, Art96.2, pág. 95",
+      "explicacion": "Para la denuncia de los tratados... se utilizará el mismo procedimiento previsto para su aprobación en el artículo 94."
+    },
+    {
+      "texto": "82. ¿Cuál es la mayoría de edad para el voto según las disposiciones del Título I, aplicables a las elecciones de las Cortes?",
+      "opciones": [
+        "A) 16 años.",
+        "B) 18 años.",
+        "C) 21 años.",
+        "D) 25 años."
+      ],
+      "respuesta": "B) 18 años.",
+      "referencia": "Tit1, Cap1, Art12, pág. 18",
+      "explicacion": "Los españoles son mayores de edad a los dieciocho años."
+    },
+    {
+      "texto": "83. ¿Qué artículo establece que el mandato de los parlamentarios no está ligado por mandato imperativo?",
+      "opciones": [
+        "A) Artículo 66.",
+        "B) Artículo 67.",
+        "C) Artículo 68.",
+        "D) Artículo 69."
+      ],
+      "respuesta": "B) Artículo 67.",
+      "referencia": "Tit3, Cap1, Art67.2, pág. 66",
+      "explicacion": "El artículo 67.2 prohíbe el mandato imperativo."
+    },
+    {
+      "texto": "84. Sobre la asignación económica de Diputados y Senadores:",
+      "opciones": [
+        "A) Se fija por el Gobierno en los Presupuestos.",
+        "B) Se establece en la Ley de Presupuestos Generales.",
+        "C) Será fijada por las respectivas Cámaras.",
+        "D) Está ligada al sueldo de los Ministros."
+      ],
+      "respuesta": "C) Será fijada por las respectivas Cámaras.",
+      "referencia": "Tit3, Cap1, Art71.4, pág. 73",
+      "explicacion": "Los Diputados y Senadores percibirán una asignación que será fijada por las respectivas Cámaras."
+    },
+    {
+      "texto": "85. El número de Senadores elegidos en cada población de Ceuta y Melilla es de:",
+      "opciones": [
+        "A) Un Senador.",
+        "B) Dos Senadores.",
+        "C) Tres Senadores.",
+        "D) Cuatro Senadores."
+      ],
+      "respuesta": "B) Dos Senadores.",
+      "referencia": "Tit3, Cap1, Art69.4, pág. 70",
+      "explicacion": "Las poblaciones de Ceuta y Melilla elegirán cada una de ellas dos Senadores."
+    },
+    {
+      "texto": "86. ¿En qué meses se reúne el segundo periodo ordinario de sesiones?",
+      "opciones": [
+        "A) De enero a junio.",
+        "B) De febrero a junio.",
+        "C) De marzo a julio.",
+        "D) De abril a diciembre."
+      ],
+      "respuesta": "B) De febrero a junio.",
+      "referencia": "Tit3, Cap1, Art73.1, pág. 75",
+      "explicacion": "Y el segundo, de febrero a junio."
+    },
+    {
+      "texto": "87. ¿Qué artículo regula la figura de la Diputación Permanente?",
+      "opciones": [
+        "A) Artículo 72.",
+        "B) Artículo 75.",
+        "C) Artículo 78.",
+        "D) Artículo 80."
+      ],
+      "respuesta": "C) Artículo 78.",
+      "referencia": "Tit3, Cap1, Art78, pág. 79",
+      "explicacion": "El artículo 78 describe la composición y funciones de la Diputación Permanente."
+    },
+    {
+      "texto": "88. La iniciativa legislativa de las Asambleas de las Comunidades Autónomas se ejerce:",
+      "opciones": [
+        "A) A través de la Diputación Permanente.",
+        "B) Solicitando al Gobierno un proyecto o remitiendo una proposición.",
+        "C) Dictando leyes marco de delegación.",
+        "D) Mediante referéndum autonómico previo."
+      ],
+      "respuesta": "B) Solicitando al Gobierno un proyecto o remitiendo una proposición.",
+      "referencia": "Tit3, Cap2, Art87.2, pág. 87",
+      "explicacion": "Las Asambleas... podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir... una proposición de ley."
+    },
+    {
+      "texto": "89. ¿Cuál es el número de miembros de la Asamblea de la Comunidad Autónoma que pueden defender una proposición de ley ante el Congreso?",
+      "opciones": [
+        "A) Un máximo de dos miembros.",
+        "B) Un máximo de tres miembros.",
+        "C) Un máximo de cinco miembros.",
+        "D) No hay límite, según su Reglamento."
+      ],
+      "respuesta": "B) Un máximo de tres miembros.",
+      "referencia": "Tit3, Cap2, Art87.2, pág. 87",
+      "explicacion": "Delegando ante dicha Cámara un máximo de tres miembros de la Asamblea encargados de su defensa."
+    },
+    {
+      "texto": "90. En relación con las proposiciones de ley y los proyectos de ley, ¿quién tiene prioridad en la tramitación?",
+      "opciones": [
+        "A) Las proposiciones de ley.",
+        "B) Los proyectos de ley.",
+        "C) No hay prioridad, se sigue el orden de entrada.",
+        "D) Las leyes orgánicas siempre."
+      ],
+      "respuesta": "B) Los proyectos de ley.",
+      "referencia": "Tit3, Cap2, Art89.1, pág. 89",
+      "explicacion": "Sin que la prioridad debida a los proyectos de ley impida el ejercicio de la iniciativa..."
+    },
+    {
+      "texto": "91. ¿Qué sucede si el Congreso de los Diputados no ratifica por mayoría absoluta el texto inicial tras un veto del Senado?",
+      "opciones": [
+        "A) El proyecto de ley queda definitivamente rechazado.",
+        "B) Puede ratificarlo por mayoría simple tras dos meses.",
+        "C) Se convoca automáticamente una Comisión Mixta.",
+        "D) Debe iniciarse de nuevo la iniciativa legislativa."
+      ],
+      "respuesta": "B) Puede ratificarlo por mayoría simple tras dos meses.",
+      "referencia": "Tit3, Cap2, Art90.2, pág. 90",
+      "explicacion": "O por mayoría simple, una vez transcurridos dos meses desde la interposición del mismo."
+    },
+    {
+      "texto": "92. ¿Qué tratados requieren ley orgánica para su autorización según el artículo 93?",
+      "opciones": [
+        "A) Tratados militares.",
+        "B) Tratados que cedan competencias constitucionales a una organización internacional.",
+        "C) Tratados que afecten a la integridad territorial.",
+        "D) Tratados que impliquen obligaciones financieras."
+      ],
+      "respuesta": "B) Tratados que cedan competencias constitucionales a una organización internacional.",
+      "referencia": "Tit3, Cap3, Art93, pág. 92",
+      "explicacion": "Tratados por los que se atribuya a una organización... el ejercicio de competencias derivadas de la Constitución."
+    },
+    {
+      "texto": "93. El consentimiento para obligarse por tratados que afecten a los derechos del Título I requiere:",
+      "opciones": [
+        "A) Mera información a las Cámaras.",
+        "B) Previa autorización de las Cortes Generales.",
+        "C) Referéndum nacional obligatorio.",
+        "D) Informe del Defensor del Pueblo."
+      ],
+      "respuesta": "B) Previa autorización de las Cortes Generales.",
+      "referencia": "Tit3, Cap3, Art94.1.c), pág. 93",
+      "explicacion": "Tratados o convenios que afecten... a los derechos y deberes fundamentales establecidos en el Título I."
+    },
+    {
+      "texto": "94. ¿Cuántos capítulos tiene el Título III según el índice general?",
+      "opciones": [
+        "A) Un capítulo único.",
+        "B) Dos capítulos.",
+        "C) Tres capítulos.",
+        "D) Cuatro capítulos."
+      ],
+      "respuesta": "C) Tres capítulos.",
+      "referencia": "Índice, pág. 4",
+      "explicacion": "El Título III consta de los capítulos 'De las Cámaras', 'De la elaboración de las leyes' y 'De los Tratados Internacionales'."
+    },
+    {
+      "texto": "95. ¿Quién publica los tratados internacionales para que formen parte del ordenamiento interno?",
+      "opciones": [
+        "A) El Rey por sanción.",
+        "B) El Ministerio de Exteriores.",
+        "C) Deben publicarse oficialmente en España.",
+        "D) Las Cortes Generales en su boletín."
+      ],
+      "respuesta": "C) Deben publicarse oficialmente en España.",
+      "referencia": "Tit3, Cap3, Art96.1, pág. 95",
+      "explicacion": "Una vez publicados oficialmente en España, formarán parte del ordenamiento interno."
+    },
+    {
+      "texto": "96. Las Cortes Generales ejercen sobre el Gobierno la función de:",
+      "opciones": [
+        "A) Ejecución de sus decretos.",
+        "B) Control de su acción.",
+        "C) Nombramiento de sus altos cargos.",
+        "D) Representación exterior."
+      ],
+      "respuesta": "B) Control de su acción.",
+      "referencia": "Tit3, Cap1, Art66.2, pág. 66",
+      "explicacion": "Las Cortes Generales... controlan la acción del Gobierno."
+    },
+    {
+      "texto": "97. ¿Qué mayoría se requiere para que el Congreso de los Diputados ratifique las enmiendas del Senado a un proyecto de ley?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Mayoría de tres quintos.",
+        "C) Mayoría simple.",
+        "D) Unanimidad de los grupos parlamentarios."
+      ],
+      "respuesta": "C) Mayoría simple.",
+      "referencia": "Tit3, Cap2, Art90.2, pág. 90",
+      "explicacion": "...o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple."
+    },
+    {
+      "texto": "98. La Constitución establece que el Senado es elegido por:",
+      "opciones": [
+        "A) Tres años.",
+        "B) Cuatro años.",
+        "C) Cinco años.",
+        "D) Seis años."
+      ],
+      "respuesta": "B) Cuatro años.",
+      "referencia": "Tit3, Cap1, Art69.6, pág. 70",
+      "explicacion": "El Senado es elegido por cuatro años."
+    },
+    {
+      "texto": "99. ¿Qué artículo regula la sanción y promulgación de las leyes por el Rey?",
+      "opciones": [
+        "A) Artículo 62.",
+        "B) Artículo 81.",
+        "C) Artículo 91.",
+        "D) Artículo 96."
+      ],
+      "respuesta": "C) Artículo 91.",
+      "referencia": "Tit3, Cap2, Art91, pág. 91",
+      "explicacion": "El artículo 91 establece la obligación del Rey de sancionar las leyes en 15 días."
+    },
+    {
+      "texto": "100. ¿Cuál es el artículo final del Título III de la Constitución Española?",
+      "opciones": [
+        "A) Artículo 92.",
+        "B) Artículo 94.",
+        "C) Artículo 96.",
+        "D) Artículo 100."
+      ],
+      "respuesta": "C) Artículo 96.",
+      "referencia": "Tit3, Cap3, Art96, pág. 95",
+      "explicacion": "El Título III finaliza con el artículo 96, que cierra el capítulo de los tratados internacionales."
+    }
+  ]
+}

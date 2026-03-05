@@ -1,0 +1,1204 @@
+{
+  "CE. Título II (1) - De la Corona": [
+    {
+      "texto": "1. ¿Cuántos artículos comprende el Título II de la Constitución Española, dedicado a la Corona?",
+      "opciones": [
+        "A) Ocho artículos.",
+        "B) Diez artículos.",
+        "C) Doce artículos.",
+        "D) Quince artículos."
+      ],
+      "respuesta": "B) Diez artículos.",
+      "referencia": "Tit2, Art56 a 65, pág. 55-65",
+      "explicacion": "El Título II abarca desde el artículo 56 hasta el artículo 65. Texto: 'TÍTULO II. De la Corona'."
+    },
+    {
+      "texto": "2. ¿Cuál es el primer artículo del Título II de la Constitución Española?",
+      "opciones": [
+        "A) Artículo 54.",
+        "B) Artículo 55.",
+        "C) Artículo 56.",
+        "D) Artículo 57."
+      ],
+      "respuesta": "C) Artículo 56.",
+      "referencia": "Tit2, Art56, pág. 55",
+      "explicacion": "El Título II comienza con el artículo 56, que define la figura del Rey. Texto: 'Artículo 56. 1. El Rey es el Jefe del Estado...'."
+    },
+    {
+      "texto": "3. Según el artículo 56.1, ¿cuál es la función del Rey respecto a las instituciones?",
+      "opciones": [
+        "A) Dirige la administración civil.",
+        "B) Ejerce la potestad legislativa.",
+        "C) Arbitra y modera su funcionamiento.",
+        "D) Coordina el Consejo de Ministros."
+      ],
+      "respuesta": "C) Arbitra y modera su funcionamiento.",
+      "referencia": "Tit2, Art56.1, pág. 55",
+      "explicacion": "El Rey arbitra y modera el funcionamiento regular de las instituciones. Texto: '...arbitra y modera el funcionamiento regular de las instituciones...'."
+    },
+    {
+      "texto": "4. ¿Qué condición tiene la persona del Rey según la Constitución?",
+      "opciones": [
+        "A) Es responsable de sus actos.",
+        "B) Es inviolable y no está sujeta a responsabilidad.",
+        "C) Posee inmunidad parlamentaria.",
+        "D) Está sujeta a la jurisdicción ordinaria."
+      ],
+      "respuesta": "B) Es inviolable y no está sujeta a responsabilidad.",
+      "referencia": "Tit2, Art56.3, pág. 56",
+      "explicacion": "La Constitución otorga inviolabilidad total a la figura del Rey. Texto: '3. La persona del Rey es inviolable y no está sujeta a responsabilidad'."
+    },
+    {
+      "texto": "5. ¿Qué sucede con los actos del Rey que carezcan de refrendo, salvo lo dispuesto en el artículo 65.2?",
+      "opciones": [
+        "A) Son plenamente válidos.",
+        "B) Carecen de validez legal.",
+        "C) Requieren ratificación judicial.",
+        "D) Se consideran actos de gracia."
+      ],
+      "respuesta": "B) Carecen de validez legal.",
+      "referencia": "Tit2, Art56.3, pág. 56",
+      "explicacion": "Los actos del Rey deben ser siempre refrendados para ser válidos. Texto: '...careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65, 2'."
+    },
+    {
+      "texto": "6. La Corona de España es hereditaria en los sucesores de:",
+      "opciones": [
+        "A) S. M. Don Juan Carlos I de Borbón.",
+        "B) S. M. Don Felipe VI de Borbón.",
+        "C) S. M. Don Alfonso XIII de Borbón.",
+        "D) Los herederos directos de la dinastía."
+      ],
+      "respuesta": "A) S. M. Don Juan Carlos I de Borbón.",
+      "referencia": "Tit2, Art57.1, pág. 56",
+      "explicacion": "La sucesión parte de la figura de Juan Carlos I. Texto: 'La Corona de España es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón...'."
+    },
+    {
+      "texto": "7. En el orden de sucesión a la Corona, ¿qué grado es preferido?",
+      "opciones": [
+        "A) El grado más remoto.",
+        "B) El grado más próximo.",
+        "C) El grado elegido por las Cortes.",
+        "D) El grado de mayor edad únicamente."
+      ],
+      "respuesta": "B) El grado más próximo.",
+      "referencia": "Tit2, Art57.1, pág. 56",
+      "explicacion": "Dentro de la misma línea, se prefiere la cercanía de grado. Texto: '...en la misma línea, el grado más próximo al más remoto...'."
+    },
+    {
+      "texto": "8. Respecto al sexo, ¿cuál es la preferencia en la sucesión a la Corona?",
+      "opciones": [
+        "A) La mujer sobre el varón.",
+        "B) El varón sobre la mujer.",
+        "C) No existe preferencia por sexo.",
+        "D) Según decida el Rey reinante."
+      ],
+      "respuesta": "B) El varón sobre la mujer.",
+      "referencia": "Tit2, Art57.1, pág. 56",
+      "explicacion": "La Constitución establece la preferencia masculina. Texto: '...en el mismo grado, el varón a la mujer...'."
+    },
+    {
+      "texto": "9. ¿Qué dignidad corresponde al Príncipe heredero desde su nacimiento?",
+      "opciones": [
+        "A) Príncipe de España.",
+        "B) Príncipe de Viana.",
+        "C) Príncipe de Asturias.",
+        "D) Infante de España."
+      ],
+      "respuesta": "C) Príncipe de Asturias.",
+      "referencia": "Tit2, Art57.2, pág. 57",
+      "explicacion": "El heredero ostenta el título de Príncipe de Asturias. Texto: '2. El Príncipe heredero... tendrá la dignidad de Príncipe de Asturias...'."
+    },
+    {
+      "texto": "10. ¿Quién proveerá a la sucesión en la Corona si se extinguen todas las líneas llamadas en Derecho?",
+      "opciones": [
+        "A) El Gobierno de la Nación.",
+        "B) El Tribunal Constitucional.",
+        "C) Las Cortes Generales.",
+        "D) El Consejo de Estado."
+      ],
+      "respuesta": "C) Las Cortes Generales.",
+      "referencia": "Tit2, Art57.3, pág. 57",
+      "explicacion": "En caso de extinción de líneas, las Cortes deciden. Texto: '3. Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveerán a la sucesión...'."
+    },
+    {
+      "texto": "11. ¿Qué consecuencia tiene casarse contra la expresa prohibición del Rey y de las Cortes Generales teniendo derecho a la sucesión?",
+      "opciones": [
+        "A) La suspensión temporal del derecho.",
+        "B) La pérdida de títulos nobiliarios.",
+        "C) La exclusión en la sucesión.",
+        "D) Una sanción económica pública."
+      ],
+      "respuesta": "C) La exclusión en la sucesión.",
+      "referencia": "Tit2, Art57.4, pág. 57",
+      "explicacion": "Se pierde el derecho sucesorio por sí y por los descendientes. Texto: '...quedarán excluidas en la sucesión a la Corona por sí y sus descendientes'."
+    },
+    {
+      "texto": "12. ¿Cómo se resuelven las abdicaciones, renuncias o dudas en el orden de sucesión?",
+      "opciones": [
+        "A) Mediante Real Decreto del Rey.",
+        "B) Por acuerdo de las Cámaras.",
+        "C) Mediante una ley orgánica.",
+        "D) Por sentencia del Tribunal Supremo."
+      ],
+      "respuesta": "C) Mediante una ley orgánica.",
+      "referencia": "Tit2, Art57.5, pág. 58",
+      "explicacion": "La ley orgánica es el instrumento para resolver estas incidencias. Texto: '5. Las abdicaciones y renuncias... se resolverán por una ley orgánica'."
+    },
+    {
+      "texto": "13. ¿Puede la Reina consorte asumir funciones constitucionales?",
+      "opciones": [
+        "A) Sí, si el Rey se lo delega.",
+        "B) No, salvo lo dispuesto para la Regencia.",
+        "C) Solo en actos de representación exterior.",
+        "D) Únicamente en materia de cultura."
+      ],
+      "respuesta": "B) No, salvo lo dispuesto para la Regencia.",
+      "referencia": "Tit2, Art58, pág. 58",
+      "explicacion": "Los consortes no tienen funciones propias salvo la Regencia. Texto: 'La Reina consorte... no podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia'."
+    },
+    {
+      "texto": "14. ¿Quién entra a ejercer la Regencia si el Rey es menor de edad y no hay testamento?",
+      "opciones": [
+        "A) El Presidente del Gobierno.",
+        "B) El Presidente del Congreso.",
+        "C) El padre o la madre del Rey.",
+        "D) El Regente nombrado por Cortes."
+      ],
+      "respuesta": "C) El padre o la madre del Rey.",
+      "referencia": "Tit2, Art59.1, pág. 58",
+      "explicacion": "La Regencia recae primero en los progenitores. Texto: '1. Cuando el Rey fuere menor de edad, el padre o la madre del Rey...'."
+    },
+    {
+      "texto": "15. ¿Quién debe reconocer la inhabilitación del Rey para el ejercicio de su autoridad?",
+      "opciones": [
+        "A) El Consejo de Ministros.",
+        "B) El Tribunal Supremo.",
+        "C) Las Cortes Generales.",
+        "D) El Colegio de Médicos oficial."
+      ],
+      "respuesta": "C) Las Cortes Generales.",
+      "referencia": "Tit2, Art59.2, pág. 59",
+      "explicacion": "Compete a las Cortes apreciar la imposibilidad del Rey. Texto: '2. Si el Rey se inhabilitare... y la imposibilidad fuere reconocida por las Cortes Generales...'."
+    },
+    {
+      "texto": "16. En caso de inhabilitación del Rey, ¿quién asume la Regencia si el Príncipe heredero es menor de edad?",
+      "opciones": [
+        "A) El Regente nombrado por ley.",
+        "B) El tutor del Rey menor.",
+        "C) El padre o la madre del Rey.",
+        "D) Una comisión de tres personas."
+      ],
+      "respuesta": "C) El padre o la madre del Rey.",
+      "referencia": "Tit2, Art59.2, pág. 59",
+      "explicacion": "Se sigue el orden del apartado anterior si el Príncipe es menor. Texto: '...se procederá de la manera prevista en el apartado anterior...'"
+    },
+    {
+      "texto": "17. ¿Cuántas personas pueden componer la Regencia si es nombrada por las Cortes Generales?",
+      "opciones": [
+        "A) Solo una persona.",
+        "B) Dos, cuatro o seis personas.",
+        "C) Una, tres o cinco personas.",
+        "D) Un número par de miembros."
+      ],
+      "respuesta": "C) Una, tres o cinco personas.",
+      "referencia": "Tit2, Art59.3, pág. 59",
+      "explicacion": "La Regencia colectiva debe tener un número impar de miembros. Texto: '...ésta será nombrada por las Cortes Generales, y se compondrá de una, tres o cinco personas'."
+    },
+    {
+      "texto": "18. ¿Qué requisitos se exigen para ejercer la Regencia?",
+      "opciones": [
+        "A) Ser mayor de edad.",
+        "B) Ser español y mayor de edad.",
+        "C) Poseer titulación universitaria.",
+        "D) Ser español de nacimiento."
+      ],
+      "respuesta": "B) Ser español y mayor de edad.",
+      "referencia": "Tit2, Art59.4, pág. 60",
+      "explicacion": "Son los dos requisitos básicos de capacidad. Texto: '4. Para ejercer la Regencia es preciso ser español y mayor de edad'."
+    },
+    {
+      "texto": "19. ¿En nombre de quién se ejerce siempre la Regencia?",
+      "opciones": [
+        "A) En nombre de las Cortes.",
+        "B) En nombre de la Constitución.",
+        "C) En nombre del Rey.",
+        "D) En nombre del pueblo español."
+      ],
+      "respuesta": "C) En nombre del Rey.",
+      "referencia": "Tit2, Art59.5, pág. 60",
+      "explicacion": "El Regente actúa por el Rey. Texto: '5. La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey'."
+    },
+    {
+      "texto": "20. ¿Quién será tutor del Rey menor si el Rey difunto no lo hubiese nombrado en su testamento?",
+      "opciones": [
+        "A) El pariente mayor de edad.",
+        "B) El Presidente del Gobierno.",
+        "C) El padre o la madre viudos.",
+        "D) El Regente de la Corona."
+      ],
+      "respuesta": "C) El padre o la madre viudos.",
+      "referencia": "Tit2, Art60.1, pág. 60",
+      "explicacion": "A falta de disposición testamentaria, recae en los padres. Texto: '...si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos'."
+    },
+    {
+      "texto": "21. ¿Qué requisito especial se pide al tutor testamentario del Rey menor?",
+      "opciones": [
+        "A) Ser mayor de edad y español de nacimiento.",
+        "B) Ser español y poseer bienes en España.",
+        "C) Ser mayor de 25 años y pariente.",
+        "D) Ser militar de carrera o diplomático."
+      ],
+      "respuesta": "A) Ser mayor de edad y español de nacimiento.",
+      "referencia": "Tit2, Art60.1, pág. 60",
+      "explicacion": "Se exige españolidad de origen para el tutor designado por testamento. Texto: '...siempre que sea mayor de edad y español de nacimiento'."
+    },
+    {
+      "texto": "22. ¿Pueden acumularse los cargos de Regente y de tutor del Rey?",
+      "opciones": [
+        "A) Nunca, en ningún caso.",
+        "B) Solo en el Presidente del Gobierno.",
+        "C) En el padre, madre o ascendientes directos.",
+        "D) En el Príncipe heredero mayor de edad."
+      ],
+      "respuesta": "C) En el padre, madre o ascendientes directos.",
+      "referencia": "Tit2, Art60.1, pág. 60",
+      "explicacion": "Hay excepciones a la prohibición de acumular cargos. Texto: '...no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey'."
+    },
+    {
+      "texto": "23. Con qué es incompatible el ejercicio de la tutela del Rey menor?",
+      "opciones": [
+        "A) Con el ejercicio de la abogacía.",
+        "B) Con la residencia fuera de Madrid.",
+        "C) Con todo cargo o representación política.",
+        "D) Con la percepción de rentas privadas."
+      ],
+      "respuesta": "C) Con todo cargo o representación política.",
+      "referencia": "Tit2, Art60.2, pág. 61",
+      "explicacion": "La tutela es incompatible con la política activa. Texto: '2. El ejercicio de la tutela es también incompatible con el de todo cargo o representación política'."
+    },
+    {
+      "texto": "24. Ante quién presta juramento el Rey al ser proclamado?",
+      "opciones": [
+        "A) Ante el Tribunal Constitucional.",
+        "B) Ante el Gobierno en pleno.",
+        "C) Ante las Cortes Generales.",
+        "D) Ante el Consejo de Estado."
+      ],
+      "respuesta": "C) Ante las Cortes Generales.",
+      "referencia": "Tit2, Art61.1, pág. 61",
+      "explicacion": "La proclamación y el juramento se realizan en sede parlamentaria. Texto: '1. El Rey, al ser proclamado ante las Cortes Generales...'"
+    },
+    {
+      "texto": "25. ¿Qué debe jurar guardar el Rey en su proclamación?",
+      "opciones": [
+        "A) Los intereses de la economía.",
+        "B) La Constitución y las leyes.",
+        "C) El honor de la dinastía Borbón.",
+        "D) El secreto de las deliberaciones."
+      ],
+      "respuesta": "B) La Constitución y las leyes.",
+      "referencia": "Tit2, Art61.1, pág. 61",
+      "explicacion": "El Rey jura lealtad al marco normativo. Texto: '...guardar y hacer guardar la Constitución y las leyes...'"
+    },
+    {
+      "texto": "26. ¿Quiénes deben prestar el mismo juramento que el Rey además del de fidelidad al monarca?",
+      "opciones": [
+        "A) Los miembros del Gobierno.",
+        "B) Los Presidentes de las Cámaras.",
+        "C) El Príncipe heredero y el Regente.",
+        "D) Los Magistrados del Poder Judicial."
+      ],
+      "respuesta": "C) El Príncipe heredero y el Regente.",
+      "referencia": "Tit2, Art61.2, pág. 61",
+      "explicacion": "Tanto el sucesor como el Regente tienen este deber. Texto: '2. El Príncipe heredero... y el Regente o Regentes... prestarán el mismo juramento...'"
+    },
+    {
+      "texto": "27. ¿Cuándo debe el Príncipe heredero prestar juramento?",
+      "opciones": [
+        "A) Al nacer su primer hijo.",
+        "B) Al ser designado heredero por ley.",
+        "C) Al alcanzar la mayoría de edad.",
+        "D) Solo cuando asuma la Corona."
+      ],
+      "respuesta": "C) Al alcanzar la mayoría de edad.",
+      "referencia": "Tit2, Art61.2, pág. 61",
+      "explicacion": "El juramento del Príncipe se vincula a su mayoría de edad. Texto: '2. El Príncipe heredero, al alcanzar la mayoría de edad...'"
+    },
+    {
+      "texto": "28. ¿A qué artículo corresponde la función de sancionar y promulgar las leyes?",
+      "opciones": [
+        "A) Artículo 61.",
+        "B) Artículo 62.",
+        "C) Artículo 63.",
+        "D) Artículo 64."
+      ],
+      "respuesta": "B) Artículo 62.",
+      "referencia": "Tit2, Art62.a), pág. 62",
+      "explicacion": "El artículo 62 enumera las funciones del Rey. Texto: 'Artículo 62. Corresponde al Rey: a) Sancionar y promulgar las leyes'."
+    },
+    {
+      "texto": "29. ¿Quién convoca a referéndum en los casos previstos en la Constitución?",
+      "opciones": [
+        "A) El Congreso de los Diputados.",
+        "B) El Tribunal Supremo.",
+        "C) El Rey.",
+        "D) El Presidente del Gobierno."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art62.c), pág. 62",
+      "explicacion": "La convocatoria formal es competencia real. Texto: 'c) Convocar a referéndum en los casos previstos en la Constitución'."
+    },
+    {
+      "texto": "30. ¿Quién propone al candidato a Presidente del Gobierno?",
+      "opciones": [
+        "A) El partido con más votos.",
+        "B) El Congreso de los Diputados.",
+        "C) El Rey.",
+        "D) El Senado."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art62.d), pág. 62",
+      "explicacion": "El Rey tiene la facultad de proponer el candidato. Texto: 'd) Proponer el candidato a Presidente del Gobierno...'"
+    },
+    {
+      "texto": "31. ¿A propuesta de quién nombra y separa el Rey a los miembros del Gobierno?",
+      "opciones": [
+        "A) Del Presidente del Congreso.",
+        "B) De las Cortes Generales.",
+        "C) Del Presidente del Gobierno.",
+        "D) Del Consejo de Ministros."
+      ],
+      "respuesta": "C) Del Presidente del Gobierno.",
+      "referencia": "Tit2, Art62.e), pág. 62",
+      "explicacion": "El Rey nombra a los ministros a propuesta de su Presidente. Texto: 'e) Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente'."
+    },
+    {
+      "texto": "32. ¿Qué sesiones puede presidir el Rey cuando lo estime oportuno?",
+      "opciones": [
+        "A) Las del Tribunal de Cuentas.",
+        "B) Las del Pleno del Congreso.",
+        "C) Las del Consejo de Ministros.",
+        "D) Las de las Juntas Electorales."
+      ],
+      "respuesta": "C) Las del Consejo de Ministros.",
+      "referencia": "Tit2, Art62.g), pág. 63",
+      "explicacion": "El Rey puede presidir el Consejo de Ministros para ser informado. Texto: 'g) ...presidir, a estos efectos, las sesiones del Consejo de Ministros...'"
+    },
+    {
+      "texto": "33. ¿Quién ostenta el mando supremo de las Fuerzas Armadas?",
+      "opciones": [
+        "A) El Jefe de Estado Mayor.",
+        "B) El Ministro de Defensa.",
+        "C) El Rey.",
+        "D) El Presidente del Gobierno."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art62.h), pág. 63",
+      "explicacion": "El mando supremo militar recae en la Corona. Texto: 'h) El mando supremo de las Fuerzas Armadas'."
+    },
+    {
+      "texto": "34. ¿Qué tipo de indultos no puede autorizar la ley al ejercer el derecho de gracia el Rey?",
+      "opciones": [
+        "A) Indultos de carácter penal.",
+        "B) Indultos a funcionarios.",
+        "C) Indultos generales.",
+        "D) Indultos a militares."
+      ],
+      "respuesta": "C) Indultos generales.",
+      "referencia": "Tit2, Art62.i), pág. 63",
+      "explicacion": "Se prohíbe la amnistía o indultos generales por ley. Texto: 'i) ...que no podrá autorizar indultos generales'."
+    },
+    {
+      "texto": "35. ¿De qué institución ostenta el Rey el Alto Patronazgo?",
+      "opciones": [
+        "A) De las Universidades Públicas.",
+        "B) De las Reales Academias.",
+        "C) Del Patrimonio Nacional.",
+        "D) De las Fundaciones del Estado."
+      ],
+      "respuesta": "B) De las Reales Academias.",
+      "referencia": "Tit2, Art62.j), pág. 63",
+      "explicacion": "Es una función cultural y honorífica. Texto: 'j) El Alto Patronazgo de las Reales Academias'."
+    },
+    {
+      "texto": "36. ¿Quién acredita a los embajadores españoles?",
+      "opciones": [
+        "A) El Ministro de Asuntos Exteriores.",
+        "B) El Presidente del Gobierno.",
+        "C) El Rey.",
+        "D) El Secretario de Estado."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art63.1, pág. 63",
+      "explicacion": "El Rey es quien otorga las credenciales. Texto: '1. El Rey acredita a los embajadores y otros representantes diplomáticos'."
+    },
+    {
+      "texto": "37. ¿Ante quién se acreditan los representantes extranjeros en España?",
+      "opciones": [
+        "A) Ante el Congreso de los Diputados.",
+        "B) Ante el Gobierno de España.",
+        "C) Ante el Rey.",
+        "D) Ante el Ministerio del Interior."
+      ],
+      "respuesta": "C) Ante el Rey.",
+      "referencia": "Tit2, Art63.1, pág. 64",
+      "explicacion": "La acreditación es recíproca ante la Jefatura del Estado. Texto: 'Los representantes extranjeros en España están acreditados ante él'."
+    },
+    {
+      "texto": "38. ¿Quién manifiesta el consentimiento del Estado para obligarse internacionalmente por medio de tratados?",
+      "opciones": [
+        "A) El Presidente de la República.",
+        "B) El Jefe del Ejecutivo central.",
+        "C) El Rey.",
+        "D) El Pleno de las Cortes."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art63.2, pág. 64",
+      "explicacion": "Es una función de representación exterior. Texto: '2. Al Rey corresponde manifestar el consentimiento del Estado para obligarse internacionalmente...'"
+    },
+    {
+      "texto": "39. ¿Qué requisito es necesario para que el Rey pueda declarar la guerra y hacer la paz?",
+      "opciones": [
+        "A) Informe del Consejo de Ministros.",
+        "B) Visto bueno del Estado Mayor.",
+        "C) Autorización de las Cortes Generales.",
+        "D) Resolución del Tribunal Constitucional."
+      ],
+      "respuesta": "C) Autorización de las Cortes Generales.",
+      "referencia": "Tit2, Art63.3, pág. 64",
+      "explicacion": "La guerra es una decisión que requiere control parlamentario. Texto: '3. Al Rey corresponde, previa autorización de las Cortes Generales, declarar la guerra...'"
+    },
+    {
+      "texto": "40. ¿Quiénes refrendan, como norma general, los actos del Rey?",
+      "opciones": [
+        "A) Solo el Presidente del Gobierno.",
+        "B) El Rey de forma personal.",
+        "C) El Presidente del Gobierno y los Ministros competentes.",
+        "D) Los Presidentes de ambas Cámaras."
+      ],
+      "respuesta": "C) El Presidente del Gobierno y los Ministros competentes.",
+      "referencia": "Tit2, Art64.1, pág. 64",
+      "explicacion": "El refrendo traslada la responsabilidad al Ejecutivo. Texto: '1. Los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes'."
+    },
+    {
+      "texto": "41. ¿Quién refrenda la propuesta y el nombramiento del Presidente del Gobierno?",
+      "opciones": [
+        "A) El Presidente del Senado.",
+        "B) El Fiscal General del Estado.",
+        "C) El Presidente del Congreso.",
+        "D) El Presidente saliente."
+      ],
+      "respuesta": "C) El Presidente del Congreso.",
+      "referencia": "Tit2, Art64.1, pág. 64",
+      "explicacion": "Es un refrendo parlamentario específico. Texto: 'La propuesta y el nombramiento del Presidente del Gobierno... serán refrendados por el Presidente del Congreso'."
+    },
+    {
+      "texto": "42. ¿Quién es responsable de los actos del Rey?",
+      "opciones": [
+        "A) El propio Rey.",
+        "B) El Consejo de Estado.",
+        "C) Las personas que los refrenden.",
+        "D) La Corona como institución."
+      ],
+      "respuesta": "C) Las personas que los refrenden.",
+      "referencia": "Tit2, Art64.2, pág. 65",
+      "explicacion": "La responsabilidad se desplaza del Rey al refrendante. Texto: '2. De los actos del Rey serán responsables las personas que los refrenden'."
+    },
+    {
+      "texto": "43. De dónde recibe el Rey la cantidad para el sostenimiento de su Familia y Casa?",
+      "opciones": [
+        "A) De un impuesto especial real.",
+        "B) De las rentas del Patrimonio Nacional.",
+        "C) De los Presupuestos del Estado.",
+        "D) De donaciones privadas reguladas."
+      ],
+      "respuesta": "C) De los Presupuestos del Estado.",
+      "referencia": "Tit2, Art65.1, pág. 65",
+      "explicacion": "La Casa Real se financia vía presupuestaria. Texto: '1. El Rey recibe de los Presupuestos del Estado una cantidad global...'"
+    },
+    {
+      "texto": "44. ¿Cómo distribuye el Rey la cantidad global recibida para su Familia y Casa?",
+      "opciones": [
+        "A) Bajo control del Ministerio de Hacienda.",
+        "B) Mediante aprobación de las Cortes.",
+        "C) Libremente.",
+        "D) Siguiendo un escalafón militar."
+      ],
+      "respuesta": "C) Libremente.",
+      "referencia": "Tit2, Art65.1, pág. 65",
+      "explicacion": "El Rey tiene autonomía en la gestión de su presupuesto. Texto: '...y distribuye libremente la misma'."
+    },
+    {
+      "texto": "45. ¿A quién nombra y releva libremente el Rey según el artículo 65.2?",
+      "opciones": [
+        "A) A los Magistrados del Supremo.",
+        "B) A los Ministros sin cartera.",
+        "C) A los miembros de su Casa.",
+        "D) A los Embajadores plenipotenciarios."
+      ],
+      "respuesta": "C) A los miembros de su Casa.",
+      "referencia": "Tit2, Art65.2, pág. 65",
+      "explicacion": "Es un acto que no requiere refrendo. Texto: '2. El Rey nombra y releva libremente a los miembros civiles y militares de su Casa'."
+    },
+    {
+      "texto": "46. ¿Qué artículo establece que el Rey es el Jefe del Estado?",
+      "opciones": [
+        "A) Artículo 1.",
+        "B) Artículo 10.",
+        "C) Artículo 56.",
+        "D) Artículo 66."
+      ],
+      "respuesta": "C) Artículo 56.",
+      "referencia": "Tit2, Art56, pág. 55",
+      "explicacion": "Es la definición constitucional del monarca. Texto: 'Artículo 56. 1. El Rey es el Jefe del Estado...'."
+    },
+    {
+      "texto": "47. Según el artículo 56.1, el Rey es símbolo de la unidad y:",
+      "opciones": [
+        "A) Grandeza del país.",
+        "B) Representación del pueblo.",
+        "C) Permanencia del Estado.",
+        "D) Justicia soberana."
+      ],
+      "respuesta": "C) Permanencia del Estado.",
+      "referencia": "Tit2, Art56.1, pág. 55",
+      "explicacion": "El Rey simboliza la continuidad. Texto: '...símbolo de su unidad y permanencia...'."
+    },
+    {
+      "texto": "48. Con qué naciones asume el Rey la más alta representación del Estado español?",
+      "opciones": [
+        "A) Con las de la Unión Europea.",
+        "B) Con las del Tratado del Atlántico.",
+        "C) Con las de su comunidad histórica.",
+        "D) Con todas las de las Naciones Unidas."
+      ],
+      "respuesta": "C) Con las de su comunidad histórica.",
+      "referencia": "Tit2, Art56.1, pág. 55",
+      "explicacion": "Se refiere especialmente a Iberoamérica. Texto: '...especialmente con las naciones de su comunidad histórica...'"
+    },
+    {
+      "texto": "49. ¿Qué título ostenta el Jefe del Estado según el artículo 56.2?",
+      "opciones": [
+        "A) Rey Católico de España.",
+        "B) Monarca Constitucional.",
+        "C) Rey de España.",
+        "D) Emperador de las Españas."
+      ],
+      "respuesta": "C) Rey de España.",
+      "referencia": "Tit2, Art56.2, pág. 55",
+      "explicacion": "Es el título oficial básico. Texto: '2. Su título es el de Rey de España...'."
+    },
+    {
+      "texto": "50. ¿En qué caso un acto del Rey no requiere refrendo según el artículo 56.3?",
+      "opciones": [
+        "A) Al sancionar una ley orgánica.",
+        "B) Al disolver las Cortes Generales.",
+        "C) Al nombrar a los miembros de su Casa.",
+        "D) Al declarar un estado de alarma."
+      ],
+      "respuesta": "C) Al nombrar a los miembros de su Casa.",
+      "referencia": "Tit2, Art56.3, pág. 56",
+      "explicacion": "Es la excepción recogida en el art. 65.2. Texto: '...salvo lo dispuesto en el artículo 65, 2'."
+    },
+    {
+      "texto": "51. ¿Qué artículo trata sobre la sucesión en el trono?",
+      "opciones": [
+        "A) Artículo 56.",
+        "B) Artículo 57.",
+        "C) Artículo 58.",
+        "D) Artículo 59."
+      ],
+      "respuesta": "B) Artículo 57.",
+      "referencia": "Tit2, Art57, pág. 56",
+      "explicacion": "El artículo 57 regula las normas sucesorias. Texto: 'Artículo 57. 1. La Corona de España es hereditaria...'"
+    },
+    {
+      "texto": "52. ¿Qué orden sigue la sucesión en el trono según el artículo 57.1?",
+      "opciones": [
+        "A) Orden de elección parlamentaria.",
+        "B) Orden de proximidad sanguínea.",
+        "C) Orden regular de primogenitura y representación.",
+        "D) Orden de designación real directa."
+      ],
+      "respuesta": "C) Orden regular de primogenitura y representación.",
+      "referencia": "Tit2, Art57.1, pág. 56",
+      "explicacion": "Son los principios dinásticos tradicionales. Texto: 'La sucesión en el trono seguirá el orden regular de primogenitura y representación...'."
+    },
+    {
+      "texto": "53. En la sucesión a la Corona, ¿qué línea es preferida?",
+      "opciones": [
+        "A) La línea colateral siempre.",
+        "B) La línea posterior a la anterior.",
+        "C) La línea anterior a las posteriores.",
+        "D) La línea femenina a la masculina."
+      ],
+      "respuesta": "C) La línea anterior a las posteriores.",
+      "referencia": "Tit2, Art57.1, pág. 56",
+      "explicacion": "Se prefiere la rama directa y más antigua. Texto: '...siendo preferida siempre la línea anterior a las posteriores...'."
+    },
+    {
+      "texto": "54. En el mismo sexo y grado, ¿quién es preferido para la sucesión?",
+      "opciones": [
+        "A) La persona de menos edad.",
+        "B) El que designe el Gobierno.",
+        "C) La persona de más edad.",
+        "D) El varón de mayor edad siempre."
+      ],
+      "respuesta": "C) La persona de más edad.",
+      "referencia": "Tit2, Art57.1, pág. 56",
+      "explicacion": "Rige el principio de mayorazgo. Texto: '...en el mismo sexo, la persona de más edad a la de menos'."
+    },
+    {
+      "texto": "55. ¿Cuándo adquiere el sucesor la dignidad de Príncipe de Asturias?",
+      "opciones": [
+        "A) Al cumplir los 18 años.",
+        "B) Al jurar ante las Cortes.",
+        "C) Desde su nacimiento o hecho que origine el llamamiento.",
+        "D) Al ser nombrado por el Rey mediante Decreto."
+      ],
+      "respuesta": "C) Desde su nacimiento o hecho que origine el llamamiento.",
+      "referencia": "Tit2, Art57.2, pág. 57",
+      "explicacion": "Es una condición inherente al heredero. Texto: '2. El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento...'"
+    },
+    {
+      "texto": "56. ¿Qué artículo prohíbe las funciones constitucionales a los consortes reales?",
+      "opciones": [
+        "A) Artículo 57.",
+        "B) Artículo 58.",
+        "C) Artículo 59.",
+        "D) Artículo 60."
+      ],
+      "respuesta": "B) Artículo 58.",
+      "referencia": "Tit2, Art58, pág. 58",
+      "explicacion": "Establece la limitación de los consortes. Texto: 'Artículo 58. La Reina consorte o el consorte de la Reina no podrán asumir funciones constitucionales...'."
+    },
+    {
+      "texto": "57. ¿Quién ejerce la Regencia si no hay padre ni madre del Rey menor?",
+      "opciones": [
+        "A) El pariente mayor de edad más próximo a suceder.",
+        "B) El Presidente del Tribunal Supremo.",
+        "C) El Jefe de la Casa del Rey.",
+        "D) El Regente que elijan los ciudadanos."
+      ],
+      "respuesta": "A) El pariente mayor de edad más próximo a suceder.",
+      "referencia": "Tit2, Art59.1, pág. 58",
+      "explicacion": "Sigue el orden sucesorio. Texto: '...y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona...'."
+    },
+    {
+      "texto": "58. ¿En qué caso el Príncipe heredero entra a ejercer inmediatamente la Regencia?",
+      "opciones": [
+        "A) Al fallecer el Rey siendo él menor.",
+        "B) Si el Rey se inhabilita y el Príncipe es mayor de edad.",
+        "C) Por delegación expresa de las Cortes.",
+        "D) Al contraer matrimonio con autorización."
+      ],
+      "respuesta": "B) Si el Rey se inhabilita y el Príncipe es mayor de edad.",
+      "referencia": "Tit2, Art59.2, pág. 59",
+      "explicacion": "Es el supuesto de incapacidad del monarca. Texto: '2. Si el Rey se inhabilitare... entrará a ejercer inmediatamente la Regencia el Príncipe heredero... si fuere mayor de edad'."
+    },
+    {
+      "texto": "59. ¿Quién asume la Regencia si no hubiere ninguna persona a quien corresponda por Constitución?",
+      "opciones": [
+        "A) El Gobierno en funciones.",
+        "B) Una Junta de Salvación Nacional.",
+        "C) La persona que nombren las Cortes Generales.",
+        "D) El tutor del Rey de forma automática."
+      ],
+      "respuesta": "C) La persona que nombren las Cortes Generales.",
+      "referencia": "Tit2, Art59.3, pág. 59",
+      "explicacion": "Las Cortes eligen en última instancia. Texto: '3. Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales...'"
+    },
+    {
+      "texto": "60. ¿A quién puede nombrar el Rey difunto en su testamento para el cargo de tutor?",
+      "opciones": [
+        "A) A cualquier persona mayor de edad.",
+        "B) A una persona de nacionalidad española de nacimiento.",
+        "C) Solo a miembros de la familia real.",
+        "D) Al Presidente del Congreso de los Diputados."
+      ],
+      "respuesta": "B) A una persona de nacionalidad española de nacimiento.",
+      "referencia": "Tit2, Art60.1, pág. 60",
+      "explicacion": "Se requiere nacionalidad de origen. Texto: '...siempre que sea mayor de edad y español de nacimiento'."
+    },
+    {
+      "texto": "61. ¿Quién nombra al tutor del Rey menor a falta de testamento y de padres viudos?",
+      "opciones": [
+        "A) El Regente de la Corona.",
+        "B) El Consejo de Ministros.",
+        "C) Las Cortes Generales.",
+        "D) El Rey de forma póstuma."
+      ],
+      "respuesta": "C) Las Cortes Generales.",
+      "referencia": "Tit2, Art60.1, pág. 60",
+      "explicacion": "Subsidiariamente el nombramiento es parlamentario. Texto: '...En su defecto, lo nombrarán las Cortes Generales...'"
+    },
+    {
+      "texto": "62. ¿Qué cargo es incompatible con el ejercicio de la tutela del Rey?",
+      "opciones": [
+        "A) Cargo militar de alto rango.",
+        "B) Todo cargo o representación política.",
+        "C) La presidencia de una ONG cultural.",
+        "D) El ejercicio de la patria potestad."
+      ],
+      "respuesta": "B) Todo cargo o representación política.",
+      "referencia": "Tit2, Art60.2, pág. 61",
+      "explicacion": "Garantiza la neutralidad de la tutela. Texto: '2. El ejercicio de la tutela es también incompatible con el de todo cargo o representación política'."
+    },
+    {
+      "texto": "63. ¿Qué debe respetar el Rey en su juramento respecto a las autonomías?",
+      "opciones": [
+        "A) Sus límites territoriales únicamente.",
+        "B) Sus competencias exclusivas.",
+        "C) Los derechos de las Comunidades Autónomas.",
+        "D) La lengua propia de cada una."
+      ],
+      "respuesta": "C) Los derechos de las Comunidades Autónomas.",
+      "referencia": "Tit2, Art61.1, pág. 61",
+      "explicacion": "El juramento incluye el respeto al Estado autonómico. Texto: '...y respetar los derechos de los ciudadanos y de las Comunidades Autónomas'."
+    },
+    {
+      "texto": "64. ¿Qué juramento adicional deben prestar el Príncipe heredero y el Regente?",
+      "opciones": [
+        "A) El de guardar el secreto de Estado.",
+        "B) El de fidelidad al Rey.",
+        "C) El de protección a la Iglesia.",
+        "D) El de obediencia al Gobierno."
+      ],
+      "respuesta": "B) El de fidelidad al Rey.",
+      "referencia": "Tit2, Art61.2, pág. 61",
+      "explicacion": "Además del juramento constitucional, juran lealtad al monarca. Texto: '...prestarán el mismo juramento, así como el de fidelidad al Rey'."
+    },
+    {
+      "texto": "65. ¿Cuál es el artículo que detalla las competencias del Rey?",
+      "opciones": [
+        "A) Artículo 60.",
+        "B) Artículo 61.",
+        "C) Artículo 62.",
+        "D) Artículo 63."
+      ],
+      "respuesta": "C) Artículo 62.",
+      "referencia": "Tit2, Art62, pág. 62",
+      "explicacion": "Es el artículo clave sobre las funciones regias. Texto: 'Artículo 62. Corresponde al Rey...'"
+    },
+    {
+      "texto": "66. ¿Quién expide los decretos acordados en el Consejo de Ministros?",
+      "opciones": [
+        "A) El Presidente del Gobierno.",
+        "B) El Ministro de la Presidencia.",
+        "C) El Rey.",
+        "D) El Secretario del Consejo."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art62.f), pág. 62",
+      "explicacion": "La expedición formal es competencia del Rey. Texto: 'f) Expedir los decretos acordados en el Consejo de Ministros...'"
+    },
+    {
+      "texto": "67. ¿A quién nombra el Rey tras la investidura parlamentaria?",
+      "opciones": [
+        "A) Al Jefe de la Oposición.",
+        "B) Al Presidente del Congreso.",
+        "C) Al Presidente del Gobierno.",
+        "D) Al Fiscal General del Estado."
+      ],
+      "respuesta": "C) Al Presidente del Gobierno.",
+      "referencia": "Tit2, Art62.d), pág. 62",
+      "explicacion": "Nombramiento del jefe del ejecutivo. Texto: 'd) ...y, en su caso, nombrarlo [al Presidente del Gobierno]...'"
+    },
+    {
+      "texto": "68. ¿Quién tiene la potestad de conferir empleos civiles y militares?",
+      "opciones": [
+        "A) Las Cortes Generales.",
+        "B) El Consejo de Ministros.",
+        "C) El Rey.",
+        "D) El Ministro de Administraciones Públicas."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art62.f), pág. 62",
+      "explicacion": "El Rey confiere estos empleos según las leyes. Texto: 'f) ...conferir los empleos civiles y militares...'"
+    },
+    {
+      "texto": "69. ¿Quién concede honores y distinciones con arreglo a las leyes?",
+      "opciones": [
+        "A) El Gobierno de la Nación.",
+        "B) El Rey de forma discrecional.",
+        "C) El Rey.",
+        "D) El Ministerio de Cultura."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art62.f), pág. 63",
+      "explicacion": "La concesión de honores es una función regia. Texto: 'f) ...y conceder honores y distinciones con arreglo a las leyes'."
+    },
+    {
+      "texto": "70. ¿Quién nombra y releva a los miembros civiles y militares de la Casa del Rey?",
+      "opciones": [
+        "A) El Presidente del Gobierno.",
+        "B) El Jefe de la Casa del Rey.",
+        "C) El Rey.",
+        "D) El Ministro de Defensa."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art65.2, pág. 65",
+      "explicacion": "Es una potestad libre del monarca. Texto: '2. El Rey nombra y releva libremente a los miembros civiles y militares de su Casa'."
+    },
+    {
+      "texto": "71. ¿A quién corresponde disolver las Cortes Generales?",
+      "opciones": [
+        "A) Al Presidente del Gobierno.",
+        "B) Al Presidente del Congreso.",
+        "C) Al Rey.",
+        "D) Al Pleno de ambas Cámaras."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art62.b), pág. 62",
+      "explicacion": "El Rey decreta la disolución. Texto: 'b) ...disolver las Cortes Generales...'"
+    },
+    {
+      "texto": "72. ¿Quién convoca elecciones en los términos previstos en la Constitución?",
+      "opciones": [
+        "A) La Junta Electoral Central.",
+        "B) El Ministro del Interior.",
+        "C) El Rey.",
+        "D) El Presidente del Gobierno."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art62.b), pág. 62",
+      "explicacion": "La convocatoria formal de elecciones es competencia regia. Texto: 'b) ...y convocar elecciones en los términos previstos en la Constitución'."
+    },
+    {
+      "texto": "73. ¿De qué artículo emana la inviolabilidad de la persona del Rey?",
+      "opciones": [
+        "A) Artículo 56.1.",
+        "B) Artículo 56.2.",
+        "C) Artículo 56.3.",
+        "D) Artículo 57.1."
+      ],
+      "respuesta": "C) Artículo 56.3.",
+      "referencia": "Tit2, Art56.3, pág. 56",
+      "explicacion": "Establece la inmunidad y falta de responsabilidad. Texto: '3. La persona del Rey es inviolable y no está sujeta a responsabilidad'."
+    },
+    {
+      "texto": "74. ¿Qué artículo permite al Rey utilizar otros títulos que correspondan a la Corona?",
+      "opciones": [
+        "A) Artículo 56.1.",
+        "B) Artículo 56.2.",
+        "C) Artículo 57.2.",
+        "D) Artículo 62.j)."
+      ],
+      "respuesta": "B) Artículo 56.2.",
+      "referencia": "Tit2, Art56.2, pág. 55",
+      "explicacion": "El Rey puede usar títulos tradicionales. Texto: '2. Su título es el de Rey de España y podrá utilizar los demás que correspondan a la Corona'."
+    },
+    {
+      "texto": "75. ¿Cómo se denomina al heredero de la dinastía histórica según el artículo 57.1?",
+      "opciones": [
+        "A) S. M. Don Alfonso XIII.",
+        "B) S. M. Don Felipe VI.",
+        "C) S. M. Don Juan Carlos I de Borbón.",
+        "D) El Jefe del Estado español."
+      ],
+      "respuesta": "C) S. M. Don Juan Carlos I de Borbón.",
+      "referencia": "Tit2, Art57.1, pág. 56",
+      "explicacion": "Referencia directa al titular en el momento de la redacción. Texto: 'La Corona de España es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón...'"
+    },
+    {
+      "texto": "76. ¿Qué artículo establece que la Regencia se ejerce en nombre del Rey?",
+      "opciones": [
+        "A) Artículo 59.1.",
+        "B) Artículo 59.3.",
+        "C) Artículo 59.5.",
+        "D) Artículo 60.1."
+      ],
+      "respuesta": "C) Artículo 59.5.",
+      "referencia": "Tit2, Art59.5, pág. 60",
+      "explicacion": "El Regente actúa por delegación constitucional. Texto: '5. La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey'."
+    },
+    {
+      "texto": "77. ¿Qué mayoría de las Cortes se requiere para elegir una Regencia de tres o cinco personas?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) No se especifica mayoría en el Título II.",
+        "D) Mayoría de tres quintos."
+      ],
+      "respuesta": "C) No se especifica mayoría en el Título II.",
+      "referencia": "Tit2, Art59.3, pág. 59",
+      "explicacion": "El artículo 59.3 no menciona mayorías específicas. Texto: '3. Si no hubiere ninguna persona... ésta será nombrada por las Cortes Generales...'"
+    },
+    {
+      "texto": "78. ¿Qué sucede si el Rey se inhabilitare y el Príncipe heredero no fuera mayor de edad?",
+      "opciones": [
+        "A) El Gobierno asume la Jefatura.",
+        "B) Se nombra una Regencia de cinco personas.",
+        "C) Se procede según la minoría de edad del Rey.",
+        "D) El Senado convoca elecciones generales."
+      ],
+      "respuesta": "C) Se procede según la minoría de edad del Rey.",
+      "referencia": "Tit2, Art59.2, pág. 59",
+      "explicacion": "Se aplica el orden del apartado 1. Texto: '...Si no lo fuere [mayor de edad], se procederá de la manera prevista en el apartado anterior...'"
+    },
+    {
+      "texto": "79. ¿Qué artículo regula la incompatibilidad de la tutela con cargos políticos?",
+      "opciones": [
+        "A) Artículo 60.1.",
+        "B) Artículo 60.2.",
+        "C) Artículo 61.1.",
+        "D) Artículo 65.2."
+      ],
+      "respuesta": "B) Artículo 60.2.",
+      "referencia": "Tit2, Art60.2, pág. 61",
+      "explicacion": "Evita la politización del tutor. Texto: '2. El ejercicio de la tutela es también incompatible con el de todo cargo o representación política'."
+    },
+    {
+      "texto": "80. ¿Quiénes deben jurar fidelidad al Rey además del Príncipe heredero?",
+      "opciones": [
+        "A) Los Ministros.",
+        "B) El Regente o Regentes.",
+        "C) Los Presidentes de las Cortes.",
+        "D) Los Magistrados del Supremo."
+      ],
+      "respuesta": "B) El Regente o Regentes.",
+      "referencia": "Tit2, Art61.2, pág. 61",
+      "explicacion": "Es un requisito para asumir sus funciones. Texto: '...y el Regente o Regentes al hacerse cargo de sus funciones, prestarán el mismo juramento, así como el de fidelidad al Rey'."
+    },
+    {
+      "texto": "81. ¿En qué artículo se menciona el derecho de gracia?",
+      "opciones": [
+        "A) Artículo 62.h).",
+        "B) Artículo 62.i).",
+        "C) Artículo 63.3.",
+        "D) Artículo 64.1."
+      ],
+      "respuesta": "B) Artículo 62.i).",
+      "referencia": "Tit2, Art62.i), pág. 63",
+      "explicacion": "El derecho de gracia es una función regia. Texto: 'i) Ejercer el derecho de gracia con arreglo a la ley...'"
+    },
+    {
+      "texto": "82. ¿A quién corresponde sancionar y promulgar las leyes?",
+      "opciones": [
+        "A) Al Presidente del Gobierno.",
+        "B) Al Congreso de los Diputados.",
+        "C) Al Rey.",
+        "D) Al Tribunal Constitucional."
+      ],
+      "respuesta": "C) Al Rey.",
+      "referencia": "Tit2, Art62.a), pág. 62",
+      "explicacion": "Es el paso final del proceso legislativo. Texto: 'a) Sancionar y promulgar las leyes'."
+    },
+    {
+      "texto": "83. ¿Quién informa al Rey de los asuntos de Estado?",
+      "opciones": [
+        "A) El Jefe de la Oposición.",
+        "B) El Presidente del Congreso.",
+        "C) El Presidente del Gobierno.",
+        "D) El Consejo de Estado."
+      ],
+      "respuesta": "C) El Presidente del Gobierno.",
+      "referencia": "Tit2, Art62.g), pág. 63",
+      "explicacion": "El Rey tiene derecho a ser informado. Texto: 'g) Ser informado de los asuntos de Estado... a petición del Presidente del Gobierno'."
+    },
+    {
+      "texto": "84. ¿Qué artículo dispone sobre el refrendo de los actos del Rey?",
+      "opciones": [
+        "A) Artículo 62.",
+        "B) Artículo 63.",
+        "C) Artículo 64.",
+        "D) Artículo 65."
+      ],
+      "respuesta": "C) Artículo 64.",
+      "referencia": "Tit2, Art64, pág. 64",
+      "explicacion": "El artículo 64 regula quién y cómo se refrenda. Texto: 'Artículo 64. 1. Los actos del Rey serán refrendados...'"
+    },
+    {
+      "texto": "85. ¿Qué artículo menciona que el Rey distribuye libremente la cantidad global de los Presupuestos?",
+      "opciones": [
+        "A) Artículo 64.1.",
+        "B) Artículo 65.1.",
+        "C) Artículo 65.2.",
+        "D) Artículo 63.2."
+      ],
+      "respuesta": "B) Artículo 65.1.",
+      "referencia": "Tit2, Art65.1, pág. 65",
+      "explicacion": "Regula la dotación económica de la Familia Real. Texto: 'Artículo 65. 1. El Rey recibe de los Presupuestos... y distribuye libremente la misma'."
+    },
+    {
+      "texto": "86. ¿Cuántas secciones tiene el Título II de la Constitución?",
+      "opciones": [
+        "A) Dos secciones.",
+        "B) Tres secciones.",
+        "C) Ninguna sección.",
+        "D) Una sección única."
+      ],
+      "respuesta": "C) Ninguna sección.",
+      "referencia": "Tit2, pág. 12-13 e índice",
+      "explicacion": "A diferencia del Título I o III, el Título II no está dividido en secciones. Texto: 'TÍTULO II. De la Corona'."
+    },
+    {
+      "texto": "87. ¿Qué artículo regula la inhabilitación del Rey?",
+      "opciones": [
+        "A) Artículo 57.",
+        "B) Artículo 58.",
+        "C) Artículo 59.",
+        "D) Artículo 60."
+      ],
+      "respuesta": "C) Artículo 59.",
+      "referencia": "Tit2, Art59, pág. 58-59",
+      "explicacion": "El artículo 59 regula tanto la minoría de edad como la inhabilitación. Texto: '2. Si el Rey se inhabilitare para el ejercicio de su autoridad...'"
+    },
+    {
+      "texto": "88. ¿Qué institución nombra al tutor del Rey menor si no hay previsión en testamento ni padres viudos?",
+      "opciones": [
+        "A) El Gobierno.",
+        "B) El Consejo de la Corona.",
+        "C) Las Cortes Generales.",
+        "D) El Defensor del Pueblo."
+      ],
+      "respuesta": "C) Las Cortes Generales.",
+      "referencia": "Tit2, Art60.1, pág. 60",
+      "explicacion": "Las Cortes intervienen subsidiariamente. Texto: '...En su defecto, lo nombrarán las Cortes Generales...'"
+    },
+    {
+      "texto": "89. ¿Qué artículo faculta al Rey para convocar y disolver las Cortes Generales?",
+      "opciones": [
+        "A) Artículo 61.",
+        "B) Artículo 62.",
+        "C) Artículo 63.",
+        "D) Artículo 64."
+      ],
+      "respuesta": "B) Artículo 62.",
+      "referencia": "Tit2, Art62.b), pág. 62",
+      "explicacion": "Es una de las funciones enumeradas en el art. 62. Texto: 'b) Convocar y disolver las Cortes Generales...'"
+    },
+    {
+      "texto": "90. ¿Qué artículo corresponde a la acreditación de embajadores?",
+      "opciones": [
+        "A) Artículo 62.f).",
+        "B) Artículo 63.1.",
+        "C) Artículo 64.2.",
+        "D) Artículo 65.1."
+      ],
+      "respuesta": "B) Artículo 63.1.",
+      "referencia": "Tit2, Art63.1, pág. 63",
+      "explicacion": "El artículo 63 se centra en las relaciones internacionales. Texto: '1. El Rey acredita a los embajadores y otros representantes diplomáticos'."
+    },
+    {
+      "texto": "91. ¿Qué actos del Rey refrenda el Presidente del Congreso?",
+      "opciones": [
+        "A) La sanción de leyes orgánicas.",
+        "B) La declaración de guerra.",
+        "C) La propuesta y el nombramiento del Presidente del Gobierno.",
+        "D) El nombramiento de los miembros de la Casa del Rey."
+      ],
+      "respuesta": "C) La propuesta y el nombramiento del Presidente del Gobierno.",
+      "referencia": "Tit2, Art64.1, pág. 64",
+      "explicacion": "Es una excepción al refrendo habitual del Ejecutivo. Texto: 'La propuesta y el nombramiento del Presidente del Gobierno... serán refrendados por el Presidente del Congreso'."
+    },
+    {
+      "texto": "92. ¿Qué cargo puede acumularse con el de tutor del Rey menor según el artículo 60?",
+      "opciones": [
+        "A) El de Presidente del Gobierno.",
+        "B) El de Regente, solo en ciertos familiares.",
+        "C) El de Jefe de la Casa Real.",
+        "D) El de Presidente del Congreso."
+      ],
+      "respuesta": "B) El de Regente, solo en ciertos familiares.",
+      "referencia": "Tit2, Art60.1, pág. 60",
+      "explicacion": "Se permite la acumulación solo en parientes directos. Texto: '...no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey'."
+    },
+    {
+      "texto": "93. ¿Qué artículo define al Rey como símbolo de unidad y permanencia del Estado?",
+      "opciones": [
+        "A) Artículo 1.3.",
+        "B) Artículo 56.1.",
+        "C) Artículo 57.1.",
+        "D) Artículo 62."
+      ],
+      "respuesta": "B) Artículo 56.1.",
+      "referencia": "Tit2, Art56.1, pág. 55",
+      "explicacion": "Es la definición de la naturaleza de la monarquía. Texto: '1. El Rey es el Jefe del Estado, símbolo de su unidad y permanencia...'"
+    },
+    {
+      "texto": "94. ¿Quién asume la representación del Estado en relaciones internacionales especialmente con naciones de su comunidad histórica?",
+      "opciones": [
+        "A) El Ministro de Exteriores.",
+        "B) El Presidente del Gobierno.",
+        "C) El Rey.",
+        "D) El Congreso de los Diputados."
+      ],
+      "respuesta": "C) El Rey.",
+      "referencia": "Tit2, Art56.1, pág. 55",
+      "explicacion": "El Rey personifica la representación internacional. Texto: '...asume la más alta representación del Estado español en las relaciones internacionales...'"
+    },
+    {
+      "texto": "95. ¿Qué artículo establece el título de Príncipe de Asturias para el heredero?",
+      "opciones": [
+        "A) Artículo 56.2.",
+        "B) Artículo 57.1.",
+        "C) Artículo 57.2.",
+        "D) Artículo 61.2."
+      ],
+      "respuesta": "C) Artículo 57.2.",
+      "referencia": "Tit2, Art57.2, pág. 57",
+      "explicacion": "Regula la condición del heredero. Texto: '2. El Príncipe heredero... tendrá la dignidad de Príncipe de Asturias...'"
+    },
+    {
+      "texto": "96. ¿Quién asume la Regencia si no hay nadie designado por Constitución ni por las Cortes?",
+      "opciones": [
+        "A) El Gobierno en pleno.",
+        "B) El Presidente del Tribunal Constitucional.",
+        "C) No es posible, las Cortes siempre deben nombrarla en último término.",
+        "D) El tutor testamentario del Rey menor."
+      ],
+      "respuesta": "C) No es posible, las Cortes siempre deben nombrarla en último término.",
+      "referencia": "Tit2, Art59.3, pág. 59",
+      "explicacion": "Las Cortes son la garantía final del sistema de Regencia. Texto: '3. Si no hubiere ninguna persona... ésta será nombrada por las Cortes Generales...'"
+    },
+    {
+      "texto": "97. ¿Cuál es el artículo final del Título II?",
+      "opciones": [
+        "A) Artículo 64.",
+        "B) Artículo 65.",
+        "C) Artículo 66.",
+        "D) Artículo 60."
+      ],
+      "respuesta": "B) Artículo 65.",
+      "referencia": "Tit2, Art65, pág. 65",
+      "explicacion": "El Título II termina con el artículo 65, sobre la Casa Real. Texto: 'Artículo 65. 1. El Rey recibe de los Presupuestos del Estado...'"
+    },
+    {
+      "texto": "98. ¿Qué mayoría se requiere para aprobar la ley orgánica que resuelva dudas en el orden de sucesión?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría de dos tercios.",
+        "C) Mayoría absoluta.",
+        "D) Mayoría de tres quintos."
+      ],
+      "respuesta": "C) Mayoría absoluta.",
+      "referencia": "Tit2, Art57.5, pág. 58 y fuentes generales (Art. 81)",
+      "explicacion": "Aunque el Art. 57.5 dice 'ley orgánica', estas requieren siempre mayoría absoluta del Congreso. Texto: '...se resolverán por una ley orgánica'."
+    },
+    {
+      "texto": "99. ¿Qué artículo establece el mando supremo de las Fuerzas Armadas?",
+      "opciones": [
+        "A) Artículo 8.",
+        "B) Artículo 30.",
+        "C) Artículo 62.",
+        "D) Artículo 97."
+      ],
+      "respuesta": "C) Artículo 62.",
+      "referencia": "Tit2, Art62.h), pág. 63",
+      "explicacion": "Es una función propia del Rey según el art. 62. Texto: 'h) El mando supremo de las Fuerzas Armadas'."
+    },
+    {
+      "texto": "100. ¿Qué artículo indica que el Rey sancionará las leyes en el plazo de quince días?",
+      "opciones": [
+        "A) Artículo 62.a).",
+        "B) Artículo 91.",
+        "C) Artículo 64.",
+        "D) Artículo 56."
+      ],
+      "respuesta": "B) Artículo 91.",
+      "referencia": "Tit2/Tit3, Art91, pág. 91",
+      "explicacion": "Aunque la sanción es función del Rey (art. 62), el plazo específico de 15 días se regula en el Título III (Art. 91). Texto: 'Artículo 91. El Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales...'."
+    }
+  ]
+}

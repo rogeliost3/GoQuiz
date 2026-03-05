@@ -1,0 +1,94 @@
+<!-- Utilidad que permite seleccionar un archivo json, le cambia el primer campo y pone la palabra "texto", y renumera las preguntas desde 1.-->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Modificar JSON de Preguntas</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #f4f6f8;
+        padding: 40px;
+    }
+    button {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+
+<h2>Modificar JSON de preguntas</h2>
+<h4>Utilidad que permite seleccionar un archivo json, le cambia el primer campo y pone la palabra "texto", y renumera las preguntas desde 1.-</h4>
+<input type="file" id="fileInput" accept=".json">
+<button onclick="procesarJSON()">Procesar y descargar</button>
+
+<script>
+function procesarJSON() {
+    const input = document.getElementById('fileInput');
+    
+    if (!input.files.length) {
+        alert("Selecciona un archivo JSON");
+        return;
+    }
+
+    const file = input.files[0];
+    const reader = new FileReader();
+
+    reader.onload = function(event) {
+        try {
+            const data = JSON.parse(event.target.result);
+
+            for (let key in data) {
+                if (Array.isArray(data[key])) {
+
+                    data[key] = data[key].map((item, index) => {
+
+                        const claves = Object.keys(item);
+                        const primeraClave = claves[0];
+
+                        let preguntaTexto = item[primeraClave];
+                        preguntaTexto = preguntaTexto.replace(/^\d+\.\s*/, "");
+
+                        const nuevaPregunta = (index + 1) + ". " + preguntaTexto;
+
+                        // 🔹 Construimos nuevo objeto en el orden correcto
+                        const nuevoObjeto = {
+                            texto: nuevaPregunta,
+                            opciones: item.opciones,
+                            respuesta: item.respuesta,
+                            referencia: item.referencia,
+                            explicacion: item.explicacion
+                        };
+
+                        return nuevoObjeto;
+                    });
+                }
+            }
+
+            const nuevoNombre = file.name.replace(".json", "") + "-modificado.json";
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+            const url = URL.createObjectURL(blob);
+
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = nuevoNombre;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+
+            URL.revokeObjectURL(url);
+
+        } catch (error) {
+            alert("Error procesando el JSON: " + error.message);
+        }
+    };
+
+    reader.readAsText(file);
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "name": "AeroQuiz",
+  "short_name": "AeroQuiz",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    { "src": "aeroquiz.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "aeroquiz.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

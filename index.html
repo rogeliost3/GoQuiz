@@ -1,466 +1,438 @@
+<!-- 
+### Aplicación desarrollada para Test de exámenes y memorización.
+#### Sept 2025 - Rogelio Suárez Tejera.
+##### v.1.3 - Mar-2026
+
+
+-->
+
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AeroQuiz - Prácticas Gamificadas</title>
 
-    <link rel="icon" href="aeroquiz.png" type="image/png" />
-    <!-- o si usas formato .ico -->
-    <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
+<!-- TO-DOs: 
+Incluir boton de "Modo Exámen" que ocultará el boton Ver Detalles, cambiará Reset-ALL por Terminar (aunque hará lo mismo), 
+  y desactivará las respuestas una vez pulsado el botón Comprobar (este bien o mal). 
+Incluir una opción de "Modo Exámen con Reloj", que añadirá una cuenta atrás (personalizable) que será la que termine el examen, aparte del botón Terminar.
+Incluir cálculo de puntuación en base a reglas personalizables.
 
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <div id="menubar">
+Darle funcionalidad al boton REDO, para borrar y reactivar de nuevo una pregunta ya respondida correctamente.
+Darle funcionalidad al boton RE-EXAMINAR, para re-iniciar el test descartando las preguntas que se acertaron al primer intento en la ronda anterior.
 
-      <h2>AeroQuiz</h2>
-      
+Versión optimizada del CSS para que cargue más rápido en móvil y PWA.
+Añadir splash screen real
+Versionado automático de la app
+Convertirla en APK instalable -->
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AeroQuiz - Prácticas Gamificadas</title>
+  <link rel="icon" href="aeroquiz.png" type="image/png" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+  <div id="menubar">
+    <h2>AeroQuiz</h2>
 
     <input type="file" id="jsonFile" accept=".json" style="display: none" />
 
     <button id="cargarJSONBtn" onclick="document.getElementById('jsonFile').click()">Cargar preguntas</button>
-    
-
-      <button id="resetAllBtn">RESET-ALL</button>
-      <button id="newRoundBtn">NEW ROUND</button>
-      <div class="marcador">
+    <button id="resetAllBtn">RESET-ALL</button>
+    <!-- <button id="newRoundBtn">NEW ROUND</button> -->
+    <div class="marcador">
       ✅ <span id="aciertos">0</span> / ❌ <span id="errores">0</span>
-      </div>
-      <!-- Botón de tema -->
-      <button id="toggleThemeBtn">🌙</button>
     </div>
+    <button id="toggleThemeBtn">🌙</button>
+  </div>
 
-    <p id="mensajeJSON">
-      Selecciona tu archivo JSON para cargar las preguntas.
-    </p>
+  <p id="mensajeJSON">Selecciona tu archivo JSON para cargar las preguntas.</p>
 
-    <div id="contenido"></div>
+  <div id="contenido"></div>
 
-    <script>
-      /* Estado global */
-      let aciertos = 0;
-      let errores = 0;
-      /* Estructura: usados[qid] = { estado: "correcto"|"incorrecto", seleccion: "valor" } */
-      let usados = {};
-      let jsonKey = null;
-
-      /* Elementos DOM referenciados */
-      const aciertosSpan = document.getElementById("aciertos");
-      const erroresSpan = document.getElementById("errores");
-      const contenidoDiv = document.getElementById("contenido");
-      const mensajeJSON = document.getElementById("mensajeJSON");
-      const jsonInput = document.getElementById("jsonFile");
-      const toggleThemeBtn = document.getElementById("toggleThemeBtn");
-      const resetAllBtn = document.getElementById("resetAllBtn");
-      resetAllBtn.addEventListener("click", resetAll);
-
-      /* ---------- Cambiar tema ---------- */
-      function setTheme(theme) {
-        document.body.classList.toggle("dark", theme === "dark");
-        toggleThemeBtn.textContent = theme === "dark" ? "☀️" : "🌙";
-        localStorage.setItem("theme", theme);
-      }
-      toggleThemeBtn.addEventListener("click", () => {
-        const newTheme = document.body.classList.contains("dark")
-          ? "light"
-          : "dark";
-        setTheme(newTheme);
+  <script>
+    // Registro del Service Worker PWA
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('service-worker.js')
+          .then(reg => console.log('Service Worker registrado', reg))
+          .catch(err => console.error('Error SW', err));
       });
-      // Inicializar tema
-      const savedTheme = localStorage.getItem("theme") || "light";
-      setTheme(savedTheme);
+    }
 
-      /* ---------- RENDER: recibe un objeto JSON (data) y construye la UI ---------- */
-      // function cargarPreguntas(data) {
-      //   contenidoDiv.innerHTML = "";
+    // IndexedDB setup
+    let db;
+    const DB_NAME = 'AeroQuizDB';
+    const STORE_NAME = 'JSONs';
+    const STORE_STATE = 'Estados';
+    const KEY_LAST = 'ultimoJSON';
+    const STORE_META = 'AppMeta';
 
-      //   Object.entries(data).forEach(([seccion, pregs]) => {
-      //     const sec = document.createElement("section");
-      //     sec.id = seccion;
-      //     sec.innerHTML = `<h3>${seccion}</h3>`;
+    function openDB() {
+      return new Promise((resolve, reject) => {
+        console.log("Abrien DB con version 5");
+        const request = indexedDB.open(DB_NAME, 5);
+        request.onupgradeneeded = (e) => {
+          db = e.target.result;
+          if (!db.objectStoreNames.contains(STORE_NAME)) {
+            db.createObjectStore(STORE_NAME);
+          }
+          if (!db.objectStoreNames.contains(STORE_STATE)) {
+            db.createObjectStore(STORE_STATE);
+          }
+          if (!db.objectStoreNames.contains(STORE_META)) {
+            db.createObjectStore(STORE_META);
+          }
+        };
+        request.onsuccess = (e) => {
+          db = e.target.result;
+          resolve(db);
+        };
+        request.onerror = (e) => {
+          console.error("Error abriendo IndexedDB:", e);
+          reject(e);
+        };
+        request.onblocked = () => {
+          console.warn("IndexedDB bloqueada, cierre otras pestañas de esta app.");
+        };
+      });
+    }
 
-      //     pregs.forEach((p, i) => {
-      //       const qid = `${seccion}-${i}`;
-      //       const estadoPrevio = usados[qid]; // puede ser undefined o {estado, seleccion}
-      //       let preguntaHtml = `<div class="pregunta"><p>${p.texto}</p>`;
+    // Guarda un valor en AppMeta
+    function saveMeta(key, value) {
+      return new Promise((resolve, reject) => {
+        const tx = db.transaction(STORE_META, 'readwrite');
+        const store = tx.objectStore(STORE_META);
+        const req = store.put(value, key);
 
-      //       p.opciones.forEach((opt) => {
-      //         // Determinar atributos según estado previo
-      //         const checked =
-      //           estadoPrevio && estadoPrevio.seleccion === opt ? "checked" : "";
-      //         const disabled =
-      //           estadoPrevio && estadoPrevio.estado === "correcto"
-      //             ? "disabled"
-      //             : "";
+        req.onsuccess = () => resolve();
+        req.onerror = e => reject(e);
+      });
+    }
 
-      //         preguntaHtml += `<label class="opcion">
-      //                      <input type="radio" name="${qid}" value="${escapeHtml(
-      //           opt
-      //         )}" ${checked} ${disabled}>
-      //                      ${escapeHtml(opt)}
-      //                    </label>`;
-      //       });
+    
+    // Lee un valor de AppMeta
+    function getMeta(key) {
+      return new Promise((resolve, reject) => {
+        const tx = db.transaction(STORE_META, 'readonly');
+        const store = tx.objectStore(STORE_META);
+        const req = store.get(key);
 
-      //       const resultadoPrevio = estadoPrevio
-      //         ? estadoPrevio.estado === "correcto"
-      //           ? '<span class="correcto">✔ Correcto</span>'
-      //           : '<span class="incorrecto">✘ Incorrecto</span>'
-      //         : "";
-      //       preguntaHtml += `<div style="margin-top:8px;">
-      //                    <button onclick="verificar('${qid}','${escapeJs(
-      //         p.respuesta
-      //       )}')">Comprobar</button>
-      //                  </div>
-      //                  <div id="res-${qid}" style="margin-top:8px;">${resultadoPrevio}</div>
-      //                  </div>`;
+        req.onsuccess = () => resolve(req.result);
+        req.onerror = e => reject(e);
+      });
+    }
 
-      //       sec.innerHTML += preguntaHtml;
-      //     });
+    function salvarPreguntas(key, data) {
+      const tx = db.transaction(STORE_NAME, 'readwrite');
+      tx.objectStore(STORE_NAME).put(data, key);
+    }
 
-      //     contenidoDiv.appendChild(sec);
-      //   });
+    function getPreguntas(key) {
+      return new Promise((resolve, reject) => {
+        const tx = db.transaction(STORE_NAME, "readonly");
+        const req = tx.objectStore(STORE_NAME).get(key);
+        req.onsuccess = () => resolve(req.result);
+        req.onerror = e => reject(e);
+      });
+    }
 
-      //   mensajeJSON.style.display = "none";
-      // }
+    function salvarEstado(key, estado) {
+      const tx = db.transaction(STORE_STATE, 'readwrite');
+      tx.objectStore(STORE_STATE).put(estado, key);
+    }
 
-      function cargarPreguntas(data) {
-        contenidoDiv.innerHTML = "";
-        mensajeJSON.style.display = "none";
+    function getEstado(key) {
+      return new Promise((resolve, reject) => {
+        const tx = db.transaction(STORE_STATE, "readonly");
+        const req = tx.objectStore(STORE_STATE).get(key);
+        req.onsuccess = () => resolve(req.result);
+        req.onerror = e => reject(e);
+      });
+    }
 
-        for (const seccion in data) {
-          const sec = document.createElement("section");
-          const h2 = document.createElement("h3");
-          h2.textContent = seccion;
-          sec.appendChild(h2);
+    /* Estado global */
+    let aciertos = 0;
+    let errores = 0;
+    let usados = {};
+    let jsonKey = null;
 
-          const pregs = data[seccion];
-          for (let i = 0; i < pregs.length; i++) {
-            const p = pregs[i];
-            const qid = seccion + "-" + i;
-            const estadoPrevio = usados[qid];
+    const aciertosSpan = document.getElementById("aciertos");
+    const erroresSpan = document.getElementById("errores");
+    const contenidoDiv = document.getElementById("contenido");
+    const mensajeJSON = document.getElementById("mensajeJSON");
+    const jsonInput = document.getElementById("jsonFile");
+    const toggleThemeBtn = document.getElementById("toggleThemeBtn");
+    const resetAllBtn = document.getElementById("resetAllBtn");
+    resetAllBtn.addEventListener("click", resetAll);
 
-            const card = document.createElement("div");
-            card.className = "pregunta";
+    async function setTheme(theme) {
+      document.body.classList.toggle("dark", theme === "dark");
+      toggleThemeBtn.textContent = theme === "dark" ? "☀️" : "🌙";
 
-            const preguntaP = document.createElement("p");
-            preguntaP.textContent = p.texto;
-            card.appendChild(preguntaP);
+      await saveMeta("theme", theme);
+    }
 
-            for (let j = 0; j < p.opciones.length; j++) {
-              const opt = p.opciones[j];
-              const label = document.createElement("label");
-              const input = document.createElement("input");
-              input.type = "radio";
-              input.name = qid;
-              input.value = opt;
-              if (estadoPrevio) {
-                if (estadoPrevio.seleccion === opt) {
-                  input.checked = true;
-                }
-                if (estadoPrevio.estado === "correcto") {
-                  input.disabled = true;
-                }
-              }
-              label.className = "opcion";
-              label.appendChild(input);
-              label.append(" " + opt);
-              card.appendChild(label);
-              card.appendChild(document.createElement("br"));
-            }
+    toggleThemeBtn.addEventListener("click", async () => {
+      const newTheme = document.body.classList.contains("dark") ? "light" : "dark";
+      await setTheme(newTheme);
+    });
 
-            const btnDiv = document.createElement("div");
-            btnDiv.className = "pregunta-buttons-container";
-            const comprobarBtn = document.createElement("button");
-            comprobarBtn.textContent = "Comprobar";
-            comprobarBtn.addEventListener("click", () =>
-              verificar(qid, p.respuesta, p.referencia, p.explicacion)
-            );
-            btnDiv.appendChild(comprobarBtn);
+    // Cargar tema al iniciar la app
+    async function loadTheme() {
+      const theme = await getMeta("theme");
+      setTheme(theme || "light");
+    }
 
-            const redoBtn = document.createElement("button");
-            redoBtn.textContent = "REDO";
-            btnDiv.appendChild(redoBtn);
-            card.appendChild(btnDiv);
+    function cargarPreguntas(data) {
+      contenidoDiv.innerHTML = "";
+      mensajeJSON.style.display = "none";
 
-            const resDiv = document.createElement("div");
-            resDiv.id = "res-" + qid;
-            resDiv.style.marginTop = "8px";
+      for (const seccion in data) {
+        const sec = document.createElement("section");
+        const h3 = document.createElement("h3");
+        h3.textContent = seccion;
+        sec.appendChild(h3);
+
+        const pregs = data[seccion];
+        for (let i = 0; i < pregs.length; i++) {
+          const p = pregs[i];
+          const qid = seccion + "-" + i;
+          const estadoPrevio = usados[qid];
+
+          const card = document.createElement("div");
+          card.className = "pregunta";
+
+          const preguntaP = document.createElement("p");
+          preguntaP.textContent = p.texto;
+          card.appendChild(preguntaP);
+
+          for (let j = 0; j < p.opciones.length; j++) {
+            const opt = p.opciones[j];
+            const label = document.createElement("label");
+            const input = document.createElement("input");
+            input.type = "radio";
+            input.name = qid;
+            input.value = opt;
             if (estadoPrevio) {
-              if (estadoPrevio.estado === "correcto") {
-                resDiv.textContent = "✔ Correcto";
-                resDiv.style.color = "green";
-              }
-              if (estadoPrevio.estado === "incorrecto") {
-                resDiv.textContent = "✘ Incorrecto";
-                resDiv.style.color = "red";
-              }
+              if (estadoPrevio.seleccion === opt) input.checked = true;
+              if (estadoPrevio.estado === "correcto") input.disabled = true;
             }
-            card.appendChild(resDiv);
-
-            if (p.referencia || p.explicacion) {
-              const cortinilla = document.createElement("div");
-              const toggleBtn = document.createElement("button");
-              toggleBtn.textContent = "Ver detalles";
-              toggleBtn.addEventListener("click", () => toggleCortinilla(qid));
-              cortinilla.appendChild(toggleBtn);
-
-              const cortContent = document.createElement("div");
-              cortContent.id = "cort-" + qid;
-              cortContent.className = "cortinilla-content";
-              if (estadoPrevio && estadoPrevio.estado === "correcto") {
-                cortContent.style.display = "block";
-              }
-              if (p.referencia) {
-                const refP = document.createElement("p");
-                refP.textContent = "Referencia: " + p.referencia;
-                cortContent.appendChild(refP);
-              }
-              if (p.explicacion) {
-                const expP = document.createElement("p");
-                expP.textContent = "Explicación: " + p.explicacion;
-                cortContent.appendChild(expP);
-              }
-              cortinilla.appendChild(cortContent);
-              card.appendChild(cortinilla);
-            }
-
-            sec.appendChild(card);
+            label.className = "opcion";
+            label.appendChild(input);
+            label.append(" " + opt);
+            card.appendChild(label);
+            card.appendChild(document.createElement("br"));
           }
 
-          contenidoDiv.appendChild(sec);
+          const btnDiv = document.createElement("div");
+          btnDiv.className = "pregunta-buttons-container";
+          const comprobarBtn = document.createElement("button");
+          comprobarBtn.textContent = "Comprobar";
+          comprobarBtn.addEventListener("click", () =>
+            verificar(qid, p.respuesta, p.referencia, p.explicacion)
+          );
+          btnDiv.appendChild(comprobarBtn);
+          card.appendChild(btnDiv);
+
+          const resDiv = document.createElement("div");
+          resDiv.id = "res-" + qid;
+          resDiv.style.marginTop = "8px";
+          if (estadoPrevio) {
+            if (estadoPrevio.estado === "correcto") {
+              resDiv.textContent = "✔ Correcto";
+              resDiv.style.color = "green";
+            }
+            if (estadoPrevio.estado === "incorrecto") {
+              resDiv.textContent = "✘ Incorrecto";
+              resDiv.style.color = "red";
+            }
+          }
+          card.appendChild(resDiv);
+
+          if (p.referencia || p.explicacion) {
+            const cortinilla = document.createElement("div");
+            const toggleBtn = document.createElement("button");
+            toggleBtn.textContent = "Ver detalles";
+            toggleBtn.addEventListener("click", () => toggleCortinilla(qid));
+            cortinilla.appendChild(toggleBtn);
+
+            const cortContent = document.createElement("div");
+            cortContent.id = "cort-" + qid;
+            cortContent.className = "cortinilla-content";
+            if (estadoPrevio && estadoPrevio.estado === "correcto") cortContent.style.display = "block";
+            if (p.referencia) {
+              const refP = document.createElement("p");
+              refP.textContent = "Referencia: " + p.referencia;
+              cortContent.appendChild(refP);
+            }
+            if (p.explicacion) {
+              const expP = document.createElement("p");
+              expP.textContent = "Explicación: " + p.explicacion;
+              cortContent.appendChild(expP);
+            }
+            cortinilla.appendChild(cortContent);
+            card.appendChild(cortinilla);
+          }
+
+          sec.appendChild(card);
         }
+
+        contenidoDiv.appendChild(sec);
+      }
+    }
+
+    function verificar(qid, correcta) {
+      const sel = document.querySelector(`input[name="${qid}"]:checked`);
+      const resDiv = document.getElementById("res-" + qid);
+      if (!sel) {
+        resDiv.innerHTML = '<span class="incorrecto">Selecciona una opción</span>';
+        return;
+      }
+      const seleccion = unescapeHtml(sel.value);
+      const prev = usados[qid];
+
+      if (prev && prev.estado === "correcto") {
+        resDiv.innerHTML = '<span class="correcto">✔ Correcto</span>';
+        return;
       }
 
-      /* ---------- VERIFICAR RESPUESTA (maneja transiciones de estado) ---------- */
-      function verificar(qid, correcta) {
-        // Selected input (value is escaped string from HTML)
-        const sel = document.querySelector(`input[name="${qid}"]:checked`);
-        const resDiv = document.getElementById("res-" + qid);
-        if (!sel) {
-          resDiv.innerHTML =
-            '<span class="incorrecto">Selecciona una opción</span>';
-          return;
-        }
-
-        const seleccion = unescapeHtml(sel.value);
-        const prev = usados[qid];
-
-        if (prev && prev.estado === "correcto") {
-          // Ya estaba correcta: no contar otra vez
-          resDiv.innerHTML = '<span class="correcto">✔ Correcto</span>';
-          return;
-        }
-
-        if (seleccion === correcta) {
-          // Nuevo acierto
-          if (prev && prev.estado === "incorrecto") {
-            // Corrige un error previo: decrementa errores y suma aciertos
-            errores = Math.max(0, errores - 1);
+      if (seleccion === correcta) {
+        if (prev && prev.estado === "incorrecto") {
+          errores = Math.max(0, errores - 1);
+          aciertos++;
+        } else
+          if (!prev)
             aciertos++;
-          } else if (!prev) {
-            aciertos++;
-          }
-          usados[qid] = { estado: "correcto", seleccion };
-          resDiv.innerHTML = '<span class="correcto">✔ Correcto</span>';
-
-          // desactivar todas las opciones de esa pregunta para evitar cambios
-          const inputs = document.getElementsByName(qid);
-          inputs.forEach((inp) => (inp.disabled = true));
-        } else {
-          // Respuesta incorrecta
-          if (!prev) {
-            // primer intento: sumar error
-            errores++;
-            usados[qid] = { estado: "incorrecto", seleccion };
-          } else if (prev.estado === "incorrecto") {
-            // ya era incorrecta: actualizar selección (no cambiar contador)
+        usados[qid] = { estado: "correcto", seleccion };
+        resDiv.innerHTML = '<span class="correcto">✔ Correcto</span>';
+        document.getElementsByName(qid).forEach(inp => inp.disabled = true);
+      } else {
+        if (!prev)
+          errores++, usados[qid] = { estado: "incorrecto", seleccion };
+        else
+          if (prev.estado === "incorrecto")
             usados[qid].seleccion = seleccion;
-          } else {
-            // improbable: prev.correcto -> no entraría porque correctas están deshabilitadas
+          else
             usados[qid] = { estado: "incorrecto", seleccion };
-          }
-          resDiv.innerHTML = '<span class="incorrecto">✘ Incorrecto</span>';
-          // dejar inputs activos para permitir reintentos
-        }
-
-        // actualizar vistas y persistir
-        aciertosSpan.textContent = aciertos;
-        erroresSpan.textContent = errores;
-        guardarEstado();
+        resDiv.innerHTML = '<span class="incorrecto">✘ Incorrecto</span>';
       }
+      aciertosSpan.textContent = aciertos;
+      erroresSpan.textContent = errores;
+      salvarEstado(jsonKey, { aciertos, errores, usados });
+      // guardarEstado();
+    }
 
-      function toggleCortinilla(qid) {
-        const cort = document.getElementById("cort-" + qid);
-        console.log(cort," qid:",qid);
-        if (!cort) {
-          return;
-        }
-        if (cort.style.display === "none" || cort.style.display === "") {
-          cort.style.display = "block";
-        } else {
-          cort.style.display = "none";
-        }
-      }
+    function toggleCortinilla(qid) {
+      const cort = document.getElementById("cort-" + qid);
+      if (!cort) return;
+      cort.style.display = (cort.style.display === "none" || cort.style.display === "") ? "block" : "none";
+    }
 
-      /* ---------- GUARDAR / RESTAURAR ESTADO ---------- */
-      function guardarEstado() {
-        if (!jsonKey) return;
-        localStorage.setItem(
-          jsonKey,
-          JSON.stringify({ aciertos, errores, usados })
-        );
-        localStorage.setItem("ultimoJSON", jsonKey);
-      }
-
-      /* ---------- RESET botones ---------- */
-      /* anulado por no tener sentido resetear solo errores ya que se pueden responder
-      correctamente las preguntas que estaban mal y no hay forma de "des-responder" una correcta */
-      // function resetErr() {
-      //   for (const k of Object.keys(usados)) {
-      //     if (usados[k].estado === 'incorrecto') delete usados[k];
-      //   }
-      //   errores = 0;
-      //   erroresSpan.textContent = errores;
-      //   guardarEstado();
-      //   // Re-render current loaded JSON if jsonKey available and file accessible via fetch
-      //   // (If loaded by input file, user can re-select to update UI)
-      // }
-
-      function resetAll() {
-        console.log("RESET-ALL clicked");
+    async function resetAll() {
+      try {
         usados = {};
         aciertos = 0;
         errores = 0;
         aciertosSpan.textContent = aciertos;
         erroresSpan.textContent = errores;
-        guardarEstado();
-        // Re-render current loaded JSON if jsonKey available and file accessible via fetch
-        // (If loaded by input file, user can re-select to update UI)
-        if (jsonKey) {
-          const estado = JSON.parse(localStorage.getItem(jsonKey));
-          if (estado) {
-            aciertos = estado.aciertos || 0;
-            errores = estado.errores || 0;
-            usados = estado.usados || {};
-            aciertosSpan.textContent = aciertos;
-            erroresSpan.textContent = errores;
-          }
-          fetch("./" + jsonKey)
-            .then((resp) => {
-              if (!resp.ok)
-                throw new Error(resp.status + " " + resp.statusText);
-              return resp.json();
-            })
-            .then((data) => {
-              cargarPreguntas(data);
-            })
-            .catch((err) => {
-              console.log(
-                "No se pudo recargar automáticamente el JSON mediante fetch:",
-                err
-              );
-            });
+
+        if (!jsonKey) {
+          console.warn("No hay JSON cargado para resetear.");
+          return;
         }
+
+        await salvarEstado(jsonKey, { aciertos, errores, usados });
+        const preguntas = await getPreguntas(jsonKey);
+        if (!preguntas) {
+          console.warn("No se encontraron las preguntas en IndexedDB.");
+          return;
+        }
+        cargarPreguntas(preguntas);
+      } catch (err) {
+        console.error("Error en resetAll:", err);
+      }
+    }
+
+    // Carga manual con input file
+    jsonInput.addEventListener("change", async (event) => {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      jsonKey = file.name.trim();
+
+      const text = await file.text();
+      const data = JSON.parse(text);
+
+      // usados = {};
+      // aciertos = 0;
+      // errores = 0;  
+
+      await openDB();
+
+      await salvarPreguntas(jsonKey, data);
+      await saveMeta(KEY_LAST, jsonKey);
+
+      const estado = await getEstado(jsonKey);
+      if (estado) {
+        aciertos = estado.aciertos || 0;
+        errores = estado.errores || 0;
+        usados = estado.usados || {};
+      } else {
+        aciertos = 0;
+        errores = 0;
+        usados = {};
       }
 
-      /* ---------- Manejador de input file ---------- */
-      jsonInput.addEventListener("change", (event) => {
-        const file = event.target.files[0];
-        if (!file) return;
+      aciertosSpan.textContent = aciertos;
+      erroresSpan.textContent = errores;
 
-        jsonKey = file.name.trim();
+      cargarPreguntas(data);
+    });
 
-        const reader = new FileReader();
-        reader.onload = function (e) {
-          try {
-            const data = JSON.parse(e.target.result);
+    // Inicialización al cargar la app
+    window.addEventListener('load', async () => {
+      try {
+        await openDB();
 
-            // Restaurar estado previo (si existe)
-            const estadoPrevio = JSON.parse(localStorage.getItem(jsonKey));
-            if (estadoPrevio) {
-              aciertos = estadoPrevio.aciertos || 0;
-              errores = estadoPrevio.errores || 0;
-              usados = estadoPrevio.usados || {};
-            } else {
-              aciertos = 0;
-              errores = 0;
-              usados = {};
-            }
-            aciertosSpan.textContent = aciertos;
-            erroresSpan.textContent = errores;
-
-            cargarPreguntas(data);
-            guardarEstado();
-          } catch (err) {
-            alert("Error leyendo o parseando el JSON: " + err);
-            console.error(err);
-          }
-        };
-        reader.readAsText(file);
-      });
-
-      /* ---------- ONLOAD: intentar cargar último JSON vía fetch (si está disponible en servidor) ---------- */
-      window.onload = () => {
-        const ultimoJSON = localStorage.getItem("ultimoJSON");
-        if (!ultimoJSON) return;
+        const ultimoJSON = await getMeta(KEY_LAST);
+        if (!ultimoJSON) {
+          console.log("No hay último JSON guardado.");
+          return;
+        }
 
         jsonKey = ultimoJSON.trim();
+        const preguntas = await getPreguntas(jsonKey);
+        const estado = await getEstado(jsonKey);
 
-        // Restablecer contadores desde estado guardado (si existe)
-        const estado = JSON.parse(localStorage.getItem(jsonKey));
-        if (estado) {
-          aciertos = estado.aciertos || 0;
-          errores = estado.errores || 0;
-          usados = estado.usados || {};
-          aciertosSpan.textContent = aciertos;
-          erroresSpan.textContent = errores;
+        if (!estado) {
+          console.warn("No hay estado guardado para:", ultimoJSON);
+          return;
         }
 
-        // Intentar fetch (solo funciona si el archivo está accesible en servidor)
-        fetch("./" + jsonKey)
-          .then((resp) => {
-            if (!resp.ok) throw new Error(resp.status + " " + resp.statusText);
-            return resp.json();
-          })
-          .then((data) => {
-            cargarPreguntas(data);
-            guardarEstado();
-          })
-          .catch((err) => {
-            // Si no puede hacer fetch (archivo local no accesible), solo informar en consola.
-            console.log(
-              "No se pudo cargar automáticamente el JSON mediante fetch:",
-              err
-            );
-            // La UI muestra el estado (contadores) pero NO las preguntas hasta que el usuario cargue el archivo manualmente.
-          });
-      };
+        if (!preguntas) {
+          console.warn("No hay preguntas guardadas para:", ultimoJSON);
+          return;
+        }
 
-      /* ---------- Utilidades para escapar / des-escapar HTML en valores (seguridad y consistencia) ---------- */
-      function escapeHtml(str) {
-        if (typeof str !== "string") return str;
-        return str
-          .replaceAll("&", "&amp;")
-          .replaceAll("<", "&lt;")
-          .replaceAll(">", "&gt;")
-          .replaceAll('"', "&quot;")
-          .replaceAll("'", "&#39;");
+        aciertos = estado.aciertos || 0;
+        errores = estado.errores || 0;
+        usados = estado.usados || {};
+        aciertosSpan.textContent = aciertos;
+        erroresSpan.textContent = errores;
+
+        await loadTheme();
+        cargarPreguntas(preguntas);
+        
+      } catch (err) {
+        console.error("Error al cargar el último JSON en onload:", err);
       }
-      function unescapeHtml(str) {
-        if (typeof str !== "string") return str;
-        return str
-          .replaceAll("&amp;", "&")
-          .replaceAll("&lt;", "<")
-          .replaceAll("&gt;", ">")
-          .replaceAll("&quot;", '"')
-          .replaceAll("&#39;", "'");
-      }
-      function escapeJs(str) {
-        // escapar comillas para inyección al construir onclick string
-        if (typeof str !== "string") return str;
-        return str.replace(/'/g, "\\'").replace(/"/g, '\\"');
-      }
-    </script>
-  </body>
+    });
+
+    function escapeHtml(str) { if (typeof str !== 'string') return str; return str.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&#39;"); }
+    function unescapeHtml(str) { if (typeof str !== 'string') return str; return str.replaceAll("&amp;", "&").replaceAll("&lt;", "<").replaceAll("&gt;", ">").replaceAll("&quot;", '"').replaceAll("&#39;", "'"); }
+  </script>
+</body>
+
 </html>

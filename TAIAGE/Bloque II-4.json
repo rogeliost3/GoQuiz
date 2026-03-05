@@ -1,0 +1,1205 @@
+
+{
+  "Bloque II-Informatica basica (4)": [
+    {
+      "texto": "1. ¿Qué ingeniero implementó el término 'informatique' a comienzos de la década de los 60?",
+      "opciones": [
+        "A) Alan Turing.",
+        "B) Blaise Pascal.",
+        "C) Philippe Dreyfus.",
+        "D) Charles Babbage."
+      ],
+      "respuesta": "C) Philippe Dreyfus.",
+      "referencia": "1.1.1. Introducción, pág. 1-2",
+      "explicacion": "El término informática proviene del francés y fue implementado por el ingeniero Philippe Dreyfus. Referencia: 'implementado por el ingeniero Philippe Dreyfus a comienzos de la década del los 60'."
+    },
+    {
+      "texto": "2. ¿Cómo se define formalmente un sistema informático según la documentación?",
+      "opciones": [
+        "A) Conjunto de personas que operan máquinas de cálculo.",
+        "B) Colección de hardware diseñado por un único fabricante.",
+        "C) Conjunto de elementos físicos y lógicos para aplicaciones informáticas.",
+        "D) Entorno de red que permite la comunicación inalámbrica."
+      ],
+      "respuesta": "C) Conjunto de elementos físicos y lógicos para aplicaciones informáticas.",
+      "referencia": "1.1.2. Definición, pág. 1-3",
+      "explicacion": "Un sistema informático requiere tanto la parte física (hardware) como la lógica (software). Referencia: 'Formalmente se define sistema informático como el conjunto de elementos físicos y lógicos necesarios para la realización y explotación de aplicaciones informáticas'."
+    },
+    {
+      "texto": "3. En un esquema sintético de sistema informático, ¿cuál es el núcleo que pone en práctica los métodos de tratamiento?",
+      "opciones": [
+        "A) La entrada.",
+        "B) La salida.",
+        "C) El proceso.",
+        "D) El almacenamiento."
+      ],
+      "respuesta": "C) El proceso.",
+      "referencia": "1.1.2. Definición, pág. 1-3",
+      "explicacion": "El proceso es donde se manipula la información de entrada. Referencia: 'Proceso: núcleo del sistema informático que pone en práctica los métodos de proceso o tratamiento... de la información de entrada'."
+    },
+    {
+      "texto": "4. ¿Cuál es la principal característica tecnológica de la primera generación de ordenadores (1946-1954)?",
+      "opciones": [
+        "A) El uso de transistores.",
+        "B) El uso de circuitos integrados.",
+        "C) El uso de válvulas de vacío.",
+        "D) El uso de microprocesadores."
+      ],
+      "respuesta": "C) El uso de válvulas de vacío.",
+      "referencia": "1.2.1. Clasificación según generaciones, pág. 1-5",
+      "explicacion": "La primera generación se basaba en válvulas de vacío de gran tamaño. Referencia: 'Es la generación de las válvulas de vacío, con un soporte de programas muy rudimentarios'."
+    },
+    {
+      "texto": "5. ¿Qué determinante tecnológico ha marcado exclusivamente el paso a la quinta generación de ordenadores?",
+      "opciones": [
+        "A) La miniaturización extrema.",
+        "B) El avance del hardware.",
+        "C) El desarrollo del software.",
+        "D) El uso de fibra óptica."
+      ],
+      "respuesta": "C) El desarrollo del software.",
+      "referencia": "1.2.1. Clasificación según generaciones, pág. 1-5",
+      "explicacion": "A diferencia de las anteriores, la 5ª generación se define por la inteligencia del sistema. Referencia: 'excepto la quinta generación, en la que el determinante ha sido el software'."
+    },
+    {
+      "texto": "6. ¿En qué generación aparecen los chips SSI y MSI reemplazando a los transistores individuales?",
+      "opciones": [
+        "A) Segunda generación.",
+        "B) Cuarta generación.",
+        "C) Tercera generación.",
+        "D) Quinta generación."
+      ],
+      "respuesta": "C) Tercera generación.",
+      "referencia": "1.2.1. Clasificación según generaciones, pág. 1-5",
+      "explicacion": "La tercera generación introdujo los circuitos integrados de pequeña y mediana escala. Referencia: 'Los transistores son reemplazados por circuitos integrados (chip)... Se usan tecnologías SSI y MSI'."
+    },
+    {
+      "texto": "7. ¿Cómo se denominan los ordenadores que únicamente pueden utilizarse para una aplicación concreta y resuelven un tipo de problema?",
+      "opciones": [
+        "A) Ordenadores de uso general.",
+        "B) Estaciones de trabajo.",
+        "C) Ordenadores especializados.",
+        "D) Ordenadores centrales."
+      ],
+      "respuesta": "C) Ordenadores especializados.",
+      "referencia": "1.2.2. Clasificación según el ámbito de la aplicación, pág. 1-7",
+      "explicacion": "Estos equipos también reciben el nombre de computadoras dedicadas. Referencia: 'Son los que únicamente pueden utilizarse para una aplicación concreta... También se denominan computadoras dedicadas'."
+    },
+    {
+      "texto": "8. ¿Qué componente analógico base sustenta el funcionamiento de las computadoras analógicas?",
+      "opciones": [
+        "A) El transistor de silicio.",
+        "B) El circuito integrado VLSI.",
+        "C) El amplificador operacional.",
+        "D) El condensador de refresco."
+      ],
+      "respuesta": "C) El amplificador operacional.",
+      "referencia": "1.2.3. Clasificación según el tipo de señal que manejan, pág. 1-9",
+      "explicacion": "Las computadoras analógicas se basan en este componente para simular magnitudes físicas. Referencia: 'Están basadas en un componente analógico denominado amplificador operacional'."
+    },
+    {
+      "texto": "9. ¿Cuál es el rango usual de voltaje admitido en los ordenadores analógicos?",
+      "opciones": [
+        "A) Entre 0 y 5 voltios.",
+        "B) Entre -5 y +5 voltios.",
+        "C) Entre -10 y +10 voltios.",
+        "D) Entre 0 y 12 voltios."
+      ],
+      "respuesta": "C) Entre -10 y +10 voltios.",
+      "referencia": "1.2.3. Clasificación según el tipo de señal que manejan, pág. 1-9",
+      "explicacion": "Estos sistemas manejan señales continuas dentro de este rango. Referencia: 'Usualmente los voltajes admitidos en los ordenadores analógicos varían entre -10 volts y + 10 volts'."
+    },
+    {
+      "texto": "10. ¿Qué porcentaje aproximado de las computadoras utilizadas hoy en día son de tipo digital?",
+      "opciones": [
+        "A) Alrededor del 50%.",
+        "B) Alrededor del 75%.",
+        "C) Alrededor del 95%.",
+        "D) El 100% de ellas."
+      ],
+      "respuesta": "C) Alrededor del 95%.",
+      "referencia": "1.2.3. Clasificación según el tipo de señal que manejan, pág. 1-10",
+      "explicacion": "Las computadoras digitales dominan casi por completo el mercado actual. Referencia: 'Son los más utilizados hoy en día (alrededor del 95%)'."
+    },
+    {
+      "texto": "11. ¿Qué característica de los sistemas abiertos permite que ordenadores de diferente fabricante trabajen conjuntamente?",
+      "opciones": [
+        "A) Portabilidad.",
+        "B) Escalabilidad.",
+        "C) Interoperabilidad.",
+        "D) Fiabilidad."
+      ],
+      "respuesta": "C) Interoperabilidad.",
+      "referencia": "1.2.4. Clasificación según su potencia de cálculo, pág. 1-12",
+      "explicacion": "La interoperabilidad es clave en la estandarización de sistemas abiertos. Referencia: 'Interoperabilidad: posibilidad de que ordenadores de diferente fabricante trabajen conjuntamente'."
+    },
+    {
+      "texto": "12. ¿Qué nombre recibe la unidad mínima de información que puede representar un 1 o un 0?",
+      "opciones": [
+        "A) Byte.",
+        "B) Octeto.",
+        "C) BIT.",
+        "D) Kilobyte."
+      ],
+      "respuesta": "C) BIT.",
+      "referencia": "1.3. Unidades de información, pág. 1-13",
+      "explicacion": "BIT es el acrónimo de Binary Digit. Referencia: 'A cada una de estas posibilidades (1 ó 0) le vamos a dar el nombre de BIT'."
+    },
+    {
+      "texto": "13. ¿A cuántos Kilobytes (KB) equivale un Megabyte (MB)?",
+      "opciones": [
+        "A) 1000 KB.",
+        "B) 512 KB.",
+        "C) 1024 KB.",
+        "D) 2048 KB."
+      ],
+      "respuesta": "C) 1024 KB.",
+      "referencia": "1.3. Unidades de información, pág. 1-14",
+      "explicacion": "En informática se utiliza la potencia de base 2 más cercana a 1000. Referencia: '1 Megabyte (MB) 1024 KB'."
+    },
+    {
+      "texto": "14. ¿Cuál es el significado literal del término 'Dato'?",
+      "opciones": [
+        "A) Conocimiento.",
+        "B) Información procesada.",
+        "C) Hecho.",
+        "D) Registro."
+      ],
+      "respuesta": "C) Hecho.",
+      "referencia": "1.5.1. Definición de dato e información, pág. 1-14",
+      "explicacion": "Los datos representan hechos aislados que aún no han sido procesados. Referencia: 'Dato significa literalmente un “hecho”, que puede ser un número, cifra, carta, palabra...'."
+    },
+    {
+      "texto": "15. ¿Qué propiedad de la información asegura que es exacta con la realidad para poder confiar en ella?",
+      "opciones": [
+        "A) Relevancia.",
+        "B) Oportunidad.",
+        "C) Precisión.",
+        "D) Accesibilidad."
+      ],
+      "respuesta": "C) Precisión.",
+      "referencia": "1.5.1. Definición de dato e información, pág. 1-15",
+      "explicacion": "La precisión implica que la información no tiene errores y es fiel a la realidad. Referencia: 'Precisión: exacta con la realidad, para que se pueda confiar en ella'."
+    },
+    {
+      "texto": "16. ¿Cómo se denomina a la adaptabilidad de la información a más de una decisión o responsable?",
+      "opciones": [
+        "A) Detallista.",
+        "B) Claridad.",
+        "C) Flexibilidad.",
+        "D) Verificabilidad."
+      ],
+      "respuesta": "C) Flexibilidad.",
+      "referencia": "1.5.1. Definición de dato e información, pág. 1-16",
+      "explicacion": "La flexibilidad permite que una misma información sirva para diversos fines o usuarios. Referencia: 'Flexibilidad: concierne a la adaptabilidad de la información no sólo a más de una decisión sino también a más de un responsable'."
+    },
+    {
+      "texto": "17. En la teoría de sistemas, ¿qué concepto se refiere a que los elementos integrados generan un resultado superior a la suma de sus partes?",
+      "opciones": [
+        "A) Entorno.",
+        "B) Equifinalidad.",
+        "C) Sinergia.",
+        "D) Interacción."
+      ],
+      "respuesta": "C) Sinergia.",
+      "referencia": "1.5.2. Definición de sistema y subsistema, pág. 1-19",
+      "explicacion": "La sinergia es fundamental para entender por qué se agrupan elementos en un sistema. Referencia: 'La sinergia... los elementos en forma independiente tienen un resultado inferior al que generan al integrarse'."
+    },
+    {
+      "texto": "18. ¿Cuál es el objetivo principal de los sistemas de información estratégicos?",
+      "opciones": [
+        "A) Automatizar procesos operativos.",
+        "B) Apoyar la toma de decisiones administrativas.",
+        "C) Lograr ventajas competitivas.",
+        "D) Generar facturas de clientes."
+      ],
+      "respuesta": "C) Lograr ventajas competitivas.",
+      "referencia": "1.5.3. Definición de sistema de información, pág. 1-20",
+      "explicacion": "Los sistemas estratégicos buscan diferenciar a la empresa de sus competidores. Referencia: 'Lograr ventajas competitivas a través de su uso (sistemas estratégicos)'."
+    },
+    {
+      "texto": "19. ¿Qué elemento de un sistema de información se define como el conjunto de instrucciones que indican cómo procesar los datos?",
+      "opciones": [
+        "A) Hardware.",
+        "B) Telecomunicaciones.",
+        "C) Software.",
+        "D) Recursos Humanos."
+      ],
+      "respuesta": "C) Software.",
+      "referencia": "2. Elementos que componen un sistema de información, pág. 1-21",
+      "explicacion": "El software es la parte lógica que guía al hardware. Referencia: 'Software: conjunto de instrucciones que le indican a los ordenadores como procesar los datos de entrada'."
+    },
+    {
+      "texto": "20. Al hablar de un ordenador, ¿qué concepto trata la apariencia funcional que este presenta a los usuarios?",
+      "opciones": [
+        "A) Estructura.",
+        "B) Componentes.",
+        "C) Arquitectura.",
+        "D) Lógica cableada."
+      ],
+      "respuesta": "C) Arquitectura.",
+      "referencia": "3.1. Arquitectura de ordenadores, pág. 1-22",
+      "explicacion": "La arquitectura se centra en la funcionalidad y organización, no en los materiales. Referencia: 'cuando no referirnos a arquitectura de ordenadores estamos tratando la apariencia funcional que el ordenador presenta a los usuarios'."
+    },
+    {
+      "texto": "21. ¿Qué parámetro característico de un ordenador indica el número de bits que maneja en paralelo?",
+      "opciones": [
+        "A) Tamaño de memoria.",
+        "B) Frecuencia de reloj.",
+        "C) Ancho de palabra.",
+        "D) Tiempo de acceso."
+      ],
+      "respuesta": "C) Ancho de palabra.",
+      "referencia": "3.2.2. Parámetros característicos de un ordenador, pág. 1-23",
+      "explicacion": "El ancho de palabra determina la potencia de procesamiento simultáneo de bits. Referencia: 'Ancho de palabra: indica el número de bits que maneja en paralelo el computador'."
+    },
+    {
+      "texto": "22. ¿En qué unidad de medida se expresa la velocidad de funcionamiento y proceso del microprocesador?",
+      "opciones": [
+        "A) Segundos.",
+        "B) Bits.",
+        "C) Herzios (Hz).",
+        "D) MIPS."
+      ],
+      "respuesta": "C) Herzios (Hz).",
+      "referencia": "4. La unidad central de proceso, pág. 1-25",
+      "explicacion": "La frecuencia del reloj maestro determina el ritmo del sistema. Referencia: 'La frecuencia de este reloj se mide en Herzios (Hz)... y determina la velocidad de funcionamiento'."
+    },
+    {
+      "texto": "23. ¿Cómo se denomina a la técnica que permite solapar la ejecución de varias instrucciones para construir CPUs más rápidas?",
+      "opciones": [
+        "A) Microprogramación.",
+        "B) Ciclo máquina.",
+        "C) Pipelining o segmentación.",
+        "D) Predicción de código."
+      ],
+      "respuesta": "C) Pipelining o segmentación.",
+      "referencia": "4. La unidad central de proceso, pág. 1-26",
+      "explicacion": "El pipelining divide la ejecución de una instrucción en etapas independientes. Referencia: 'La arquitectura “pipelining o segmentación”... Con esto se consigue solapar la ejecución de varias instrucciones'."
+    },
+    {
+      "texto": "24. ¿Qué tipo de riesgos en la segmentación surgen específicamente de conflictos por el uso de recursos físicos?",
+      "opciones": [
+        "A) Riesgos de datos.",
+        "B) Riesgos de control.",
+        "C) Riesgos estructurales.",
+        "D) Riesgos de salto."
+      ],
+      "respuesta": "C) Riesgos estructurales.",
+      "referencia": "4. La unidad central de proceso, pág. 1-26",
+      "explicacion": "Los riesgos estructurales ocurren cuando dos etapas necesitan el mismo hardware. Referencia: 'Estructurales: surgen de conflictos de los recursos'."
+    },
+    {
+      "texto": "25. ¿Qué parte de la CPU se considera el 'centro nervioso' desde donde se controlan todas las operaciones?",
+      "opciones": [
+        "A) Unidad Aritmético Lógica.",
+        "B) Registros internos.",
+        "C) Unidad de control.",
+        "D) Bus de datos."
+      ],
+      "respuesta": "C) Unidad de control.",
+      "referencia": "4.1. La unidad de control, pág. 1-27",
+      "explicacion": "La unidad de control gobierna el flujo de datos e instrucciones. Referencia: 'Es el centro nervioso del ordenador, ya que desde ella se controlan y gobiernan todas las operaciones'."
+    },
+    {
+      "texto": "26. ¿A qué se refiere el término 'firmware' en el contexto de la unidad de control?",
+      "opciones": [
+        "A) Al hardware de la placa base.",
+        "B) A las rutinas de los periféricos.",
+        "C) A cuando se programa la unidad de control.",
+        "D) A las aplicaciones del usuario final."
+      ],
+      "respuesta": "C) A cuando se programa la unidad de control.",
+      "referencia": "4.1. La unidad de control, pág. 1-29",
+      "explicacion": "El firmware es software que controla directamente el hardware. Referencia: 'Firmware: se programa la unidad de control'."
+    },
+    {
+      "texto": "27. ¿Qué tipo de microprogramación requiere tantos bits como señales de control, resultando poco eficiente?",
+      "opciones": [
+        "A) Microprogramación vertical.",
+        "B) Microprogramación codificada.",
+        "C) Microprogramación horizontal.",
+        "D) Microprogramación secuencial."
+      ],
+      "respuesta": "C) Microprogramación horizontal.",
+      "referencia": "4.1. La unidad de control, pág. 1-30",
+      "explicacion": "En la horizontal, cada bit activa una señal diferente, lo que consume mucho espacio. Referencia: 'Microprogramación horizontal: Una microinstrucción contendrá tantos bits como señales de control'."
+    },
+    {
+      "texto": "28. ¿Qué registro contiene permanentemente la dirección de memoria de la siguiente instrucción a ejecutar?",
+      "opciones": [
+        "A) Registro de instrucción.",
+        "B) Decodificador.",
+        "C) Contador de programa.",
+        "D) Secuenciador."
+      ],
+      "respuesta": "C) Contador de programa.",
+      "referencia": "4.1. La unidad de control, pág. 1-30",
+      "explicacion": "El CP (Program Counter) apunta siempre a la próxima orden. Referencia: 'Contador de programa. Contiene permanentemente la dirección de memoria de la siguiente instrucción a ejecutar'."
+    },
+    {
+      "texto": "29. ¿Qué componente de la Unidad Aritmético Lógica almacena los resultados directos de las operaciones?",
+      "opciones": [
+        "A) Circuito operacional.",
+        "B) Registros de entrada.",
+        "C) Registro acumulador.",
+        "D) Registro de estado."
+      ],
+      "respuesta": "C) Registro acumulador.",
+      "referencia": "4.2. La unidad aritmético lógica, pág. 1-32",
+      "explicacion": "El acumulador es un registro temporal para el resultado de la ALU. Referencia: 'Registro acumulador. Almacena los resultados de las operaciones llevadas a cabo por el circuito operacional'."
+    },
+    {
+      "texto": "30. ¿Qué flag o indicador de estado vale 1 si el resultado de la última operación fue cero?",
+      "opciones": [
+        "A) PF (Parity Flag).",
+        "B) CF (Carry Flag).",
+        "C) ZF (Zero Flag).",
+        "D) SF (Sign Flag)."
+      ],
+      "respuesta": "C) ZF (Zero Flag).",
+      "referencia": "4.2. La unidad aritmético lógica, pág. 1-32",
+      "explicacion": "El Zero Flag es fundamental para instrucciones de salto condicional. Referencia: 'ZF (Zero Flag...): si este indicador vale 1, el resultado de la operación es cero'."
+    },
+    {
+      "texto": "31. ¿Qué modo de la CPU genera una interrupción después de cada instrucción para inspeccionar resultados?",
+      "opciones": [
+        "A) Modo real.",
+        "B) Modo protegido.",
+        "C) Modo paso a paso (Trap Flag).",
+        "D) Modo DMA."
+      ],
+      "respuesta": "C) Modo paso a paso (Trap Flag).",
+      "referencia": "4.2. La unidad aritmético lógica, pág. 1-32",
+      "explicacion": "El Trap Flag es utilizado para la depuración de programas. Referencia: 'TF (Trap Flag...): si vale 1, el procesador está en modo paso a paso'."
+    },
+    {
+      "texto": "32. ¿Cómo se denomina a un procesador con un conjunto de instrucciones reducido y simple que elimina el microcódigo?",
+      "opciones": [
+        "A) CISC.",
+        "B) SISC.",
+        "C) RISC.",
+        "D) EPIC."
+      ],
+      "respuesta": "C) RISC.",
+      "referencia": "4.4. Tipos de microprocesadores, pág. 1-35",
+      "explicacion": "Los procesadores RISC ejecutan instrucciones sencillas muy rápido. Referencia: 'RISC (Reduced Instructions Set Computer): ordenador con un conjunto de instrucciones reducido'."
+    },
+    {
+      "texto": "33. ¿Qué término define a las memorias de pequeña capacidad y muy alta velocidad integradas en la CPU?",
+      "opciones": [
+        "A) Memorias centrales.",
+        "B) Memorias secundarias.",
+        "C) Memorias tampón.",
+        "D) Memorias masivas."
+      ],
+      "respuesta": "C) Memorias tampón.",
+      "referencia": "5. La memoria: tipos, jerarquía y modos, pág. 1-46",
+      "explicacion": "Los registros internos son el ejemplo más común de memoria tampón. Referencia: 'Memorias tampón. Pequeñas capacidades y altas velocidades (por ejemplo, los registros internos)'."
+    },
+    {
+      "texto": "34. ¿Qué característica define a las memorias volátiles o 'vivas'?",
+      "opciones": [
+        "A) Solo permiten la lectura.",
+        "B) No pierden información sin electricidad.",
+        "C) Pierden su contenido al desconectar la tensión.",
+        "D) Tienen un tiempo de acceso muy lento."
+      ],
+      "respuesta": "C) Pierden su contenido al desconectar la tensión.",
+      "referencia": "5.1.2. Volatilidad, pág. 1-48",
+      "explicacion": "La RAM es el ejemplo clásico de memoria volátil. Referencia: 'Volátiles o vivas: el contenido de estas memorias permanece mientras está presente la tensión de alimentación'."
+    },
+    {
+      "texto": "35. ¿En qué modo de acceso a memoria es necesario recorrer todas las posiciones anteriores para leer un dato?",
+      "opciones": [
+        "A) Aleatorio.",
+        "B) Por contenido.",
+        "C) Secuencial.",
+        "D) Indexado."
+      ],
+      "respuesta": "C) Secuencial.",
+      "referencia": "5.1.6. Modo de acceso, pág. 1-48",
+      "explicacion": "Las cintas magnéticas son un ejemplo típico de acceso secuencial. Referencia: 'Secuencial. Para leer una determinada posición de memoria es necesario recorrer todas las anteriores a ella'."
+    },
+    {
+      "texto": "36. ¿Qué memorias permiten obtener datos mediante una búsqueda de etiquetas en lugar de direcciones?",
+      "opciones": [
+        "A) RAM.",
+        "B) ROM.",
+        "C) CAM.",
+        "D) FLASH."
+      ],
+      "respuesta": "C) CAM.",
+      "referencia": "5.1.6. Modo de acceso, pág. 1-48",
+      "explicacion": "CAM significa Content Addressable Memory. Referencia: 'Por contenido o memorias CAM... tienen asignadas una etiqueta en cada posición'."
+    },
+    {
+      "texto": "37. ¿Qué tipo de memoria ROM puede ser borrada por el usuario mediante rayos ultravioletas?",
+      "opciones": [
+        "A) PROM.",
+        "B) EEPROM.",
+        "C) EPROM.",
+        "D) ROM por máscara."
+      ],
+      "respuesta": "C) EPROM.",
+      "referencia": "5.2.1. Memorias ROM, pág. 1-49",
+      "explicacion": "Las EPROM son identificables por tener una ventanita de cristal. Referencia: 'EPROM (Erasable PROM)... se pueden borrar, y volver a programar, pero por rayos ultra-violetas'."
+    },
+    {
+      "texto": "38. ¿Por qué las memorias DRAM se denominan 'dinámicas'?",
+      "opciones": [
+        "A) Porque son mucho más rápidas que las estáticas.",
+        "B) Porque cambian de tamaño automáticamente.",
+        "C) Porque necesitan circuitos de refresco constantes.",
+        "D) Porque pueden programarse mediante software."
+      ],
+      "respuesta": "C) Porque necesitan circuitos de refresco constantes.",
+      "referencia": "5.2.2. Memorias RAM, pág. 1-49",
+      "explicacion": "Sin refresco, la información en las celdillas (condensadores) se perdería. Referencia: 'se denominan así porque necesitan de unos circuitos de refresco, que se actualizan al ritmo de un reloj'."
+    },
+    {
+      "texto": "39. ¿Qué tipo de memoria RAM se utiliza comúnmente para almacenar la BIOS del sistema en la actualidad?",
+      "opciones": [
+        "A) SDRAM.",
+        "B) EDO.",
+        "C) FLASH.",
+        "D) RIMM."
+      ],
+      "respuesta": "C) FLASH.",
+      "referencia": "5.2.3. Memorias FLASH, pág. 1-51",
+      "explicacion": "La memoria flash es no volátil y fácil de actualizar eléctricamente. Referencia: 'su utilización se está extendiendo, sobre todo para el uso de almacenaje de BIOS del sistema'."
+    },
+    {
+      "texto": "40. ¿Qué dispositivo hardware sirve específicamente de comunicación entre el ente humano y el equipo?",
+      "opciones": [
+        "A) Placa base.",
+        "B) Microprocesador.",
+        "C) Periférico.",
+        "D) Fuente de alimentación."
+      ],
+      "respuesta": "C) Periférico.",
+      "referencia": "1.1. Periféricos; definición y clasificación, pág. 2-3",
+      "explicacion": "Los periféricos son la interfaz física del sistema con el exterior. Referencia: 'Podemos definir por tanto un periférico como un dispositivo hardware... que sirve de comunicación entre el ente humano y el equipo'."
+    },
+    {
+      "texto": "41. ¿Qué método de entrada/salida requiere que la CPU compruebe repetidamente el estado del dispositivo?",
+      "opciones": [
+        "A) Interrupciones.",
+        "B) DMA.",
+        "C) Polling (Sondeo).",
+        "D) Plug and Play."
+      ],
+      "respuesta": "C) Polling (Sondeo).",
+      "referencia": "1.2.1. Cuestiones generales, pág. 2-4",
+      "explicacion": "El sondeo es ineficiente porque consume ciclos de CPU esperando al dispositivo. Referencia: 'Polling o entrada/salida por sondeo... 1. Lectura del estado del dispositivo. 2. Si no está preparado vuelve al punto 1'."
+    },
+    {
+      "texto": "42. ¿Qué ocurre cuando la CPU recibe una señal de interrupción hardware de un periférico?",
+      "opciones": [
+        "A) Apaga el ordenador inmediatamente.",
+        "B) Ignora la señal hasta terminar el programa.",
+        "C) Salta a una rutina de tratamiento de interrupción.",
+        "D) Borra los registros del procesador."
+      ],
+      "respuesta": "C) Salta a una rutina de tratamiento de interrupción.",
+      "referencia": "1.2.1. Cuestiones generales, pág. 2-5",
+      "explicacion": "Las interrupciones permiten al hardware avisar a la CPU cuando tiene datos listos. Referencia: 'Cuando la CPU recibe dicha señal, abandona la ejecución del programa... y salta a una rutina de tratamiento de interrupción'."
+    },
+    {
+      "texto": "43. ¿Cómo se llama la tecnología que permite que la información pase del disco duro a la RAM sin pasar por el procesador?",
+      "opciones": [
+        "A) Polling.",
+        "B) PnP.",
+        "C) DMA.",
+        "D) IRQ."
+      ],
+      "respuesta": "C) DMA.",
+      "referencia": "1.2.1. Cuestiones generales, pág. 2-5",
+      "explicacion": "DMA (Direct Memory Access) libera al procesador de tareas pesadas de copia de datos. Referencia: 'Entrada/salida por acceso directo a memoria (dma)... permite que la información pase directamente a la memoria sin necesidad de pasar por el procesador'."
+    },
+    {
+      "texto": "44. ¿Qué IRQ (línea de interrupción) suele estar reservada por defecto para el Teclado?",
+      "opciones": [
+        "A) IRQ 0.",
+        "B) IRQ 2.",
+        "C) IRQ 1.",
+        "D) IRQ 7."
+      ],
+      "respuesta": "C) IRQ 1.",
+      "referencia": "1.2.1. Cuestiones generales, pág. 2-6",
+      "explicacion": "Cada dispositivo básico tiene asignada una línea de comunicación prioritaria. Referencia: 'IRQ1 Teclado'."
+    },
+    {
+      "texto": "45. ¿Cuál es el número máximo de dispositivos USB que admite un solo ordenador?",
+      "opciones": [
+        "A) 32 dispositivos.",
+        "B) 64 dispositivos.",
+        "C) 127 dispositivos.",
+        "D) 255 dispositivos."
+      ],
+      "respuesta": "C) 127 dispositivos.",
+      "referencia": "1.2.1. Cuestiones generales, pág. 2-9",
+      "explicacion": "Se requiere el uso de concentradores (Hubs) para alcanzar esta cifra. Referencia: 'Un solo ordenador... puede tener asociados hasta 127 dispositivos USB incluyendo los concentradores'."
+    },
+    {
+      "texto": "46. ¿Qué estándar de puerto serie se conoce también como IEEE 1394?",
+      "opciones": [
+        "A) USB 2.0.",
+        "B) Bluetooth.",
+        "C) FireWire.",
+        "D) RS-232."
+      ],
+      "respuesta": "C) FireWire.",
+      "referencia": "1.2.1. Cuestiones generales, pág. 2-10",
+      "explicacion": "Es un estándar de alta velocidad muy usado en vídeo digital. Referencia: 'El IEEE 1394 o FireWire es un estándar multiplataforma para entrada/salida de datos en serie'."
+    },
+    {
+      "texto": "47. ¿Qué componente de la impresora compensa la diferencia de velocidad entre esta y el ordenador?",
+      "opciones": [
+        "A) Rodillo de tracción.",
+        "B) Cartucho de tinta.",
+        "C) Búffer.",
+        "D) Cabezal térmico."
+      ],
+      "respuesta": "C) Búffer.",
+      "referencia": "2. Elementos de impresión: impresoras, pág. 2-12",
+      "explicacion": "El búffer es una memoria temporal que almacena los datos pendientes de imprimir. Referencia: 'Búffer de la impresora... sirve para compensar la diferencia de velocidad entre impresora... y el ordenador'."
+    },
+    {
+      "texto": "48. ¿En qué unidad se expresa habitualmente la resolución de una impresora?",
+      "opciones": [
+        "A) Páginas por minuto.",
+        "B) Caracteres por segundo.",
+        "C) Puntos por pulgada (p.p.p).",
+        "D) Bits por ciclo."
+      ],
+      "respuesta": "C) Puntos por pulgada (p.p.p).",
+      "referencia": "2. Elementos de impresión: impresoras, pág. 2-13",
+      "explicacion": "Determina la calidad y nitidez de la imagen impresa. Referencia: 'Resolución: expresada en puntos por pulgada (p.p.p) o número de agujas'."
+    },
+    {
+      "texto": "49. ¿Cómo se llaman las impresoras baratas que no tienen búffer y delegan todo el trabajo en el SO Windows?",
+      "opciones": [
+        "A) Impresoras láser.",
+        "B) Impresoras de impacto.",
+        "C) Win-impresoras (GDI).",
+        "D) Plotters."
+      ],
+      "respuesta": "C) Win-impresoras (GDI).",
+      "referencia": "2.4. Win-impresoras, pág. 2-17",
+      "explicacion": "GDI significa Graphical Device Interface y ahorra costes de hardware en la impresora. Referencia: 'Reciben el nombre de GDI... Son baratas ya que no tienen búffer... Toman la memoria necesaria del equipo'."
+    },
+    {
+      "texto": "50. ¿Cuál es la capacidad estándar de un disquete de 3 1/2\" de alta densidad?",
+      "opciones": [
+        "A) 720 KB.",
+        "B) 1024 KB.",
+        "C) 1,44 MB.",
+        "D) 2,88 MB."
+      ],
+      "respuesta": "C) 1,44 MB.",
+      "referencia": "3.2. Discos flexibles, pág. 2-19",
+      "explicacion": "Se organiza en 80 pistas y 18 sectores por cara. Referencia: 'en estos tipos de discos la capacidad máxima es de 1,44 mbytes'."
+    },
+    {
+      "texto": "51. ¿Qué tasa de transferencia máxima teórica alcanza el interfaz SATA III para discos duros?",
+      "opciones": [
+        "A) 150 MB/seg.",
+        "B) 300 MB/seg.",
+        "C) 600 MB/seg.",
+        "D) 1000 MB/seg."
+      ],
+      "respuesta": "C) 600 MB/seg.",
+      "referencia": "3.3. El disco duro, pág. 2-22",
+      "explicacion": "Es el estándar actual de conexión interna para discos mecánicos y SSD. Referencia: 'SATA III con 600MB/Seg'."
+    },
+    {
+      "texto": "52. ¿Qué archivo especial se crea en el sector cero de un disco al formatearlo para organizar los directorios?",
+      "opciones": [
+        "A) MBR.",
+        "B) Inodo.",
+        "C) FAT (Tabla de asignación).",
+        "D) Cluster."
+      ],
+      "respuesta": "C) FAT (Tabla de asignación).",
+      "referencia": "3.3.1. Formateo de un disco, pág. 2-22",
+      "explicacion": "La FAT registra dónde comienza cada archivo y qué clusters ocupa. Referencia: 'se crea un archivo especial en el sector cero denominado fat (file allocation table)'."
+    },
+    {
+      "texto": "53. ¿Cuál es la capacidad de almacenamiento estándar de un CD-ROM?",
+      "opciones": [
+        "A) 100 Mbytes.",
+        "B) 450 Mbytes.",
+        "C) 650 Mbytes.",
+        "D) 4,7 Gbytes."
+      ],
+      "respuesta": "C) 650 Mbytes.",
+      "referencia": "3.4. Cd-rom, pág. 2-24",
+      "explicacion": "Aunque existen de 700 MB, el estándar original mencionado es de 650 MB. Referencia: 'La capacidad de un CD-ROM es de 650 mbytes'."
+    },
+    {
+      "texto": "54. ¿Cómo se denominan las hendiduras microscópicas grabadas en la superficie de un CD?",
+      "opciones": [
+        "A) Lands.",
+        "B) Sectores.",
+        "C) Pits.",
+        "D) Surcos."
+      ],
+      "respuesta": "C) Pits.",
+      "referencia": "3.4. Cd-rom, pág. 2-24",
+      "explicacion": "La lectura láser detecta los cambios entre pits (hendiduras) y lands (planos). Referencia: 'hendiduras, que reciben el nombre de pits'."
+    },
+    {
+      "texto": "55. ¿Cuál es la capacidad de un DVD-18 (dos caras y dos capas)?",
+      "opciones": [
+        "A) 4,7 GB.",
+        "B) 8,5 GB.",
+        "C) 17 GB.",
+        "D) 25 GB."
+      ],
+      "respuesta": "C) 17 GB.",
+      "referencia": "3.5. DVD, pág. 2-28",
+      "explicacion": "Es el formato de DVD con mayor capacidad comercial. Referencia: 'DVD-18 (dos caras / dos capas): 15.90 gig (17 GB)'."
+    },
+    {
+      "texto": "56. ¿Qué dispositivo de digitalización utiliza un sensor CCD para cuantificar la luz reflejada?",
+      "opciones": [
+        "A) Impresora láser.",
+        "B) Monitor OLED.",
+        "C) Escáner.",
+        "D) Lápiz óptico."
+      ],
+      "respuesta": "C) Escáner.",
+      "referencia": "4.2. Elementos de digitalización: el escáner, pág. 2-35",
+      "explicacion": "El CCD transforma la luz en impulsos eléctricos. Referencia: 'El CCD es un complejo dispositivo provisto de sensores capaces de cuantificar la intensidad... de la luz reflejada'."
+    },
+    {
+      "texto": "57. ¿Qué interfaz de vídeo es exclusivamente digital y soporta también audio digital?",
+      "opciones": [
+        "A) VGA.",
+        "B) DVI-A.",
+        "C) HDMI.",
+        "D) DVI-D."
+      ],
+      "respuesta": "C) HDMI.",
+      "referencia": "4.4. Tarjetas de video, pág. 2-39",
+      "explicacion": "HDMI es el estándar para multimedia de alta definición. Referencia: 'mientras que el HDMI es de vídeo y audio digital'."
+    },
+    {
+      "texto": "58. ¿Cómo se llaman las estructuras de datos cuyo tamaño de memoria se fija en tiempo de compilación?",
+      "opciones": [
+        "A) Dinámicas.",
+        "B) Flexibles.",
+        "C) Estáticas.",
+        "D) Recursivas."
+      ],
+      "respuesta": "C) Estáticas.",
+      "referencia": "1.1. Estructuras de datos, pág. 3-3",
+      "explicacion": "No pueden cambiar de tamaño durante la ejecución del programa. Referencia: 'Estáticos: tamaño de memoria fijo definido en tiempo de compilación'."
+    },
+    {
+      "texto": "59. ¿Qué nombre reciben los arrays de una sola dimensión?",
+      "opciones": [
+        "A) Matrices.",
+        "B) Poliedros.",
+        "C) Vectores.",
+        "D) Nodos."
+      ],
+      "respuesta": "C) Vectores.",
+      "referencia": "1.1.1. Array, pág. 3-3",
+      "explicacion": "Es la forma más simple de agrupación contigua de datos homogéneos. Referencia: 'Los arrays de una dimensión se les llama “vectores”'."
+    },
+    {
+      "texto": "60. ¿Qué es un 'puntero' en programación?",
+      "opciones": [
+        "A) Una variable que almacena un número entero.",
+        "B) Un objeto que contiene datos de usuario.",
+        "C) Una variable que almacena una dirección de memoria.",
+        "D) Un error de compilación en el código."
+      ],
+      "respuesta": "C) Una variable que almacena una dirección de memoria.",
+      "referencia": "1.1.2. Punteros, pág. 3-3",
+      "explicacion": "Permiten acceder indirectamente al contenido de otras variables. Referencia: 'Un puntero es una variable que almacena la dirección de memoria de otra variable'."
+    },
+    {
+      "texto": "61. ¿Qué valor de enlace tiene el último elemento de una lista enlazada para indicar el final?",
+      "opciones": [
+        "A) Cero.",
+        "B) Vacío.",
+        "C) Null.",
+        "D) End."
+      ],
+      "respuesta": "C) Null.",
+      "referencia": "1.1.3. Listas, pág. 3-4",
+      "explicacion": "El valor null rompe la cadena de punteros sucesores. Referencia: 'excepto el último que no tiene sucesor y el valor del enlace es null'."
+    },
+    {
+      "texto": "62. ¿Qué estructura de datos se define como LIFO (Last In-First Out)?",
+      "opciones": [
+        "A) Cola.",
+        "B) Árbol binario.",
+        "C) Pila.",
+        "D) Grafo."
+      ],
+      "respuesta": "C) Pila.",
+      "referencia": "1.1.4. Pilas, pág. 3-6",
+      "explicacion": "Solo se puede extraer el último elemento que fue insertado. Referencia: 'Pilas... Es una estructura de tipo LIFO (Last In-First Out)'."
+    },
+    {
+      "texto": "63. ¿Qué estructura de datos se define como FIFO (First In-First Out)?",
+      "opciones": [
+        "A) Pila.",
+        "B) Registro.",
+        "C) Cola.",
+        "D) Matriz."
+      ],
+      "respuesta": "C) Cola.",
+      "referencia": "1.1.5. Colas, pág. 3-6",
+      "explicacion": "El primero que entra es el primero en salir, como una fila real. Referencia: 'Se trata de otro tipo de estructura de acceso restrictivo... Es una estructura FIFO'."
+    },
+    {
+      "texto": "64. En la nomenclatura de árboles, ¿cómo se llama al elemento que no tiene antecesor?",
+      "opciones": [
+        "A) Hoja.",
+        "B) Rama.",
+        "C) Raíz.",
+        "D) Nodo interno."
+      ],
+      "respuesta": "C) Raíz.",
+      "referencia": "1.1.6. Árboles, pág. 3-7",
+      "explicacion": "La raíz es el origen jerárquico del árbol. Referencia: 'Raíz: es aquel elemento que no tiene antecesor'."
+    },
+    {
+      "texto": "65. ¿Cuál es el número máximo de descendientes que puede tener un nodo en un árbol binario?",
+      "opciones": [
+        "A) Ilimitados.",
+        "B) Solo uno.",
+        "C) Dos.",
+        "D) Cuatro."
+      ],
+      "respuesta": "C) Dos.",
+      "referencia": "1.1.6. Árboles, pág. 3-7",
+      "explicacion": "Por definición, un árbol binario restringe el grado de cada nodo a un máximo de dos. Referencia: 'Estos árboles tienen 0, 1 ó 2 descendientes como máximo'."
+    },
+    {
+      "texto": "66. ¿Qué algoritmo de planificación de disco sirve primero las peticiones más próximas a la cabeza lectora?",
+      "opciones": [
+        "A) FIFO.",
+        "B) SCAN.",
+        "C) El más cercano a la posición actual.",
+        "D) Exploración circular."
+      ],
+      "respuesta": "C) El más cercano a la posición actual.",
+      "referencia": "2.3. Algoritmos, pág. 3-11",
+      "explicacion": "Este algoritmo reduce el movimiento del brazo del disco. Referencia: 'Primero el más cercano a la posición actual... sirviendo primero a aquellas peticiones más cercanas'."
+    },
+    {
+      "texto": "67. ¿Qué tipo de fragmentación ocurre en la asignación contigua cuando al borrar un archivo y crear otro menor quedan huecos inútiles?",
+      "opciones": [
+        "A) Fragmentación interna.",
+        "B) Fragmentación de inodo.",
+        "C) Fragmentación externa.",
+        "D) Fragmentación de clúster."
+      ],
+      "respuesta": "C) Fragmentación externa.",
+      "referencia": "2.4. Asignación del espacio de almacenamiento, pág. 3-12",
+      "explicacion": "La fragmentación externa desperdicia espacio entre archivos. Referencia: 'quedarán huecos inútiles entre archivos útiles, lo cual se llama fragmentación externa'."
+    },
+    {
+      "texto": "68. ¿Qué operación del subsistema de archivos permite posicionar el apuntador en un registro aleatorio?",
+      "opciones": [
+        "A) Open.",
+        "B) Read.",
+        "C) Seek (Localizar).",
+        "D) Append."
+      ],
+      "respuesta": "C) Seek (Localizar).",
+      "referencia": "2.6. Operaciones soportadas por el subsistema, pág. 3-13",
+      "explicacion": "Es una operación fundamental para el acceso directo. Referencia: 'Localizar (seek): para los archivos de acceso directo se permite posicionar el apuntador... en un registro aleatorio'."
+    },
+    {
+      "texto": "69. ¿Cuál es la complejidad computacional de los algoritmos de estilo 'divide y vencerás' como Quick Sort?",
+      "opciones": [
+        "A) O(n).",
+        "B) O(n^2).",
+        "C) O(n log n).",
+        "D) O(2^n)."
+      ],
+      "respuesta": "C) O(n log n).",
+      "referencia": "3.2. Clasificación de algoritmos, pág. 3-15",
+      "explicacion": "Es un rendimiento muy eficiente para grandes volúmenes de datos. Referencia: 'N·logN... Es común encontrarlo en algoritmos como Quick Sort'."
+    },
+    {
+      "texto": "70. ¿Qué algoritmo de ordenación estable tiene una complejidad de O(n^2)?",
+      "opciones": [
+        "A) Merge sort.",
+        "B) Heapsort.",
+        "C) Bubblesort (Burbuja).",
+        "D) Quicksort."
+      ],
+      "respuesta": "C) Bubblesort (Burbuja).",
+      "referencia": "3.2. Clasificación de algoritmos (Tabla), pág. 3-16",
+      "explicacion": "Es un algoritmo sencillo pero ineficiente para listas largas. Referencia: 'Ordenamiento de burbuja (Bubblesort) O(n2)'."
+    },
+    {
+      "texto": "71. ¿Qué técnica de búsqueda requiere obligatoriamente que el array esté ordenado?",
+      "opciones": [
+        "A) Búsqueda lineal.",
+        "B) Búsqueda por hashing.",
+        "C) Búsqueda binaria o dicotómica.",
+        "D) Búsqueda por transformación."
+      ],
+      "respuesta": "C) Búsqueda binaria o dicotómica.",
+      "referencia": "3.4.2. Búsqueda binaria o dicotómica, pág. 3-20",
+      "explicacion": "Divide el espacio de búsqueda por la mitad sucesivamente. Referencia: 'Para utilizar este algoritmo, el array debe estar ordenado'."
+    },
+    {
+      "texto": "72. ¿En qué técnica de búsqueda se asigna un índice mediante una función hash?",
+      "opciones": [
+        "A) Búsqueda secuencial.",
+        "B) Búsqueda binaria.",
+        "C) Búsqueda por transformación de claves.",
+        "D) Búsqueda por truncamiento."
+      ],
+      "respuesta": "C) Búsqueda por transformación de claves.",
+      "referencia": "3.4.3. Búsqueda mediante transformación de claves, pág. 3-20",
+      "explicacion": "Permite un acceso muy rápido sin necesidad de ordenación previa. Referencia: 'Consiste en asignar a cada elemento un índice mediante una transformación... llamada función hash'."
+    },
+    {
+      "texto": "73. ¿Cuál es el límite de tamaño para las particiones que impone el sistema de archivos FAT?",
+      "opciones": [
+        "A) 512 MB.",
+        "B) 1 GB.",
+        "C) 2 GB.",
+        "D) 4 GB."
+      ],
+      "respuesta": "C) 2 GB.",
+      "referencia": "4. Formatos de información y ficheros, pág. 3-21",
+      "explicacion": "Este límite viene dado por el número máximo de clústeres y su tamaño. Referencia: 'El límite de 2 gb para las particiones lo impone el número máximo de clústeres'."
+    },
+    {
+      "texto": "74. ¿Qué sistema de archivos de Linux admite un tamaño máximo de partición de 4 terabytes?",
+      "opciones": [
+        "A) Swapping.",
+        "B) FAT32.",
+        "C) Linux ext2.",
+        "D) NTFS."
+      ],
+      "respuesta": "C) Linux ext2.",
+      "referencia": "4. Formatos de información y ficheros, pág. 3-22",
+      "explicacion": "Supera ampliamente los límites de los sistemas FAT tradicionales. Referencia: 'el sistema operativo linux ext2 admite un tamaño máximo de disco o de partición de 4 terabytes'."
+    },
+    {
+      "texto": "75. ¿En qué generación de computadoras surge el concepto de multiprogramación?",
+      "opciones": [
+        "A) Primera.",
+        "B) Segunda.",
+        "C) Tercera.",
+        "D) Cuarta."
+      ],
+      "respuesta": "C) Tercera.",
+      "referencia": "1.1. Cuestiones generales (SO), pág. 4-3",
+      "explicacion": "Permitió aprovechar mejor el tiempo de CPU ante esperas de E/S. Referencia: 'Surgió también en la tercera generación de computadoras, el concepto de la multiprogramación'."
+    },
+    {
+      "texto": "76. ¿Cuál se considera el primer sistema operativo de tiempo compartido compatible?",
+      "opciones": [
+        "A) UNIX.",
+        "B) MS-DOS.",
+        "C) CTSS.",
+        "D) Multics."
+      ],
+      "respuesta": "C) CTSS.",
+      "referencia": "1.2. Evolución de los sistemas operativos, pág. 4-4",
+      "explicacion": "CTSS permitió por primera vez la interacción real usuario-máquina. Referencia: 'CTSS (Compatible Time-Sharing System)... se considera el primer sistema de este tipo'."
+    },
+    {
+      "texto": "77. ¿Cómo se denomina la interfaz de usuario basada en iconos y menús manejados con ratón?",
+      "opciones": [
+        "A) CLI.",
+        "B) BIOS.",
+        "C) GUI.",
+        "D) HAL."
+      ],
+      "respuesta": "C) GUI.",
+      "referencia": "2.1. Concepto, pág. 4-5",
+      "explicacion": "GUI corresponde a Graphical User Interface. Referencia: 'Interfaz Gráfica del Usuario (GUI)... permite al usuario elegir comandos... utilizando las representaciones visuales (iconos)'."
+    },
+    {
+      "texto": "78. ¿Qué estructura de SO utiliza 'anillos concéntricos' para proteger el núcleo del sistema?",
+      "opciones": [
+        "A) Monolítica.",
+        "B) De red.",
+        "C) Jerárquica.",
+        "D) Cliente/Servidor."
+      ],
+      "respuesta": "C) Jerárquica.",
+      "referencia": "3.1.2. Estructura jerárquica, pág. 4-8",
+      "explicacion": "Los anillos internos son más privilegiados y protegidos. Referencia: 'Otra forma de ver este tipo de sistema es la denominada de anillos concéntricos o “rings”'."
+    },
+    {
+      "texto": "79. ¿Qué nombre recibe un proceso que ha finalizado pero que todavía aparece en la tabla de procesos?",
+      "opciones": [
+        "A) Huérfano.",
+        "B) Daemon.",
+        "C) Zombie.",
+        "D) Hilo."
+      ],
+      "respuesta": "C) Zombie.",
+      "referencia": "4.1. Procesos, pág. 4-14",
+      "explicacion": "Ocurre cuando el padre no ha leído el estado de finalización del hijo. Referencia: 'Un proceso zombie es un proceso que ha finalizado... pero que todavía aparece en la tabla de procesos'."
+    },
+    {
+      "texto": "80. ¿Cómo se llama al trozo de un proceso que tiene sus propios registros pero comparte memoria con otros hilos del mismo proceso?",
+      "opciones": [
+        "A) Job.",
+        "B) Shell.",
+        "C) Hilo (Thread).",
+        "D) Task."
+      ],
+      "respuesta": "C) Hilo (Thread).",
+      "referencia": "4.2. Trabajos e hilos, pág. 4-14",
+      "explicacion": "Permiten ejecutar tareas paralelas de forma más ligera que los procesos. Referencia: 'Un hilo (thread) es un trozo o sección de un proceso... comparte memoria con el resto de hilos'."
+    },
+    {
+      "texto": "81. ¿Qué algoritmo de planificación de CPU asigna turnos circulares con intervalos de tiempo fijos?",
+      "opciones": [
+        "A) Por prioridad.",
+        "B) FIFO.",
+        "C) Round Robin.",
+        "D) El más corto primero."
+      ],
+      "respuesta": "C) Round Robin.",
+      "referencia": "5.1.5. Asignación del turno, pág. 4-18",
+      "explicacion": "Es el método más común para dar sensación de simultaneidad. Referencia: 'Round Robin: también llamada por turno, consiste en darle a cada proceso un intervalo de tiempo'."
+    },
+    {
+      "texto": "82. ¿Cómo se llama el proceso de juntar los huecos libres en la memoria RAM relocalizando programas?",
+      "opciones": [
+        "A) Paginación.",
+        "B) Swapping.",
+        "C) Compactación.",
+        "D) Segmentación."
+      ],
+      "respuesta": "C) Compactación.",
+      "referencia": "6.2.3. Particiones fijas o variables, pág. 4-22",
+      "explicacion": "Elimina la fragmentación externa en memoria real. Referencia: 'El proceso con el cual se juntan los huecos o los espacios ocupados se le llama compactación'."
+    },
+    {
+      "texto": "83. ¿En qué consiste la técnica de 'swapping' o intercambio?",
+      "opciones": [
+        "A) En dividir el programa en capas.",
+        "B) En proteger la memoria del SO.",
+        "C) En mover procesos entre la RAM y el disco.",
+        "D) En asignar IPs dinámicas."
+      ],
+      "respuesta": "C) En mover procesos entre la RAM y el disco.",
+      "referencia": "6.3.1. Paginación pura, pág. 4-25",
+      "explicacion": "Es la base para poder ejecutar más programas de los que caben físicamente en RAM. Referencia: 'Al proceso de intercambiar páginas... entre RAM y disco se le conoce como intercambio o swapping'."
+    },
+    {
+      "texto": "84. ¿Qué servidor centraliza la base de datos de usuarios (SAM) en un entorno Windows?",
+      "opciones": [
+        "A) Servidor miembro.",
+        "B) Servidor proxy.",
+        "C) Controlador de dominio (DC).",
+        "D) Host local."
+      ],
+      "respuesta": "C) Controlador de dominio (DC).",
+      "referencia": "8.3. Concepto de dominio, pág. 4-31",
+      "explicacion": "El DC gestiona la autenticación de todos los usuarios del dominio. Referencia: 'Esta base de datos se almacena en los controladores de dominio (DC, Domain Controller)'."
+    },
+    {
+      "texto": "85. ¿Qué comando de Windows muestra la configuración IP en una ventana gráfica?",
+      "opciones": [
+        "A) ipconfig.",
+        "B) netstat.",
+        "C) winipcfg.",
+        "D) hostname."
+      ],
+      "respuesta": "C) winipcfg.",
+      "referencia": "8.6. Comandos TCP/IP, pág. 4-34",
+      "explicacion": "Limitado a versiones antiguas (95/98/Me). Referencia: 'winipcfg. Muestra la configuración IP en una ventana gráfica. Sólo funciona en Windows 95/98/Me'."
+    },
+    {
+      "texto": "86. ¿Cuál es el PID (identificador de proceso) que tiene siempre el proceso 'init' en Unix?",
+      "opciones": [
+        "A) 0.",
+        "B) 100.",
+        "C) 1.",
+        "D) -1."
+      ],
+      "respuesta": "C) 1.",
+      "referencia": "9.4. Capas de Unix, pág. 4-40",
+      "explicacion": "init es el padre de todos los procesos del sistema. Referencia: 'el primer proceso en cargarse en un sistema Unix es el init, que tiene como identificador de proceso (PID) el número 1'."
+    },
+    {
+      "texto": "87. ¿Qué directorio de Unix contiene los archivos de configuración del sistema?",
+      "opciones": [
+        "A) /bin.",
+        "B) /dev.",
+        "C) /etc.",
+        "D) /tmp."
+      ],
+      "respuesta": "C) /etc.",
+      "referencia": "9.9. Sistema de archivos, pág. 4-41",
+      "explicacion": "Aquí residen ficheros críticos como passwd o fstab. Referencia: '/etc. Archivos de configuración'."
+    },
+    {
+      "texto": "88. ¿Cómo se llama la estructura de 64 bytes que gestiona los archivos en sistemas Unix?",
+      "opciones": [
+        "A) FAT.",
+        "B) Clúster.",
+        "C) Inodo.",
+        "D) Superbloque."
+      ],
+      "respuesta": "C) Inodo.",
+      "referencia": "9.9.2. Organización del disco, pág. 4-43",
+      "explicacion": "El inodo contiene los metadatos del archivo pero no su nombre. Referencia: 'Los archivos Unix están gestionados por inodos (nodos índice). Un inodo es una estructura de 64 bytes'."
+    },
+    {
+      "texto": "89. ¿Qué inodo está reservado siempre para el directorio raíz (/) en Unix?",
+      "opciones": [
+        "A) Inodo 0.",
+        "B) Inodo 1.",
+        "C) Inodo 2.",
+        "D) Inodo 10."
+      ],
+      "respuesta": "C) Inodo 2.",
+      "referencia": "9.9.2. Organización del disco, pág. 4-45",
+      "explicacion": "Es el punto de partida de toda la jerarquía de archivos. Referencia: 'Inodo 2. Lo utiliza siempre el directorio raíz'."
+    },
+    {
+      "texto": "90. ¿Qué comando de Unix permite conocer el directorio actual de trabajo?",
+      "opciones": [
+        "A) ls.",
+        "B) cd.",
+        "C) pwd.",
+        "D) mv."
+      ],
+      "respuesta": "C) pwd.",
+      "referencia": "9.12.1. Comandos del sistema de archivos, pág. 4-47",
+      "explicacion": "pwd significa 'print working directory'. Referencia: 'pwd. Muestra el directorio actual'."
+    },
+    {
+      "texto": "91. ¿Qué comando de Unix se usa para cambiar el propietario de un archivo?",
+      "opciones": [
+        "A) chmod.",
+        "B) touch.",
+        "C) chown.",
+        "D) umask."
+      ],
+      "respuesta": "C) chown.",
+      "referencia": "9.12.1. Comandos del sistema de archivos, pág. 4-48",
+      "explicacion": "Viene de 'change owner'. Referencia: 'chown. Cambia el propietario de un archivo'."
+    },
+    {
+      "texto": "92. ¿Qué comando de Unix busca un patrón de texto dentro de uno o más archivos?",
+      "opciones": [
+        "A) find.",
+        "B) sort.",
+        "C) grep.",
+        "D) diff."
+      ],
+      "respuesta": "C) grep.",
+      "referencia": "9.12.4. Herramientas, pág. 4-50",
+      "explicacion": "Es una de las herramientas más potentes para filtrado de texto. Referencia: 'grep. Busca un patrón en uno o más archivos'."
+    },
+    {
+      "texto": "93. ¿Qué arquitectura de base de datos propuso ANSI-SPARC en 1975?",
+      "opciones": [
+        "A) Arquitectura plana.",
+        "B) Arquitectura de red.",
+        "C) Arquitectura de tres niveles.",
+        "D) Arquitectura orientada a registros."
+      ],
+      "respuesta": "C) Arquitectura de tres niveles.",
+      "referencia": "1.2. Arquitectura de los sistemas de bases de datos, pág. 5-4",
+      "explicacion": "Define los niveles externo, conceptual e interno. Referencia: 'En 1975, el comité ANSI-SPARC... propuso una arquitectura de tres niveles'."
+    },
+    {
+      "texto": "94. ¿En qué año fue definido el modelo relacional por Codd?",
+      "opciones": [
+        "A) 1965.",
+        "B) 1975.",
+        "C) 1970.",
+        "D) 1980."
+      ],
+      "respuesta": "C) 1970.",
+      "referencia": "2.1. El Modelo Relacional, pág. 5-14",
+      "explicacion": "Codd revolucionó el almacenamiento de datos con su teoría de conjuntos. Referencia: 'Fue definido por Codd en 1970'."
+    },
+    {
+      "texto": "95. ¿Cómo se denomina al número de tuplas (filas) de una relación?",
+      "opciones": [
+        "A) Grado.",
+        "B) Dominio.",
+        "C) Cardinalidad.",
+        "D) Esquema."
+      ],
+      "respuesta": "C) Cardinalidad.",
+      "referencia": "2.2. Conceptos fundamentales, pág. 5-15",
+      "explicacion": "El grado se refiere a las columnas y la cardinalidad a las filas. Referencia: 'el número de tuplas de la misma define su cardinalidad'."
+    },
+    {
+      "texto": "96. ¿Qué regla de integridad evita que la clave primaria de una tabla contenga valores nulos?",
+      "opciones": [
+        "A) Integridad referencial.",
+        "B) Restricción de dominios.",
+        "C) Integridad de la entidad.",
+        "D) Regla de unicidad."
+      ],
+      "respuesta": "C) Integridad de la entidad.",
+      "referencia": "2.5. Restricciones del modelo relacional, pág. 5-18",
+      "explicacion": "Garantiza que cada registro sea identificable de forma única. Referencia: 'Regla de Integridad de la Entidad. Se aplica a las claves primarias... evitar que los atributos que las componen tengan valores nulos'."
+    },
+    {
+      "texto": "97. ¿Cómo se denomina a una relación virtual que no existe físicamente en el disco?",
+      "opciones": [
+        "A) Relación base.",
+        "B) Instantánea.",
+        "C) Vista.",
+        "D) Tabla temporal."
+      ],
+      "respuesta": "C) Vista.",
+      "referencia": "2.7. Vistas, pág. 5-20",
+      "explicacion": "Se derivan de las relaciones base mediante operaciones de consulta. Referencia: 'una vista es una relación virtual, una relación que en realidad no existe como tal'."
+    },
+    {
+      "texto": "98. ¿Qué operador del álgebra relacional obtiene un subconjunto vertical de una relación?",
+      "opciones": [
+        "A) Restricción.",
+        "B) Unión.",
+        "C) Proyección.",
+        "D) Diferencia."
+      ],
+      "respuesta": "C) Proyección.",
+      "referencia": "2.8. Algebra relacional, pág. 5-22",
+      "explicacion": "Elimina las columnas que no han sido seleccionadas. Referencia: 'La proyección... da como resultado otra relación que contiene un subconjunto vertical de R'."
+    },
+    {
+      "texto": "99. ¿Qué característica de los SGBDOO permite derivar clases nuevas que hereden propiedades de clases antecesoras?",
+      "opciones": [
+        "A) Encapsulación.",
+        "B) Polimorfismo.",
+        "C) Herencia.",
+        "D) Abstracción."
+      ],
+      "respuesta": "C) Herencia.",
+      "referencia": "3. Sistemas de gestión... orientados a objetos, pág. 5-25",
+      "explicacion": "Es un pilar básico del paradigma de objetos. Referencia: 'Herencia: capacidad de derivar de una clase genérica, clases diferentes que hereden'."
+    },
+    {
+      "texto": "100. ¿Cómo se llama el lenguaje de consulta declarativo propuesto específicamente para bases de datos de objetos?",
+      "opciones": [
+        "A) SQL.",
+        "B) QBE.",
+        "C) OQL.",
+        "D) LMD."
+      ],
+      "respuesta": "C) OQL.",
+      "referencia": "3.2. Características de SGBDOO, pág. 5-27",
+      "explicacion": "OQL es el estándar análogo a SQL pero para objetos. Referencia: 'El lenguaje (OQL) Es el lenguaje de consulta propuesto por ODMG-93'."
+    }
+  ]
+}

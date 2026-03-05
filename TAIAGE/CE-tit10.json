@@ -1,0 +1,772 @@
+{
+  "CE. Titulo X - De la reforma constitucional": [
+    {
+      "texto": "1. ¿Qué artículo establece quién tiene la iniciativa de reforma constitucional?",
+      "opciones": [
+        "A) Artículo 87.",
+        "B) Artículo 166.",
+        "C) Artículo 167.",
+        "D) Artículo 168."
+      ],
+      "respuesta": "B) Artículo 166.",
+      "referencia": "Tit10, Art166, pág. 180",
+      "explicacion": "El artículo 166 remite a los apartados 1 y 2 del artículo 87 para la iniciativa de reforma."
+    },
+    {
+      "texto": "2. Según el artículo 166, ¿quién NO tiene iniciativa de reforma constitucional al excluir el apartado 3 del artículo 87?",
+      "opciones": [
+        "A) El Gobierno.",
+        "B) El Congreso y el Senado.",
+        "C) Las Asambleas de las Comunidades Autónomas.",
+        "D) La iniciativa popular."
+      ],
+      "respuesta": "D) La iniciativa popular.",
+      "referencia": "Tit10, Art166, pág. 180",
+      "explicacion": "Al remitir solo a los apartados 1 y 2 del art. 87, se excluye la iniciativa popular (apartado 3) para la reforma de la CE."
+    },
+    {
+      "texto": "3. ¿Qué mayoría se requiere para aprobar un proyecto de reforma constitucional ordinaria (167.1)?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Tres quintos de cada una de las Cámaras.",
+        "C) Dos tercios.",
+        "D) Mayoría simple."
+      ],
+      "respuesta": "B) Tres quintos de cada una de las Cámaras.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "Los proyectos de reforma deberán ser aprobados por una mayoría de tres quintos de cada Cámara."
+    },
+    {
+      "texto": "4. Si no hay acuerdo entre las Cámaras en el procedimiento del 167.1, ¿qué se intenta crear?",
+      "opciones": [
+        "A) Un referéndum inmediato.",
+        "B) Una Comisión de composición paritaria de Diputados y Senadores.",
+        "C) Una ponencia del Gobierno.",
+        "D) El Rey decide."
+      ],
+      "respuesta": "B) Una Comisión de composición paritaria de Diputados y Senadores.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "Se intentará obtener acuerdo mediante una Comisión paritaria que presentará un texto a votar."
+    },
+    {
+      "texto": "5. En el procedimiento ordinario (167), ¿qué mayoría se requiere en el Congreso si el Senado solo aprobó por mayoría absoluta?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Dos tercios.",
+        "C) Tres quintos.",
+        "D) Tres cuartos."
+      ],
+      "respuesta": "B) Dos tercios.",
+      "referencia": "Tit10, Art167.2, pág. 181",
+      "explicacion": "Si el Senado aprueba por mayoría absoluta, el Congreso puede aprobar la reforma por mayoría de dos tercios."
+    },
+    {
+      "texto": "6. Una vez aprobada la reforma por las Cortes (167), ¿en qué plazo se puede solicitar un referéndum?",
+      "opciones": [
+        "A) Diez días.",
+        "B) Quince días.",
+        "C) Treinta días.",
+        "D) Sesenta días."
+      ],
+      "respuesta": "B) Quince días.",
+      "referencia": "Tit10, Art167.3, pág. 182",
+      "explicacion": "La solicitud de referéndum debe hacerse dentro de los quince días siguientes a su aprobación."
+    },
+    {
+      "texto": "7. ¿Qué fracción de los miembros de cualquiera de las Cámaras se requiere para pedir el referéndum del 167.3?",
+      "opciones": [
+        "A) Una cuarta parte.",
+        "B) Una décima parte.",
+        "C) La mitad más uno.",
+        "D) 50 miembros."
+      ],
+      "respuesta": "B) Una décima parte.",
+      "referencia": "Tit10, Art167.3, pág. 182",
+      "explicacion": "El referéndum será sometido a ratificación cuando lo solicite una décima parte de los miembros de cualquiera de las Cámaras."
+    },
+    {
+      "texto": "8. ¿Cuándo se aplica el procedimiento agravado de reforma del artículo 168.1?",
+      "opciones": [
+        "A) Para cualquier ley orgánica.",
+        "B) Cuando se propusiere la revisión total de la Constitución.",
+        "C) Para cambiar el nombre de una provincia.",
+        "D) Para reformar el Reglamento del Senado."
+      ],
+      "respuesta": "B) Cuando se propusiere la revisión total de la Constitución.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "El 168 se aplica para la revisión total o parcial que afecte a partes especialmente protegidas."
+    },
+    {
+      "texto": "9. ¿A qué partes específicas afecta el procedimiento agravado del 168.1 si la revisión es parcial?",
+      "opciones": [
+        "A) Al Título Preliminar.",
+        "B) Al Título I, Capítulo II, Sección 1.ª.",
+        "C) Al Título II.",
+        "D) Todas las respuestas son correctas."
+      ],
+      "respuesta": "D) Todas las respuestas son correctas.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "El 168.1 protege el Título Preliminar, la Sección 1.ª del Cap. II del Título I, y el Título II (La Corona)."
+    },
+    {
+      "texto": "10. ¿Qué mayoría se requiere para la aprobación del principio de reforma en el procedimiento agravado?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Tres quintos.",
+        "C) Dos tercios de cada Cámara.",
+        "D) Unanimidad."
+      ],
+      "respuesta": "C) Dos tercios de cada Cámara.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "Se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara."
+    },
+    {
+      "texto": "11. ¿Qué sucede inmediatamente después de aprobar el principio de reforma según el 168.1?",
+      "opciones": [
+        "A) Se convoca referéndum.",
+        "B) Se disuelven las Cortes.",
+        "C) El Rey firma la reforma.",
+        "D) Se nombra un nuevo Gobierno."
+      ],
+      "respuesta": "B) Se disuelven las Cortes.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "Aprobado el principio por 2/3, se procede a la disolución inmediata de las Cortes."
+    },
+    {
+      "texto": "12. ¿Qué deben hacer las Cámaras elegidas tras la disolución en el procedimiento agravado (168.2)?",
+      "opciones": [
+        "A) Nada, ya está aprobada.",
+        "B) Ratificar la decisión y proceder al estudio del nuevo texto.",
+        "C) Solo votar el texto del Gobierno.",
+        "D) Elegir un nuevo Rey."
+      ],
+      "respuesta": "B) Ratificar la decisión y proceder al estudio del nuevo texto.",
+      "referencia": "Tit10, Art168.2, pág. 183",
+      "explicacion": "Las nuevas Cámaras deben ratificar la decisión y estudiar el texto constitucional."
+    },
+    {
+      "texto": "13. ¿Qué mayoría se requiere para aprobar el nuevo texto en las nuevas Cámaras (168.2)?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Dos tercios de ambas Cámaras.",
+        "D) Tres quintos de ambas Cámaras."
+      ],
+      "respuesta": "C) Dos tercios de ambas Cámaras.",
+      "referencia": "Tit10, Art168.2, pág. 183",
+      "explicacion": "El nuevo texto deberá ser aprobado por mayoría de dos tercios de ambas Cámaras."
+    },
+    {
+      "texto": "14. ¿Es obligatorio el referéndum en el procedimiento agravado del artículo 168?",
+      "opciones": [
+        "A) No, solo si se pide.",
+        "B) Sí, una vez aprobada la reforma por las Cortes.",
+        "C) Solo si lo pide el Rey.",
+        "D) Solo en caso de empate."
+      ],
+      "respuesta": "B) Sí, una vez aprobada la reforma por las Cortes.",
+      "referencia": "Tit10, Art168.3, pág. 183",
+      "explicacion": "Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación."
+    },
+    {
+      "texto": "15. ¿En qué situación prohíbe el artículo 169 iniciar una reforma constitucional?",
+      "opciones": [
+        "A) En periodo de vacaciones parlamentarias.",
+        "B) En tiempo de guerra o vigencia de los estados del artículo 116.",
+        "C) Si hay elecciones en menos de seis meses.",
+        "D) Si el presupuesto no está aprobado."
+      ],
+      "respuesta": "B) En tiempo de guerra o vigencia de los estados del artículo 116.",
+      "referencia": "Tit10, Art169, pág. 183",
+      "explicacion": "No podrá iniciarse la reforma en tiempo de guerra o vigencia de los estados de alarma, excepción o sitio."
+    },
+    {
+      "texto": "16. ¿A qué apartados del artículo 87 remite el artículo 166?",
+      "opciones": [
+        "A) 1, 2 y 3.",
+        "B) 1 y 2.",
+        "C) Solo al 1.",
+        "D) Solo al 2."
+      ],
+      "respuesta": "B) 1 y 2.",
+      "referencia": "Tit10, Art166, pág. 180",
+      "explicacion": "La iniciativa se ejerce en los términos previstos en los apartados 1 y 2 del art. 87."
+    },
+    {
+      "texto": "17. ¿Qué mayoría se requiere en el Senado para poder usar la vía alternativa del 167.2 (2/3 del Congreso)?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Tres quintos.",
+        "D) Un tercio."
+      ],
+      "respuesta": "B) Mayoría absoluta.",
+      "referencia": "Tit10, Art167.2, pág. 181",
+      "explicacion": "Es requisito que el texto haya obtenido el voto favorable de la mayoría absoluta del Senado."
+    },
+    {
+      "texto": "18. ¿Cómo debe ser la composición de la Comisión que busca el acuerdo en el 167.1?",
+      "opciones": [
+        "A) Por sorteo.",
+        "B) Paritaria de Diputados y Senadores.",
+        "C) Formada solo por el grupo mayoritario.",
+        "D) Presidida por el Rey."
+      ],
+      "respuesta": "B) Paritaria de Diputados y Senadores.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "Se crea una Comisión de composición paritaria de Diputados y Senadores."
+    },
+    {
+      "texto": "19. ¿Cuál es el objeto de la reforma parcial agravada (168.1)?",
+      "opciones": [
+        "A) Título III.",
+        "B) Título Preliminar, Sección 1.ª Cap. II Título I, o Título II.",
+        "C) Título VIII.",
+        "D) Título IX."
+      ],
+      "respuesta": "B) Título Preliminar, Sección 1.ª Cap. II Título I, o Título II.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "Son las partes 'blindadas' de la Constitución por su importancia."
+    },
+    {
+      "texto": "20. ¿Cuántos artículos tiene el Título X?",
+      "opciones": [
+        "A) Tres artículos.",
+        "B) Cuatro artículos.",
+        "C) Cinco artículos.",
+        "D) Seis artículos."
+      ],
+      "respuesta": "B) Cuatro artículos.",
+      "referencia": "Tit10, Art166-169, pág. 180-183",
+      "explicacion": "El Título X comprende los artículos 166, 167, 168 y 169."
+    },
+    {
+      "texto": "21. ¿Qué se requiere para que la iniciativa de reforma sea del Gobierno (87.1)?",
+      "opciones": [
+        "A) Ser aprobada en Consejo de Ministros.",
+        "B) Ser firmada por el Rey.",
+        "C) Ser autorizada por el Congreso.",
+        "D) Un informe del Tribunal Supremo."
+      ],
+      "respuesta": "A) Ser aprobada en Consejo de Ministros.",
+      "referencia": "Tit3, Cap2, Art88, pág. 88",
+      "explicacion": "Aunque el 166 remite al 87, el proceso del Gobierno implica aprobación en Consejo de Ministros."
+    },
+    {
+      "texto": "22. ¿En qué plazo se celebra el referéndum del 167.3 si es solicitado?",
+      "opciones": [
+        "A) 15 días.",
+        "B) No se especifica el plazo de celebración, solo el de solicitud.",
+        "C) 30 días.",
+        "D) 60 días."
+      ],
+      "respuesta": "B) No se especifica el plazo de celebración, solo el de solicitud.",
+      "referencia": "Tit10, Art167.3, pág. 182",
+      "explicacion": "La Constitución fija 15 días para la solicitud, pero no el plazo de ejecución del referéndum."
+    },
+    {
+      "texto": "23. Según el artículo 168.2, ¿qué mayoría se necesita para que las Cámaras elegidas procedan al estudio del nuevo texto?",
+      "opciones": [
+        "A) Mayoría simple para ratificar.",
+        "B) No se especifica mayoría para la ratificación de la decisión, pero sí 2/3 para el texto.",
+        "C) Dos tercios.",
+        "D) Mayoría absoluta."
+      ],
+      "respuesta": "B) No se especifica mayoría para la ratificación de la decisión, pero sí 2/3 para el texto.",
+      "referencia": "Tit10, Art168.2, pág. 183",
+      "explicacion": "El texto dice 'deberán ratificar la decisión', sin indicar mayoría especial para ese acto previo al estudio."
+    },
+    {
+      "texto": "24. ¿Qué artículo regula la prohibición de reforma en estados de alarma, excepción o sitio?",
+      "opciones": [
+        "A) Artículo 116.",
+        "B) Artículo 167.",
+        "C) Artículo 168.",
+        "D) Artículo 169."
+      ],
+      "respuesta": "D) Artículo 169.",
+      "referencia": "Tit10, Art169, pág. 183",
+      "explicacion": "Impide iniciar reformas en situaciones de anomalía constitucional o guerra."
+    },
+    {
+      "texto": "25. ¿Quién puede solicitar la reforma constitucional según el artículo 87.2 remitido por el 166?",
+      "opciones": [
+        "A) Los sindicatos.",
+        "B) Las Asambleas de las Comunidades Autónomas.",
+        "C) El Tribunal Constitucional.",
+        "D) El Defensor del Pueblo."
+      ],
+      "respuesta": "B) Las Asambleas de las Comunidades Autónomas.",
+      "referencia": "Tit10, Art166 y Tit3, Art87.2, págs. 180, 87",
+      "explicacion": "Las Asambleas de las CCAA pueden solicitar al Gobierno un proyecto o remitir una proposición."
+    },
+    {
+      "texto": "26. En el 167.1, ¿quién vota el texto presentado por la Comisión paritaria?",
+      "opciones": [
+        "A) Solo el Congreso.",
+        "B) Solo el Senado.",
+        "C) El Congreso y el Senado.",
+        "D) El Rey."
+      ],
+      "respuesta": "C) El Congreso y el Senado.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "El texto de la Comisión será votado por ambas Cámaras."
+    },
+    {
+      "texto": "27. ¿Qué mayoría se requiere para la aprobación definitiva de la reforma en el procedimiento del 167.2?",
+      "opciones": [
+        "A) Mayoría absoluta de ambas.",
+        "B) Dos tercios del Congreso.",
+        "C) Tres quintos del Senado.",
+        "D) Unanimidad."
+      ],
+      "respuesta": "B) Dos tercios del Congreso.",
+      "referencia": "Tit10, Art167.2, pág. 181",
+      "explicacion": "Se requiere 2/3 del Congreso tras la mayoría absoluta del Senado."
+    },
+    {
+      "texto": "28. ¿Qué sucede si la décima parte de los miembros de una Cámara no solicita referéndum en la reforma del 167?",
+      "opciones": [
+        "A) Se anula la reforma.",
+        "B) La reforma queda ratificada sin consulta popular.",
+        "C) Se debe repetir la votación.",
+        "D) El Rey puede convocarlo de oficio."
+      ],
+      "respuesta": "B) La reforma queda ratificada sin consulta popular.",
+      "referencia": "Tit10, Art167.3, pág. 182",
+      "explicacion": "El referéndum en la vía ordinaria es facultativo, solo se celebra si se solicita."
+    },
+    {
+      "texto": "29. ¿Qué artículo del Título I está protegido por el procedimiento del 168?",
+      "opciones": [
+        "A) Todos los artículos del Título I.",
+        "B) Los artículos 15 al 29 (Sección 1.ª del Cap. II).",
+        "C) Solo el artículo 14.",
+        "D) Los principios rectores del Capítulo III."
+      ],
+      "respuesta": "B) Los artículos 15 al 29 (Sección 1.ª del Cap. II).",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "La protección especial se limita a los derechos fundamentales y libertades públicas de la Sección 1.ª."
+    },
+    {
+      "texto": "30. ¿En qué artículo se menciona que las Cámaras se disuelven inmediatamente?",
+      "opciones": [
+        "A) Artículo 115.",
+        "B) Artículo 99.",
+        "C) Artículo 168.1.",
+        "D) Artículo 167."
+      ],
+      "respuesta": "C) Artículo 168.1.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "Es una consecuencia automática de la aprobación del principio de revisión agravada."
+    },
+    {
+      "texto": "31. ¿Qué mayoría de ambas Cámaras debe aprobar el texto final en la vía agravada?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Tres quintos.",
+        "C) Dos tercios.",
+        "D) Mayoría de 1/10."
+      ],
+      "respuesta": "C) Dos tercios.",
+      "referencia": "Tit10, Art168.2, pág. 183",
+      "explicacion": "Requiere una mayoría muy reforzada para asegurar el consenso."
+    },
+    {
+      "texto": "32. ¿Qué Título de la CE regula la Corona?",
+      "opciones": [
+        "A) Título Preliminar.",
+        "B) Título I.",
+        "C) Título II.",
+        "D) Título III."
+      ],
+      "respuesta": "C) Título II.",
+      "referencia": "Tit2, pág. 12",
+      "explicacion": "El Título II es uno de los protegidos por el procedimiento agravado de reforma."
+    },
+    {
+      "texto": "33. ¿Puede iniciarse la reforma si está declarado el estado de alarma?",
+      "opciones": [
+        "A) Sí, es el único que lo permite.",
+        "B) No, el artículo 169 lo prohíbe.",
+        "C) Solo si lo autoriza el Congreso.",
+        "D) Solo para reformas urgentes."
+      ],
+      "respuesta": "B) No, el artículo 169 lo prohíbe.",
+      "referencia": "Tit10, Art169, pág. 183",
+      "explicacion": "La prohibición incluye cualquiera de los estados del artículo 116."
+    },
+    {
+      "texto": "34. ¿A quién corresponde sancionar la reforma constitucional aprobada por referéndum en la vía agravada?",
+      "opciones": [
+        "A) Al Presidente del Gobierno.",
+        "B) Al Rey.",
+        "C) Al Presidente de las Cortes.",
+        "D) La Constitución no lo menciona expresamente en el Título X."
+      ],
+      "respuesta": "D) La Constitución no lo menciona expresamente en el Título X.",
+      "referencia": "Tit10, Art 166-169, pág. 180-183",
+      "explicacion": "El Título X describe el proceso de aprobación y referéndum, pero la sanción real se deriva de las funciones generales del Rey."
+    },
+    {
+      "texto": "35. ¿Cuántas personas forman la Comisión paritaria del 167.1?",
+      "opciones": [
+        "A) Diez miembros.",
+        "B) No se especifica el número, solo que es paritaria.",
+        "C) Veinte miembros.",
+        "D) Los mismos que la Diputación Permanente."
+      ],
+      "respuesta": "B) No se especifica el número, solo que es paritaria.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "La Constitución no fija el número, solo la composición equilibrada entre Cámaras."
+    },
+    {
+      "texto": "36. ¿A qué se refiere el término 'revisión total' en el artículo 168?",
+      "opciones": [
+        "A) A cambiar más de diez artículos.",
+        "B) A la sustitución completa del texto constitucional.",
+        "C) A reformar cualquier título.",
+        "D) A cambiar el preámbulo."
+      ],
+      "respuesta": "B) A la sustitución completa del texto constitucional.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "Implica un proceso constituyente nuevo o casi integral."
+    },
+    {
+      "texto": "37. ¿Qué artículo del Título X menciona el artículo 116?",
+      "opciones": [
+        "A) Artículo 166.",
+        "B) Artículo 167.",
+        "C) Artículo 168.",
+        "D) Artículo 169."
+      ],
+      "respuesta": "D) Artículo 169.",
+      "referencia": "Tit10, Art169, pág. 183",
+      "explicacion": "Lo cita para prohibir la reforma durante los estados de alarma, excepción y sitio."
+    },
+    {
+      "texto": "38. ¿Qué mayoría de los miembros del Congreso pueden proponer la iniciativa de reforma (87.1)?",
+      "opciones": [
+        "A) Una décima parte.",
+        "B) Dos grupos parlamentarios o una quinta parte.",
+        "C) Mayoría absoluta.",
+        "D) Un solo diputado."
+      ],
+      "respuesta": "B) Dos grupos parlamentarios o una quinta parte.",
+      "referencia": "Tit3, Cap2, Art87.1 y Reglamento",
+      "explicacion": "Aunque la CE no lo detalla, remite al 87.1 y los Reglamentos de las Cámaras."
+    },
+    {
+      "texto": "39. ¿Cuántos días hay de plazo para pedir el referéndum en la vía ordinaria?",
+      "opciones": [
+        "A) 10 días.",
+        "B) 15 días.",
+        "C) 20 días.",
+        "D) 30 días."
+      ],
+      "respuesta": "B) 15 días.",
+      "referencia": "Tit10, Art167.3, pág. 182",
+      "explicacion": "Es un plazo preclusivo tras la aprobación en las Cortes."
+    },
+    {
+      "texto": "40. ¿Quién ratifica la decisión de reformar en el procedimiento agravado?",
+      "opciones": [
+        "A) El Rey.",
+        "B) Las Cámaras elegidas tras la disolución.",
+        "C) El pueblo en referéndum inicial.",
+        "D) El Tribunal Constitucional."
+      ],
+      "respuesta": "B) Las Cámaras elegidas tras la disolución.",
+      "referencia": "Tit10, Art168.2, pág. 183",
+      "explicacion": "Las nuevas Cortes deben confirmar la voluntad de reforma de las anteriores."
+    },
+    {
+      "texto": "41. ¿En qué capítulo del Título I están los derechos cuya reforma requiere vía agravada?",
+      "opciones": [
+        "A) Capítulo Primero.",
+        "B) Capítulo Segundo, Sección Primera.",
+        "C) Capítulo Tercero.",
+        "D) Capítulo Quinto."
+      ],
+      "respuesta": "B) Capítulo Segundo, Sección Primera.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "Son los derechos fundamentales y libertades públicas (arts. 15-29)."
+    },
+    {
+      "texto": "42. ¿Qué sucede si la Comisión paritaria del 167.1 no llega a un acuerdo?",
+      "opciones": [
+        "A) Se archiva la reforma.",
+        "B) Se puede intentar la vía del 167.2 (Abs Senado + 2/3 Congreso).",
+        "C) Se disuelven las Cámaras.",
+        "D) El Congreso impone su texto por mayoría simple."
+      ],
+      "respuesta": "B) Se puede intentar la vía del 167.2 (Abs Senado + 2/3 Congreso).",
+      "referencia": "Tit10, Art167.2, pág. 181",
+      "explicacion": "Es el mecanismo de desbloqueo si la comisión o el voto ordinario fallan."
+    },
+    {
+      "texto": "43. ¿Es necesario el referéndum para una reforma del Título Preliminar?",
+      "opciones": [
+        "A) Solo si lo pide el 10%.",
+        "B) Sí, es obligatorio según el 168.3.",
+        "C) No, basta con la aprobación de las Cortes.",
+        "D) Depende de si afecta a la lengua oficial."
+      ],
+      "respuesta": "B) Sí, es obligatorio según el 168.3.",
+      "referencia": "Tit10, Art168.3, pág. 183",
+      "explicacion": "Toda reforma por la vía del 168 requiere ratificación popular preceptiva."
+    },
+    {
+      "texto": "44. ¿Qué artículo regula los estados de alarma, excepción y sitio citados en el 169?",
+      "opciones": [
+        "A) Artículo 55.",
+        "B) Artículo 116.",
+        "C) Artículo 155.",
+        "D) Artículo 168."
+      ],
+      "respuesta": "B) Artículo 116.",
+      "referencia": "Tit5, Art116, pág. 111",
+      "explicacion": "El 116 define estas situaciones de crisis en las que no se puede reformar la CE."
+    },
+    {
+      "texto": "45. ¿Puede el Senado vetar una reforma constitucional ordinaria?",
+      "opciones": [
+        "A) Sí, si no alcanza los 3/5 ni la mayoría absoluta.",
+        "B) No, el Congreso siempre decide.",
+        "C) Solo si lo apoya el Rey.",
+        "D) Sí, pero se resuelve con una comisión mixta."
+      ],
+      "respuesta": "A) Sí, si no alcanza los 3/5 ni la mayoría absoluta.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "Si el Senado no llega a las mayorías requeridas, el proceso no puede continuar por esa vía."
+    },
+    {
+      "texto": "46. ¿A qué se refiere el artículo 168.1 con 'principio'?",
+      "opciones": [
+        "A) A la primera página de la reforma.",
+        "B) A la decisión inicial de que es necesaria la reforma.",
+        "C) Al preámbulo nuevo.",
+        "D) A la orden del Rey."
+      ],
+      "respuesta": "B) A la decisión inicial de que es necesaria la reforma.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "Es la aprobación política de que se va a proceder a la revisión."
+    },
+    {
+      "texto": "47. ¿Cuántos votos se necesitan en el Senado para pedir referéndum en la vía del 167?",
+      "opciones": [
+        "A) 25 Senadores.",
+        "B) Una décima parte de los Senadores.",
+        "C) Mayoría absoluta.",
+        "D) 50 Senadores."
+      ],
+      "respuesta": "B) Una décima parte de los Senadores.",
+      "referencia": "Tit10, Art167.3, pág. 182",
+      "explicacion": "Basta con el 10% de cualquiera de las dos Cámaras."
+    },
+    {
+      "texto": "48. ¿Quién presenta el texto que será votado tras la mediación paritaria (167)?",
+      "opciones": [
+        "A) El Presidente del Gobierno.",
+        "B) La propia Comisión.",
+        "C) El Presidente del Congreso.",
+        "D) El Ministro de Justicia."
+      ],
+      "respuesta": "B) La propia Comisión.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "La comisión 'presentará un texto que será votado por el Congreso y el Senado'."
+    },
+    {
+      "texto": "49. ¿Qué artículo del Título X menciona que se debe proceder al 'estudio del nuevo texto'?",
+      "opciones": [
+        "A) Artículo 166.",
+        "B) Artículo 167.",
+        "C) Artículo 168.2.",
+        "D) Artículo 169."
+      ],
+      "respuesta": "C) Artículo 168.2.",
+      "referencia": "Tit10, Art168.2, pág. 183",
+      "explicacion": "Es la fase legislativa de las nuevas Cámaras tras la ratificación."
+    },
+    {
+      "texto": "50. ¿Se puede reformar la Constitución en tiempo de guerra?",
+      "opciones": [
+        "A) Sí, para adaptarla a la situación.",
+        "B) No, está prohibido por el artículo 169.",
+        "C) Solo si hay consenso total.",
+        "D) Solo el Título VIII."
+      ],
+      "respuesta": "B) No, está prohibido por el artículo 169.",
+      "referencia": "Tit10, Art169, pág. 183",
+      "explicacion": "Es un límite temporal absoluto a la reforma."
+    },
+    {
+      "texto": "51. ¿En qué artículo se menciona que la soberanía nacional reside en el pueblo (relevante para el 168)?",
+      "opciones": [
+        "A) Artículo 1.1.",
+        "B) Artículo 1.2.",
+        "C) Artículo 2.",
+        "D) Artículo 66."
+      ],
+      "respuesta": "B) Artículo 1.2.",
+      "referencia": "Tit Prel, Art1.2, pág. 10",
+      "explicacion": "Al estar en el Título Preliminar, su reforma requiere la vía del 168."
+    },
+    {
+      "texto": "52. ¿Qué mayoría se requiere para la aprobación de la reforma en el Congreso según el 167.1?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Tres quintos.",
+        "C) Dos tercios.",
+        "D) Mayoría simple."
+      ],
+      "respuesta": "B) Tres quintos.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "Es la mayoría ordinaria para reformas no agravadas."
+    },
+    {
+      "texto": "53. ¿Qué Título se ve afectado por el 168 si se reforma la Corona?",
+      "opciones": [
+        "A) Título I.",
+        "B) Título II.",
+        "C) Título III.",
+        "D) Título IV."
+      ],
+      "respuesta": "B) Título II.",
+      "referencia": "Tit2, pág. 12",
+      "explicacion": "El Título II regula 'De la Corona' y está especialmente protegido."
+    },
+    {
+      "texto": "54. ¿Cuántos días deben transcurrir tras la aprobación para que expire el plazo de pedir referéndum (167)?",
+      "opciones": [
+        "A) 15 días.",
+        "B) 30 días.",
+        "C) 45 días.",
+        "D) No hay límite."
+      ],
+      "respuesta": "A) 15 días.",
+      "referencia": "Tit10, Art167.3, pág. 182",
+      "explicacion": "El plazo de quince días es para que la minoría parlamentaria reaccione."
+    },
+    {
+      "texto": "55. ¿Qué artículo del Título X prohíbe el inicio de la reforma?",
+      "opciones": [
+        "A) Artículo 166.",
+        "B) Artículo 169.",
+        "C) Artículo 168.",
+        "D) Artículo 167."
+      ],
+      "respuesta": "B) Artículo 169.",
+      "referencia": "Tit10, Art169, pág. 183",
+      "explicacion": "Se titula 'De la reforma constitucional' y el 169 pone los límites negativos."
+    },
+    {
+      "texto": "56. ¿A propuesta de quién se puede iniciar la reforma según el 87.1?",
+      "opciones": [
+        "A) Del Rey.",
+        "B) Del Gobierno.",
+        "C) Del Tribunal Constitucional.",
+        "D) De los ciudadanos (500.000 firmas)."
+      ],
+      "respuesta": "B) Del Gobierno.",
+      "referencia": "Tit3, Cap2, Art87.1, pág. 87",
+      "explicacion": "El Gobierno tiene iniciativa legislativa y, por ende, de reforma."
+    },
+    {
+      "texto": "57. ¿Qué mayoría de las nuevas Cámaras se requiere para ratificar la decisión del 168.1?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) No se especifica, se entiende mayoría simple al no indicarse otra.",
+        "C) Dos tercios.",
+        "D) Tres quintos."
+      ],
+      "respuesta": "B) No se especifica, se entiende mayoría simple al no indicarse otra.",
+      "referencia": "Tit10, Art168.2, pág. 183",
+      "explicacion": "La Constitución dice 'deberán ratificar', sin quorum especial, a diferencia de la votación del texto."
+    },
+    {
+      "texto": "58. ¿En qué artículo se mencionan las mayorías de tres quintos?",
+      "opciones": [
+        "A) Artículo 167.1.",
+        "B) Artículo 168.1.",
+        "C) Artículo 169.",
+        "D) Artículo 159."
+      ],
+      "respuesta": "A) Artículo 167.1.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "Es la mayoría estándar del procedimiento de reforma ordinaria."
+    },
+    {
+      "texto": "59. ¿Quién convoca el referéndum del artículo 168.3?",
+      "opciones": [
+        "A) El Presidente del Gobierno.",
+        "B) El Rey.",
+        "C) El Presidente del Congreso.",
+        "D) El pueblo mismo."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit2, Art62.c), pág. 62",
+      "explicacion": "Corresponde al Rey convocar a referéndum en los casos previstos en la CE."
+    },
+    {
+      "texto": "60. ¿Qué artículo del Título I, Capítulo II, Sección 1.ª, trata sobre el derecho a la vida (relevante para el 168)?",
+      "opciones": [
+        "A) Artículo 14.",
+        "B) Artículo 15.",
+        "C) Artículo 16.",
+        "D) Artículo 17."
+      ],
+      "respuesta": "B) Artículo 15.",
+      "referencia": "Tit1, Cap2, Sec1, Art15, pág. 19",
+      "explicacion": "Al ser el primero de la Sección 1.ª del Cap. II, está blindado por el 168."
+    },
+    {
+      "texto": "61. ¿A qué se refiere el término 'paritaria' en el artículo 167.1?",
+      "opciones": [
+        "A) A que todos son del mismo partido.",
+        "B) A igual número de Diputados y Senadores.",
+        "C) A que hay mitad hombres y mitad mujeres.",
+        "D) A que hay representantes de todas las CCAA."
+      ],
+      "respuesta": "B) A igual número de Diputados y Senadores.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "Asegura el equilibrio de representación entre ambas Cámaras."
+    },
+    {
+      "texto": "62. ¿Qué sucede con las Cortes tras aprobar el principio de revisión total?",
+      "opciones": [
+        "A) Siguen trabajando en el texto.",
+        "B) Se disuelven inmediatamente.",
+        "C) Se van de vacaciones.",
+        "D) Se fusionan en una sola Cámara."
+      ],
+      "respuesta": "B) Se disuelven inmediatamente.",
+      "referencia": "Tit10, Art168.1, pág. 182",
+      "explicacion": "Es un requisito para que el nuevo cuerpo electoral valide el proceso."
+    },
+    {
+      "texto": "63. ¿Qué mayoría se requiere para la aprobación de la reforma en el Senado (167.1)?",
+      "opciones": [
+        "A) Mayoría absoluta.",
+        "B) Tres quintos.",
+        "C) Dos tercios.",
+        "D) Mayoría simple."
+      ],
+      "respuesta": "B) Tres quintos.",
+      "referencia": "Tit10, Art167.1, pág. 181",
+      "explicacion": "Es la misma mayoría que en el Congreso para la vía ordinaria."
+    },
+    {
+      "texto": "64. ¿En qué artículo se menciona que el referéndum es para 'ratificación'?",
+      "opciones": [
+        "A) Artículo 167.3.",
+        "B) Artículo 168.3.",
+        "C) En ambos.",
+        "D) En ninguno, dice 'aprobación'."
+      ],
+      "respuesta": "C) En ambos.",
+      "referencia": "Tit10, Art167, 168, págs. 182, 183",
+      "explicacion": "La Constitución usa el término 'ratificación' para el referéndum de reforma."
+    }
+  ]
+}

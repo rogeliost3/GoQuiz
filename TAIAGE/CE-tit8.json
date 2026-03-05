@@ -1,0 +1,1204 @@
+{
+  "CE. Titulo VIII - De la Organización Territorial del Estado": [
+    {
+      "texto": "1. Según el artículo 137, ¿cómo se organiza territorialmente el Estado?",
+      "opciones": [
+        "A) En municipios, provincias y regiones autónomas.",
+        "B) En municipios, provincias y en las Comunidades Autónomas que se constituyan.",
+        "C) En municipios, islas y federaciones.",
+        "D) En ayuntamientos y diputaciones provinciales."
+      ],
+      "respuesta": "B) En municipios, provincias y en las Comunidades Autónomas que se constituyan.",
+      "referencia": "Tit8, Cap1, Art137, pág. 136",
+      "explicacion": "El artículo 137 establece la organización territorial básica del Estado en municipios, provincias y Comunidades Autónomas."
+    },
+    {
+      "texto": "2. ¿De qué gozan todas las entidades mencionadas en el artículo 137 para la gestión de sus intereses?",
+      "opciones": [
+        "A) De soberanía plena.",
+        "B) De autonomía.",
+        "C) De independencia administrativa.",
+        "D) De potestad legislativa absoluta."
+      ],
+      "respuesta": "B) De autonomía.",
+      "referencia": "Tit8, Cap1, Art137, pág. 136",
+      "explicacion": "El texto indica que todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses."
+    },
+    {
+      "texto": "3. ¿Qué principio consagrado en el artículo 2 garantiza el Estado según el artículo 138.1?",
+      "opciones": [
+        "A) La libertad de circulación.",
+        "B) La solidaridad.",
+        "C) El pluralismo político.",
+        "D) La jerarquía normativa."
+      ],
+      "respuesta": "B) La solidaridad.",
+      "referencia": "Tit8, Cap1, Art138.1, pág. 137",
+      "explicacion": "El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2."
+    },
+    {
+      "texto": "4. Según el artículo 138.1, ¿a qué debe atender en particular el Estado al velar por el equilibrio económico?",
+      "opciones": [
+        "A) A la población urbana.",
+        "B) A las circunstancias del hecho insular.",
+        "C) A las zonas de montaña únicamente.",
+        "D) A las fronteras internacionales."
+      ],
+      "respuesta": "B) A las circunstancias del hecho insular.",
+      "referencia": "Tit8, Cap1, Art138.1, pág. 137",
+      "explicacion": "El Estado debe velar por el equilibrio económico atendiendo en particular a las circunstancias del hecho insular."
+    },
+    {
+      "texto": "5. ¿Qué prohíbe el artículo 138.2 respecto a las diferencias entre los Estatutos de las Comunidades Autónomas?",
+      "opciones": [
+        "A) Que tengan diferentes nombres.",
+        "B) Que impliquen privilegios económicos o sociales.",
+        "C) Que regulen la lengua propia.",
+        "D) Que establezcan su propia sede."
+      ],
+      "respuesta": "B) Que impliquen privilegios económicos o sociales.",
+      "referencia": "Tit8, Cap1, Art138.2, pág. 137",
+      "explicacion": "Las diferencias entre los Estatutos no podrán implicar, en ningún caso, privilegios económicos o sociales."
+    },
+    {
+      "texto": "6. Según el artículo 139.1, ¿quiénes tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado?",
+      "opciones": [
+        "A) Todos los residentes legales.",
+        "B) Todos los españoles.",
+        "C) Solo los ciudadanos de las Comunidades Autónomas.",
+        "D) Los funcionarios públicos."
+      ],
+      "respuesta": "B) Todos los españoles.",
+      "referencia": "Tit8, Cap1, Art139.1, pág. 137",
+      "explicacion": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado."
+    },
+    {
+      "texto": "7. ¿Qué prohíbe el artículo 139.2 a cualquier autoridad respecto a la libre circulación de bienes?",
+      "opciones": [
+        "A) Cobrar impuestos sobre ellos.",
+        "B) Adoptar medidas que directa o indirectamente la obstaculicen.",
+        "C) Regular su etiquetado.",
+        "D) Fomentar su exportación."
+      ],
+      "respuesta": "B) Adoptar medidas que directa o indirectamente la obstaculicen.",
+      "referencia": "Tit8, Cap1, Art139.2, pág. 138",
+      "explicacion": "Ninguna autoridad podrá adoptar medidas que obstaculicen la libre circulación de personas y bienes en todo el territorio."
+    },
+    {
+      "texto": "8. ¿Qué garantiza la Constitución en el artículo 140 respecto a los municipios?",
+      "opciones": [
+        "A) Su independencia judicial.",
+        "B) Su autonomía.",
+        "C) Su potestad tributaria originaria.",
+        "D) Su representación en el Senado."
+      ],
+      "respuesta": "B) Su autonomía.",
+      "referencia": "Tit8, Cap2, Art140, pág. 138",
+      "explicacion": "La Constitución garantiza la autonomía de los municipios, que gozarán de personalidad jurídica plena."
+    },
+    {
+      "texto": "9. ¿Quiénes integran los Ayuntamientos según el artículo 140?",
+      "opciones": [
+        "A) Los Alcaldes y los Concejales.",
+        "B) Los Gobernadores y los Concejales.",
+        "C) Solo los Concejales elegidos.",
+        "D) Los Presidentes de Diputación."
+      ],
+      "respuesta": "A) Los Alcaldes y los Concejales.",
+      "referencia": "Tit8, Cap2, Art140, pág. 138",
+      "explicacion": "El gobierno y administración de los municipios corresponde a sus respectivos Ayuntamientos, integrados por Alcaldes y Concejales."
+    },
+    {
+      "texto": "10. ¿Cómo son elegidos los Concejales según el artículo 140?",
+      "opciones": [
+        "A) Por el Gobierno mediante decreto.",
+        "B) Por los vecinos mediante sufragio universal, igual, libre, directo y secreto.",
+        "C) Por los Alcaldes de la provincia.",
+        "D) Por sorteo entre los censados."
+      ],
+      "respuesta": "B) Por los vecinos mediante sufragio universal, igual, libre, directo y secreto.",
+      "referencia": "Tit8, Cap2, Art140, pág. 138",
+      "explicacion": "Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto."
+    },
+    {
+      "texto": "11. Según el artículo 140, ¿quiénes pueden elegir a los Alcaldes?",
+      "opciones": [
+        "A) El Rey.",
+        "B) Los Concejales o los vecinos.",
+        "C) El Consejo de Ministros.",
+        "D) El Presidente de la Comunidad Autónoma."
+      ],
+      "respuesta": "B) Los Concejales o los vecinos.",
+      "referencia": "Tit8, Cap2, Art140, pág. 138",
+      "explicacion": "El artículo 140 establece que los Alcaldes serán elegidos por los Concejales o por los vecinos."
+    },
+    {
+      "texto": "12. ¿Qué régimen especial para municipios menciona el artículo 140 que la ley debe regular?",
+      "opciones": [
+        "A) El régimen de capitalidad.",
+        "B) El régimen del concejo abierto.",
+        "C) El régimen de puertos francos.",
+        "D) El régimen de mancomunidades."
+      ],
+      "respuesta": "B) El régimen del concejo abierto.",
+      "referencia": "Tit8, Cap2, Art140, pág. 138",
+      "explicacion": "La ley regulará las condiciones en las que proceda el régimen del concejo abierto."
+    },
+    {
+      "texto": "13. ¿Cómo define el artículo 141.1 a la provincia?",
+      "opciones": [
+        "A) Como una subdivisión administrativa del Gobierno.",
+        "B) Como una entidad local con personalidad jurídica propia.",
+        "C) Como una unión de Comunidades Autónomas.",
+        "D) Como una delegación del Ministerio del Interior."
+      ],
+      "respuesta": "B) Como una entidad local con personalidad jurídica propia.",
+      "referencia": "Tit8, Cap2, Art141.1, pág. 139",
+      "explicacion": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios."
+    },
+    {
+      "texto": "14. ¿Qué se requiere para cualquier alteración de los límites provinciales según el artículo 141.1?",
+      "opciones": [
+        "A) Un Real Decreto.",
+        "B) Aprobación de las Cortes Generales mediante ley orgánica.",
+        "C) Acuerdo de todos los municipios afectados.",
+        "D) Autorización del Tribunal Supremo."
+      ],
+      "respuesta": "B) Aprobación de las Cortes Generales mediante ley orgánica.",
+      "referencia": "Tit8, Cap2, Art141.1, pág. 139",
+      "explicacion": "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica."
+    },
+    {
+      "texto": "15. ¿A qué órganos se encomienda el gobierno de las provincias según el artículo 141.2?",
+      "opciones": [
+        "A) A las Juntas Provinciales.",
+        "B) A Diputaciones u otras Corporaciones de carácter representativo.",
+        "C) A los Gobernadores Civiles.",
+        "D) Al delegado del Gobierno en la Comunidad."
+      ],
+      "respuesta": "B) De acuerdo con el artículo 141.2, a Diputaciones u otras Corporaciones representativas.",
+      "referencia": "Tit8, Cap2, Art141.2, pág. 139",
+      "explicacion": "El gobierno y administración autónoma de las provincias están encomendados a Diputaciones u otras Corporaciones."
+    },
+    {
+      "texto": "16. Según el artículo 141.4, ¿qué administración propia tienen las islas en los archipiélagos?",
+      "opciones": [
+        "A) Cabildos o Consejos.",
+        "B) Diputaciones Insulares.",
+        "C) Gobiernos Civiles de Isla.",
+        "D) Municipios Únicos."
+      ],
+      "respuesta": "A) Cabildos o Consejos.",
+      "referencia": "Tit8, Cap2, Art141.4, pág. 140",
+      "explicacion": "En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos."
+    },
+    {
+      "texto": "17. ¿De qué deben disponer las Haciendas locales según el artículo 142?",
+      "opciones": [
+        "A) De fondos de reserva estatales.",
+        "B) De medios suficientes para el desempeño de sus funciones.",
+        "C) De créditos ilimitados del Banco de España.",
+        "D) Solo de donaciones privadas."
+      ],
+      "respuesta": "B) De medios suficientes para el desempeño de sus funciones.",
+      "referencia": "Tit8, Cap2, Art142, pág. 140",
+      "explicacion": "Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley les atribuye."
+    },
+    {
+      "texto": "18. ¿De qué se nutren fundamentalmente las Haciendas locales según el artículo 142?",
+      "opciones": [
+        "A) De la Lotería Nacional.",
+        "B) De tributos propios y participación en los del Estado y CCAA.",
+        "C) De multas de tráfico únicamente.",
+        "D) De fondos de la Unión Europea."
+      ],
+      "respuesta": "B) De tributos propios y participación en los del Estado y CCAA.",
+      "referencia": "Tit8, Cap2, Art142, pág. 140",
+      "explicacion": "Se nutren de tributos propios y de la participación en los del Estado y de las Comunidades Autónomas."
+    },
+    {
+      "texto": "19. Según el artículo 143.1, ¿quiénes pueden acceder al autogobierno para constituirse en CCAA?",
+      "opciones": [
+        "A) Cualquier municipio que lo desee.",
+        "B) Provincias limítrofes con características comunes.",
+        "C) Agrupaciones de al menos cinco provincias.",
+        "D) Solo los territorios con lengua propia."
+      ],
+      "respuesta": "B) Provincias limítrofes con características comunes.",
+      "referencia": "Tit8, Cap3, Art143.1, pág. 141",
+      "explicacion": "El artículo 143.1 permite el acceso a la autonomía a provincias limítrofes con características comunes y territorios insulares."
+    },
+    {
+      "texto": "20. ¿A quién corresponde la iniciativa del proceso autonómico según el artículo 143.2?",
+      "opciones": [
+        "A) Al Gobierno de la Nación.",
+        "B) A todas las Diputaciones interesadas y a 2/3 de los municipios.",
+        "C) Al Rey mediante propuesta real.",
+        "D) A las Cortes Generales por mayoría simple."
+      ],
+      "respuesta": "B) A todas las Diputaciones interesadas y a 2/3 de los municipios.",
+      "referencia": "Tit8, Cap3, Art143.2, pág. 141",
+      "explicacion": "Corresponde a las Diputaciones o al órgano interinsular y a las dos terceras partes de los municipios."
+    },
+    {
+      "texto": "21. ¿Qué porcentaje de la población del censo electoral deben representar los municipios en la iniciativa autonómica del 143.2?",
+      "opciones": [
+        "A) La mayoría simple.",
+        "B) Al menos la mayoría del censo electoral de cada provincia o isla.",
+        "C) Los dos tercios de la población total.",
+        "D) No se requiere un mínimo de población."
+      ],
+      "respuesta": "B) Al menos la mayoría del censo electoral de cada provincia o isla.",
+      "referencia": "Tit8, Cap3, Art143.2, pág. 141",
+      "explicacion": "Los municipios deben representar, al menos, la mayoría del censo electoral de cada provincia o isla."
+    },
+    {
+      "texto": "22. ¿En qué plazo deben cumplirse los requisitos del artículo 143.2 desde el primer acuerdo?",
+      "opciones": [
+        "A) Tres meses.",
+        "B) Seis meses.",
+        "C) Un año.",
+        "D) Dos años."
+      ],
+      "respuesta": "B) Seis meses.",
+      "referencia": "Tit8, Cap3, Art143.2, pág. 141",
+      "explicacion": "Los requisitos deben ser cumplidos en el plazo de seis meses desde el primer acuerdo adoptado."
+    },
+    {
+      "texto": "23. Si la iniciativa autonómica del artículo 143 no prospera, ¿cuánto tiempo debe pasar para reiterarse?",
+      "opciones": [
+        "A) Un año.",
+        "B) Cinco años.",
+        "C) Diez años.",
+        "D) Al finalizar la legislatura."
+      ],
+      "respuesta": "B) Cinco años.",
+      "referencia": "Tit8, Cap3, Art143.3, pág. 142",
+      "explicacion": "La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años."
+    },
+    {
+      "texto": "24. Según el artículo 144.a), ¿qué pueden hacer las Cortes para provincias únicas que no cumplen los requisitos del 143.1?",
+      "opciones": [
+        "A) Anexionarlas a otra provincia.",
+        "B) Autorizar su constitución como Comunidad Autónoma.",
+        "C) Declararlas distritos federales.",
+        "D) Disolver su Diputación."
+      ],
+      "respuesta": "B) Autorizar su constitución como Comunidad Autónoma.",
+      "referencia": "Tit8, Cap3, Art144.a), pág. 142",
+      "explicacion": "Por motivos de interés nacional, las Cortes pueden autorizar la constitución de una CCAA de ámbito uniprovincial."
+    },
+    {
+      "texto": "25. ¿Qué prohíbe el artículo 145.1 respecto a las Comunidades Autónomas?",
+      "opciones": [
+        "A) Que hablen diferentes lenguas.",
+        "B) La federación de Comunidades Autónomas.",
+        "C) Que tengan banderas propias.",
+        "D) Que compartan servicios sanitarios."
+      ],
+      "respuesta": "B) La federación de Comunidades Autónomas.",
+      "referencia": "Tit8, Cap3, Art145.1, pág. 143",
+      "explicacion": "En ningún caso se admitirá la federación de Comunidades Autónomas."
+    },
+    {
+      "texto": "26. Según el artículo 145.2, ¿qué necesitan los acuerdos de cooperación entre CCAA fuera de los convenios de gestión?",
+      "opciones": [
+        "A) Nada, son libres.",
+        "B) La autorización de las Cortes Generales.",
+        "C) La sanción del Rey.",
+        "D) El visto bueno del Tribunal Supremo."
+      ],
+      "respuesta": "B) La autorización de las Cortes Generales.",
+      "referencia": "Tit8, Cap3, Art145.2, pág. 143",
+      "explicacion": "Los acuerdos de cooperación entre las CCAA necesitarán la autorización de las Cortes Generales."
+    },
+    {
+      "texto": "27. ¿Quién elabora el proyecto de Estatuto según el procedimiento del artículo 146?",
+      "opciones": [
+        "A) El Gobierno central.",
+        "B) Una asamblea de miembros de Diputación, Diputados y Senadores de las provincias afectadas.",
+        "C) El Tribunal Constitucional.",
+        "D) Los Alcaldes de las capitales de provincia."
+      ],
+      "respuesta": "B) Una asamblea de miembros de Diputación, Diputados y Senadores de las provincias afectadas.",
+      "referencia": "Tit8, Cap3, Art146, pág. 144",
+      "explicacion": "El proyecto será elaborado por una asamblea de parlamentarios y miembros de las Diputaciones afectadas."
+    },
+    {
+      "texto": "28. ¿Cómo define el artículo 147.1 a los Estatutos de autonomía?",
+      "opciones": [
+        "A) Como reglamentos estatales.",
+        "B) Como la norma institucional básica de cada Comunidad Autónoma.",
+        "C) Como leyes de bases territoriales.",
+        "D) Como tratados internacionales."
+      ],
+      "respuesta": "B) Como la norma institucional básica de cada Comunidad Autónoma.",
+      "referencia": "Tit8, Cap3, Art147.1, pág. 144",
+      "explicacion": "Los Estatutos serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará."
+    },
+    {
+      "texto": "29. ¿Qué deben contener necesariamente los Estatutos según el artículo 147.2?",
+      "opciones": [
+        "A) El número de habitantes de la región.",
+        "B) La delimitación de su territorio.",
+        "C) El nombre de todos los Alcaldes.",
+        "D) El presupuesto anual."
+      ],
+      "respuesta": "B) La delimitación de su territorio.",
+      "referencia": "Tit8, Cap3, Art147.2, pág. 145",
+      "explicacion": "El artículo 147.2 establece que deben contener la denominación, el territorio y la organización de sus instituciones."
+    },
+    {
+      "texto": "30. ¿Qué mayoría se requiere en las Cortes para la aprobación de la reforma de los Estatutos según el artículo 147.3?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta mediante ley orgánica.",
+        "C) Mayoría de dos tercios.",
+        "D) Unanimidad."
+      ],
+      "respuesta": "B) Mayoría absoluta mediante ley orgánica.",
+      "referencia": "Tit8, Cap3, Art147.3, pág. 145",
+      "explicacion": "La reforma de los Estatutos requerirá, en todo caso, la aprobación por las Cortes mediante ley orgánica."
+    },
+    {
+      "texto": "31. Según el artículo 148.1, ¿cuál de estas es una materia en la que las CCAA pueden asumir competencias?",
+      "opciones": [
+        "A) Relaciones internacionales.",
+        "B) Ordenación del territorio, urbanismo y vivienda.",
+        "C) Defensa y Fuerzas Armadas.",
+        "D) Sistema monetario."
+      ],
+      "respuesta": "B) Ordenación del territorio, urbanismo y vivienda.",
+      "referencia": "Tit8, Cap3, Art148.1.3, pág. 146",
+      "explicacion": "La ordenación del territorio, urbanismo y vivienda es una competencia que pueden asumir las CCAA."
+    },
+    {
+      "texto": "32. ¿Qué materia sobre ferrocarriles pueden asumir las CCAA según el artículo 148.1.5?",
+      "opciones": [
+        "A) La red nacional ferroviaria.",
+        "B) Ferrocarriles cuyo itinerario se desarrolle íntegramente en su territorio.",
+        "C) El transporte de mercancías internacional.",
+        "D) Los ferrocarriles que unan dos o más Comunidades."
+      ],
+      "respuesta": "B) Ferrocarriles cuyo itinerario se desarrolle íntegramente en su territorio.",
+      "referencia": "Tit8, Cap3, Art148.1.5, pág. 146",
+      "explicacion": "Pueden asumir competencias en ferrocarriles cuyo itinerario se desarrolle íntegramente en su territorio."
+    },
+    {
+      "texto": "33. ¿Cuántos años deben transcurrir para que las CCAA puedan ampliar sus competencias según el artículo 148.2?",
+      "opciones": [
+        "A) Dos años.",
+        "B) Cinco años.",
+        "C) Diez años.",
+        "D) No hay plazo mínimo."
+      ],
+      "respuesta": "B) Cinco años.",
+      "referencia": "Tit8, Cap3, Art148.2, pág. 149",
+      "explicacion": "Transcurridos cinco años, y mediante la reforma de sus Estatutos, podrán ampliar sus competencias."
+    },
+    {
+      "texto": "34. ¿Sobre qué materia tiene el Estado competencia exclusiva según el artículo 149.1.3?",
+      "opciones": [
+        "A) Museos locales.",
+        "B) Relaciones internacionales.",
+        "C) Ferias interiores.",
+        "D) Artesanía."
+      ],
+      "respuesta": "B) Relaciones internacionales.",
+      "referencia": "Tit8, Cap3, Art149.1.3, pág. 150",
+      "explicacion": "El Estado tiene competencia exclusiva sobre las relaciones internacionales."
+    },
+    {
+      "texto": "35. Según el artículo 149.1.4, ¿qué competencia es exclusiva del Estado?",
+      "opciones": [
+        "A) Protección civil.",
+        "B) Defensa y Fuerzas Armadas.",
+        "C) Guardería forestal.",
+        "D) Policía local."
+      ],
+      "respuesta": "B) Defensa y Fuerzas Armadas.",
+      "referencia": "Tit8, Cap3, Art149.1.4, pág. 150",
+      "explicacion": "La defensa y las Fuerzas Armadas son competencia exclusiva del Estado."
+    },
+    {
+      "texto": "36. ¿Qué reserva el Estado en materia de legislación civil según el artículo 149.1.8?",
+      "opciones": [
+        "A) Toda la legislación civil.",
+        "B) Las reglas sobre aplicación y eficacia de las normas jurídicas.",
+        "C) Solo el registro de la propiedad.",
+        "D) Nada, todo es autonómico."
+      ],
+      "respuesta": "B) Las reglas sobre aplicación y eficacia de las normas jurídicas.",
+      "referencia": "Tit8, Cap3, Art149.1.8, pág. 151",
+      "explicacion": "El Estado tiene competencia exclusiva sobre las reglas relativas a la aplicación y eficacia de las normas jurídicas."
+    },
+    {
+      "texto": "37. ¿Qué materia relativa al sistema monetario es exclusiva del Estado según el 149.1.11?",
+      "opciones": [
+        "A) El cobro de tasas locales.",
+        "B) Divisas, cambio y convertibilidad.",
+        "C) Los presupuestos autonómicos.",
+        "D) Las cajas de ahorro regionales."
+      ],
+      "respuesta": "B) Divisas, cambio y convertibilidad.",
+      "referencia": "Tit8, Cap3, Art149.1.11, pág. 152",
+      "explicacion": "El Estado tiene competencia exclusiva en divisas, cambio y convertibilidad."
+    },
+    {
+      "texto": "38. ¿Qué tipo de sanidad es competencia exclusiva del Estado según el artículo 149.1.16?",
+      "opciones": [
+        "A) Los centros de salud de barrio.",
+        "B) Sanidad exterior.",
+        "C) Los hospitales de la CCAA.",
+        "D) El transporte en ambulancia."
+      ],
+      "respuesta": "B) Sanidad exterior.",
+      "referencia": "Tit8, Cap3, Art149.1.16, pág. 152",
+      "explicacion": "La sanidad exterior es competencia exclusiva del Estado."
+    },
+    {
+      "texto": "39. ¿Qué competencia tiene el Estado sobre las aguas que discurran por más de una CCAA (149.1.22)?",
+      "opciones": [
+        "A) Ninguna, es de las provincias.",
+        "B) La legislación, ordenación y concesión de recursos.",
+        "C) Solo la limpieza de los cauces.",
+        "D) El cobro de recibos de agua."
+      ],
+      "respuesta": "B) La legislación, ordenación y concesión de recursos.",
+      "referencia": "Tit8, Cap3, Art149.1.22, pág. 155",
+      "explicacion": "El Estado legisla y ordena los recursos hidráulicos cuando las aguas discurran por más de una CCAA."
+    },
+    {
+      "texto": "40. ¿Quién tiene la competencia sobre la autorización para convocatoria de referéndum (149.1.32)?",
+      "opciones": [
+        "A) El Alcalde.",
+        "B) El Estado.",
+        "C) El Presidente de la Comunidad Autónoma.",
+        "D) El Defensor del Pueblo."
+      ],
+      "respuesta": "B) El Estado.",
+      "referencia": "Tit8, Cap3, Art149.1.32, pág. 158",
+      "explicacion": "La autorización para la convocatoria de consultas populares por vía de referéndum es exclusiva del Estado."
+    },
+    {
+      "texto": "41. Según el artículo 149.3, ¿a quién corresponde la competencia sobre materias no atribuidas expresamente al Estado?",
+      "opciones": [
+        "A) Siempre al Estado.",
+        "B) Pueden corresponder a las CCAA en virtud de sus Estatutos.",
+        "C) Al Rey como árbitro.",
+        "D) Quedan en suspenso."
+      ],
+      "respuesta": "B) Pueden corresponder a las CCAA en virtud de sus Estatutos.",
+      "referencia": "Tit8, Cap3, Art149.3, pág. 158",
+      "explicacion": "Las materias no atribuidas expresamente al Estado pueden corresponder a las CCAA si así lo asumen sus Estatutos."
+    },
+    {
+      "texto": "42. ¿Qué derecho prevalece en caso de conflicto en materias no atribuidas en exclusiva a las CCAA?",
+      "opciones": [
+        "A) El derecho foral.",
+        "B) El derecho del Estado.",
+        "C) El derecho internacional.",
+        "D) El derecho municipal."
+      ],
+      "respuesta": "B) El derecho del Estado.",
+      "referencia": "Tit8, Cap3, Art149.3, pág. 158",
+      "explicacion": "Las normas del Estado prevalecerán en caso de conflicto sobre las de las CCAA en todo lo que no esté atribuido a la exclusiva competencia de éstas."
+    },
+    {
+      "texto": "43. Según el artículo 149.3, ¿cómo es el derecho estatal respecto al de las CCAA?",
+      "opciones": [
+        "A) Primario.",
+        "B) Supletorio.",
+        "C) Anulatorio.",
+        "D) Secundario."
+      ],
+      "respuesta": "B) Supletorio.",
+      "referencia": "Tit8, Cap3, Art149.3, pág. 158",
+      "explicacion": "El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas."
+    },
+    {
+      "texto": "44. ¿Qué son las 'leyes marco' mencionadas en el artículo 150.1?",
+      "opciones": [
+        "A) Leyes que prohíben la autonomía.",
+        "B) Leyes que atribuyen a las CCAA la facultad de dictar normas sobre materias estatales.",
+        "C) Leyes que disuelven los ayuntamientos.",
+        "D) Leyes de presupuestos generales."
+      ],
+      "respuesta": "B) Leyes que atribuyen a las CCAA la facultad de dictar normas sobre materias estatales.",
+      "referencia": "Tit8, Cap3, Art150.1, pág. 159",
+      "explicacion": "Las Cortes pueden facultar a las CCAA para dictar normas legislativas en materias de competencia estatal bajo principios fijados por ley estatal."
+    },
+    {
+      "texto": "45. ¿Cómo puede el Estado transferir facultades de titularidad estatal susceptibles de transferencia (150.2)?",
+      "opciones": [
+        "A) Mediante Real Decreto.",
+        "B) Mediante ley orgánica.",
+        "C) Mediante orden ministerial.",
+        "D) Mediante acuerdo verbal."
+      ],
+      "respuesta": "B) Mediante ley orgánica.",
+      "referencia": "Tit8, Cap3, Art150.2, pág. 159",
+      "explicacion": "El Estado podrá transferir o delegar en las CCAA facultades estatales mediante ley orgánica."
+    },
+    {
+      "texto": "46. ¿Qué se requiere para que el Estado dicte leyes de armonización (150.3)?",
+      "opciones": [
+        "A) Que lo pida el Rey.",
+        "B) Que así lo exija el interés general, apreciado por mayoría absoluta de cada Cámara.",
+        "C) Un informe previo del Tribunal Constitucional.",
+        "D) Que lo soliciten todas las CCAA."
+      ],
+      "respuesta": "B) Que así lo exija el interés general, apreciado por mayoría absoluta de cada Cámara.",
+      "referencia": "Tit8, Cap3, Art150.3, pág. 160",
+      "explicacion": "El Estado puede dictar leyes de armonización cuando el interés general lo exija, apreciado por mayoría absoluta de Congreso y Senado."
+    },
+    {
+      "texto": "47. Según el artículo 151.1, ¿qué referéndum se requiere para la vía rápida de acceso a la autonomía?",
+      "opciones": [
+        "A) Ratificación por mayoría simple.",
+        "B) Ratificación por mayoría absoluta de los electores de cada provincia.",
+        "C) Ratificación por los ayuntamientos solamente.",
+        "D) No se requiere referéndum."
+      ],
+      "respuesta": "B) Ratificación por mayoría absoluta de los electores de cada provincia.",
+      "referencia": "Tit8, Cap3, Art151.1, pág. 160",
+      "explicacion": "La iniciativa debe ser ratificada mediante referéndum por el voto afirmativo de la mayoría absoluta de los electores de cada provincia."
+    },
+    {
+      "texto": "48. En el procedimiento del artículo 151.2, ¿quién elabora el proyecto de Estatuto?",
+      "opciones": [
+        "A) El Gobierno.",
+        "B) Una Asamblea de los Diputados y Senadores elegidos en el territorio.",
+        "C) El Consejo de Estado.",
+        "D) Una comisión de expertos juristas."
+      ],
+      "respuesta": "B) Una Asamblea de los Diputados y Senadores elegidos en el territorio.",
+      "referencia": "Tit8, Cap3, Art151.2.1, pág. 161",
+      "explicacion": "Se constituye una Asamblea de Parlamentarios a los solos efectos de elaborar el proyecto de Estatuto."
+    },
+    {
+      "texto": "49. Según el artículo 152.1, ¿qué órganos debe tener la organización institucional de estas CCAA?",
+      "opciones": [
+        "A) Solo un Presidente.",
+        "B) Una Asamblea Legislativa, un Consejo de Gobierno y un Presidente.",
+        "C) Una Diputación Regional.",
+        "D) Un Consejo de Sabios."
+      ],
+      "respuesta": "B) Una Asamblea Legislativa, un Consejo de Gobierno y un Presidente.",
+      "referencia": "Tit8, Cap3, Art152.1, pág. 164",
+      "explicacion": "La organización se basará en una Asamblea Legislativa, un Consejo de Gobierno y un Presidente elegido por la Asamblea."
+    },
+    {
+      "texto": "50. ¿Quién nombra al Presidente de la Comunidad Autónoma según el artículo 152.1?",
+      "opciones": [
+        "A) La Asamblea Legislativa directamente.",
+        "B) El Rey.",
+        "C) El Presidente del Gobierno.",
+        "D) El pueblo en referéndum."
+      ],
+      "respuesta": "B) El Rey.",
+      "referencia": "Tit8, Cap3, Art152.1, pág. 164",
+      "explicacion": "El Presidente es elegido por la Asamblea y nombrado por el Rey."
+    },
+    {
+      "texto": "51. ¿Qué tribunal culmina la organización judicial en el ámbito de la Comunidad Autónoma (152.1)?",
+      "opciones": [
+        "A) La Audiencia Provincial.",
+        "B) El Tribunal Superior de Justicia.",
+        "C) El Tribunal Supremo.",
+        "D) El Juzgado de lo Contencioso."
+      ],
+      "respuesta": "B) El Tribunal Superior de Justicia.",
+      "referencia": "Tit8, Cap3, Art152.1, pág. 165",
+      "explicacion": "Un Tribunal Superior de Justicia culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma."
+    },
+    {
+      "texto": "52. ¿Quién ejerce el control de las disposiciones normativas con fuerza de ley de las CCAA (153.a)?",
+      "opciones": [
+        "A) El Gobierno.",
+        "B) El Tribunal Constitucional.",
+        "C) El Tribunal de Cuentas.",
+        "D) Las Cortes Generales."
+      ],
+      "respuesta": "B) El Tribunal Constitucional.",
+      "referencia": "Tit8, Cap3, Art153.a), pág. 167",
+      "explicacion": "El Tribunal Constitucional controla la constitucionalidad de sus disposiciones con fuerza de ley."
+    },
+    {
+      "texto": "53. ¿Quién ejerce el control económico y presupuestario de las CCAA (153.d)?",
+      "opciones": [
+        "A) El Banco de España.",
+        "B) El Tribunal de Cuentas.",
+        "C) El Ministerio de Hacienda.",
+        "D) El Senado."
+      ],
+      "respuesta": "B) El Tribunal de Cuentas.",
+      "referencia": "Tit8, Cap3, Art153.d), pág. 167",
+      "explicacion": "El control económico y presupuestario de las CCAA corresponde al Tribunal de Cuentas."
+    },
+    {
+      "texto": "54. Según el artículo 154, ¿quién dirige la Administración del Estado en el territorio de la CCAA?",
+      "opciones": [
+        "A) El Presidente de la CCAA.",
+        "B) Un Delegado nombrado por el Gobierno.",
+        "C) El Alcalde de la capital.",
+        "D) El Comandante militar de la zona."
+      ],
+      "respuesta": "B) Un Delegado nombrado por el Gobierno.",
+      "referencia": "Tit8, Cap3, Art154, pág. 168",
+      "explicacion": "Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la CCAA."
+    },
+    {
+      "texto": "55. ¿Qué mayoría del Senado se requiere para aplicar las medidas del artículo 155?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Dos tercios.",
+        "D) Tres quintos."
+      ],
+      "respuesta": "B) Mayoría absoluta.",
+      "referencia": "Tit8, Cap3, Art155.1, pág. 168",
+      "explicacion": "El Gobierno requiere la aprobación por mayoría absoluta del Senado para adoptar medidas de cumplimiento forzoso."
+    },
+    {
+      "texto": "56. Según el artículo 155.1, ¿qué paso previo debe dar el Gobierno antes de pedir autorización al Senado?",
+      "opciones": [
+        "A) Presentar una querella criminal.",
+        "B) Requerimiento al Presidente de la Comunidad Autónoma.",
+        "C) Consultar al Rey.",
+        "D) Disolver la Asamblea Legislativa."
+      ],
+      "respuesta": "B) Requerimiento al Presidente de la Comunidad Autónoma.",
+      "referencia": "Tit8, Cap3, Art155.1, pág. 168",
+      "explicacion": "El Gobierno debe realizar un requerimiento previo al Presidente de la CCAA y, si no es atendido, acudir al Senado."
+    },
+    {
+      "texto": "57. ¿De qué gozan las CCAA según el artículo 156.1 para el desarrollo de sus competencias?",
+      "opciones": [
+        "A) De fondos ilimitados.",
+        "B) De autonomía financiera.",
+        "C) De soberanía fiscal.",
+        "D) De exención de impuestos estatales."
+      ],
+      "respuesta": "B) De autonomía financiera.",
+      "referencia": "Tit8, Cap3, Art156.1, pág. 169",
+      "explicacion": "Las CCAA gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias."
+    },
+    {
+      "texto": "58. ¿Qué principio rige la autonomía financiera de las CCAA junto con la coordinación (156.1)?",
+      "opciones": [
+        "A) La competitividad.",
+        "B) La solidaridad entre todos los españoles.",
+        "C) El aislamiento económico.",
+        "D) La jerarquía provincial."
+      ],
+      "respuesta": "B) La solidaridad entre todos los españoles.",
+      "referencia": "Tit8, Cap3, Art156.1, pág. 169",
+      "explicacion": "La autonomía financiera se ejerce con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad."
+    },
+    {
+      "texto": "59. ¿Cuál de estos es un recurso de las CCAA según el artículo 157.1?",
+      "opciones": [
+        "A) Los aranceles de aduanas.",
+        "B) Sus propios impuestos, tasas y contribuciones especiales.",
+        "C) La emisión de moneda propia.",
+        "D) Las multas penales."
+      ],
+      "respuesta": "B) Sus propios impuestos, tasas y contribuciones especiales.",
+      "referencia": "Tit8, Cap3, Art157.1.b), pág. 170",
+      "explicacion": "El artículo 157.1.b) incluye sus propios impuestos como recursos de las CCAA."
+    },
+    {
+      "texto": "60. ¿Qué prohíbe el artículo 157.2 a las CCAA en materia tributaria?",
+      "opciones": [
+        "A) Cobrar impuestos a los residentes.",
+        "B) Adoptar medidas sobre bienes fuera de su territorio o que obstaculicen la circulación.",
+        "C) Establecer tasas por servicios públicos.",
+        "D) Recibir transferencias del Estado."
+      ],
+      "respuesta": "B) Adoptar medidas sobre bienes fuera de su territorio o que obstaculicen la circulación.",
+      "referencia": "Tit8, Cap3, Art157.2, pág. 171",
+      "explicacion": "Las CCAA no podrán adoptar medidas sobre bienes fuera de su territorio o que supongan obstáculo para la circulación de mercancías."
+    },
+    {
+      "texto": "61. ¿Qué se puede establecer en los Presupuestos Generales del Estado para las CCAA (158.1)?",
+      "opciones": [
+        "A) Una asignación en función de servicios asumidos y nivel mínimo de servicios básicos.",
+        "B) Un impuesto único autonómico.",
+        "C) La cancelación de su deuda externa.",
+        "D) El sueldo de todos sus funcionarios."
+      ],
+      "respuesta": "A) Una asignación en función de servicios asumidos y nivel mínimo de servicios básicos.",
+      "referencia": "Tit8, Cap3, Art158.1, pág. 171",
+      "explicacion": "Se puede establecer una asignación en función del volumen de servicios asumidos y para garantizar un nivel mínimo."
+    },
+    {
+      "texto": "62. ¿Con qué fin se constituye el Fondo de Compensación mencionado en el 158.2?",
+      "opciones": [
+        "A) Para pagar las pensiones.",
+        "B) Para corregir desequilibrios económicos y hacer efectiva la solidaridad.",
+        "C) Para financiar campañas electorales.",
+        "D) Para gastos de personal militar."
+      ],
+      "respuesta": "B) Para corregir desequilibrios económicos y hacer efectiva la solidaridad.",
+      "referencia": "Tit8, Cap3, Art158.2, pág. 172",
+      "explicacion": "Se constituye para corregir desequilibrios interterritoriales y hacer efectivo el principio de solidaridad."
+    },
+    {
+      "texto": "63. ¿Quién distribuye los recursos del Fondo de Compensación (158.2)?",
+      "opciones": [
+        "A) El Gobierno mediante decreto.",
+        "B) Las Cortes Generales.",
+        "C) El Banco de España.",
+        "D) Los Presidentes de las CCAA."
+      ],
+      "respuesta": "B) Las Cortes Generales.",
+      "referencia": "Tit8, Cap3, Art158.2, pág. 172",
+      "explicacion": "Los recursos del Fondo de Compensación serán distribuidos por las Cortes Generales."
+    },
+    {
+      "texto": "64. ¿A qué se destinan los recursos del Fondo de Compensación (158.2)?",
+      "opciones": [
+        "A) A gastos corrientes.",
+        "B) A gastos de inversión.",
+        "C) Al pago de intereses de deuda.",
+        "D) A subvenciones a partidos políticos."
+      ],
+      "respuesta": "B) A gastos de inversión.",
+      "referencia": "Tit8, Cap3, Art158.2, pág. 172",
+      "explicacion": "El Fondo de Compensación tiene como destino gastos de inversión."
+    },
+    {
+      "texto": "65. ¿Qué artículo reconoce y garantiza el derecho a la autonomía de las nacionalidades?",
+      "opciones": [
+        "A) El artículo 1.",
+        "B) El artículo 2.",
+        "C) El artículo 137.",
+        "D) El artículo 143."
+      ],
+      "respuesta": "B) El artículo 2.",
+      "referencia": "Tit Prel, Art2, pág. 11",
+      "explicacion": "Aunque se cita en el Título VIII, el fundamento está en el artículo 2."
+    },
+    {
+      "texto": "66. ¿Qué artículo establece que la provincia es la agrupación de municipios?",
+      "opciones": [
+        "A) Artículo 137.",
+        "B) Artículo 140.",
+        "C) Artículo 141.1.",
+        "D) Artículo 142."
+      ],
+      "respuesta": "C) Artículo 141.1.",
+      "referencia": "Tit8, Cap2, Art141.1, pág. 139",
+      "explicacion": "Define la provincia como entidad local determinada por la agrupación de municipios."
+    },
+    {
+      "texto": "67. ¿Cómo se eligen los Alcaldes en el régimen de concejo abierto (140)?",
+      "opciones": [
+        "A) Por los Concejales.",
+        "B) No hay Alcaldes en ese régimen.",
+        "C) Con arreglo a lo que la ley regule para dicho régimen.",
+        "D) Por el Rey."
+      ],
+      "respuesta": "C) Con arreglo a lo que la ley regule para dicho régimen.",
+      "referencia": "Tit8, Cap2, Art140, pág. 138",
+      "explicacion": "La ley regulará las condiciones en las que proceda el régimen del concejo abierto."
+    },
+    {
+      "texto": "68. ¿Qué institución es la norma básica de una Comunidad Autónoma (147.1)?",
+      "opciones": [
+        "A) La Ley de Presupuestos Regionales.",
+        "B) El Estatuto de Autonomía.",
+        "C) El Reglamento de la Asamblea.",
+        "D) El Decreto de Constitución."
+      ],
+      "respuesta": "B) El Estatuto de Autonomía.",
+      "referencia": "Tit8, Cap3, Art147.1, pág. 144",
+      "explicacion": "Los Estatutos serán la norma institucional básica de cada Comunidad Autónoma."
+    },
+    {
+      "texto": "69. ¿En qué artículo se mencionan las competencias exclusivas del Estado?",
+      "opciones": [
+        "A) Artículo 147.",
+        "B) Artículo 148.",
+        "C) Artículo 149.",
+        "D) Artículo 150."
+      ],
+      "respuesta": "C) Artículo 149.",
+      "referencia": "Tit8, Cap3, Art149, pág. 150",
+      "explicacion": "El artículo 149 enumera las materias de competencia exclusiva del Estado."
+    },
+    {
+      "texto": "70. ¿Qué mayoría de cada Cámara aprecia la necesidad de una ley de armonización (150.3)?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta.",
+        "C) Dos tercios.",
+        "D) Tres quintos."
+      ],
+      "respuesta": "B) Mayoría absoluta.",
+      "referencia": "Tit8, Cap3, Art150.3, pág. 160",
+      "explicacion": "Corresponde a las Cortes, por mayoría absoluta de cada Cámara, la apreciación de esta necesidad."
+    },
+    {
+      "texto": "71. ¿A quién corresponde la suprema representación de la CCAA según el artículo 152.1?",
+      "opciones": [
+        "A) Al Rey.",
+        "B) Al Presidente de la Comunidad Autónoma.",
+        "C) Al Presidente de la Asamblea Legislativa.",
+        "D) Al Delegado del Gobierno."
+      ],
+      "respuesta": "B) Al Presidente de la Comunidad Autónoma.",
+      "referencia": "Tit8, Cap3, Art152.1, pág. 164",
+      "explicacion": "Al Presidente corresponde la dirección del Consejo de Gobierno y la suprema representación de la CCAA."
+    },
+    {
+      "texto": "72. ¿Ante quién son políticamente responsables el Presidente y los miembros del Consejo de Gobierno (152.1)?",
+      "opciones": [
+        "A) Ante el Rey.",
+        "B) Ante la Asamblea regional.",
+        "C) Ante el Congreso de los Diputados.",
+        "D) Ante el Tribunal Superior de Justicia."
+      ],
+      "respuesta": "B) Ante la Asamblea regional.",
+      "referencia": "Tit8, Cap3, Art152.1, pág. 164",
+      "explicacion": "El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea."
+    },
+    {
+      "texto": "73. ¿Qué artículo regula los recursos financieros de las CCAA?",
+      "opciones": [
+        "A) Artículo 155.",
+        "B) Artículo 156.",
+        "C) Artículo 157.",
+        "D) Artículo 158."
+      ],
+      "respuesta": "C) Artículo 157.",
+      "referencia": "Tit8, Cap3, Art157, pág. 170",
+      "explicacion": "El artículo 157 detalla la composición de los recursos de las CCAA."
+    },
+    {
+      "texto": "74. ¿Pueden las CCAA adoptar medidas que supongan obstáculo para la libre circulación de servicios (157.2)?",
+      "opciones": [
+        "A) Sí, si es por protección ambiental.",
+        "B) No, en ningún caso.",
+        "C) Solo si lo autoriza su Estatuto.",
+        "D) Solo temporalmente."
+      ],
+      "respuesta": "B) No, en ningún caso.",
+      "referencia": "Tit8, Cap3, Art157.2, pág. 171",
+      "explicacion": "Las CCAA no podrán en ningún caso adoptar medidas que supongan obstáculo para la libre circulación."
+    },
+    {
+      "texto": "75. ¿Qué artículo trata sobre la delegación de funciones estatales en las CCAA por ley orgánica?",
+      "opciones": [
+        "A) Artículo 149.",
+        "B) Artículo 150.2.",
+        "C) Artículo 151.",
+        "D) Artículo 153."
+      ],
+      "respuesta": "B) Artículo 150.2.",
+      "referencia": "Tit8, Cap3, Art150.2, pág. 159",
+      "explicacion": "Regula la transferencia o delegación mediante ley orgánica de facultades de titularidad estatal."
+    },
+    {
+      "texto": "76. ¿A qué se refiere el artículo 141.1 al hablar de división territorial?",
+      "opciones": [
+        "A) A las CCAA.",
+        "B) A la provincia.",
+        "C) A los distritos electorales.",
+        "D) A las diócesis."
+      ],
+      "respuesta": "B) A la provincia.",
+      "referencia": "Tit8, Cap2, Art141.1, pág. 139",
+      "explicacion": "La provincia es entidad local y división territorial para el cumplimiento de las actividades del Estado."
+    },
+    {
+      "texto": "77. ¿Quién controla la administración autónoma y sus normas reglamentarias (153.c)?",
+      "opciones": [
+        "A) El Tribunal Constitucional.",
+        "B) La jurisdicción contencioso-administrativa.",
+        "C) El Consejo de Estado.",
+        "D) El Congreso."
+      ],
+      "respuesta": "B) La jurisdicción contencioso-administrativa.",
+      "referencia": "Tit8, Cap3, Art153.c), pág. 167",
+      "explicacion": "El control de la administración autónoma se ejerce por la jurisdicción contencioso-administrativa."
+    },
+    {
+      "texto": "78. ¿Qué garantiza el Estado en el artículo 138.1?",
+      "opciones": [
+        "A) La igualdad de salarios.",
+        "B) La realización efectiva del principio de solidaridad.",
+        "C) La unidad de mercado.",
+        "D) El derecho a la vivienda."
+      ],
+      "respuesta": "B) La realización efectiva del principio de solidaridad.",
+      "referencia": "Tit8, Cap1, Art138.1, pág. 137",
+      "explicacion": "El Estado garantiza la realización del principio de solidaridad consagrado en el art. 2."
+    },
+    {
+      "texto": "79. ¿En qué capítulo se regula la Administración Local?",
+      "opciones": [
+        "A) Capítulo Primero.",
+        "B) Capítulo Segundo.",
+        "C) Capítulo Tercero.",
+        "D) Título Preliminar."
+      ],
+      "respuesta": "B) Capítulo Segundo.",
+      "referencia": "Tit8, Cap2, pág. 138",
+      "explicacion": "El Capítulo Segundo del Título VIII se titula 'De la Administración Local'."
+    },
+    {
+      "texto": "80. ¿Cuántos artículos tiene el Título VIII?",
+      "opciones": [
+        "A) 15 artículos.",
+        "B) 22 artículos.",
+        "C) 30 artículos.",
+        "D) 10 artículos."
+      ],
+      "respuesta": "B) 22 artículos.",
+      "referencia": "Tit8, Art137-158, pág. 136-172",
+      "explicacion": "El Título VIII comprende desde el artículo 137 hasta el 158."
+    },
+    {
+      "texto": "81. ¿Qué artículo regula la organización institucional autonómica por la vía del 151?",
+      "opciones": [
+        "A) Artículo 148.",
+        "B) Artículo 150.",
+        "C) Artículo 152.",
+        "D) Artículo 154."
+      ],
+      "respuesta": "C) Artículo 152.",
+      "referencia": "Tit8, Cap3, Art152, pág. 164",
+      "explicacion": "El 152 regula la estructura de Asamblea, Consejo y Presidente para CCAA de vía rápida."
+    },
+    {
+      "texto": "82. ¿A qué se refiere el artículo 149.1.2 con extranjería y derecho de asilo?",
+      "opciones": [
+        "A) Materia de las CCAA.",
+        "B) Competencia exclusiva del Estado.",
+        "C) Competencia compartida.",
+        "D) Materia de los Ayuntamientos."
+      ],
+      "respuesta": "B) Competencia exclusiva del Estado.",
+      "referencia": "Tit8, Cap3, Art149.1.2, pág. 150",
+      "explicacion": "Nacionalidad, inmigración, extranjería y asilo son exclusivas del Estado."
+    },
+    {
+      "texto": "83. ¿Qué mayoría se requiere para autorizar la constitución de una CCAA uniprovincial (144.a)?",
+      "opciones": [
+        "A) Mayoría simple.",
+        "B) Mayoría absoluta mediante ley orgánica.",
+        "C) Dos tercios.",
+        "D) Tres quintos."
+      ],
+      "respuesta": "B) Mayoría absoluta mediante ley orgánica.",
+      "referencia": "Tit8, Cap3, Art144, pág. 142",
+      "explicacion": "Las Cortes, mediante ley orgánica, podrán autorizar dicha constitución."
+    },
+    {
+      "texto": "84. ¿Qué artículo prohíbe las federaciones de CCAA?",
+      "opciones": [
+        "A) Artículo 2.",
+        "B) Artículo 143.",
+        "C) Artículo 145.1.",
+        "D) Artículo 155."
+      ],
+      "respuesta": "C) Artículo 145.1.",
+      "referencia": "Tit8, Cap3, Art145.1, pág. 143",
+      "explicacion": "El artículo 145.1 prohíbe expresamente la federación de Comunidades Autónomas."
+    },
+    {
+      "texto": "85. ¿Quién puede nombrar comisiones de investigación según el Título III, mencionado en el control de las CCAA?",
+      "opciones": [
+        "A) Solo el Congreso.",
+        "B) El Congreso y el Senado.",
+        "C) Solo el Senado.",
+        "D) Las CCAA solamente."
+      ],
+      "respuesta": "B) El Congreso y el Senado.",
+      "referencia": "Tit3, Cap1, Art76.1, pág. 77",
+      "explicacion": "Aunque es del Título III, se vincula al control parlamentario general."
+    },
+    {
+      "texto": "86. ¿Qué artículo regula la competencia estatal sobre la legislación civil?",
+      "opciones": [
+        "A) Artículo 148.1.8.",
+        "B) Artículo 149.1.8.",
+        "C) Artículo 150.",
+        "D) Artículo 152."
+      ],
+      "respuesta": "B) Artículo 149.1.8.",
+      "referencia": "Tit8, Cap3, Art149.1.8, pág. 151",
+      "explicacion": "El 149.1.8 establece la competencia estatal sobre legislación civil, con respeto a los derechos forales."
+    },
+    {
+      "texto": "87. ¿Qué artículo establece el procedimiento ordinario de acceso a la autonomía?",
+      "opciones": [
+        "A) Artículo 143.",
+        "B) Artículo 151.",
+        "C) Artículo 155.",
+        "D) Artículo 147."
+      ],
+      "respuesta": "A) Artículo 143.",
+      "referencia": "Tit8, Cap3, Art143, pág. 141",
+      "explicacion": "El 143 regula la iniciativa y requisitos del proceso autonómico común."
+    },
+    {
+      "texto": "88. ¿Qué artículo se refiere al control de las CCAA por el Gobierno previo dictamen del Consejo de Estado?",
+      "opciones": [
+        "A) Artículo 153.a).",
+        "B) Artículo 153.b).",
+        "C) Artículo 153.c).",
+        "D) Artículo 155."
+      ],
+      "respuesta": "B) Artículo 153.b).",
+      "referencia": "Tit8, Cap3, Art153.b), pág. 167",
+      "explicacion": "El control del ejercicio de funciones delegadas se hace por el Gobierno previo dictamen del Consejo de Estado."
+    },
+    {
+      "texto": "89. ¿Qué artículo indica que el Estado considera el servicio de la cultura como deber esencial?",
+      "opciones": [
+        "A) Artículo 44.",
+        "B) Artículo 149.2.",
+        "C) Artículo 148.1.17.",
+        "D) Artículo 46."
+      ],
+      "respuesta": "B) Artículo 149.2.",
+      "referencia": "Tit8, Cap3, Art149.2, pág. 158",
+      "explicacion": "Sin perjuicio de las competencias autonómicas, el Estado considera la cultura deber y atribución esencial."
+    },
+    {
+      "texto": "90. ¿Qué artículo permite agrupar municipios limítrofes en circunscripciones territoriales propias?",
+      "opciones": [
+        "A) Artículo 141.3.",
+        "B) Artículo 152.3.",
+        "C) Artículo 140.",
+        "D) Artículo 137."
+      ],
+      "respuesta": "B) Artículo 152.3.",
+      "referencia": "Tit8, Cap3, Art152.3, pág. 166",
+      "explicacion": "Mediante la agrupación de municipios limítrofes, los Estatutos podrán establecer circunscripciones territoriales propias."
+    },
+    {
+      "texto": "91. ¿Qué artículo establece que el Rey nombra al Presidente de la Comunidad Autónoma?",
+      "opciones": [
+        "A) Artículo 62.",
+        "B) Artículo 152.1.",
+        "C) Artículo 154.",
+        "D) Artículo 155."
+      ],
+      "respuesta": "B) Artículo 152.1.",
+      "referencia": "Tit8, Cap3, Art152.1, pág. 164",
+      "explicacion": "El Presidente es elegido por la Asamblea y nombrado por el Rey."
+    },
+    {
+      "texto": "92. ¿Qué artículo garantiza la autonomía de los municipios?",
+      "opciones": [
+        "A) Artículo 137.",
+        "B) Artículo 140.",
+        "C) Artículo 141.",
+        "D) Artículo 142."
+      ],
+      "respuesta": "B) El artículo 140.",
+      "referencia": "Tit8, Cap2, Art140, pág. 138",
+      "explicacion": "La Constitución garantiza la autonomía de los municipios en el artículo 140."
+    },
+    {
+      "texto": "93. ¿Qué artículo regula la competencia estatal sobre el sistema monetario?",
+      "opciones": [
+        "A) Artículo 148.",
+        "B) Artículo 149.1.11.",
+        "C) Artículo 133.",
+        "D) Artículo 157."
+      ],
+      "respuesta": "B) Artículo 149.1.11.",
+      "referencia": "Tit8, Cap3, Art149.1.11, pág. 152",
+      "explicacion": "Divisas, cambio, convertibilidad y bases de ordenación de crédito son exclusivas del Estado."
+    },
+    {
+      "texto": "94. ¿En qué artículo se menciona que la ley orgánica regulará las competencias financieras de las CCAA?",
+      "opciones": [
+        "A) Artículo 156.",
+        "B) Artículo 157.3.",
+        "C) Artículo 158.",
+        "D) Artículo 135."
+      ],
+      "respuesta": "B) Artículo 157.3.",
+      "referencia": "Tit8, Cap3, Art157.3, pág. 171",
+      "explicacion": "Mediante ley orgánica podrá regularse el ejercicio de las competencias financieras enumeradas en el apartado 1."
+    },
+    {
+      "texto": "95. ¿Qué artículo prohíbe las medidas que obstaculicen la libertad de establecimiento?",
+      "opciones": [
+        "A) Artículo 138.",
+        "B) Artículo 139.2.",
+        "C) Artículo 140.",
+        "D) Artículo 157."
+      ],
+      "respuesta": "B) Artículo 139.2.",
+      "referencia": "Tit8, Cap1, Art139.2, pág. 138",
+      "explicacion": "Ninguna autoridad podrá adoptar medidas que obstaculicen la libertad de circulación y establecimiento."
+    },
+    {
+      "texto": "96. ¿Qué artículo se refiere a la provincia como entidad local?",
+      "opciones": [
+        "A) Artículo 137.",
+        "B) Artículo 141.1.",
+        "C) Artículo 141.2.",
+        "D) Artículo 142."
+      ],
+      "respuesta": "B) Artículo 141.1.",
+      "referencia": "Tit8, Cap2, Art141.1, pág. 139",
+      "explicacion": "La provincia es una entidad local con personalidad jurídica propia."
+    },
+    {
+      "texto": "97. ¿Qué artículo faculta a las Cortes para sustituir la iniciativa de las Corporaciones locales?",
+      "opciones": [
+        "A) Artículo 143.",
+        "B) Artículo 144.c).",
+        "C) Artículo 145.",
+        "D) Artículo 151."
+      ],
+      "respuesta": "B) Artículo 144.c).",
+      "referencia": "Tit8, Cap3, Art144.c), pág. 142",
+      "explicacion": "Las Cortes pueden, por interés nacional, sustituir la iniciativa de las Corporaciones locales del 143.2."
+    },
+    {
+      "texto": "98. ¿Qué artículo establece la competencia estatal sobre la defensa y Fuerzas Armadas?",
+      "opciones": [
+        "A) Artículo 8.",
+        "B) Artículo 149.1.4.",
+        "C) Artículo 104.",
+        "D) Artículo 116."
+      ],
+      "respuesta": "B) Artículo 149.1.4.",
+      "referencia": "Tit8, Cap3, Art149.1.4, pág. 150",
+      "explicacion": "El Estado tiene competencia exclusiva en defensa y Fuerzas Armadas."
+    },
+    {
+      "texto": "99. ¿Qué artículo establece que el control económico de las CCAA es del Tribunal de Cuentas?",
+      "opciones": [
+        "A) Artículo 136.",
+        "B) Artículo 153.d).",
+        "C) Artículo 157.",
+        "D) Artículo 158."
+      ],
+      "respuesta": "B) Artículo 153.d).",
+      "referencia": "Tit8, Cap3, Art153.d), pág. 167",
+      "explicacion": "El artículo 153 atribuye el control económico y presupuestario al Tribunal de Cuentas."
+    },
+    {
+      "texto": "100. ¿Qué artículo establece que las diferencias entre Estatutos no pueden implicar privilegios?",
+      "opciones": [
+        "A) Artículo 137.",
+        "B) Artículo 138.2.",
+        "C) Artículo 139.",
+        "D) Artículo 147."
+      ],
+      "respuesta": "B) Artículo 138.2.",
+      "referencia": "Tit8, Cap1, Art138.2, pág. 137",
+      "explicacion": "Establece que las diferencias estatutarias no pueden generar privilegios económicos o sociales."
+    }
+  ]
+}
