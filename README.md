@@ -1,4 +1,4 @@
-# ![Logo](./aeroquiz-tiny.png) AEROQUIZ
+# ![Logo](./GoQuiz-tiny.png) GoQuiz
 
 ### Aplicación desarrollada para Test de aeronáutica pero que sirve para cualquier tipo de exámen tipo test.
 

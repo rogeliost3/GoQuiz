@@ -1,8 +1,8 @@
-const CACHE_NAME = 'aeroquiz-cache-v1';
+const CACHE_NAME = 'GoQuiz-cache-v1';
 const urlsToCache = [
   './',
   './index.html',
-  './aeroquiz.png'
+  './GoQuiz.png'
   // Los JSON se cargan en IndexedDB, no se cachean aquí
 ];
 

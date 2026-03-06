@@ -2,8 +2,6 @@
 ### Aplicación desarrollada para Test de exámenes y memorización.
 #### Sept 2025 - Rogelio Suárez Tejera.
 ##### v.1.3 - Mar-2026
-
-
 -->
 
 <!DOCTYPE html>
@@ -26,15 +24,15 @@ Convertirla en APK instalable -->
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AeroQuiz - Prácticas Gamificadas</title>
-  <link rel="icon" href="aeroquiz.png" type="image/png" />
+  <title>GoQuiz - Prácticas Gamificadas</title>
+  <link rel="icon" href="GoQuiz.png" type="image/png" />
   <link rel="manifest" href="manifest.json" />
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css"/>
 </head>
 
 <body>
   <div id="menubar">
-    <h2>AeroQuiz</h2>
+    <h2>GoQuiz</h2>
 
     <input type="file" id="jsonFile" accept=".json" style="display: none" />
 
@@ -47,7 +45,7 @@ Convertirla en APK instalable -->
     <button id="toggleThemeBtn">🌙</button>
   </div>
 
-  <p id="mensajeJSON">Selecciona tu archivo JSON para cargar las preguntas.</p>
+  <p id="mensajeJSON"><br>Selecciona tu archivo JSON para cargar las preguntas.</p>
 
   <div id="contenido"></div>
 
@@ -63,7 +61,7 @@ Convertirla en APK instalable -->
 
     // IndexedDB setup
     let db;
-    const DB_NAME = 'AeroQuizDB';
+    const DB_NAME = 'GoQuizDB';
     const STORE_NAME = 'JSONs';
     const STORE_STATE = 'Estados';
     const KEY_LAST = 'ultimoJSON';
@@ -424,9 +422,15 @@ Convertirla en APK instalable -->
 
         await loadTheme();
         cargarPreguntas(preguntas);
-        
+
       } catch (err) {
         console.error("Error al cargar el último JSON en onload:", err);
+      }
+    });
+
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) {
+        salvarEstado(jsonKey, { aciertos, errores, usados });
       }
     });
 
