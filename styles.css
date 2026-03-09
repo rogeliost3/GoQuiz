@@ -15,13 +15,11 @@ body.dark {
 
 }
 
-/* body.dark { background-color:#111; color:#eee; } */
-
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
   font-family: Arial, sans-serif;
-  padding-top: 60px;
+  padding-top: 100px;
   transition: background-color 0.3s, color 0.3s;
 }
 
@@ -78,13 +76,10 @@ h2 {
   padding: 10px;
   margin: 0px;
   border-radius: 0 8px;
-  display: flex;
-  align-items: center;
   z-index: 1000;
-  height: auto;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
-  flex-wrap: wrap;
-  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
 }
 
 #menubar button {
@@ -92,6 +87,45 @@ h2 {
   cursor: pointer;
   border-radius: 5px;
   height: 40px;
+}
+
+/* FILA SUPERIOR */
+.menu-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.app-title {
+  margin: 0;
+}
+
+.file-name {
+  font-size: 0.9em;
+  opacity: 0.8;
+  margin-right: 6px;
+}
+
+/* FILA INFERIOR */
+.menu-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* IZQUIERDA */
+.menu-left {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 6px;
+}
+
+/* DERECHA */
+.menu-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 button {
@@ -103,8 +137,6 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
-
-/* .pregunta { margin:10px 0; padding:10px; border:1px solid #ccc; border-radius:5px; } */
 
 .correcto {
   color: green;
@@ -130,7 +162,6 @@ button {
   margin: 0 0 15px 0;
 }
 
-/* .opcion { display:block; margin:4px 0; } */
 .opcion {
   margin-left: 20px;
   font-size: 1.2em;
@@ -147,4 +178,41 @@ button {
   cursor: pointer;
   margin-top: 10px;
   justify-content: space-between;
+}
+
+#progressBarContainer{
+  width:100%;
+  height:6px;
+  background:#b4b4b4;
+  margin-top:4px;
+  border-radius:3px;
+  overflow:hidden;
+}
+
+#progressBar{
+  height:100%;
+  width:0%;
+  background:#2ecc71;
+  transition:width 0.3s;
+}
+
+.marcador{
+  font-weight:bold;
+  padding:4px 8px;
+  border-radius:6px;
+}
+
+.marcador.bien{
+  background:#27ae60;
+  color:white;
+}
+
+.marcador.medio{
+  background:#f39c12;
+  color:white;
+}
+
+.marcador.mal{
+  background:#e74c3c;
+  color:white;
 }

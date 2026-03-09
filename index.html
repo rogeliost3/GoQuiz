@@ -27,22 +27,50 @@ Convertirla en APK instalable -->
   <title>GoQuiz - Prácticas Gamificadas</title>
   <link rel="icon" href="GoQuiz.png" type="image/png" />
   <link rel="manifest" href="manifest.json" />
-  <link rel="stylesheet" href="./styles.css"/>
+  <link rel="stylesheet" href="./styles.css" />
 </head>
 
 <body>
   <div id="menubar">
-    <h2>GoQuiz</h2>
 
-    <input type="file" id="jsonFile" accept=".json" style="display: none" />
-
-    <button id="cargarJSONBtn" onclick="document.getElementById('jsonFile').click()">Cargar preguntas</button>
-    <button id="resetAllBtn">RESET-ALL</button>
-    <!-- <button id="newRoundBtn">NEW ROUND</button> -->
-    <div class="marcador">
-      ✅ <span id="aciertos">0</span> / ❌ <span id="errores">0</span>
+    <!-- FILA SUPERIOR -->
+    <div class="menu-top">
+      <h2 class="app-title">GoQuiz</h2>
+      <div id="fileName" class="file-name">
+        Sin archivo
+      </div>
     </div>
-    <button id="toggleThemeBtn">🌙</button>
+
+    <!-- FILA INFERIOR -->
+    <div class="menu-bottom">
+
+      <!-- IZQUIERDA (botones dinámicos) -->
+      <div class="menu-left">
+        <input type="file" id="jsonFile" accept=".json" style="display:none" />
+
+        <button id="cargarJSONBtn" onclick="document.getElementById('jsonFile').click()">
+          Cargar preguntas
+        </button>
+
+        <button id="resetAllBtn">RESET-ALL</button>
+      </div>
+
+      <!-- DERECHA (marcador + brillo) -->
+      <div class="menu-right">
+        <div class="marcador">
+          ✅ <span id="aciertos">0</span> /
+          ❌ <span id="errores">0</span>
+        </div>
+
+        <button id="toggleThemeBtn">🌙</button>
+      </div>
+
+    </div>
+
+    <div id="progressBarContainer">
+      <div id="progressBar"></div>
+    </div>
+
   </div>
 
   <p id="mensajeJSON"><br>Selecciona tu archivo JSON para cargar las preguntas.</p>
@@ -109,7 +137,7 @@ Convertirla en APK instalable -->
       });
     }
 
-    
+
     // Lee un valor de AppMeta
     function getMeta(key) {
       return new Promise((resolve, reject) => {
@@ -155,6 +183,7 @@ Convertirla en APK instalable -->
     let errores = 0;
     let usados = {};
     let jsonKey = null;
+    let totalPreguntas = 0;
 
     const aciertosSpan = document.getElementById("aciertos");
     const erroresSpan = document.getElementById("errores");
@@ -163,6 +192,8 @@ Convertirla en APK instalable -->
     const jsonInput = document.getElementById("jsonFile");
     const toggleThemeBtn = document.getElementById("toggleThemeBtn");
     const resetAllBtn = document.getElementById("resetAllBtn");
+    const fileName = document.getElementById("fileName");
+
     resetAllBtn.addEventListener("click", resetAll);
 
     async function setTheme(theme) {
@@ -183,18 +214,42 @@ Convertirla en APK instalable -->
       setTheme(theme || "light");
     }
 
+    function actualizarProgreso(preguntasRespondidas) {
+      if (totalPreguntas === 0) return;
+      const porcentaje = (preguntasRespondidas / totalPreguntas) * 100;
+      document.getElementById("progressBar").style.width = porcentaje + "%";
+    }
+
+    function actualizarMarcador(aciertos, errores) {
+      const marcador = document.querySelector(".marcador");
+      const total = aciertos + errores;
+
+      if(total === 0) return;
+
+      const ratio = aciertos / total;
+
+      marcador.classList.remove("bien","medio","mal");
+      if(ratio >= 0.7){
+        marcador.classList.add("bien");
+      } else 
+        if(ratio >= 0.4) {
+          marcador.classList.add("medio");
+        } else {
+          marcador.classList.add("mal");
+          }
+    }
+
     function cargarPreguntas(data) {
       contenidoDiv.innerHTML = "";
       mensajeJSON.style.display = "none";
 
       for (const seccion in data) {
         const sec = document.createElement("section");
-        const h3 = document.createElement("h3");
-        h3.textContent = seccion;
-        sec.appendChild(h3);
-
         const pregs = data[seccion];
-        for (let i = 0; i < pregs.length; i++) {
+        totalPreguntas = pregs.length;
+        fileName.textContent = seccion + " (" + totalPreguntas + ")";
+
+        for (let i = 0; i < totalPreguntas; i++) {
           const p = pregs[i];
           const qid = seccion + "-" + i;
           const estadoPrevio = usados[qid];
@@ -319,7 +374,8 @@ Convertirla en APK instalable -->
       aciertosSpan.textContent = aciertos;
       erroresSpan.textContent = errores;
       salvarEstado(jsonKey, { aciertos, errores, usados });
-      // guardarEstado();
+      actualizarMarcador(aciertos,errores);
+      actualizarProgreso(aciertos+errores);
     }
 
     function toggleCortinilla(qid) {
@@ -348,6 +404,8 @@ Convertirla en APK instalable -->
           return;
         }
         cargarPreguntas(preguntas);
+        actualizarMarcador(aciertos, errores);
+        actualizarProgreso(0);
       } catch (err) {
         console.error("Error en resetAll:", err);
       }
@@ -362,10 +420,6 @@ Convertirla en APK instalable -->
 
       const text = await file.text();
       const data = JSON.parse(text);
-
-      // usados = {};
-      // aciertos = 0;
-      // errores = 0;  
 
       await openDB();
 
@@ -387,6 +441,8 @@ Convertirla en APK instalable -->
       erroresSpan.textContent = errores;
 
       cargarPreguntas(data);
+      actualizarMarcador(aciertos, errores);
+      actualizarProgreso(aciertos+errores);
     });
 
     // Inicialización al cargar la app
@@ -422,7 +478,8 @@ Convertirla en APK instalable -->
 
         await loadTheme();
         cargarPreguntas(preguntas);
-
+        actualizarMarcador(aciertos, errores);
+        actualizarProgreso(aciertos+errores);
       } catch (err) {
         console.error("Error al cargar el último JSON en onload:", err);
       }
