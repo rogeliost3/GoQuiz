@@ -60,6 +60,11 @@ h2 {
   padding: 0 20px 0 0;
 }
 
+.mensaje-json {
+  white-space: pre-wrap;
+  font-size: small;
+}
+
 #cargarJSONBtn {
   background: linear-gradient(135deg, #27ae60, #2ecc71);
   font-weight: bold;
