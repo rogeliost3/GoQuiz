@@ -1,3 +1,7 @@
+* { /* ELIMINAR POSIBLE LINEA AZUL EN MOVIL */
+  -webkit-tap-highlight-color: transparent;
+}
+
 :root {
   --bg-color: #ffffff;
   --text-color: #000000;
@@ -18,9 +22,20 @@ body {
   background-color: var(--bg-color);
   color: var(--text-color);
   font-family: Arial, sans-serif;
-  padding-top: 100px;
+  padding: 100px 0 0 0; /* ELIMINAR POSIBLE LINEA AZUL EN MOVIL */
   transition: background-color 0.3s, color 0.3s;
+  margin: 0; /* ELIMINAR POSIBLE LINEA AZUL EN MOVIL */
+  /* padding: 0; */ /* ELIMINAR POSIBLE LINEA AZUL EN MOVIL */
 }
+
+/* html { /* ELIMINAR POSIBLE LINEA AZUL EN MOVIL 
+  margin: 0;
+  padding: 0;
+} */
+
+/*h1,h2,h3,h4,h5,h6{ /* ELIMINAR POSIBLE LINEA AZUL EN MOVIL 
+  margin:0;
+} */
 
 .cortinilla-content {
   display: none;
@@ -78,7 +93,7 @@ h2 {
   width: 100%;
   background: var(--card-bg);
   z-index: 1000;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* ELIMINAR TEMPORALMENTE PARA DESCUBRIR LINEA AZUL DE MOVIL*/
   display: flex;
   flex-direction: column;
 }
@@ -96,7 +111,7 @@ h2 {
   justify-content: space-between;
   align-items: center;
   height: 55px;
-  margin-top: 10px;
+  margin-top: 9px;
 }
 
 .app-title {
@@ -181,8 +196,9 @@ button {
 }
 
 .pregunta-buttons-container {
+  overflow: hidden;
   display: flex;
-  background-color: #0077cc57;
+  background-color: #0077cc;/*0077cc57 ELIMINADO TRANSPARENCIA TEMPORALMENTE PARA AVERIGUAR LINEA AZUL DE MOVIL*/
   color: var(--btn-text);
   border: none;
   border-radius: 8px;
