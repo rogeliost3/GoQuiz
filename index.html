@@ -48,11 +48,8 @@ Convertirla en APK instalable -->
       <div class="menu-left">
         <input type="file" id="jsonFile" accept=".json" style="display:none" />
 
-        <button id="cargarJSONBtn" onclick="document.getElementById('jsonFile').click()">
-          Cargar preguntas
-        </button>
-
-        <button id="resetAllBtn">RESET-ALL</button>
+        <button id="cargarJSONBtn" onclick="document.getElementById('jsonFile').click()">Cargar preguntas</button>
+        <button id="resetAllBtn">Reset All</button>
       </div>
 
       <!-- DERECHA (marcador + brillo) -->
@@ -73,24 +70,25 @@ Convertirla en APK instalable -->
 
   </div>
 
-  <p id="mensajeJSON"><br>Selecciona tu archivo JSON para cargar las preguntas. 
+  <pre id="mensajeJSON"><br>
+  Selecciona tu archivo JSON para cargar las preguntas. 
     Debe tener esta estructura:
     {"Titulo exámen": [
       {
-          "texto": "1. texto de la pregunta",
-          "opciones": [
-              "A) Opción 1",
-              "B) Opción 2.",
-              "C) Opción 3.",
-              ...
-              "X) Opción n."
-          ],
-          "respuesta": "C) Opcion 3.",  # debe ser igual al texto correcto en la sección "opciones"
-          "referencia": "Libro, Modulo, Unidad, Apartado, titulo, pág.",
-          "explicacion": "Texto de la explicación y/o cita del texto original"
+        "texto": "1. texto de la pregunta",
+        "opciones": [
+          "A) Opción 1",
+          "B) Opción 2.",
+          "C) Opción 3.",
+          ...
+          "X) Opción n."
+        ],
+        "respuesta": "C) Opcion 3.", # debe ser igual
+        "referencia": "Libro, Unidad, Aptdo, pág...",
+        "explicacion": "Explicación de la respuesta"
       },
 ...
-.</p>
+  </pre>
 
   <div id="contenido"></div>
 
