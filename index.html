@@ -25,7 +25,7 @@ Convertirla en APK instalable -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>GoQuiz - Prácticas Gamificadas</title>
-  <link rel="icon" href="GoQuiz.png" type="image/png" />
+  <link rel="icon" href="./assets/GoQuiz.png" type="image/png" />
   <link rel="manifest" href="manifest.json" />
   <link rel="stylesheet" href="./styles.css" />
 </head>
@@ -35,7 +35,7 @@ Convertirla en APK instalable -->
 
     <!-- FILA SUPERIOR -->
     <div class="menu-top">
-      <h2 class="app-title">GoQuiz</h2>
+      <h2 class="app-title"><img src="./assets/GoQuiz-tiny.png"/></h2>
       <div id="fileName" class="file-name">
         Sin archivo
       </div>
@@ -73,7 +73,24 @@ Convertirla en APK instalable -->
 
   </div>
 
-  <p id="mensajeJSON"><br>Selecciona tu archivo JSON para cargar las preguntas.</p>
+  <p id="mensajeJSON"><br>Selecciona tu archivo JSON para cargar las preguntas. 
+    Debe tener esta estructura:
+    {"Titulo exámen": [
+      {
+          "texto": "1. texto de la pregunta",
+          "opciones": [
+              "A) Opción 1",
+              "B) Opción 2.",
+              "C) Opción 3.",
+              ...
+              "X) Opción n."
+          ],
+          "respuesta": "C) Opcion 3.",  # debe ser igual al texto correcto en la sección "opciones"
+          "referencia": "Libro, Modulo, Unidad, Apartado, titulo, pág.",
+          "explicacion": "Texto de la explicación y/o cita del texto original"
+      },
+...
+.</p>
 
   <div id="contenido"></div>
 

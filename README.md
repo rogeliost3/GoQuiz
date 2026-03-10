@@ -1,8 +1,9 @@
-# ![Logo](./GoQuiz-tiny.png) GoQuiz
+# ![Logo](./assets/GoQuiz-tiny.png)
 
-### Aplicación desarrollada para Test de aeronáutica pero que sirve para cualquier tipo de exámen tipo test.
+### Aplicación desarrollada para hacer Test de todo tipo, cualquier número de preguntas y en archivos json.
 
 #### Sept 2025 - Rogelio Suárez Tejera. 
+##### v.3 Marzo 2026.
 
 
 ### Manual de uso
@@ -21,31 +22,33 @@
 - Filosofía de "cuanto mas simple mas útil": El usuario puede reiniciar el exámen cuando quiera usando 
   para ello el boton RESET-ALL, que reactiva todas las preguntas y pone marcadores a 0. Tambien puede 
   responder cualquier número de veces hasta acertar la pregunta, que es cuando se desactivará. 
-  Aún así, si se quiere simular un exámen real se puede dejar la pregunta mal respondida si se desea, y esta 
-  se contabilizará como errónea en el marcador. Solo es cuestión de ser honesto con uno mismo mientras no 
-  exista modo "exámen".
+  Aún así, si se quiere simular un exámen real, hasta que no se implemente el modo exámen, se puede dejar 
+  la pregunta mal respondida si se desea, y esta se contabilizará como errónea en el marcador. 
 
 - En el JSON, si en cada pregunta se incluyen los apartados "referencia" y "explicacion",
   entonces se hará visible el botón "Ver detalle" en cada tarjeta de preguntas, y que sirve para mostrar 
   la referencia al texto fuente original y la explicación que se haya incluido. Lo que ayuda a memorizar 
   en el mismo momento.
 
-- Ni el boton REDO ni NEW ROUND tienen funcionalidad aún.
-
 - Posibilidad de cambiar entre modos claro y oscuro.
 
-
 ### TO-DOs: 
-- Mas adelante es posible que se incluya un modo exámen donde se eliminen las opciones de ver 
-  la explicación, resetear el exámen, así como un contador de tiempo, y un cálculo de puntuación 
-  en base a reglas personalizables.
+- Crear un menu con todas las opciones de botones, replegable de hamburguesa, y eliminar las opciones mediante botones.
 
-- Darle funcionalidad al boton REDO, para reactivar de nuevo una pregunta ya respondida correctamente.
+- Crear opciones Ayuda, Acerca, Privacidad, Legal.
 
-- Darle funcionalidad al boton NEW ROUND, para iniciar una nueva ronda del test que descartará las preguntas
-  que se acertaron a la primera en la ronda anterior.
+- Incluir un modo exámen donde se eliminen las opciones de ver la explicación, resetear el exámen, así 
+  como un contador de tiempo, y un cálculo de puntuación en base a reglas personalizables.
 
-- Cambiar el modo de funcionamiento de test a tarjetas de memorización, con la pregunta por un lado y la respuesta por el otro.
+- Crear opcion "Reactivar pregunta", para reactivar de nuevo una pregunta ya respondida correctamente.
+
+- Crear un boton "Marcar facil", para marcar preguntas demasiado faciles y que no salgan en una nueva ronda del test.
+
+- Crear un boton "Reiniciar ronda dificiles", para reiniciar una nueva ronda del examen, limpiando las respuestas y marcadores,
+  pero dejando el array faciles intacto.
+
+- Crear boton "Exportar json dificiles", para crear un nuevo json solo con las preguntas que no han sido marcadas como faciles.
+
 
 
 ## Formato del JSON:

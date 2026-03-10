@@ -12,7 +12,6 @@ body.dark {
   --btn-bg: #3399ff;
   --btn-text: #000000;
   --card-bg: #192c46;
-
 }
 
 body {
@@ -71,11 +70,8 @@ h2 {
   position: fixed;
   top: 0;
   left: 0;
-  width: 98%;
+  width: 100%;
   background: var(--card-bg);
-  padding: 10px;
-  margin: 0px;
-  border-radius: 0 8px;
   z-index: 1000;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
   display: flex;
@@ -94,17 +90,22 @@ h2 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 6px;
+  height: 55px;
 }
 
-.app-title {
-  margin: 0;
+.app-title{
+  margin:0;
+  height:50px;
+  display:flex;
+  align-items:center;
 }
 
-.file-name {
-  font-size: 0.9em;
-  opacity: 0.8;
-  margin-right: 6px;
+.app-title img{
+  height: 100%;
+  width: auto;
+  display: block;
+  margin: 0px 0 0 5px;
+  border-radius: 10px;
 }
 
 /* FILA INFERIOR */
@@ -136,6 +137,10 @@ button {
   margin: 4px;
   border-radius: 5px;
   cursor: pointer;
+}
+
+#contenido {
+  margin-top:15px;
 }
 
 .correcto {
@@ -178,6 +183,10 @@ button {
   cursor: pointer;
   margin-top: 10px;
   justify-content: space-between;
+}
+
+#fileName {
+  margin-right:10px;
 }
 
 #progressBarContainer{
